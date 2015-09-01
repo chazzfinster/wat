@@ -1,0 +1,12 @@
+[CRAFTS]
+craft armoring-robotic subcraft ordinary-fabric-coverings command sew
+  fail: 12007 12007 12007 12007 12007 12007 12007 12007 12007 12007 12007 12007 12007 12007 12007 12007 12007 12007 12007 12007
+  ic_delay: 2
+ opening: 36
+  phase
+    1st:  You unroll a portion of $1, laying out $2 upon it to begin working on the pattern.
+    3rd:  $n unrolls a portion of $1, laying out $2 upon it.
+      t:  10
+
+      1:  (sampled x60 11014 11004 11008)
+      2:  (held 8126)

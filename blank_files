@@ -1,0 +1,21 @@
+#!/bin/bash
+
+LIMIT=98  # Upper limit
+
+echo
+echo "Printing Numbers 1 through 20 (but not 3 and 11)."
+
+a=0
+
+while [ $a -le "$LIMIT" ]
+do
+ a=$(($a+1))
+
+ cp rooms.1 rooms.$a
+ cp objs.1 objs.$a
+ cp mobs.1 mobs.$a
+ cp resets.1 resets.$a
+
+ echo -n "$a "
+done 
+

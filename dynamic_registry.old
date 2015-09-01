@@ -1,0 +1,64 @@
+newclanname secops secops
+newclanname new group
+clandef adult_consent 0 "Adult Consent" 0 0 0
+clandef anarchs 0 "The Revolutionary Army" 0 0 0
+clandef anarch_debtor 0 "Debtors to the Anarch Family (Owned)" 0 0 0
+clandef anaxios 0 "The Anaxios" 0 0 0
+clandef andelle_general 0 "Andelle General Store and Tech Repair" 0 0 0
+clandef arena 56 "The Grungetown Arena" 0 0 0
+clandef arena_blue 0 "Arena Team Blue" 0 0 0
+clandef arena_red 0 "Arena Team Red" 0 0 0
+clandef burlesque 0 "Burlesque Performers" 0 0 0
+clandef burlesque-vip 0 "Burlesque VIP" 0 0 0
+clandef buzzardbeaker 55 "Staff of Buzzards Beaker" 0 0 0
+clandef cockroaches 64 "Masses of Cockroaches" 0 0 0
+clandef coyotes 0 "The Coyotes" 0 0 0
+clandef crawling-vines 0 "The Crawling Vine Species" 0 0 0
+clandef deaths-heads 0 "The Deaths Heads" 0 0 0
+clandef dom_dogs 0 "Domestic Dogs" 0 0 0
+clandef drugs 0 "Syndicate of the Morally Ambiguous" 0 0 0
+clandef drugs_flavorings_chemicals 0 "Drugs, Flavorings, and Chemical Compounds Shop" 0 0 0
+clandef fixed 0 "Fixed Findings" 0 0 0
+clandef funky 0 "Funkys Goon Squad" 0 0 0
+clandef golden_touch 55 "The Golden Touch" 0 0 0
+clandef graneguard 0 "Guard of Granes" 0 0 0
+clandef grungetown 0 "SBS Atlas Crew" 0 0 0
+clandef guest-undead 0 "Guest Room Undead Horde" 0 0 0
+clandef holding-four 0 "some disorganized rabble" 0 0 0
+clandef hosted-terror 0 "The Hosted Terrors" 0 0 0
+clandef indiecomm 0 "The Snakes" 0 0 0
+clandef isoscreen 0 "Isoscreen Clanning" 0 0 0
+clandef jade_tech 0 "Jade Tech and Gadgets" 0 0 0
+clandef junkyard_barkers 0 "Junkyard Barker Pack" 0 0 0
+clandef mars_nation 90 "Nation of Mars" 0 0 0
+clandef medbay 0 "Atlas Medical Bay Staff" 0 0 0
+clandef mickmarauders 0 "Marauders of Mick" 0 0 0
+clandef misfits 0 "The Misfits" 0 0 0
+clandef nangongtheatre 0 "The Nangong Theatre" 0 0 0
+clandef naturi 0 "Naturi Shop" 0 0 0
+clandef neoatzlan 0 "Neo-Atzlan" 0 0 0
+clandef phoenix 0 "Research" 0 0 0
+clandef phoenixenforce 54 "New Phoenix Enforcer" 0 0 0
+clandef rabble 0 "some disorganized rabble" 0 0 0
+clandef rannravens 0 "Ravens of Rann" 0 0 0
+clandef red_armory 0 "The Red Armory Shop" 0 0 0
+clandef rogerstein 0 "The Rogersteins" 0 0 0
+clandef shadows 0 "The Shadows" 0 0 0
+clandef stilettos 0 "The Stilettos" 0 0 0
+clandef survivor 0 "The Survivors" 0 0 0
+clandef test_npcs 0 "Test NPCs" 0 0 0
+clandef the_flame 0 "The Flame Radio Station" 0 0 0
+clandef tinheads 0 "Tinheads" 0 0 0
+clandef tlrpt 0 "TimeLine RPT" 0 0 0
+clandef vultures 0 "The Vultures" 0 0 0
+clandef westside 0 "Westside Alliance" 0 0 0
+clandef wilmbuss 0 "Wilmington Business Branch" 0 0 0
+clandef wilmenforce 66 "Wilmington Enforcement Squad" 0 0 0
+clandef wilmenforce2 67 "Wilmington Enforcer - Area 2" 0 0 0
+clandef wilmenforce3 56 "Wilmington Enforcer - Area 3" 0 0 0
+clandef wilmguard 0 "Wilmington Guard" 0 0 0
+clandef wilmingtons 0 "The Wilmington Family" 0 0 0
+clandef wilmleader 0 "Wilmington Leadership" 0 0 0
+clandef wilmsecurity 0 "Wilmington Security" 0 0 0
+clandef wilmtech 0 "Wilmington Technology Branch" 0 0 0
+clandef worms 53 "Phylum Analid" 0 0 0

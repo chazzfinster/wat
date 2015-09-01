@@ -1,0 +1,228 @@
+#99000
+frame disassembled $rifleframe1 $metalcolor2 METAL~
+a disassembled, $metalcolor2, $rifleframe1 frame~
+A disassembled, $metalcolor2, $rifleframe1 frame lies here.~
+These are the disassembled $ironalloy-alloy workings of $rifleframe. $metalcolor
+~
+12 33558528 1
+0 0 0 0
+200 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99001
+case gunsmithing $plasticcolor case tools METAL~
+a $plasticcolor case of gunsmithing tools~
+a $plasticcolor case of gunsmithing tools rests on the floor.~
+   This metal tool case - $plasticcolor in color - is filled with 
+the essential tools of a gunsmith. It includes instruments for 
+fine metalwork, rifling barrels, working plastic grips, and 
+adjusting the delicate mechanics within a gun's workings. 
+~
+64 33558528 8388609
+300 5 10 30
+1000 0.000000
+0 0 28 0 0 0 0 1
+60.000000 0 0 0 0 0 0
+God~
+God~
+#99002
+mechanisms gun high-quality internal handful METAL~
+a handful of high-quality internal gun mechanisms~
+A handful of high-quality internal gun mechanisms lies here.~
+   Manufactured of $ironalloy-alloy, these are internal gun 
+mechanisms suitable for refurbishing various gun-types. They are 
+of high-quality manufacture, free from defect. 
+~
+30 33558528 1
+5 0 1 0
+100 0.000000
+0 0 0 0 0 262144 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99003
+barrel rifle $riflebarrel $riflecaliber METAL~
+a $riflebarrel $riflecaliber rifle barrel~
+A $riflebarrel $riflecaliber rifle barrel lies here.~
+This is a $riflebarrel $riflecaliber rifle barrel.  It is newly manufactured, having never been used.
+~
+12 33558528 1
+0 0 0 0
+400 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99004
+stock rifle $color0 $riflegrip1 $polyprop3 grip PLASTIC~
+a $color0 $riflegrip1 rifle stock~
+A $color0 $riflegrip1 rifle stock lies here.~
+   This $color rifle stock is of a $riflegrip style. It is 
+$goodquality, made of $polyprop. 
+~
+12 33558528 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99005
+rifle $rifleframe1 $riflebarrel2 $riflecaliber3 $metalcolor7 gun METAL~
+a $riflebarrel2, $metalcolor7 $riflecaliber3 $rifleframe1~
+A $riflebarrel2, $metalcolor7 $riflecaliber3 $rifleframe1 lies here.~
+   Made of $ironalloy-alloy, this is $rifleframe, with a $riflebarrel 
+$riflecaliber barrel. It is good quality, with $riflegrip made of $color 
+$polyprop and $metalcolor. 
+~
+28 33624064 8921089
+3 9 0 12
+700 0.000000
+0 0 0 0 1000 131072 0 1
+400.000000 0 0 0 0 0 0
+A
+10012 0
+God~
+God~
+#99006
+frame disassembled $pistolframe1 $metalcolor2 METAL~
+a disassembled, $metalcolor2, $pistolframe1 frame~
+A disassembled, $metalcolor2, $pistolframe1 frame lies here.~
+These are the disassembled $ironalloy-alloy workings of $pistolframe. $metalcolor
+~
+12 33558528 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99007
+mechanisms gun crude internal handful METAL~
+a handful of crude internal gun mechanisms~
+A handful of crude internal gun mechanisms lies here.~
+   Manufactured of $ironalloy-alloy, these are manually-shaped 
+internal gun mechanisms suitable for refurbishing various 
+gun-types. Hand-forged, they are crude, but serviceable. 
+~
+30 33558528 1
+5 0 1 0
+100 0.000000
+0 0 0 0 0 128 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99008
+barrel handgun refurbished $pistolbarrel $pistolcaliber METAL~
+a refurbished $pistolbarrel $pistolcaliber handgun barrel~
+A refurbished $pistolbarrel $pistolcaliber handgun barrel lies here.~
+This is a $pistolbarrel $pistolcaliber refurbished handgun barrel.
+~
+12 33558528 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99009
+barrel handgun $pistolbarrel $pistolcaliber METAL~
+a $pistolbarrel $pistolcaliber handgun barrel~
+A $pistolbarrel $pistolcaliber handgun barrel lies here.~
+This is a $pistolbarrel $pistolcaliber handgun barrel.  It is newly manufactured, having never been used.
+~
+12 33558528 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99010
+grip handgun $wornquality2 $color0 $pistolgrip1 $polyprop3 PLASTIC~
+a $wornquality2 $color0 $pistolgrip1 handgun grip~
+A $wornquality2 $color0 $pistolgrip1 handgun grip lies here.~
+   This $color handgun grip is of a $pistolgrip style. It has 
+seen significant previous use and is $wornquality, made of 
+$polyprop. 
+~
+12 33558528 1
+0 0 0 0
+50 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99011
+grip handgun $color0 $pistolgrip1 $polyprop3 PLASTIC~
+a $color0 $pistolgrip1 handgun grip~
+A $color0 $pistolgrip1 handgun grip lies here.~
+   This $color handgun grip is of a $pistolgrip style. It is 
+$goodquality, made of $polyprop. 
+~
+12 33558528 1
+0 0 0 0
+50 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99012
+handgun $pistolframe1 $pistolbarrel2 $pistolcaliber3 $metdam7 gun METAL~
+a $pistolbarrel2, $metdam7 $pistolcaliber3 $pistolframe1~
+A $pistolbarrel2, $metdam7 $pistolcaliber3 $pistolframe1 lies here.~
+   Made of $ironalloy-alloy, this is $pistolframe, with a 
+$pistolbarrel $pistolcaliber refurbished barrel. Though worn and 
+scratched, it has $pistolgrip made of $color $polyprop. Of 
+particularly poor quality is the $metdam metal, looking to have 
+been extensively recycled and refurbished. 
+~
+28 33624064 270337
+2 9 0 11
+400 0.000000
+0 0 2 0 900 128 0 1
+200.000000 0 0 0 0 0 0
+A
+10011 -5
+God~
+God~
+#99013
+bundle tent supplies TEXTILE~
+a bundle of tent supplies~
+A bundle of tent supplies has been dropped here.~
+   Crafted poles are wrapped up in a canvas package, rolled together to make 
+this item portable. Hefty in weight, carrying of this item is made somewhat 
+easier by a pair of padded straps sewn into one side of the thick cylinder. 
+~
+12 4096 1
+0 0 0 0
+3000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99014
+large black coarse tent magnon poles TEXTILE~
+a large coarse black tent~
+Erected here is a large black tent, fashioned of coarse polymesh and magnon poles.~
+   Erected with care, this wide-open coarse black tent stands tall, held aloft 
+on several magnon poles in a square framework with an arched 'roof'. The 
+design is simple, draped fabric acting as a canvas to keep out the elements and 
+offer some vague sense of privacy. A flap has been cut into the canvas on each 
+of three sides of this construct and when drawn aside like curtains, the 
+resulting holes work as makeshift windows to assist in air circulation. The 
+fourth side has been split down the center. Should one wish, they could 
+#6ENTER#0 the #6TENT#0 by brushing aside that front flap. All in all, the tent 
+appears capable of fitting several people within and has the height to allow 
+all but the tallest to enter without stooping. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+$~

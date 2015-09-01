@@ -1,0 +1,277 @@
+#44
+ticket small number paper~
+a small ostler's ticket~
+A small paper ticket with a number is here.~
+~
+44 0 1
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#575
+ticket small paper merchandise~
+a small merchandise ticket~
+A small merchandise ticket has been carelessly left here.~
+~
+67 0 1
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#45
+head~
+a head~
+A head is here.~
+~
+45 0 16385
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#46
+corpse~
+a corpse~
+A corpse is here.~
+~
+15 0 1
+0 0 0 0
+1000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#195
+statue~
+a remarkably lifelike statue~
+A remarkably lifelike statue looms here.~
+~
+15 0 0
+0 0 0 0
+1000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#1
+METAL pistol~
+a big fucking pistol~
+a big fucking pistol is here.~
+~
+28 1536 8193
+1 16384 5 11
+400 0.000000
+0 0 -2 0 1200 262144 0 1
+1600.000000 0 0 0 0 0 0
+A
+10000 5
+A
+10001 5
+A
+10002 5
+A
+10003 5
+A
+10004 5
+A
+10007 5
+A
+10010 5
+A
+10011 5
+God~
+God~
+#2
+object generic~
+a pistol magazine~
+Some careless admin has left a generic object here.~
+~
+37 0 1
+12 12 5 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#3
+METAL round rounds~
+a .45 caliber pistol round~
+a .45 caliber pistol round~
+~
+31 0 1
+0 0 5 0
+100 0.000000
+3 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#4
+METAL board~
+a board for updates~
+a board for updates~
+~
+22 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#5
+jacket~
+a leather jacket~
+a heavy leather jacket~
+~
+9 0 1073741825
+3 0 0 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#6
+bag~
+a rather large bag~
+a large brown bag lies here~
+~
+15 0 1
+100 0 -1 0
+300 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10
+METAL component~
+a trap component~
+a trap component~
+~
+4 0 1
+15 0 0 0
+100 0.000000
+0 0 0 0 0 131072 0 1
+0.000000 0 0 0 0 0 0
+T
+17 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+God~
+God~
+#12
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+3 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#15
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+3 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#16
+METAL trigger~
+a trigger~
+a trigger~
+~
+4 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 2 131072 0 1
+0.000000 0 0 0 0 0 0
+T
+529 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+(null)~
+(null)~
+~
+(null)~
+(null)~
+(null)~
+God~
+God~
+#100
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+3 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#101
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+4 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#20
+METAL component~
+a trap component~
+a trap component~
+~
+3 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 131072 0 1
+0.000000 0 0 0 0 0 0
+T
+9 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+God~
+God~
+#999
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+3 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 131072 0 1
+0.000000 0 0 0 0 0 0
+T
+25 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+(null)~
+(null)~
+~
+(null)~
+(null)~
+(null)~
+God~
+God~
+$~

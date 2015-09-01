@@ -1,0 +1,997 @@
+#0
+Heaven~
+You are in heaven.
+~
+0 65792 0
+0
+S
+#1
+Warehouse Hangout~
+This is a pretty standard hangout spot, bitch.
+~
+0 65792 0
+0
+D0
+~
+~
+0 -1  0 7
+D1
+~
+~
+0 -1  0 2
+D2
+~
+~
+0 -1  0 6
+D3
+~
+~
+0 -1  0 10
+S
+#2
+New Room~
+No Description Set.
+~
+0 65792 0
+0
+D0
+~
+~
+0 -1  0 8
+D1
+~
+~
+0 -1  0 3
+D2
+~
+~
+0 -1  0 5
+D3
+~
+~
+0 -1  0 1
+S
+#3
+Arena Entrance~
+Putting an arena here, bitch.
+~
+0 65792 0
+0
+D0
+~
+~
+0 -1  0 9
+D2
+~
+~
+0 -1  0 4
+D3
+~
+~
+0 -1  0 2
+S
+#4
+New Room~
+No Description Set.
+~
+0 65792 0
+0
+D0
+~
+~
+0 -1  0 3
+D3
+~
+~
+0 -1  0 5
+S
+#5
+New Room~
+No Description Set.
+~
+0 65792 0
+0
+D0
+~
+~
+0 -1  0 2
+D1
+~
+~
+0 -1  0 4
+D3
+~
+~
+0 -1  0 6
+S
+#6
+New Room~
+No Description Set.
+~
+0 65792 0
+0
+D0
+~
+~
+0 -1  0 1
+D1
+~
+~
+0 -1  0 5
+S
+#7
+New Room~
+No Description Set.
+~
+0 65792 0
+0
+D1
+~
+~
+0 -1  0 8
+D2
+~
+~
+0 -1  0 1
+S
+#8
+New Room~
+No Description Set.
+~
+0 65792 0
+0
+D1
+~
+~
+0 -1  0 9
+D2
+~
+~
+0 -1  0 2
+D3
+~
+~
+0 -1  0 7
+S
+#9
+New Room~
+No Description Set.
+~
+0 65792 0
+0
+D2
+~
+~
+0 -1  0 3
+D3
+~
+~
+0 -1  0 8
+S
+#10
+Warehouse Armory~
+GET YA WEAPONS HERE YA CUNT
+~
+0 65792 0
+0
+D1
+~
+~
+0 -1  0 1
+S
+#102
+Eastern Gateway~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 120
+D1
+~
+gate~
+3 -1  0 139
+S
+#106
+Along the Southern Perimeter~
+Huge windows line this section of the warehouse's southern wall, flooding the building with natural light despite the dirt covering much of the glass.  Little smiles, hearts, initials, and the odd dick are traced through the grime up to head height.  Higher up, a few panes are cracked and some missing entirely, though each has been carefully repaired with cardboard squares and peeling, yellowed tape.  Opposite the windows, huge pillars covered in chipped, off-white paint provide structural support to the warehouse and create a sort of pathway leading west along the wall of windows.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 100
+D3
+~
+~
+0 -1  0 107
+S
+#107
+Along the Southern Perimeter~
+107: Jagged edged sheet metal has been welded over the bottom two thirds of the windows along the exterior wall of the warehouse, leaving a single row of panes above to bring in some light from outside.  A single work of art covers the entirety of the metal, depicting a lush, green path through a red poppy field in bloom, the forced perspective pulling the viewer deeper into the painting. The flowers spill from the work, down the wall and across the floor, petals covering the cement underfoot.  Stacks of half-rotten wooden pallets block off the rest of the warehouse, creating a corridor to the west and east.
+~
+0 65536 0
+0
+D1
+~
+~
+0 -1  0 106
+D3
+~
+~
+0 -1  0 108
+S
+#108
+A Hallway Leading to a Docking Port~
+The exposed brick of the hallway here is in disrepair, the mortar chipped and crumbling, leaving white-grey dust and debris across the floor.  A couple of rusted, small circular vents have been sunk into the exterior wall, opened just enough to allow some air-transfer between the musty warehouse and the outside.  Water stains stretch down from these vents, coloring the brick a darker rusty brown in some places, a sludgy green in others where some sort of fungus has managed to take hold. 
+~
+0 65536 0
+0
+D1
+~
+~
+0 -1  0 107
+D3
+~
+~
+0 -1  0 109
+S
+#109
+Southern Docking Port~
+No Description Set.
+~
+0 65536 0
+0
+D1
+~
+~
+0 -1  0 108
+D2
+~
+gate~
+3 -1  0 137
+S
+#118
+Western Gateway~
+The perimeter comes to a stop here, with the gateway being the last
+defense from the wastes outside. It's makeshift and shoddy, composing
+mostly of welded together sheet metal. The gate is flanked by two guard
+towers, lightly armored to allow some level of protection for those within.
+The gate molds back into the fortified walls of the perimeter, which runs
+northwards, and would appear to be noticeably more thick and durable
+than the gate. 
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 119
+D3
+~
+gate~
+3 -1  0 138
+S
+#119
+Northwest Corner of the Perimeter~
+The perimeter walls form a corner at this point, marking it as the most
+northwestern area of the warehouse. The walls are well fortified, overlapping
+sheets of metal have been welded together to keep out the harsh weather
+and any hopeful intruders. The occasional holes do marr the face of the walls,
+giving a glimpse of the desolate desert wastelands outside the walls.
+A gateway is seen just to the south, and the perimeter continues on eastwards,
+a small path that leads into the center of the warehouse.
+~
+0 65536 0
+0
+D1
+~
+~
+0 -1  0 135
+D2
+~
+~
+0 -1  0 118
+S
+#120
+Along the Eastern Perimeter~
+No Description Set.
+~
+0 65536 0
+0
+D2
+~
+~
+0 -1  0 102
+D3
+~
+~
+0 -1  0 110
+S
+#128
+Northern Gateway~
+No Description Set.
+~
+0 65536 0
+0
+T0
+~
+gate~
+3 -1  0 136
+D3
+~
+~
+0 -1  0 129
+S
+#129
+Along the Northern Perimeter~
+No Description Set.
+~
+0 65536 0
+0
+D1
+~
+~
+0 -1  0 128
+D2
+~
+~
+0 -1  0 147
+S
+#134
+A Bend along the perimeter~
+No Description Set.
+~
+0 65536 0
+0
+D2
+~
+~
+0 -1  0 111
+D3
+~
+~
+0 -1  0 135
+S
+#135
+Along the Northern Perimeter~
+No Description Set.
+~
+0 65536 0
+0
+D1
+~
+~
+0 -1  0 134
+D3
+~
+~
+0 -1  0 119
+S
+#136
+New Room~
+No Description Set.
+~
+0 65536 0
+0
+D2
+~
+~
+0 -1  0 128
+S
+#137
+New Room~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 109
+S
+#138
+New Room~
+No Description Set.
+~
+0 65536 0
+0
+D1
+~
+~
+0 -1  0 118
+S
+#139
+New Room~
+No Description Set.
+~
+0 65536 0
+0
+D3
+~
+~
+0 -1  0 102
+S
+#100
+Past Some Broken Shelves~
+This narrow walkway is lined by what looks to be old shelving units, the steel framework stretching at least fifteen feet high.   Rust completely covers the structure, and the particle board shelves are rotted out or otherwise missing.  A narrow ladder is connected along a track to one side of the shelves, but this too has decayed, leaving half of the rungs missing.  A crusty, thick swath of dingy red paint is splattered across the cement floor, and old, now dry footprints in red leave a trail through the area.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 101
+D2
+~
+~
+0 -1  0 106
+S
+#101
+A Crate-lined Intersection~
+Plastic crates are piled up on all sides with barely enough space to pass by, the stacks reaching far above the average person's head.   They range in size, though all much too large to move, and seem to be filled with a mixture of packing peanuts, scraps of plastic sheeting, and cardboard.  Various tags and graffiti mark the crates on either side, a myriad of names and crude drawings, mostly black and all quite faded.  Along the floor, traces of red footprints can be seen, fading away if one were to head north or east.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 121
+D1
+~
+~
+0 -1  0 103
+D2
+~
+~
+0 -1  0 100
+S
+#103
+New Room~
+No Description Set.
+~
+0 65536 0
+0
+D1
+~
+~
+0 -1  0 104
+D3
+~
+~
+0 -1  0 101
+S
+#104
+A Crate-Walled Section of the Warehouse~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 123
+D1
+~
+~
+0 -1  0 105
+D3
+~
+~
+0 -1  0 103
+S
+#105
+A Crate-Walled Section of the Warehouse~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 122
+D1
+~
+~
+0 -1  0 110
+D3
+~
+~
+0 -1  0 104
+S
+#110
+A Crate-Lined Hallway~
+No Description Set.
+~
+0 65536 0
+0
+D1
+~
+~
+0 -1  0 120
+D3
+~
+~
+0 -1  0 105
+S
+#121
+Outside some Makeshift Showers~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 140
+D2
+~
+~
+0 -1  0 101
+S
+#140
+A Makeshift Bar and Lounge~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 141
+D2
+~
+~
+0 -1  0 121
+S
+#141
+A Bleacher-filled Auditorium~
+What appears to be some sort of auditorium, this section of the warehouse
+has been cleared from most of the general shipping crates and industrial shelves that
+take up most of the accessible areas. Instead, sheet metal bleachers have
+been erected in a square, offering seating for quite a few. In the center of
+the square, a small platform has been erected, a foot or so higher than
+the surrounding ground. The bleachers would appear to be bolted
+down, and the metal has certainly lost its sheen to the every present
+rust that's eaten away at much of the warehouse metal.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 142
+D2
+~
+~
+0 -1  0 140
+S
+#142
+A Makeshift Kitchen~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 143
+D2
+~
+~
+0 -1  0 141
+S
+#143
+A Shelf-lined Path Beside the Mess Hall~
+No Description Set.
+~
+0 65536 0
+0
+D2
+~
+~
+0 -1  0 142
+D3
+~
+~
+0 -1  0 144
+S
+#144
+A Shelf-Lined Hallway~
+No Description Set.
+~
+0 65536 0
+0
+D1
+~
+~
+0 -1  0 143
+D3
+~
+~
+0 -1  0 145
+S
+#145
+An intersection by the Warehouse Storage~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 111
+D1
+~
+~
+0 -1  0 144
+D2
+~
+~
+0 -1  0 112
+S
+#111
+A Thinly-walled hallway~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 134
+D2
+~
+~
+0 -1  0 145
+S
+#112
+A weapon and gun room~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 145
+D2
+~
+~
+0 -1  0 113
+S
+#113
+A Clothing and Armor Room~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 112
+D2
+~
+~
+0 -1  0 114
+S
+#114
+A Cable-filled Tech room~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 113
+D2
+~
+~
+0 -1  0 116
+D3
+~
+~
+0 -1  0 115
+S
+#115
+A Staircase to the Second Level~
+No Description Set.
+~
+0 65536 0
+0
+D1
+~
+~
+0 -1  0 114
+D4
+~
+~
+0 -1  0 117
+S
+#116
+A Shoddy Greenhouse~
+This greenhouse area has been quartered off from the general
+warehouse spaces. It's quite a change in scenery, with the lack of large
+shipping crates, or tall shelves. Instead, plexiglass covers the area from
+any outside elements. The walls and ceiling are clear enough, though
+it would seem as though this is close to the center of the warehouse, no
+real view being given of the surround wasteland. A good view of the sky 
+above is visible, though, giving any growing plantlife access to the harsh
+sunlight.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 114
+S
+#117
+New Room~
+No Description Set.
+~
+0 65536 0
+0
+D5
+~
+~
+0 -1  0 115
+S
+#122
+A Crate-Walled Section of the Warehouse~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 124
+D2
+~
+~
+0 -1  0 105
+D3
+~
+~
+0 -1  0 123
+S
+#123
+A Crate-Walled Section of the Warehouse~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 125
+D1
+~
+~
+0 -1  0 122
+D2
+~
+~
+0 -1  0 104
+S
+#124
+A Crate-Walled Section of the Warehouse~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 126
+D2
+~
+~
+0 -1  0 122
+D3
+~
+~
+0 -1  0 125
+S
+#125
+A Crate-Walled Section of the Warehouse~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 127
+D1
+~
+~
+0 -1  0 124
+D2
+~
+~
+0 -1  0 123
+S
+#126
+A Crate-Walled Section of the Warehouse~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 131
+D1
+~
+~
+0 -1  0 130
+D2
+~
+~
+0 -1  0 124
+D3
+~
+~
+0 -1  0 127
+S
+#127
+A Crate-Walled Section of the Warehouse~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 132
+D1
+~
+~
+0 -1  0 126
+D2
+~
+~
+0 -1  0 125
+S
+#130
+A Small Office~
+No Description Set.
+~
+0 65536 0
+0
+D3
+~
+~
+0 -1  0 126
+D5
+~
+~
+0 -1  0 148
+S
+#131
+A Crate-Walled Section of the Warehouse~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 133
+D2
+~
+~
+0 -1  0 126
+D3
+~
+~
+0 -1  0 132
+S
+#132
+A Crate-Walled Section of the Warehouse~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 146
+D1
+~
+~
+0 -1  0 131
+D2
+~
+~
+0 -1  0 127
+S
+#133
+A Crate-Walled Section of the Warehouse~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 147
+D2
+~
+~
+0 -1  0 131
+D3
+~
+~
+0 -1  0 146
+S
+#146
+A Crate-Walled Section of the Warehouse~
+No Description Set.
+~
+0 65536 0
+0
+D1
+~
+~
+0 -1  0 133
+D2
+~
+~
+0 -1  0 132
+S
+#147
+A Hallway Near the Northern Perimeter~
+No Description Set.
+~
+0 65536 0
+0
+D0
+~
+~
+0 -1  0 129
+D2
+~
+~
+0 -1  0 133
+S
+#148
+New Room~
+No Description Set.
+~
+0 65536 0
+0
+D4
+~
+~
+0 -1  0 130
+S
+#200
+New Room~
+No Description Set.
+~
+0 65536 0
+0
+D1
+~
+~
+0 -1  0 201
+S
+#201
+New Room~
+No Description Set.
+~
+0 65536 0
+0
+D3
+~
+~
+0 -1  0 200
+S
+$~

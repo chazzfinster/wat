@@ -1,1 +1,1125 @@
+#54000
+Atlas vaguely humanoid mountain machinery~
+a vaguely-humanoid mountain of machinery~
+A vaguely-humanoid mountain of machinery towers here.~
+   Roughly thirty feet tall and half that wide, this mountain is 
+a twisted cacophony of machinery - cogs, hydraulics, wires, and 
+bearing all mash together in an abomination of a machine. This 
+being roughly has two arms, two legs, a torso and a head, but so 
+mixed is the machinery that it is composed of that it is hard to 
+tell one from the other. Computer screens randomly dot the 
+surface of the torso, and the mash of electronics that make up 
+its arms have been covered with solid steel plates. Each hand 
+ends in five fingers, each one having been contructed from the 
+arm of a robot - this leads to a grotesque image, as the being's 
+fingers have fingers. Though the machinery appears to have been 
+thrown together haphazardly, it all appears to be in working 
+order; a loud humming emanates from somewhere deep within the 
+mound. Atop the torso - where the "head" would be - sits little 
+more than a solid block of metal. Across the surface of this 
+block someone has scrawled the words, "#1Who is John Galt?#0" in 
+thick, brown stains. 
+~
+402653194 4 54 8 20 5d1+140 2d10+4 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 35 0 0 0 2 0 0 0 0 0 0 0 0
+16 16 18 16 16 25 40 19
+0 0
+0 90 90 90 90 90 90 90 90 90
+90 90 90 90 90 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' survivor 'commander' atlas_junkyard~
+0 0 0
+#54001
+robot $robotdam $robotsize haphazardly fashioned robot ATLAS_COMPANION~
+a $robotsize, $robotdam, haphazardly-fashioned robot~
+A $robotsize, $robotdam, haphazardly-fashioned robot stands here.~
+   This $robotsize robot has clearly seen better days. Appearing 
+to be more a diverse, rushed composition of scrap junk - from 
+beaten pipes to battered sheet metal - this specimen clearly has 
+not been properly maintained or, for that matter, brought into 
+existence. Particularly, its aged metal frame is $robotdam. Its 
+circuits are clearly malfunctioning, the sound of faulty wires 
+common from beneath its rusted chassis. Its eyes yellowed and 
+fading eyes have been made from large discs of plastic with 
+aluminium mechanisms for the iris. 
+~
+268435466 4 36 8 7 5d1+120 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 0
+16 14 18 10 10 18 40 13
+268435456 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' survivor 'member' atlas_junkyard~
+0 0 0
+#54002
+Atlas golden skinned resplendent godlike physique Atlas hologram~
+#6a resplendent, golden man of godlike physique#0~
+#6Looming over all around is the form of a resplendent, golden man of godlike physique.~
+   For most areas, this figure would seem to tower scaled from 
+the floor to nearly scraping the ceiling. He is an enormous man 
+of mythical proportions, every detail of muscle outlined. 
+Perhaps for decency's sake, he is wearing a simple white wrap 
+around his hips. Devoid of hair, and any other colors than the 
+brilliant gold or white of the wrap, he resembles a statue come 
+to life. Only his eyes depart from this: they are inky black 
+like the night sky, lit with a multitude of starry lights. A 
+close watch would reveal there are flickers and inconsistencies 
+now and then, and a certain ethereal insubstantiality. 
+~
+134217738 0 46 0 15 5d1+140 3d10+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+25 16 16 16 16 25 40 16
+0 0
+0 80 10 0 0 0 80 40 0 70
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' survivor 'commander' atlas_junkyard~
+0 0 0
+#54003
+Luna gleaming woman white raiments brilliant hologram~
+#6a gleaming woman in brilliant, white raiments#0~
+#6A gleaming woman in brilliant, white raiments towers elegantly here.#0~
+   Standing tall and stately, of far greater height than any 
+human could believably muster, this is the very picture of 
+feminine serenity. A lithe, toned frame is all but hidden under 
+draping raiments of nearly eye blinding white. The skin of her 
+serene, classically defined face is a faintly gleaming silver in 
+color, with her eyes velvety black starlit orbs which match 
+tresses that cascade from an elegant knot at the crown of her 
+head. A faint halo spreads out from around her head, seeming 
+more a disc shape glittering at the edges of perception. She has 
+an ethereal, translucent quality, as if not truly present. 
+~
+134217738 0 48 0 15 5d1+140 3d10+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+25 16 16 16 16 25 40 16
+0 0
+0 90 10 0 0 0 80 40 0 70
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#54004
+spindle legged ultralight framed robot~
+a spindle-legged, ultralight framed robot~
+A spindle-legged, ultralight framed robot with a front-mounted $atlasweapontype.~
+   This robot has a high-quality manufactured soliplast frame, engineered to be 
+far lighter but equally as sturdy as standard grades. The frame has been 
+ruined throughout ages of neglect. Parts of its original $robotcolor painted 
+metal still cling to its frame, constructed from sharp-angled $robotdam panels. 
+Two broken alloy treads hang at its sides with four spindle-legs mounted to the 
+decayed frame. Set on its front is a $atlasweapontype. 
+~
+8 0 24 0 5 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+13 16 15 16 16 15 40 13
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#54005
+$robotcolor humanoid ATLAS civil defense robot~
+a $robotdam, humanoid civil-defense robot~
+A $robotdam, humanoid civil-defense robot stands here.~
+   Sleek and elegant, this two-meter tall humanoid robot moves with an almost 
+inhuman grace. It is proportioned as an exaggerated man, with a broad and 
+powerful chest, thin hips, and limbs whose components evoke slim and toned 
+lines of muscle. A $robotcolor chest plate curves around inner-working of the 
+upper-body, made from high quality steelsilk soliplast. In the center of the 
+chest, a small upraised dial presses through the soliplast, the image of #3a 
+resplendent golden man standing upon a globe#0 emblazoned proudly on it. On 
+either side of the dial are the words, "ATLAS CIVIL DEFENSE." From the chest 
+the frame narrows considerably, exposed components interlocking and moving 
+together with a loving grace. At the hips, a triangular panel of steelsilk 
+soliplast curves around the groin of the robot, giving it a false modesty, 
+before the clean lines of the legs sprout out toward mechanical approximations 
+of knee-high boots. 
+~
+268435496 4 45 103 9 5d1+150 2d7+4 0 8 8 0 0 0 0 0
+0 0 0 54005 0 0 50 0 0 0 2 0 0 0 0 0 0 0 0
+19 16 20 16 16 20 40 13
+268435456 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' survivor~
+0 0 0
+#54006
+huge retrofitted heavy-grade framed mechanical construct~
+a huge, retrofitted, heavy-grade framed mechanical construct~
+A massive mechanical construct with a $atlasweapon type on each arm looms here.~
+   Set about this large bots chest are two $robotcolor vehicle doors that have 
+been bolted against its massive, high-quality and heavy-grade manufactured 
+soliplast framework which is made from thick but inflexible plates both 
+impressive and strong. Against the left shoulder is a sleek $robotdam paneling 
+that hangs over the limb. Both of the constructs upper limbs are fabricated 
+from rusted shafts that have been retrofitted with twin, massive 
+$atlasweapontype weapons, though one of the arms is slightly disproportionate. 
+$robotcolor plates are welded onto the bots joints, with the main 
+drive-mechanism powering out loud sputters. Forming its disproportionate head 
+is a dented welding helmet. Multiple camera lenses, various colored recessed 
+lights, and a single antenna forming the beings proverbial head. 
+~
+8 0 45 0 9 5d1+150 2d7+4 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+19 16 20 16 16 20 40 13
+268435456 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#54007
+Erika thin mousy brunette with a tight bun~
+a thin, mousy brunette with a tight bun~
+A thin mousy-haired brunette with a tight bun stands here.~
+   Though attractive enough, this woman keeps her figure trimmed down perhaps a 
+shade too much. Much of the feminine rounding is lost, leaving her form 
+straight and boyish, especially in the hips. Her skin is naturally chocolate 
+colored and her mousy-hued brown hair has been neatly pulled away from her face 
+and cinched into a sleek bun, freeing her features for proper inspection. She 
+seems to have cultivated an almost archaic middle-eastern exoticness despite 
+the bare and makeupless palate, brandishing a wide and thin mouth, a long and 
+slim nose, and a pair of dark brown intelligent eyes. 
+~
+2097162 0 5 69 0 5d1+104 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 60 0
+0 0 0 60 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown 'sergeant' new_phoenix_merc~
+0 0 0
+#54008
+Milos tanned fellow sleek swept back hair~
+a tanned fellow with sleek swept back hair~
+A tanned fellow with sleek swept back hair stands here.~
+   Though only average in height, this man has a trim and chiseled physique. 
+The muscles on his otherwise naturally sleek form have been crafted from hours 
+of 'glamour training' and cannot be completely hidden except under the thickest 
+and bulkiest types of garb. His face is perfectly symmetrical with a high 
+forehead, a pair of soft blue eyes framed by pale lashes, an aquiline nose, and 
+a full and expressive mouth. His blond hair has been swept and styled away 
+from his face, long enough to just brush his nape and streaked (perhaps 
+artificially) throughout with platinum-hue. Unlike the rest of him, his hands 
+do have a certain amount of wear and capable-ness. Callouses line his 
+forefingers and thumbs and a few rest in his palms. 
+~
+2097162 0 5 69 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 60 60 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' new_phoenix_merc 'member' grungetown~
+0 0 0
+#54585
+brunette homely pale-skinned skinned xgameshop~
+a homely, pale-skinned brunette~
+A homely, pale-skinned brunette socializes here, offering wares to customers.~
+   Chestnut brown hair is tied back into a simple twist at the nape of this 
+middle-aged woman's neck. Her pale blue eyes are deeply set within her 
+unremarkable face, doing nothing to enhance the washed out hue of her skin. 
+Her wide nose is set over full lips, habitually parted into an amiable smile 
+that reveals yellowish-white teeth. 
+~
+10 0 16 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 68 3 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 1
+54585 54591 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 0
+5052 5094 998 8114 -1
+0 0 0 0 0 0 0 0 0 0
+0 40 30 0 0 0 40 30 0 0
+30 20 20 0 0 0 50 60 0 0
+30 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#54009
+Edmund Klaitros aloof white haired elderly gentleman~
+an aloof, white-haired elderly gentleman~
+An aloof, white-haired elderly gentleman stands here.~
+   Though likely once a hale and stately man, age has crept up on this fine 
+specimen of the human race. His frame is thin and drawn, the bone structure of 
+a formerly broad-shouldered man visible under his liverspotted skin, and he now 
+carries himself with an air of aloof abstraction. His nose has grown round and 
+porous. Only his cool blue eyes seem free of the shackles of age, gleaming 
+with an astute intensity and a preoccupied enthusiasm in everything he does. 
+White hair sprouts from his scalp in absolute disorder, jutting every which way 
+like stubborn weeds. 
+~
+10 0 24 69 0 5d1+88 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 64 2 0 0 0 0 0
+10 20 19 16 8 12 40 7
+0 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 90
+0 0 90 0 0 0 0 0 80 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#54010
+Hans shopkeeper weighty hamfisted man~
+a weighty, hamfisted man~
+A weighty, hamfisted man dourly tends the shop.~
+   Broad and heavy, this man lugs a considerable frame around. His limbs are 
+thick with padding and muscle, and his ample girth gives him a graceless 
+appearance even though he does not quite qualify as fat. His fleshy jowls are 
+clad in coarse stubble, and the hair on his head is buzzed to a shadowy 
+crew-cut. His facial features fall naturally into surly lines, making him look 
+a little unpleasant. His hands are inordinately large and hardened with 
+leathery calluses. 
+~
+10 0 16 5 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 70 4 0 0 0 0 0
+16 16 16 16 16 16 40 16
+65537 1
+54550 54589 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+10038 10081 10082 10083 8144 -1
+0 0 0 0 0 0 0 0 0 0
+0 40 40 0 0 0 40 40 0 0
+40 40 40 40 0 0 40 40 0 0
+0 0 0 30 30 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' new_phoenix_merc~
+0 0 0
+#54011
+Alina statuesque flaxen haired woman shopkeeper~
+a statuesque, flaxen-haired woman~
+A statuesque, flaxen-haired woman tends the shop.~
+   Long, reddish-blond hair spills over the shoulders of this mature woman, 
+framing her face. She stands a little taller than average and has aged well, 
+her appearance complimented by her neat posture and high, regal features. Her 
+frame is on the angular side, lean but elegantly feminine, and she carries 
+herself with an air of calm confidence. Her skin is pale and largely 
+unblemised with only mild crows feet around her eyes and lines flanking her 
+mouth. 
+~
+10 0 16 5 0 5d1+104 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+65537 1
+54551 54590 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+54040 54041 10052 10112 54048 -1
+0 0 0 0 0 0 0 0 0 0
+0 40 40 0 0 0 40 40 0 0
+40 40 40 40 0 0 40 40 0 0
+0 0 0 0 0 0 0 0 30 0
+0 0 0 30 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' new_phoenix_merc~
+0 0 0
+#54012
+Cracks short moon faced teenager shopkeeper~
+a short, moon-faced teenager~
+A short, moon-faced teenager manages the shop.~
+   This young man is short of stature and has an unimpressive physique. Thin 
+limbs extend awkwardly from body, possessing still the coltish ungainliness of 
+male youth. His face is round and full considering his sparse body, making his 
+features soft and subdued. He has a full head of dark curls while his face is 
+free of growth. 
+~
+10 0 16 5 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+65537 1
+54552 54588 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+8111 8108 8109 8154 8080 8110 11097 13030 13031 13032 13033 13034 13035 13036 13037 13038 13110 13112 13111 13113 13114 13115 13116 13117 13118 8145 8130 8079 8082 8059 8134 8135 8136 8084 8093 8094 8180 8074 -1
+0 0 0 0 0 0 0 0 0 0
+0 40 40 0 0 0 40 40 0 0
+40 40 40 40 0 0 40 40 0 0
+0 0 0 30 30 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' new_phoenix_merc~
+0 0 0
+#54013
+Danton older man with full bristling beard shopkeeper~
+an older man with a full, bristling beard~
+An older man with a full, bristling beard leans on his counter.~
+   Though age is starting to take a heavy toll on his hairline, this older man 
+remains hale. His height and frame are typical and his facial features are 
+sharp, dominated by an impressive beard that sprouts from his chin and jaws 
+like a strident brush. His eyes are starkly green, resting deep in their 
+sockets on either side of a bent and porous nose. His skin is losing its 
+tautness, particularly noticeable on the backs of his hands, but he still has 
+the strength to keep a proud posture. 
+~
+10 0 16 5 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+65537 1
+54553 54587 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+8120 8121 8122 8123 8124 8125 8127 8119 8103 8115 6081 8126 -1
+0 0 0 0 0 0 0 0 0 0
+0 40 40 0 0 0 40 40 0 0
+40 40 40 40 0 0 40 40 0 0
+0 0 0 0 0 0 0 0 0 30
+0 0 30 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' new_phoenix_merc~
+0 0 0
+#54014
+Minnerva squat woman squinty features~
+a squat woman with squinty features~
+A squat woman bearing squinty features loiters here.~
+   Though not miniscule, this woman is far from lofty. She's settled 
+comfortably at about five foot and two inches and has a form that could be 
+characterized easily as 'stout'. Her face is pinched, eyes perpetually settled 
+in half-squint when not closed, all beneath a pile of loosely tumbled auburn 
+wisps. She's bearing a belly that curves out from beneath soft breasts, the 
+roll of it threatening to overflow past a belt should she wear one. Her hips 
+are wide and layered neatly with 'padding', stretching down to her chubby 
+thighs, dimpled knees, and fleshy calves. 
+~
+10 0 16 5 0 5d1+104 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+65537 1
+54605 54606 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+8063 8064 8065 5059 8067 5057 8142 8068 8069 8070 5033 5061 5058 5060 8086 8105 8073 8075 8074 8076 8077 8078 8087 8088 8089 8090 8091 8092 8106 8112 8129 8147 8149 8168 8190 8162 14041 14036 14038 8164 8169 8155 8072 8128 8046 8181 14037 14033 -1
+0 0 0 0 0 0 0 0 0 0
+0 40 40 0 0 0 40 40 0 0
+40 40 40 40 0 0 40 40 0 0
+40 0 0 0 0 0 0 0 0 0
+40 0 0 0 40 40 40 40 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' new_phoenix_merc~
+0 0 0
+#54015
+Alcade aging man with grey-haired grey hair swarthy skin~
+an aging grey-haired man with swarthy skin~
+An aging man with grey hair and swarthy skin stands here.~
+   Close-cropped greying hair lines the skull of this man and leaves his 
+forehead and the absolute top completely bare and smooth. His skin is swarthy 
+and weathered, tight against his cheekbones and hooked nose though growing 
+loose as it moves to his jaw. He bears more than a few wrinkles along his 
+forehead, above hawkishly-sharp watery blue eyes. His body is trim for an 
+older man, skin peppered with age spots and moles although often covered 
+completely by his clothes. He has an average height, perhaps a shade shrunken 
+as he ages. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#54016
+Jose scarred dark-skinned dark skin man~
+a scarred, dark-skinned man~
+A scarred man bearing dark skin stands here.~
+   Obsidian-dark hair falls just past this man's shoulders in a thick curtain, 
+framing his round face. His eyes are large and deep brown, shallowly set in a 
+heavily scarred face. His nose has been long ago chewed away, leaving a 
+mangled stub with nostrils in wake. The lips resting beneath are perpetually 
+caught in grimace, having been sewn back together with little care to how they 
+looked in efforts to preserve functionality. His body is trim and muscled, 
+free from the scars that plague his face. He appears in good enough shape with 
+a barrel chest, narrow waist, and long strong legs. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#54017
+Yin slight woman pageboy coif~
+a slight woman with a pageboy coif~
+A slight woman with a pageboy coif stands here.~
+   Grey-brown slanted eyes settle beneath a curved black brow under equally 
+pitch-hued bangs. The hair is otherwise chopped neatly in pageboy around this 
+woman's rounded and small face. Her nose is slight, button-like, and her lips 
+are curved and petite, almost perpetually pursed. She's short and meager of 
+stature, stick thin, with narrow shoulders, waist, hips. The hands resting at 
+the end of her twig-like arms are nimble and strong, marked with ink. 
+~
+10 0 60 5 0 5d1+104 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 100 100 100 100 100 100 100 100 100
+100 100 100 100 100 100 100 100 100 100
+100 100 100 100 100 100 100 100 100 100
+100 100 100 100 100 100 100 100 100 100
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#54020
+member squad grizzled heavily armed soldiers~
+a member of a squad of grizzled, heavily-armed soldiers~
+A squad of grizzled, heavily-armed soldiers patrols here.~
+   One of five heavily-armored enforcers, this collection of bulky, tall, 
+professional Neophoenecian veterans has been given standard arms and armor and 
+ordered to patrol here. 
+~
+4106 0 45 5 9 5d1+120 3d3+1 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 35 0 0 0 9 0 0 0 0 0 0 0 0
+19 16 20 16 16 20 40 13
+0 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 9 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#54018
+xEnforcerGaiman squad soldiers New Phoenix~
+one of a squad of New Phoenix soldiers~
+A small squad of New Phoenix soldiers maintains order here.~
+   A small squad of five soldiers, bearing New Phoenix livery, keep the peace 
+in this section of the ship. They're well-armed, and well-armored, and judging 
+by their stance and alertness- well-trained. 
+~
+67112970 0 45 69 9 5d1+120 3d4+1 0 8 8 0 0 0 0 0
+0 0 54165 0 54165 0 50 0 0 0 9 0 0 0 0 54165 0 0 0
+19 16 20 16 16 20 40 16
+0 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' phoenixenforce~
+0 0 0
+#54019
+Bjork greasy nearly toothless man XSkyfire XShopkeep~
+a greasy, nearly-toothless man~
+A greasy, nearly-toothless man is here, polishing a dirty glass with a dirty rag.~
+   This filthy man is slightly hunched, often wearing a snaggle-toothed grin. 
+Altogether, his mouth probably holds a total of seven teeth, and each of those 
+is cracked and yellowed. His hair is slick with grease, the black strands 
+clinging desperately to his scalp. He has a crooked nose, a gaunt face, sunken 
+eyes, grayish skin, and a general air of malnutrition - with no fat on his 
+body, the bit of muscle that he has is stretched taut over his knobbly 
+skeleton. 
+~
+26 0 36 5 0 5d1+112 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 1
+54583 54592 1.000000 0.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777191
+230 2073 2074 8114 -1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' new_phoenix_merc~
+0 0 0
+#54021
+Victoria polished redhead statuesque xZhiv woman assistant~
+a polished, statuesque redhead~
+A polished, statuesque redhead lingers here.~
+   Smooth dark red hair has been neatly trained away from this woman's 
+heart-shaped face, captured in a smooth chignon. Her skin is remarkably pale, 
+without a blemish or freckle in sight, carrying a faint peachy-pink hue. 
+Beneath her straight red brows, a pair of soft brown eyes peer. Her features 
+are classic and sculpted, mouth subtly curved upward as though in preparedness 
+of a smile. She has a trim figure with curves in the normal places, long and 
+shapely legs being the most marked feature of her body. 
+~
+2097162 0 5 69 0 5d1+104 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 50 50 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown 'sergeant' new_phoenix_merc~
+0 0 0
+#54022
+$robotcolor humanoid ATLAS central defense robot~
+a $robotdam, humanoid central-defense robot~
+A $robotdam, humanoid central-defense robot stands here.~
+   Sleek and elegant, this two-meter tall humanoid robot moves with an almost 
+inhuman grace. It is proportioned as an exaggerated man, with a broad and 
+powerful chest, thin hips, and limbs whose components evoke slim and toned 
+lines of muscle. A $robotcolor chest plate curves around inner-working of the 
+upper-body, time since rusted away the metal. In the center of the chest, a 
+small upraised dial presses through the surface, the image of #3a resplendent 
+golden man holding a globe#0 emblazoned proudly on it. On either side of the 
+dial are the words, #6"ATLAS CENTRAL DEFENSE UNIT."#0 From the chest the frame 
+narrows considerably, exposed components interlocking and moving together with 
+a loving grace. At the hips, a triangular panel curves around the groin of the 
+robot, giving it a false modesty, before the clean lines of the legs sprout out 
+toward mechanical approximations of knee-high boots. 
+~
+268435496 4 24 103 5 5d1+120 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 54222 0 0 50 0 0 0 2 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 13
+0 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' survivor~
+0 0 0
+#54023
+Roberto clean-shaven dignified man~
+a clean-shaven, dignified man~
+A clean-shaven, dignified man is here, handing tool package distribution.~
+   This man is impeccably tidy. His long face is cleanly shaven, his nails 
+appear immaculately clean, his white skin is as clear as it comes. His frame 
+is tall and thin, and he stands upright like a willow. He has a lazy look to 
+his green eyes, appearing habitually bored. 
+~
+10 0 36 0 7 5d1+120 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 45 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 0
+54623 54619 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 0
+10084 10085 10092 10093 10094 10115 11126 -1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' new_phoenix_merc~
+0 0 0
+#54024
+Jude pale pale-skinned russet-haired russet haired man xViking~
+a pale-skinned russet-haired man~
+A pale-skinned man with russet hair lingers here.~
+   Pale skin covering a lean form makes for this unassuming figure. His 
+features are plain, most interesting thing amid a being a pair of forest green 
+eyes. He has unscarred skin, blemished only by a few tattoos scattered here 
+and there. Though perhaps originally bearing some sort of meaning, they appear 
+mostly as geometric shapes, black against the freckle-less body. His hair is a 
+little long, bordering on shaggy, kinked with natural wave. Russet-colored, it 
+hangs down past his ears with too-long thick bangs hiding his brow. Glinting 
+red stubble covers his jaw and cheeks. 
+~
+8 0 21 104 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 55 0 0 0 40 50 0 0
+10 0 0 0 0 0 60 60 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown~
+0 0 0
+#54025
+xCGT1 $hgtiiisize $hgtiiidescrip mutation with $tentacletype tenatcles~
+a $hgtiiisize $hgtiiidescrip mutation with $tentacletype tentacles~
+A $hgtiiidescrip mutation with $tentacletype tentacles stands here.~
+   This creature has $hgtiiisize. Perhaps once human, it has $hgtiiidescrip. 
+The whole of it appears rotting and utterly changed, $tentacletype. The 
+creature has a horrible misshapen mouth, forever held at unnatural yawning 
+width, only closing in search of something to bite and rip into. 
+~
+2097193 4 24 2 5 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 0
+13 16 15 16 16 15 40 13
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic_terror 'member' genetic-terror~
+0 0 0
+#54026
+barricade crude metal~
+#2a crude metal barricade~
+#2A crude metal barricade#0 is here, blocking the way.~
+   This is #2a crude metal barricade#0. 
+~
+278921226 786438 5 8 15 5d1+1000000 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' genetic_terror~
+0 0 0
+#54027
+arachnoid mechanized huge blued~
+a blued, mechanized huge arachnoid~
+A blued, huge mechanized arachnoid scuttles here, clicking and clacking occasionally.~
+   This is an enormously large robot, looming as tall as six feet, and looking 
+quite similar to a spider. It is made up of small, blue-tinged rectangular 
+panels. At the fore of the small arachnoid is a rounded section from which six 
+segmented legs sprout, as well as two shorter and more delicate manipulators, 
+each made from a blue-tinged metal that seems to have been veined with quartz. 
+At the rear of the thing is a larger section that is connected to the main 
+body, a heavy hexagonal-lined carapace covering it. At the very front of the 
+thing, small holographic dots line the 'face,' each holding a position a few 
+centimeters from the surface. 
+~
+268435466 4 45 8 9 5d1+150 2d7+4 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 40 0 0 0 0 0 0 0 0 0 0 0 0
+19 16 20 16 16 20 40 17
+0 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' survivor~
+0 0 0
+#54028
+Audrey auburn-haired auburn haired one-legged one legged woman~
+an auburn-haired, one-legged young woman~
+An auburn-haired, one-legged young woman is here.~
+   Dark auburn hair has been brushed to gleaming sheen, falling straight past 
+rounded shoulders to upper back. This woman's eyes are pale grey-blue, in a 
+pleasant if somewhat plain-featured face. She has a sturdy frame and ruddy 
+skin, standing at about average for a Grunger. Her stance is slightly 
+off-kilter, making up for a missing leg that has been augmented with a fitted 
+pole of thick polyprop, lending to a strange lilting gait. 
+~
+10 0 5 5 0 5d1+88 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+10 14 16 10 16 12 40 10
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' indiecomm 'member' grungetown 'corporal' indicomm~
+0 0 0
+#54094
+testy~
+a new mobile~
+(null)~
+(null)~
+8 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#54111
+xtrigger xgas xcloud~
+#1a cloying, gaseous cloud of #3yellow-green#0~
+#1A #3yellow-green cloud#1 spreads here with sinister laziness.#0~
+(null)~
+10 2 19 0 100 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 25 40 16
+0 0
+0 0 0 0 0 0 88 98 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic_terror~
+0 0 0
+#54029
+Cthulhukitten $catfeature tentacle faced kitten~
+a $catfeature, tentacle-faced kitten~
+A $catfeature, tentacle-faced kitten stalks here.~
+   This kitten sports the body of a terran lynx, only about a six inches high 
+and nearly a foot long. Its head, however, is an abomination - where a snout 
+would normally be is a series of five tentacles, dangling down from its face 
+and wriggling obscenely, from which a thick black liquid drips. If anyone 
+could catch a glimpse beneath this writhing mass of horror they would notice 
+two things: the tentacles have hooks instead of suckers, and there is a giant 
+sucker hidden away where the beast's mouth would be. $catfeature 
+~
+2097160 4 5 83 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 0
+4 10 4 16 12 5 40 12
+268435456 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' cat~
+0 0 0
 $~

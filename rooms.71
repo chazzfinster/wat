@@ -1,1 +1,1717 @@
+#71000
+Ecodome Base Room~
+   Base room for the ecodome plot zone. 
+~
+71 65544 0
+0
+S
+#71001
+Round, Plexiglass-Bound Lift~
+   This lift is little more than a moving platform, cylindrically shaped in a 
+skeleton of metal. It is surrounded in the metal cage, with gears and 
+mechanisms at the top to slide the plexiglass panels up individual of each 
+other. There are four in all, opening in all three-hundred sixty degrees and 
+allowing passage onto the landing. The northern part opens directly into a 
+corridor, a laboratory visible beyond. All of the others show beyond the 
+plexiglass a grey and white floored landing. 
+~
+71 65544 28
+0
+D0
+~
+plexiglass-enclosure~
+1 -1  0 71002
+D1
+~
+plexiglass-enclosure~
+1 -1  0 71005
+D2
+~
+plexiglass-enclosure~
+1 -1  0 71004
+D3
+~
+plexiglass-enclosure~
+1 -1  0 71003
+V
+2
+Z
+2
+S
+#71002
+Corridor Between a Lift and Labratory Checkpoint~
+   Muted grey polymesh carpet stretches over the floor here, retaining little 
+of the original plush nature. Grime and rubble from the crumbling polycrete 
+ceiling has worked into the fibers, giving it a 'crunchy' texture. The 
+polycrete walls and ceiling were painted a stark white though now they show 
+faint discoloration and mold in the corners. Thick ropy root systems taking 
+advantage of the cracks in the ceiling seems to be the main cause of the 
+destruction here, as they hang like heavy clumps of serpents towards the 
+ground. A few posters line the walls, along with a sign depicting an #2arrow 
+and beaker#0, pointed northward. Just around the entryway to the laboratories 
+beyond, bioluminescent moss has started to creep, tendrils of glowing 
+blue-green life stretching closer, like crooked fingers. 
+~
+71 65544 28
+0
+D0
+~
+bay-doors~
+1 -1  0 71010
+D2
+~
+plexiglass-enclosure~
+1 -1  0 71001
+V
+2
+Z
+2
+S
+#71003
+Circular Landing Sweeping to the Southeast~
+   The floor has been cloaked largely in once-plush muted grey carpet although 
+now it appears more grimy than muted, with several dark-hued grease-like stains 
+marring the polymesh. The walls are painted polycrete and appear almost new 
+but for the snaking intrusion of black mold and #6luminescent moss.#0 Root 
+systems have infiltrated through the ceiling and hang down like thick ropes 
+towards the floor, the occasional clump actually spanning the entire distance. 
+Some decoration once covered the walls in the form of propaganda posters. Most 
+have been torn down or made illegible by mold but one in particular shows a 
+#2six-fingered claw-like hand#0 run through by a knife. 
+~
+71 65544 28
+0
+D1
+~
+plexiglass-enclosure~
+1 -1  0 71001
+D2
+~
+~
+0 -1  0 71007
+D3
+~
+secturity-door~
+1 -1  0 71008
+K
+105 0 260 999 0V
+2
+Z
+2
+S
+#71004
+Southern Part of a Circular Landing~
+   The rotted smell of old mold hangs in the air, which also seems 
+overwhelmingly stale in taste as though the purification system has long-since 
+failed in this structure. Mold peppers the painted white polycrete ceiling and 
+walls, even apparent in streaks across the once-plush muted grey carpet. 
+Chunks of polycrete have fallen from the ceiling, having been pushed aside by 
+thick root systems infiltrating from above. Shattering further on impact with 
+the floor, they create a rubble which crunches should it be passed over. A 
+trail of #1brown-red droplets#0 follow straight path from east to west. 
+~
+71 65544 28
+0
+D0
+~
+plexiglass-enclosure~
+1 -1  0 71001
+D1
+~
+~
+0 -1  0 71006
+D2
+~
+security-door~
+1 -1  0 71034
+D3
+~
+~
+0 -1  0 71007
+V
+2
+Z
+2
+S
+#71005
+Eastern Part of a Circular Landing~
+   The carpet covering this landing just before a plexi-glass elevator shaft is 
+muted grey, once plush and now simply caked with dust. The ceiling and walls 
+are painted white polycrete, the walls themselves intact but the ceiling badly 
+segmented as clumps of ropy roots have taken advantage of natural cracks in the 
+structure. They hang like lazy serpents, dangling down to the floor. 
+#1Rust-brown drops#0 have long since dried into the carpet and lead a few steps 
+towards the lift before becoming a massive irregular stain. Just to the side 
+of the stain is a hand print on the wall and another on the floor, both that 
+same #1red-brown#0. From that point onward until just before the lift, the 
+droplets become a drag mark, disappearing into the shaft. 
+~
+71 65544 28
+0
+D1
+~
+double-doors~
+1 -1  0 71025
+D2
+~
+~
+0 -1  0 71006
+D3
+~
+plexiglass-enclosure~
+1 -1  0 71001
+V
+2
+Z
+2
+S
+#71006
+Southeastern On a Circular Landing~
+   Curved, leading both west down a corridor and northward, this section of the 
+landing bears muted grey carpet, once plush but now damaged and dull. Rubble, 
+chunks of fallen polycrete from the ceiling, crunch into the carpet and patches 
+of dark mold form blotted patterns on once-white painted polycrete walls. The 
+ceiling indeed seems to be coming undone as root systems have taken advantage 
+of cracks and widened them, snaking downward to the carpet like lazy serpents. 
+A trail of #1brown-red droplets#0 follow the curve of this space, growing 
+larger in diameter going northward. 
+~
+71 65544 28
+0
+D0
+~
+~
+0 -1  0 71005
+D2
+~
+double-doors~
+1 -1  0 71030
+D3
+~
+~
+0 -1  0 71004
+V
+2
+Z
+2
+S
+#71007
+Southwest On a Circular Landing~
+   Thick #6luminescent mold#0 drapes the painted polycrete walls and glows 
+faintly in the corners were wall and floor meet, casting an eerie glow over the 
+entire spacious landing. The floor itself is covered with once-plush muted 
+grey carpet. Time and some long-ago scuffle has left evidence on the carpet, 
+with several #1dark brown-red dribbles#0 leading from west to east in trail. 
+Root systems have broken past the barrier of the polycrete ceiling and hang 
+limply in clumps, with more clumps piled beneath from where over time the roots 
+have withered and died. 
+~
+71 65544 28
+0
+D0
+~
+~
+0 -1  0 71003
+D1
+~
+~
+0 -1  0 71004
+V
+2
+Z
+2
+S
+#71008
+Specimen Processing Center~
+   Virtually ripped apart, the machinery and holding cages or tanks are strewn 
+all over this area. A number of them have been grown over with 
+#6phosphorescent moss#0, which clings to everything and creates a soft mat 
+across regions of the floor. It also sticks into the crevices and cracks in 
+the walls, and around the circular vents overhead. These have been invaded by 
+roots, which also partition regions of the ceiling and crawl across it from 
+above. To the west is a very large, secured airtight door. 
+~
+71 65544 8
+0
+D0
+~
+security-door~
+1 -1  0 71014
+D1
+~
+security-door~
+1 -1  0 71003
+D3
+~
+airtight-door~
+1 -1  0 71009
+V
+2
+Z
+2
+S
+#71009
+Enormous, Chilly Freezer~
+   While most of the facility seems to have fallen into disrepair and become 
+overgrown, this room is more or less intact. All along the walls line a number 
+of alcoves, with mist dripping off of them. Each is lit behind blue glass, 
+with various labels scrawled on their fronts, written in Latin and, to those 
+familiar with such things, the manner of marking a genus and species. The 
+polycrete floor is open, and there is a wheeled ladder which can be swiveled 
+around along its track up near the top of the room. A few cylinders on the 
+floor, with liftable, sliding interiors are present. In the background of the 
+room, the low hum of machinery can be heard. 
+~
+71 65544 24
+0
+D1
+~
+airtight-door~
+1 -1  0 71008
+V
+2
+Z
+2
+S
+#71010
+Spacious but Dusty Laboratory Entry~
+   The polycrete of this low-ceiling outstretched corridor of a laboratory is 
+stained and broken in a few places, with an elaborate root system just 
+beginning to peek out from circular vents inset into the ceiling. No light 
+comes from the long halogen bulbs bared to observation. The floor is littered 
+with broken glass and nearly every surface has started to grow thick webs of 
+phosphorescent moss, seeming to come largely from a plant stand although the 
+southern wall. To the east and west, the laboratory continues onward although, 
+with this space marked off the occasional addition of torn polyprop curtains 
+that hang in useless disrepair, guarding no one from entry. To the north is a 
+bar-marked specimen cell. 
+~
+71 65544 24
+0
+D0
+~
+cell-door~
+1 -1  0 71017
+D1
+~
+~
+0 -1  0 71018
+D2
+~
+bay-doors~
+1 -1  0 71002
+D3
+~
+~
+0 -1  0 71011
+E
+mbeso~
+q
+~
+K
+105 0 170 999 0V
+2
+Z
+2
+S
+#71011
+Cluttered, Derelict Laboratory~
+   Judging by the bullet holes of varying sizes peppering the walls, this room 
+may have been used as a battlefield rather than the purpose it was previously 
+intended for. While some tables are neatly aligned in rows, others have been 
+overturned as makeshift barricades. Drawers have been pulled clean of desks 
+and shelves have been hastily looted, leaving the floor scattered with broken 
+equipment and papers which have decayed beyond the point of use or even simple 
+recognition. The north wall yields to a set of metal bars, beyond which is a 
+cramped cell. 
+~
+71 65544 24
+0
+D0
+~
+cell-door~
+1 -1  0 71012
+D1
+~
+~
+0 -1  0 71010
+D2
+~
+~
+0 -1  0 71013
+V
+2
+Z
+2
+S
+#71012
+Specimen Holding Cell~
+   The once sterile white tiles of this cramped space have been permanantly 
+stained a dirty brown hue from the neglect that this cell has suffered. Darker 
+shapes and spots discolour the filthy tiles in places, where some fluid has 
+been spattered against the wall long ago. The cell is largely unremarkable 
+save for a set of claw gashes that have cut through the concrete and grouting 
+of the tiled walls altogether, leaving behind a fine mist of concrete dust on 
+the ground below. A sturdy cell door is set into the southern wall. 
+~
+71 65544 24
+0
+D2
+~
+cell-door~
+1 -1  0 71011
+V
+2
+Z
+2
+S
+#71013
+Laboratory Wing Stretching to the North and West~
+   Two massive benches span the length of this room, parallel to one another, 
+with a large work desk situated prominently before both. Laboritory equipment 
+lines the benches, alongside glass containers with metal stands and tubing 
+running between each, though hardly any remain intact judging by the amount of 
+broken glass littering the floor. Some vials and beakers look to have 
+contained fluid long ago, judging by the dark stains on the inside of the 
+container. Most of the drawers and cabinets have been ransacked, save for the 
+desk at the head of the room, where the remains smashed computer reside. 
+~
+71 65544 24
+0
+D0
+~
+~
+0 -1  0 71011
+D3
+~
+~
+0 -1  0 71014
+E
+reformat~
+l
+~
+E
+corpse~
+~
+V
+2
+Z
+2
+S
+#71014
+A Laboratory Reclaimed by Hanging Vines~
+   In what was once a vastly sterile laboratory, reclamation has already 
+progressed enough to take back the ceilings with thick ropy root-systems 
+breaking through the polycrete. The longer tendrils hang like forked 
+decoration all the way to the floor where they just brush the once-unmarred 
+dingy white tile. A variety of long forgotten and extremely technical looking 
+machines line the northern and southern corridor with a few more traditionally 
+obvious ones dotted here and there: two abandoned cloning tanks, a rack of test 
+tubes, several incubators, and one very large water bath caked with mold. The 
+ever-present moss has found its way through the cracks of the tiles, creating 
+dully-glowing grid patterns when viewed in passing and the air is stale. 
+~
+71 65544 24
+0
+D0
+~
+cell-door~
+1 -1  0 71015
+D1
+~
+~
+0 -1  0 71013
+D2
+~
+security-door~
+1 -1  0 71008
+D3
+~
+office-door~
+1 -1  0 71016
+V
+2
+Z
+2
+S
+#71015
+Specimen Holding Cell~
+   The floor of this cell gives away after a small platform to a 
+liquid-retaining basin, the depth of which is hard to tell by sight as the 
+fluid that previously filled it has turned to a viscous sludge. 
+#6Phosphorescent moss#0 offers a dull glow which barely illuminates the small 
+cell, the light reflecting from the surface of the oil-like sludge. The stench 
+radiating from the room is repulsive, most likely due to the slimy remains of 
+the creatures which bulge out from the surface of the fluid. Protruding from 
+the northern wall is the metal lower lip of a large drainpipe which feeds the 
+basin within the cell. The cell door to the south has been buckled outward 
+from what one would presume to be a large amount of force, the hinges and 
+framework having held, but only just. 
+~
+71 65544 24
+0
+D2
+~
+cell-door~
+1 -1  0 71014
+V
+2
+Z
+2
+S
+#71016
+A Large Office, Fallen into Disrepair~
+   Dust has settled over every surface like a fine film, coating the faux-wood 
+polyprop desks, the sleek once shiny metallic chairs, the ratty remains of a 
+plum-hued polymesh carpet. Though faintly glowing moss grows where papers were 
+once stacked neatly and trails along the seams where walls and floor meet, this 
+room is otherwise untouched by life. A few yellowed picture-frames remain on 
+the walls, the faces of long-dead loved ones faded almost to oblivion. Stains 
+and water damage have changed the ivory shade of paint that covered the 
+ceilings and walls to dingy grey and mold runs rampant in the worst spots, 
+black and sickly looking. 
+~
+71 65544 0
+0
+D1
+~
+office-door~
+1 -1  0 71014
+V
+2
+Z
+2
+S
+#71017
+A Large, Open Specimen Pen~
+   Long ago, the smell of animals has faded from this place but what remains is 
+worse. The broken bones of long-dead beasts litter the ground and grow thicker 
+in the corners, with a few dulled metallic gun casings scattered among them. A 
+drain rests in the absolute center of this dreary white-tiled room and the 
+floor is slightly tilted inward, allowing for a sharp blast of water to send 
+most of the refuse towards the grate. A cell door remains southward, breaking 
+up the monotony of the plain north, east, and west walls. Though the cell door 
+remains intact, the lock has been blown out by some sort of rapid-fire gunfire. 
+   The room is alight with a strange glow coming not from the long-dead halogen 
+lamps inset into the ceiling but from a thick #6phosphorescent moss#0 that 
+drapes and crawls over each wall at least in portion. 
+~
+71 67174408 24
+0
+D2
+~
+cell-door~
+1 -1  0 71010
+V
+2
+Z
+2
+S
+#71018
+Expansive and Abandoned Laboratory~
+   Stained polycrete looms overhead, marked with unlit halogens. Most of this 
+space is taken up metallic tables still bearing harnesses for larger animal 
+study. Surgical-like tools were perhaps once laid out neatly but now litter 
+the ground, most of them fallen to disrepair and warped over time. A fine dust 
+settles over everything, probably coming from the crumbling plaster that still 
+clings to the ceiling in patches. This space is curved, leading westward and 
+southward to more laboratory space. To the north is a bar-marked cell door, 
+beyond which several hanging cages can be seen. 
+~
+71 65544 24
+0
+D0
+~
+cell-door~
+1 -1  0 71019
+D2
+~
+~
+0 -1  0 71020
+D3
+~
+~
+0 -1  0 71010
+V
+2
+Z
+2
+S
+#71019
+A Cage-Filled Aviary~
+   Upon entering, it becomes obvious that this room was crafted to house flying 
+specimens. The walls are lined with hanging cages, most of are open and 
+completely unused. A few remained closed and should they be inspected closely, 
+tiny delicate bones litter the bottoms. Whatever smell outside of the musty 
+scent of disuse has long ago faded from this space. The white-tiled floors, 
+showing extensive dust and dirt build-up, dip inward slightly so that a sharp 
+blast of water would send refuse rushing towards the grate of a drain resting 
+in the absolute center of the floor surface. 
+   The room is alight with a strange glow coming not from the long-dead halogen 
+lamps inset into the ceiling but from a thick #6phosphorescent moss#0 that 
+drapes and crawls over each wall at least in portion. 
+~
+71 67174408 24
+0
+D2
+~
+cell-door~
+1 -1  0 71018
+V
+2
+Z
+2
+S
+#71020
+Laboratory Wing, Continuing North and East~
+   This space is faintly curved and guarded at the northern exit by an 
+insubstantial and mostly tattered plastic curtain, perhaps once a passable 
+barrier but now just a dangling decorative structure. The ceiling is 
+polycrete, as is the floor. However a runner of dingy moldy carpet runs the 
+curved length of this space, shaped to follow the line of the room perfectly. 
+A few abandoned cages rest against the wall, beside complicated scanning 
+machines bearing cracked screens and dangling ineffectual wires. 
+~
+71 65544 24
+0
+D0
+~
+~
+0 -1  0 71018
+D1
+~
+~
+0 -1  0 71021
+V
+2
+Z
+2
+S
+#71021
+Eastern Laboratory Wing~
+   At the end of this great stretch of laboratories, everything constructed of 
+glass-like polyprop has been destroyed. Shards rest everywhere, positively 
+littering the floor. The metal desks have been overturned, used as some sort 
+of cover for what violence took place here long ago. A few rough gouges and 
+bullet holes puncture the polycrete ceilings and floors and everything is 
+lightly covered with a fine brushing of dust. Drawn in scrawling black, 
+probably some kind of ink, are the words, #1'Get a gun and run for the door. 
+Do -not- stop.'#0 
+~
+71 65544 28
+0
+D1
+~
+bay-doors~
+1 -1  0 71023
+D3
+~
+~
+0 -1  0 71020
+V
+2
+Z
+2
+S
+#71022
+Specimen Holding Cell~
+No Description Set.
+~
+71 65544 0
+0
+D2
+~
+cell-door~
+1 -1  0 71021
+S
+#71023
+Abandoned Personnel Medical Center~
+   This high-end medical facility is stocked with the best there is to offer. 
+Several padded cots rest in semi-circle around the room, with sleek rolling 
+tables positioned between them. Movable scanning devices can be shifted into 
+position over the entire length of the cot, from head to toe of a patient 
+resting there. Each device bears a complicated readout and probably serves 
+multitude functions. Several shelves line the walls and the rotting remains of 
+gauze and bandages settle between bottles of antiseptic and tubs of medicinal 
+creams. However, the days of prime usage are passed and everything is dirtied 
+by age. What was the stark white of polycrete has yellowed and become dirty 
+over the time since this place was abandoned. 
+~
+71 65544 24
+0
+D2
+~
+double-doors~
+1 -1  0 71027
+D3
+~
+bay-doors~
+1 -1  0 71021
+V
+2
+Z
+2
+S
+#71024
+Personnel Media Center~
+   Screens adorn each of the walls, most of them cracked and broken but a few 
+untouched by time. The walls themselves are painted a dull pewter, the shade 
+of which mimics that of the silver sheen of the screens themselves. Several 
+chairs rest around the room, many of them outfitted with screens that crane on 
+movable metallic arms to rest before the occupant. The arm-rests are adorned 
+with keypads allowing for a variety of functions although most of the 
+characters have faded in time. Thick dusty carpet covers the floor and seems 
+alive with the growth of #6bioluminescent moss#0 that snakes across it, 
+shooting bright slashes of eerie blue-green glow through drab grey. 
+~
+71 65544 9
+0
+D3
+~
+~
+0 -1  0 71025
+V
+2
+Z
+2
+S
+#71025
+Passing through Personnel Commons~
+   The arrangement of this common room resembles a living room on a grander 
+scale, with several more stations of clustered chairs and end tables. Thick 
+ropy roots have worked their way through the polycrete lining the ceiling, to 
+hang in dangling tendrils down towards the floor. The floor itself is tile, 
+crafted in a wavelike pattern of blue and white, rippling through the area. A 
+thick door rests northward and double doors block the west but the room 
+continues unhindered eastward and southward. 
+   #6Bioluminescent moss#0 covers the eastern wall and has managed to creep in 
+through the cracks of the door. It gleams a bright bluish color, clinging over 
+the wall and up close to some of the vents. 
+~
+71 65544 9
+0
+D0
+~
+security-door~
+1 -1  0 71027
+D1
+~
+~
+0 -1  0 71024
+D2
+~
+~
+0 -1  0 71026
+D3
+~
+double-doors~
+1 -1  0 71005
+V
+2
+Z
+2
+S
+#71026
+Personnel Mess Hall~
+   Part of the ceiling appears to have come down and is now scattered around 
+the floor in pieces, revealing pipes and lines overhead. Some roots also 
+appear to have grown down through, covered in the rough brown bark of trees. 
+Cracks in the wall show more, chunks of the polycrete having been turned to 
+dust in the face of their intrusion. This entire room, where it's not 
+disrupted with old stains or tree roots, has been painted a light, warm grey. 
+The flooring is tiled in wavelike patterns of blue and white, rippling through 
+the area. 
+   #6Bioluminescent moss#0 covers the eastern wall and has managed to creep in 
+through the cracks of the door. It gleams a bright bluish color, clinging over 
+the wall and up close to some of the vents. Even over tree roots. 
+~
+71 65544 9
+0
+D0
+~
+~
+0 -1  0 71025
+D1
+~
+door~
+1 -1  0 71029
+D2
+~
+door~
+1 -1  0 71031
+D3
+~
+~
+0 -1  0 71030
+V
+2
+Z
+2
+S
+#71027
+Personnel Processing~
+   Once perhaps clean and tidy, complete with a series of basalt desks, this 
+room has since fallen into disrepair. The light grey walls are ridden with 
+cracks, tree roots growing down and into them from the circular vents overhead. 
+Security checkpoints and x-ray scanners at each door have either been toppled 
+over, or overgrown with #6phosphorescent moss#0. The doors themselves have a 
+keypad present on the side, heavy with dust and other things that have 
+ingrained themselves inside. Two elevator doors are now heavily tarnished 
+metal, standing behind their checkpoint to the east. 
+~
+71 65544 8
+0
+D0
+~
+double-doors~
+1 -1  0 71023
+D1
+~
+elevator-doors~
+1 -1  0 71028
+D2
+~
+security-door~
+1 -1  0 71025
+D3
+~
+security-door~
+1 -1  0 71005
+V
+2
+Z
+2
+S
+#71028
+Small Elevator Lift~
+   Cramped but far from claustrophobic, this space is a perfect square room. A 
+tattered and aged poster hangs on one of the manufactured 'mica-flecked' 
+polyprop walls, proudly bearing anti-mutant sentiment in the succinct 
+#1'Mutants: Rights? The Right to Die, Maybe.'#0 The other walls are plain, 
+unadorned and molded to add dimension to what is largely a uniform coffin of a 
+structure. To the side of the door is a row of small clear buttons that were 
+once probably clearly lit though now are dim circles of polyprop. However, the 
+straightforward arrangement of them gives clues to which direction each one 
+leads. 
+~
+71 65544 11
+0
+D3
+~
+elevator-doors~
+1 -1  0 71027
+D4
+~
+~
+0 -1  0 71040
+V
+2
+Z
+2
+S
+#71029
+Alcove-Lined Personnel Dormitory~
+   This room is done in warm greys, with the short and now dusty carpet being 
+more of a neutral and dark tone of it. Away from the door is a tier of steps, 
+while away from it expands a flat area with plenty of space to stretch. The 
+tiers themselves, covered in the same short carpet, lead gradually up to a 
+series of alcoves with thin mats and surprisingly well-kept blankets resting 
+inside of them. Even pillows are present. It is very quiet here, and sound 
+seems to be muffled. Over the door leading back to the mess hall is a long, 
+flat monitor screen set into the wall. 
+   Crawling over the wall and into the creases of the ceiling is 
+#6bioluminescent moss#0. Some of the sleeping cubicles have been dominated by 
+it, showing like stars in the darkness. It's also eaten a few blankets. 
+~
+71 65544 9
+0
+D3
+~
+door~
+1 -1  0 71026
+V
+2
+Z
+2
+S
+#71030
+Passing Through Personnel Commons~
+   Though once a spacious and tidy walkway through a commons, this space is now 
+layered liberally with dust and dirt. The dust has collected from disuse but 
+the dirt originates from a gigantic breech through the polycrete ceiling. 
+Roots, as wide as tree trunks themselves, drip down from the ceiling and trail 
+over the floor. The fine craftsmanship of the tiled blue and white floor is 
+lost amid the hair-like off-shoots taking up most of the space, although arched 
+and claustrophobic paths exist amid the lengthy roots. Glistening and glowing 
+amid the dangling appendages is silvery-blue #6luminescent moss#0. 
+~
+71 65544 9
+0
+D0
+~
+double-doors~
+1 -1  0 71006
+D1
+~
+~
+0 -1  0 71026
+D2
+~
+~
+0 -1  0 71032
+V
+2
+Z
+2
+S
+#71031
+Alcoved Personnel Dormitory~
+   The design of this room is simple but functional, with everything having a 
+place in the spacious living quarters. A series of alcoves line the walls, 
+each inset with thin mats and surprisingly tidy blankets, most of them still 
+bearing small once-white pillows. The walls are painted a serene pale green 
+hue and the floor is covered by dusty beige carpet, untouched by time still 
+bearing a few child's toys strewn about. Sounds from the rest of the compound 
+are muffled by the insulated polyprop walls and a long, flat monitor rests, 
+inset just above the doorway leading back into the messhall. 
+   Crawling over the wall and into the creases of the ceiling is 
+#6bioluminescent moss#0. Some of the sleeping cubicles have been dominating, 
+showing like stars in the darkness. It has also eaten through a few of the 
+blankets. 
+~
+71 65544 9
+0
+D0
+~
+door~
+1 -1  0 71026
+V
+2
+Z
+2
+S
+#71032
+A Spacious Lounge Area~
+   Once-pristine and now dingy white carpet covers the floors of this vaguely 
+circular room. The ceiling in this part of the room remains intact thought 
+stained, watermarks showing on the warm grey paint. The walls have been set 
+with 'windows', each depicting different outdoors scenes in still glowing 
+holo-display. #6Blue-green luminescent moss#0 drapes like glowing living 
+curtains over the walls, from the ceilings, even on scattered tables in the 
+area. 
+~
+71 65544 9
+0
+D0
+~
+~
+0 -1  0 71030
+D3
+~
+sliding-glass-door~
+1 -1  0 71033
+V
+2
+Z
+2
+S
+#71033
+A Large and Grimy Shower Room~
+   Tiles line the floors of this combined shower and bathroom. Though they 
+were once a pale grey, they've grown darker and murkier in shade due to years 
+of mold buildup. The grout between each tile has gone from crisp white to dull 
+brown. The tiles stretch upward from the floor to about four feet, with the 
+rest of the wall and the ceiling painted a warm grey hue. Curtains of thick 
+ropy #6luminescent moss#0 hang from the ceiling and drape along the shower 
+spigots, glowing an eerie blue-green. 
+~
+71 65544 0
+0
+D1
+~
+sliding-glass-door~
+1 -1  0 71032
+K
+132 1 300 200 50V
+2
+Z
+2
+S
+#71034
+Plant Specimen Processing~
+   This plain tiled floor appears cracked in a few places and is heavily caked 
+with grime and what was probably once plant matter that has decomposed and 
+dehydrated into little more than murky brown stains. Once-white walls crafted 
+of polycrete are yellowed with age and dust. Instructional posters line the 
+walls, displaying usage of a large defunct processing machine bearing tiers 
+upon tiers of cracked empty vials. Thick moss drapes like decoration over one 
+remaining molded into the wall and hangs in thick ropes down from the cracked 
+ceiling, #6glowing#0 faintly with some natural luminescence. 
+~
+71 65544 8
+0
+D0
+~
+security-door~
+1 -1  0 71004
+D3
+~
+security-door~
+1 -1  0 71035
+V
+2
+Z
+2
+S
+#71035
+Eastern Hydroponics and Flora Laboratory~
+   This room, dark as it is and cast in an eerily faint and blue light, shows 
+little sign of recent activity. What can be seen of it reveals a sprawling 
+laboratory that stretches out a vast distance to the west and south. Polycrete 
+tables rise up from the ground in an orderly grid format throughout the area, 
+bearing a plethora of laboratory equipment and long hydroponics trays placed 
+under narrow pipes with narrow misting nozzles on their ends. A handful of 
+different pieces of equipment have been utterly smashed by polycrete chucks of 
+various size, evidently displaced by the roots of trees that punch through the 
+ceiling. A testament to this area's disuse, the glass casings of ceiling 
+lights lie shattered upon the ground, appearing untouched since they fell to 
+the ground. #4Bioluminescent moss#0 has found a habitat upon the danker 
+portions of this room, emitting an eery light. 
+~
+71 67174472 24
+0
+D1
+~
+security-door~
+1 -1  0 71034
+D2
+~
+~
+0 -1  0 71036
+D3
+~
+~
+0 -1  0 71037
+V
+2
+Z
+2
+S
+#71036
+Southeastern Hydroponics and Flora Laboratory~
+   This room hosts no invasive roots, though it has not been spared from the 
+rampant growth above its ceiling. The metal-and-polycrete framework at the far 
+southern end of the lab has crumbled and a massive quantity of soil has flooded 
+into the room, stacked up nearly to the ceiling at the southern border but 
+remaining nearly at ankle length through this portion of the laboratory. Plant 
+life has taken hold within this soil, spreading nearly through the room. The 
+high-grade equipment through the room has resisted destruction from this 
+development, and rows of storage containers and laboratory tables line the 
+area, rising from the growth. 
+~
+71 65544 24
+0
+D0
+~
+~
+0 -1  0 71035
+V
+2
+Z
+2
+S
+#71037
+Central Hydroponics and Flora Laboratory~
+   This is clearly the hub of what was -and is, to an extent- an impressive 
+laboratory. The area is noticeably vacant of individual study workspaces, it 
+is instead dominated by large cold-storage units, well-protected mainframes, 
+and analysis units. Many of the constructs throughout the room reach nearly to 
+the ceiling, and very few are damaged by the sparse number of roots that 
+puncture through the ceiling. Near the base of a few mainframes there are dark 
+scorch marks upon the floor and several broken tools are scattered upon the 
+floor. A very dim light emanates from #4bioluminescent moss#0 that has found 
+sparse purchase for life around the few roots that invade the area. 
+~
+71 67174472 24
+0
+D0
+~
+~
+0 -1  0 71038
+D1
+~
+~
+0 -1  0 71035
+V
+2
+Z
+2
+S
+#71038
+Northwestern Hydroponics and Flora Laboratory~
+   This region of the laboratory is quite nearly riddled by roots that drive 
+clear from the ceiling to the floor, forming a vast sprawl of organic pillars 
+and stalactites. The air throughout is noticeably more humid than the 
+surrounding areas, and the bluish illuminating glow is more intense with 
+#4bioluminescent moss#0's nearly-rampant growth along the dampened and dirtied 
+polycrete. To the west the density of roots reduces to almost nothing, and the 
+#4moss#0's light is swallowed by darkness. Scattered among roots and pieces of 
+debris stand multiple tables that bear plant specimen upon them. Some specimen 
+have found life amidst dirt and roots, while others lie as mere husks upon the 
+operating tables, or as entirely decomposed soil. 
+~
+71 65608 24
+0
+D2
+~
+~
+0 -1  0 71037
+D3
+~
+~
+0 -1  0 71039
+V
+2
+Z
+2
+S
+#71039
+Western Hydroponics and Flora Laboratory~
+   Clearly designed for the purpose of studying flora intensely, this room is 
+entirely filled with tables - mostly housing panels lined with soil and bearing 
+misting nozzles near their tops, but also with computer terminals set upon the 
+end of each table. This portion of lab appears intact, with no trace of 
+failure upon the ceiling and very few signs of use throughout the area. 
+Various other devices and tools for plant assessment are carefully positioned, 
+and the limp husks of many plants are visible from the flora tables. 
+~
+71 65544 24
+0
+D1
+~
+~
+0 -1  0 71038
+V
+2
+Z
+2
+S
+#71040
+Viewing Area Overlooking a Temperate-Climate Ecodome~
+No Description Set.
+~
+71 65536 24
+0
+D5
+~
+access-hatch~
+1 -1  0 71041
+S
+#71041
+Near the Wall of a Disease-Ridden Ecodome, Beneath an Overlook~
+No Description Set.
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71042
+D2
+~
+~
+0 -1  0 71045
+D4
+~
+access-hatch~
+1 -1  0 71040
+S
+#71042
+Slime-Slathered Trees Near a Rocky Incline~
+No Description Set.
+~
+71 65536 25
+0
+D2
+~
+~
+0 -1  0 71041
+D3
+~
+~
+0 -1  0 71043
+S
+#71043
+Plagued Flatlands at the Foot of a Low Cliff~
+No Description Set.
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71054
+D1
+~
+~
+0 -1  0 71042
+D2
+~
+~
+0 -1  0 71044
+D3
+~
+~
+0 -1  0 71055
+S
+#71044
+Plagued Meadow~
+No Description Set.
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71043
+S
+#71045
+Dilapidated and Diseased Forest~
+No Description Set.
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71041
+D3
+~
+~
+0 -1  0 71046
+S
+#71046
+East and South Path Past Slime-Ridden Trees~
+No Description Set.
+~
+71 65536 25
+0
+D1
+~
+~
+0 -1  0 71045
+D2
+~
+~
+0 -1  0 71047
+S
+#71047
+Path Winding South and West, Amidst Diseased Trees~
+No Description Set.
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71046
+D3
+~
+~
+0 -1  0 71048
+S
+#71048
+A Heavily Warped Forest~
+No Description Set.
+~
+71 65536 25
+0
+D1
+~
+~
+0 -1  0 71047
+D2
+~
+~
+0 -1  0 71049
+D3
+~
+~
+0 -1  0 71050
+S
+#71049
+At the Edge of an Infected Forest~
+No Description Set.
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71048
+D3
+~
+~
+0 -1  0 71051
+S
+#71050
+Untouched Forest, at the Base of a Rocky Incline~
+No Description Set.
+~
+71 65536 25
+0
+D1
+~
+~
+0 -1  0 71048
+D2
+~
+~
+0 -1  0 71051
+D3
+~
+~
+0 -1  0 71053
+S
+#71051
+Patch of Temperate Forest, Within an Ecodome~
+No Description Set.
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71050
+D1
+~
+~
+0 -1  0 71049
+D3
+~
+~
+0 -1  0 71052
+S
+#71052
+Untouched Patch of Forest Along the Edge of an Ecodome~
+No Description Set.
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71053
+D1
+~
+~
+0 -1  0 71051
+S
+#71053
+Oozing, Diseased Forest At the Base of a Rocky Incline~
+No Description Set.
+~
+71 65536 25
+0
+D1
+~
+~
+0 -1  0 71050
+D2
+~
+~
+0 -1  0 71052
+S
+#71054
+Coccooned and Slimed Trees Near the Edge of an Ecodome~
+No Description Set.
+~
+71 65536 25
+0
+D2
+~
+~
+0 -1  0 71043
+D3
+~
+~
+0 -1  0 71056
+S
+#71055
+An Incline Laden with Suppurating Trees~
+No Description Set.
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71056
+D1
+~
+~
+0 -1  0 71043
+D2
+~
+~
+0 -1  0 71064
+D3
+~
+~
+0 -1  0 71067
+S
+#71056
+Base of an Incline, Covered with Struggling Plantlife~
+No Description Set.
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71069
+D1
+~
+~
+0 -1  0 71054
+D2
+~
+~
+0 -1  0 71055
+D3
+~
+~
+0 -1  0 71061
+S
+#71057
+Edge of a Cliff, Amidst Scraggly Trees~
+No Description Set.
+~
+71 65536 25
+0
+D1
+~
+~
+0 -1  0 71067
+D2
+~
+~
+0 -1  0 71059
+S
+#71059
+Slick and Sickly Forest Atop a Cliff~
+No Description Set.
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71057
+D2
+~
+~
+0 -1  0 71060
+S
+#71060
+Struggling, Diseased Trees Near a Path Downwards~
+No Description Set.
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71059
+D1
+~
+~
+0 -1  0 71062
+D3
+~
+~
+0 -1  0 71065
+S
+#71061
+Sheltered Meadow Beneath a Cliff~
+No Description Set.
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71068
+D1
+~
+~
+0 -1  0 71056
+D3
+~
+~
+0 -1  0 71071
+S
+#71062
+Oozing, Diseased Shrubbery at the Edge of a Cliff~
+No Description Set.
+~
+71 65536 25
+0
+D1
+~
+~
+0 -1  0 71063
+D3
+~
+~
+0 -1  0 71060
+S
+#71063
+Edge of a Cliff, Covered in Foul-Smelling Sludge~
+No Description Set.
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71064
+D3
+~
+~
+0 -1  0 71062
+S
+#71064
+New Room~
+No Description Set.
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71055
+D2
+~
+~
+0 -1  0 71063
+S
+#71065
+Slime-Ridden Alcove, Nestled Against a Cliff~
+No Description Set.
+~
+71 65536 25
+0
+D1
+~
+~
+0 -1  0 71060
+D2
+~
+~
+0 -1  0 71066
+S
+#71066
+A Rocky Alcove with Encapsulated Trees~
+No Description Set.
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71065
+S
+#71067
+Thin Trees at the Edge of a Rocky Cliff~
+No Description Set.
+~
+71 65536 25
+0
+D1
+~
+~
+0 -1  0 71055
+D3
+~
+~
+0 -1  0 71057
+S
+#71068
+Reaching the Edge of a Glass and Metal Dome~
+No Description Set.
+~
+71 65536 25
+0
+D1
+~
+~
+0 -1  0 71069
+D2
+~
+~
+0 -1  0 71061
+D3
+~
+~
+0 -1  0 71070
+S
+#71069
+Deciduous Forest, at the Edge of an Ecodome~
+No Description Set.
+~
+71 65536 25
+0
+D2
+~
+~
+0 -1  0 71056
+D3
+~
+~
+0 -1  0 71068
+S
+#71070
+Edge of a Glass and Metal Dome, Filled with Forest~
+No Description Set.
+~
+71 65536 25
+0
+D1
+~
+~
+0 -1  0 71068
+D2
+~
+~
+0 -1  0 71071
+S
+#71071
+Deciduous Forest Interspersed with Evergreens, Within a Glass Dome~
+No Description Set.
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71070
+D1
+~
+~
+0 -1  0 71061
+D3
+~
+~
+0 -1  0 71072
+S
+#71072
+Edge of a Dome Filled with Temperate Terrain~
+No Description Set.
+~
+71 65536 25
+0
+D1
+~
+~
+0 -1  0 71071
+D2
+~
+~
+0 -1  0 71073
+S
+#71073
+Short Path Winding Past Deciduous Trees~
+No Description Set.
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71072
+D2
+~
+~
+0 -1  0 71075
+D3
+~
+~
+0 -1  0 71074
+S
+#71074
+New Room~
+No Description Set.
+~
+71 65536 25
+0
+D1
+~
+~
+0 -1  0 71073
+D2
+~
+~
+0 -1  0 71076
+S
+#71075
+Deciduous Forest at the Base of a Low Cliff~
+No Description Set.
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71073
+D3
+~
+~
+0 -1  0 71076
+S
+#71076
+Pristine Pond Amidst Forest Within a Glass Dome~
+   Vivid green-leafed trees of varied species crowd and twine together, 
+twisting up to almost brush the glass-like thick polyprop dome that curves over 
+the makeshift forest. They thin somewhat around a pristine pond, creating an 
+aura of only sparse grasses leading up to the bank. The water is mirrored and 
+free from taint, reflecting the sky in slightly distorted fashion. The domed 
+forest remains unnervingly quiet, due in part to a lack of wildlife. The only 
+sound is the occasional 'swish-swish' of air regulators cutting on and off. 
+Decorative white and yellow flowers grow in clumps here and there, growing in 
+numbers closer to the water. 
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71074
+D1
+~
+~
+0 -1  0 71075
+D2
+~
+~
+0 -1  0 71077
+S
+#71077
+A Quiet, Glass-Contained Grove~
+   Several species of trees populate this area, swaying in manufactured breezes 
+and resting beneath the overlaying thick and clear polyprop dome. The green is 
+overwhelming, a shocking contrast to outside of the dome, to the endless 
+horizon of bland and dull moonscape. Though perhaps overgrown as a few of the 
+taller branches brush at the glass-like covering, they appear largely in good 
+health. A distinct lack of wildlife leads to an unnerving quiet, broken only 
+by the 'swish-swish' of air regulators cutting on and off. The ground is 
+littered with a carpet of fallen leaves layered over sparse patchy grass. 
+~
+71 65536 25
+0
+D0
+~
+~
+0 -1  0 71076
+S
 $~

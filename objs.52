@@ -1,1 +1,89 @@
+#52000
+kelp cluster ORGANIC~
+a cluster of kelp~
+A cluster of kelp grows in a spot of moist muck.~
+   Wide, fibrous, dark green leaves cluster together here, 
+eminating from a central wad of plant. The leaves are long, 
+flat, and moist-looking, blending in with the surrounding sludge. 
+The central plant is rooted in a spot of moist muck, clear oozing 
+gel thick enough to see in its central cavity before is undulates 
+to spread it up its leaves. 
+~
+29 0 0
+33 101 10067 1
+100 0.000000
+10066 0 7
+Carefully beginning to pry apart the thick mass of kelp~
+0 0 128 0 1
+0.000000 0 0 0 0 0 0
+T
+8 0 0 0 2 0 0 0 0 0 0 0 0 0 0 2 5 6 6 2 0 0 0 0 0 0 0 1 0 
+You feel a sharp burning sensation and recoil as your hand fumbles into the plant's acidic gel.~
+$n recoils as their hand fumbles into the plant's acidic gel.~
+(null)~
+(null)~
+(null)~
+(null)~
+God~
+God~
+#52900
+token no_forage OTHER~
+a no-forage token~
+A no-forage token is here.~
+~
+12 8196 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 2 52901 0 0 0 0
+God~
+God~
+#52901
+token can_forage OTHER~
+a can-forage token~
+A can-forage token is here.~
+~
+12 8196 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#52001
+#3dispersed crowd sickly looking grungers xplot xcure OTHER#0~
+#3a dispersed crowd of sickly looking Grungers#0~
+#3A dispersed crowd of sickly looking Grungers mill about here.#0~
+   Dispersed and spread out over the area in their every phase roles, these 
+people are the normal riff-raff populating the city of Grungetown: men, women, 
+workers, children milling along. Hacking coughs, complaints of nausea and all 
+around malaise seems to effect the lot of them to differing degrees, their 
+constant movement and them being only a bit of the general population makes it 
+difficult to maintain them simply for quarantine. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#52002
+#3dispersed crowd sickly looking grungers xplot xdecoy OTHER#0~
+#3a dispersed crowd of sickly looking Grungers#0~
+#3A dispersed crowd of sickly looking Grungers mill about here.#0~
+   Dispersed and spread out over the area in their every phase roles, these 
+people are the normal riff-raff populating the city of Grungetown: men, women, 
+workers, children milling along. Hacking coughs, complaints of nausea and all 
+around malaise seems to effect the lot of them to differing degrees, their 
+constant movement and them being only a bit of the general population makes it 
+difficult to maintain them simply for quarantine. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
 $~

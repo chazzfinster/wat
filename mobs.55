@@ -1,12 +1,2333 @@
+#55000
+man xGladiator blue-painted $gladiator veteran~
+a blue-painted, $gladiator man~
+A blue-painted, $gladiator man is here.~
+   Blue paint is splattered over this $gladiator man's body. He 
+looks a rough and ready sort of individual, covered in scars and 
+blemishes, his face a ravaged network of old injuries, scars, and 
+stubble. A set of steely eyes calmly appriases all before him, 
+and he looks ready to lash out with violence in response to any 
+situation. His hair is cut short to prevent it being grabbed or 
+yanked, and his nails are similarly shortened. 
+~
+4136 0 30 6 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 10 14 10 14 16 40 12
+268435456 0
+0 50 50 50 50 50 50 50 50 50
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' arena_blue~
+0 0 0
 #55001
-an arena boss~
-an arena boss~
-an arena boss is here.~
+Ricky diminuitive slick haired man xBettaker xArena~
+a diminuitive, slick-haired man~
+A diminutive, slick-haired man is here, signing up new gladiators.~
+   Small and scrawny, this weedy little man has black hair, 
+slicked back over his scalp to reveal his receding widow's peak. 
+His features are sharp and animalistic, nearly predatory - 
+narrowed eyes sit close above a jutting nose and chin, an angular 
+jaw, and high cheekbones; all of it is clean-shaven. 
+~
+10 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55002
+James plain goateed man xRegisterer xArena~
+a plain-looking, goateed man~
+A plain-looking, goateed man stands here, signing people up.~
+   Unremarkable pretty much sums up the whole of this man's 
+appearance. He has brown hair and brown eyes, a slightly pudgy 
+face, and an average build. His body hold a few scars, but none 
+that are incredibly noticeable - most are just light scratches on 
+his arms or legs, and his face is entirely untouched. 
+~
+10 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55003
+Jeremy tall man mechanical robotic eye xSawbones~
+a tall, mechanical-eyed man~
+A tall man with robotic eyes stands here, tending the wounded.~
+   Probably the most noticeable thing about this man (besides his 
+height) are his eyes - both are mechanical, the steel glinting 
+dully in any light, whirring as he looks this way and that. 
+Otherwise, he holds a pretty boring face; the man's hair is 
+blonde and parted down the middle, his nose is long and crooked, 
+and he has the faintest hint of underbite, his jutting chin 
+attesting to that. His skinny arms end in almost delicate hands, 
+his long fingers soft and uncalloused. 
+~
+1073741834 0 5 68 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 30 30 0 0 0 0 0
+0 0 0 0 0 0 0 0 100 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' arena~
+0 0 0
+#55004
+male xGladiator red-splashed $gladiator veteran~
+a red-splashed, $gladiator male~
+A red-splashed, $gladiator male is here.~
+   Red paint is splattered over this $gladiator man's body. He 
+looks a rough and ready sort of individual, covered in scars and 
+blemishes, his face a ravaged network of old injuries, scars, and 
+stubble. A set of steely eyes calmly appriases all before him, 
+and he looks ready to lash out with violence in response to any 
+situation. His hair is cut short to prevent it being grabbed or 
+yanked, and his nails are similarly shortened. 
+~
+4136 0 28 6 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 10 14 10 14 16 45 12
+268435456 0
+0 47 46 50 48 40 48 46 46 45
+45 50 50 48 45 42 45 0 0 0
+0 0 0 0 0 0 0 38 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' arena_red~
+0 0 0
+#55990
+Triggerpuller Utility Worker~
+A Utility Worker~
+A Utility Worker pulls triggers in the Power Room.~
 (null)~
-10 0 5 0 0 5d1+80 1d2+0 0 8 8 1 0 0 0 0
+10 524290 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55005
+dog domestic stray xGRUNGETOWN $wolffur $wolfbuild~
+a $wolfbuild, $wolffur dog~
+A $wolfbuild, $wolffur dog skulks nearby.~
+   Grimy and unkempt, this mangy stray skulks through the streets 
+and byways maintained by its human co-habitants. It has a 
+$wolfbuild build and $wolffur, its demeanor tense and eyes 
+furtive. 
+~
+8 262148 16 58 0 5d1+104 2d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 1 0 60 0 0 0 0 0 0
+16 4 4 16 16 16 40 16
+268435456 0
+0 30 0 0 0 0 50 16 0 0
+0 0 0 0 0 0 50 50 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' dom_dog~
+0 0 0
+#55006
+dog domestic alpha xGRUNGETOWN $wolffur $wolfbuild~
+a $wolfbuild, $wolffur dog~
+A $wolfbuild, $wolffur dog watches alertly.~
+   Grimy and unkempt, this mangy stray skulks through the streets 
+and byways maintained by its human co-habitants. It has a 
+$wolfbuild build and $wolffur, its demeanor alert and eyes 
+challenging. 
+~
+4108 262148 20 58 0 5d1+104 2d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 1 0 0 1 0 0 0 0 0
+18 4 10 16 16 16 40 16
+268435456 0
+0 50 0 0 0 0 50 16 0 0
+0 0 0 0 0 0 50 50 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' dom_dog~
+0 0 0
+#55007
+Dom wiry thin limbed older man xWilmington~
+a wiry, thin-limbed older man~
+A wiry, thin-limbed older man stands here.~
+   This old man is characterized by knobby joints and wrinkles - 
+what was once a muscular body has deteriorated with age, a mere 
+ghost of what it must have been before. The near-emaciated state 
+of his body makes his head look overly-large on his skinny neck. 
+While he sports a full head of hair, it is all a dull gray, from 
+his head to his eyebrows to the few whiskers that adorn his face. 
+His eyes are a dazzling shade of green, and his nose is long and 
+crooked. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55008
+Oil gangly dark haired man xWilmington~
+a gangly, dark-haired man~
+A gangly, dark-haired man stands here.~
+   This tall, skinny man carries himself confidently. Dark brown 
+hair covers his head, cut just above his bright green eyes. His 
+body is built somewhat like a twig; if he has any muscle or fat 
+it is cleverly hidden. Otherwise, there is nothing outstanding 
+or particular about him - he has no out-of-place scars or 
+blemishes, just what would be found common among men his age, and 
+he just appears rather unremarkable. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' wilmingtons~
+0 0 0
+#55009
+Travis Reno stocky square headed man xWilmington~
+a stocky, square-headed man~
+A stocky, square-headed man stands here.~
+   This guy is pretty short, but he makes up for that in width. 
+He has a barrel chest and small, thick arms that end in stubby 
+fingers. His head is roughly cubic in shape, though round around 
+the edges. He is, pretty inarguably, ugly. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55010
+Wit Horace blocky pair headed man xWilmington~
+a blocky, pear-headed man~
+A blocky, pear-headed man loiters here.~
+   This man's face looks like a bad brick-laying job - his facial 
+bones juts out at odd, blocky angles, and the skin that stretches 
+tightly across these bones is covered in all manner of surgical 
+scars. The rest of his body is no different; his limbs lock in 
+positions that seem nearly ready to bend in the opposite 
+direction, and his muscles seem to cling poorly to these. He 
+does not particularly look like he could be a mutant - he's just 
+really, really ugly. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' wilmbuss 'captain' wilmingtons~
+0 0 0
+#55011
+Bartholemew Nore stout sun ravaged man xWilmington~
+a stout, sun-ravaged man~
+A stout, sun-ravaged man stands here.~
+   This man's black hair is cropped short and sits in a tangled 
+mess atop his head. His features are wrinkled and tanned from 
+exposure to the elements. Two light eyebrows sit over piercing 
+green yes, which is then followed by a lightly bent nose, thin 
+lips, and a strong chin. His neck leads down to a brawny body, 
+over which lies darkly-tanned, weatherbeaten skin. He sports 
+broad shoulders and muscled arms, which come to an end at the 
+fingertips of calloused hands. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55012
+Rego Cortez muscular young man xWilmington~
+a muscular young man~
+A muscular young man with mismatched eyes stands here.~
+   This man's thick, tangled mass of black hair falls several 
+inches shy of his shoulders. Mismatched eyes peer out from under 
+heavy brows, one an electric blue and the other a bright green. 
+A long, red scar runs horizontally under his eyes, notching the 
+bridge of his already crooked nose. His body is lean and 
+muscular, and there can be found an occasional scar marring his 
+body. Two gnarled and bumped hands are attached to his muscular 
+arms while thick legs support his light body. 
+~
+10 0 49 5 0 5d1+88 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 14 12 10 16 12 40 14
+0 0
+0 70 70 80 80 80 80 87 80 80
+0 75 75 80 0 0 70 70 0 0
+0 0 0 80 0 0 80 0 0 0
+0 0 0 0 0 0 0 0 70 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' wilmenforce 'commander' wilmingtons 'captain' wilmguard~
+0 0 0
+#55013
+Prowler agile claw-handed woman xShadows~
+an agile, claw-handed woman~
+An agile, claw-handed woman stands here.~
+   This woman is of average height and fairly muscular - but she 
+is in no way bulky. Her skin is smooth and her features are 
+fine. Her face is unblemished, with high cheek bones, a button 
+nose, a pointed chin, and full lips. Her brown eyes peer out 
+from beneath thin eyebrows, and she is rather well-groomed. Her 
+hair is combed neatly, roughly shoulder-length. Her body holds 
+its share of curves as well. Despite all this, however, the most 
+noticeable thing about this woman are her hands. Thick green, 
+bristly scales start at the wrist and cover them, and each finger 
+ends with a two-inch long, solid-black claw. 
+~
+10 0 44 67 0 5d1+104 2d7+5 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 2 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 80 50 50 0 0 70 70 70 70
+0 60 0 0 0 0 100 100 0 0
+0 0 0 0 0 0 100 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' childrenprowler~
+0 0 0
+#55014
+Ramon Duoms hardened leathery skinned man xAnarchists~
+a hardened, leathery-skinned man~
+A hardened, leathery-skinned man stands here.~
+   This man's hair is black as jet and mangily groomed. While 
+not long, with his bangs halting just under his eyebrows and the 
+rest just barely covering his ears, it still manages to appear 
+ragged and unwashed. His eyebrows are thick caterpillars, 
+sitting above dark hazel eyes, a slightly hooked nose, and a 
+squared jaw. A ragged scar tears its way around the right side 
+of his face, starting at his temple and zigzagging down to the 
+point of his chin. His body is lank, carrying its share of scars 
+without managing to appear mangled. His skin is, however, fairly 
+leathery, attesting to years of extreme weather exposure. His 
+knuckles are ragged and bumped, and his forearms are marked by 
+claw marks. The rest of his body is a proportionate mix of 
+height and muscles, with the ratio tilting more to the former; he 
+is noticeably tall and fit, not bulky. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55015
+Tristan Granes thick necked barrel chested man xAnarchists~
+a thick-necked, barrel-chested man~
+A thick-necked, barrel-chested man stands here.~
+   'Big' is an accurate description of this man. He has all the 
+typical cliches of a big guy, with his broad shoulders and barrel 
+chest, thick neck that is nearly nonexistant and lantern jaw. 
+His body is build like a rock, all hardened muscles and gray skin 
+that wraps around it in a craggy, wrinkly fashion. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55016
+Joe Mick lank green eyed man xAnarchists~
+a lank, green-eyed man~
+A lank, green-eyed man stands here.~
+   This man's hair is dark brown and wild, its wavy locks falling 
+to his shoulders. Dull green eyes and a long, crooked nose peer 
+from beneath it-- whenever it's parted, or pushed to the side. 
+His eyebrows are slightly thick, and the left one is separated 
+through the middle by a thin, pale scar. His cheeks are 
+gaunt--accentuating his high cheekbones and firm jaw, which is, 
+in turn, covered by a shaggy growth of stubble. His face bears a 
+few scars of hardship, but no wrinkles of age. His body is lean, 
+thin, taut, and covered in scars of all shapes and sizes. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55017
+Roy Trayer scruffy young man xAnarchists~
+a scruffy young man~
+A scruffy young man stands here.~
+   Dark brown hair hangs limply just past the tips of this young 
+man's ears in scraggly disarray - fraying and tangled against the 
+inner curve of them. His skin, while by no means dark by birth, 
+is unevenly tanned by nature- sunburn scalding the bridge of his 
+nose and cheeks, the tops of his shoulders, and a darker flush 
+bronzing his chest, back and forearms. His legs are curiously 
+pale, and the tops of his feet. His fingernails have been all 
+chewed to the quick and are grimed beneath by dirt; his hands are 
+rough but relatively hairless - the same as his chest, the hairs 
+on which are scraggly and few and far between. He is lanky to 
+the point of being gaunt, but nevertheless has a muscular set to 
+him: his arms and chest defined, if not toned, and legs hard for 
+all their lack of bulk. His eyes are a dark, matte green; he 
+seems to bear few scars. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55018
+Tameo barbate hazel eyed man xVultures~
+a barbate, hazel-eyed man~
+A barbate, hazel-eyed man stands here.~
+   Black, shaggy hair flecked with grey specks covers this man's 
+head, parted in the middle to keep it out of his face as much as 
+possible. His dark brows are thick and arch over hard, hazel 
+eyes, set deep into the man's skull. He has perpetual bags under 
+them, giving them the appearance of being constantly blackened. 
+His large nose juts from the front of his head and is dented 
+considerably in the center. His lips are thin and nearly without 
+color; only the vaguest pink touches them. His angular jawline 
+is shrouded in dark stubble. His neck is thin and leads down to 
+a narrow chest, thin shoulders, and long, gangly limbs. While 
+not emaciated, the man is obviously undernourished; his joints 
+are knobbly and poke out through his dark skin. The man shares 
+his hair of battlescars, ranging from pockmarks to long, ragged 
+tears, ripping across his flesh in a garish pink. 
+~
+10 0 5 5 0 5d1+88 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+13 16 15 10 13 12 40 11
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' vultures~
+0 0 0
+#55019
+Bruce white maned dark skinned man xVultures~
+a white-maned, dark-skinned man~
+A white-maned, dark-skinned man stands here.~
+   This man's hair is pulled back away from his face, dropping 
+down to his mid-back and colored white, though accumulated dust 
+makes it more of a gray color. His white hair contrasts the 
+darkness of his skin, nearly dark enough to cause his features to 
+blend in together, if they weren't matted with scars. Colored a 
+pale pink, they stretch and curve and zig-zag across thick lips 
+and a blunted nose; they cross dangerously close to his pale 
+green eyes, but the both of them are intact. The rest of his 
+body is similarly coated in all manner of the pale scars, warping 
+his skin, though none of them seem bad enough to have caused any 
+structural damage. 
+~
+10 0 26 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 30 0 0 50 0 16 40 40 40
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' vultures 'member' grungetown~
+0 0 0
+#55020
+Lan messy haired green eyed man xVultures~
+a messy-haired, green-eyed man~
+A messy-haired, green-eyed man stands here.~
+   Wild, reddish-colored hair sprouts in every direction from 
+this man's head. Long, shoulder length strands fall freely, 
+falling into his face if left unchecked. His flat green eyes 
+peer out of a narrow face, and a pair of thin lips sit under his 
+pointy nose. Dark, weathered skin is littered with lightened 
+scars, each one a shade of pink that mars his darker flesh. A 
+set of long sinewy arms are connected to this man's bulky chest 
+which is supported by a pair of massive, sturdy looking legs, 
+making this man's huge frame truly something. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' vultures~
+0 0 0
+#55021
+Rimbi Mister Smite damnably big dude xVultures~
+a damnably-big dude~
+A damnably-big dude looms here.~
+   Bull-necked, broad-shouldered, trunk-limbed, and 
+barrel-chested - these cliches and more can be used to describe 
+this man's appearance. Built like a brick and a cinderblock had 
+a hairy child, his features are as blocky as either, with a 
+heavy, sloped brow, a blunted nose, and a lantern jaw. His head 
+is covered by a thick, tangled mass of black hair that seems to 
+have no end; a thick beard covers the majority of his face, and 
+no small amount of the thick stuff also covers his chest, back, 
+arms and legs, whenever exposed. Hidden beneath this carpet are 
+multiple scars of different types, a few big, a few small. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55022
+Timothy big handed broad shouldered man xVultures~
+a big-handed, broad-shouldered man~
+A big-handed, broad-shouldered man stands here.~
+   Black, unkempt hair shoots out in every direction from this 
+man's head. Deep blue eyes peer out of sunken eye sockets, and a 
+long scar crosses the left side of his face. His large nose is 
+awkwardly bent, as if once broken and set improperly, and his 
+large cracked lips hide a set of dark yellow teeth. Though his 
+attributes might suggest this man of poor health, one look at his 
+form says otherwise. His long arms are knotted with hardened 
+muscle and end in massive, calloused hands. His huge torso is 
+supported by a set of sturdy looking legs and his shoulders are 
+framed in such a way to draw himself to his full height with 
+little effort. 
+~
+10 0 45 5 0 5d1+120 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+19 16 20 16 16 20 40 17
+0 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' rannravens 'captain' vultures~
+0 0 0
+#55023
+Rinth robo armed sanguine mohawked woman xVultures~
+a robo-armed, sanguine-mohawked woman~
+A robo-armed, sanguine-mohawked woman stands here.~
+   Slightly grayed with dust, this human female's hair sticks up 
+from the center line of her scalp in long, blood-red strands. 
+Shaved on either side, her hair is done in even spikes, each one 
+about half a foot long, jutting upwards. The crimson spikes 
+match a pair of razor-thin brows that streak over a pair of 
+slanted, inky-green eyes. Between her dark eyes, a high-bridged 
+nose that tends toward beakiness sits dominant over a dour mouth 
+adorned with parched and cracked lips. Exposure to dry, lifeless 
+air has given her feral face and sinew-brushed limbs the 
+appearance of being cast from weathered granite, with skin 
+further dulled and marred heavily with an assortment of scars and 
+branding-like burns spaced in random intervals around her face 
+and body. Taut and lean, with little spare fat to shape any 
+curves, her tall frame is touched with the pinched and narrow 
+appearance of malnutrition. Her left arm is a series of 
+uncovered wires and hydraulics, sprouting out of her shoulder, 
+jointed at the elbow, and ending in four metal claws. 
+~
+10 0 5 68 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55024
+Bjork greasy nearly toothless man xDoghouse xShopkeep~
+a greasy, nearly-toothless man~
+A greasy, nearly-toothless man is here, polishing a dirty glass with a dirty rag.~
+   This filthy man is slightly hunched, often wearing a 
+snaggle-toothed grin. Altogether, his mouth probably holds a 
+total of seven teeth, and each of those is cracked and yellowed. 
+His hair is slick with grease, the black strands clinging 
+desperately to his scalp. He has a crooked nose, a gaunt face, 
+sunken eyes, grayish skin, and a general air of malnutrition - 
+with no fat on his body, the bit of muscle that he has is 
+stretched taut over his knobbly skeleton. 
+
+You can #2SELL BOOZE#0 or #2SELL SPIRITS#0 to this man.
+~
+26 0 36 5 0 5d1+112 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 1
+54583 54592 1.000000 0.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777206
+230 2073 2074 8114 -1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' new_phoenix_merc~
+0 0 0
+#55025
+Maxine svelte raven bobbed woman xShopkeep xHeady~
+a svelte, raven-bobbed woman~
+A svelte, raven-bobbed woman stands here, surrounded by smoke.~
+   Lean lines, taut with muscle, make up the slender contour of 
+this raven-haired woman's physique. Sloe eyes, long lashed and 
+heavy-lidded, make a dark match to smooth, almost glassy-black 
+hair which is cut in a neat bob at her chin. Pencil-thin 
+eyebrows, sharply-defined features and a svelte form with only a 
+hint of curve to guide the eye, nonetheless allows her to cut a 
+striking figure. As if an appeasement to classical feminine 
+beauty, her mouth is lusciously shaped and full, and bears a 
+glossy, red hue which contrasts against the paleness of her skin 
+and breaks the monochrome of her coloring. 
+~
+26 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 1
+56246 56035 5.000000 0.500000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+9028 9027 10068 10069 -1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 1 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55026
+Colt debonair slick haired man xSunshine xShopkeep~
+a debonair, slick-haired man~
+A debonair, slick-haired man stands here, tending the patronage.~
+   This guy is pretty swanky, with dark, slick-backed hair and a 
+neatly-trimmed goatee. Dark eyes peer from beneath trimmed 
+eyebrows, and his nose holds a slightly downwards hook. He 
+apparently goes through no small effort to keep himself clean - 
+his features and body are spotless, and his tanned skin kept 
+oiled. His body, similarly, is taken care of; he is fit without 
+being overly bulky, and toned. 
+~
+26 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 1
+56260 56011 5.000000 0.500000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+-1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55027
+Jack gruff hunched man xJack xShopkeep~
+a gruff, hunched man~
+A gruff, hunched man tends the counter here.~
+   This man's hair is colored - perhaps died - a dark red. The 
+locks are long and greasy and parted down the middle, exposing 
+his forehead. His ears are blunt, and his hair is tucked back 
+behind them. Cool blue eyes are situated beneath thin brows, and 
+his cheeks are gaunt, making his cheekbones seem to jut outwards. 
+His lips are thin and cracked, and his mouth is lined with 
+stained yellow teeth. The rest of his body bears little 
+distinction - a not-quite-emaciated frame, scarred pale skin, 
+wiry arms and legs. He stands at a slight hunch, perhaps owing 
+to years of manual labor. 
+~
+26 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 0
+56245 56034 5.000000 0.050000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+4052 4053 4054 4055 4056 4057 4058 4059 4060 4061 4062 4063 4064 4065 4066 4067 4068 4069 4070 4071 4072 4073 4074 4075 4076 4077 4078 4079 4080 4085 4086 4087 4088 4089 4091 4092 4093 4094 4095 4096 4097 4098 4099 4108 4109 4112 4111 -1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55028
+Ray thickly built blockish man xRay xShopkeep~
+a thickly-built, blockish man~
+A thickly-built, blockish man sells junk.~
+   A thick mane of blonde hair falls from this man's head, with 
+the bangs and sides cut into a crude mullet. His brows are heavy 
+and sit above an ugly face-- square and blockish, a crooked nose 
+and brown eyes. A whipvine scar adorns the right side of his jaw 
+and moves with his expression, or when he talks. He is slightly 
+taller than average, and his limbs sport thick, corded muscles. 
+His knuckles are gnarled and bumped, but his fingers are in 
+particularly good shape, long and only calloused on the tips of 
+the fingers. 
+~
+26 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 1
+56259 56033 5.000000 0.500000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+8119 8127 8120 8121 8122 8123 8124 8125 8110 8111 8094 8105 8108 8109 11097 8080 1100 1101 1102 1103 1107 1108 1030 1031 1033 1034 1036 1037 1020 1039 1040 1041 5149 5150 13045 8095 9016 8142 8093 8067 8162 8156 8157 8158 8159 8160 8161 3061 8163 8169 8168 8180 -1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55029
+Isabella swarthy night eyed young woman xSassy xShopkeep~
+a swarthy, night-eyed young woman~
+A swarthy, night-eyed young woman sells clothes, here.~
+   Thick inky hair, crowns this woman's head in a shorn style, 
+chopped roughly off at chin length, and even shorter over her 
+almond-shaped eyes. Their hue is as deep as night, a black which 
+renders her pupils indistinct from the iris. Swarthy and dark, 
+her lips curve in full lines beneath the aquiline shape of her 
+nose. Thinly tattooed lines trace shadows over the exposed 
+majority of her richly-hued skin, tinted to the shade of 
+deeply-caramalized sugar. Her limbs, wiry with muscle, reflect 
+the lines of her torso, but even the sinew lining her frame does 
+a poor job hiding the feminine curves which mark her sex. 
+~
+10 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 0
+56244 56033 5.000000 0.500000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+-1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55030
+Dexter pencil necked spidery fingered man xMen xShopkeep~
+a pencil-necked, spidery-fingered man~
+A pencil-necked, spidery-fingered man watches the store, here.~
+   This man is particularly skinny and particularly covered in 
+wrinkles - his head, made to seem all the larger because of the 
+pitiful state of his neck - is wrapped in what could be layers of 
+leathery, wrinkly, brown skin. It nearly hides his features 
+completely, though his pale blue eyes can be seen peeking through 
+the folds. His body is frail and done up tightly in that brown 
+skin of his. His limbs are long, and his arms end in long, 
+dextrous fingers. 
+~
+10 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 0
+56213 56034 5.000000 0.500000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+-1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55031
+Rodrigo big nine fingered man xMusty xShopkeep~
+a big, nine-fingered man~
+A big, nine-fingered man watches over the store.~
+   This man is pretty big, and he is made entirely out of muscle. 
+Attributing to a long life of hard labor, his form is rock-solid, 
+and he stands ramrod straight. While big, he is by no means a 
+pretty man - his face looks to have been rearranged with a 
+particularly disagreeing brick, and he has a hair-lip. His hair 
+is light brown and is cropped in no particular order. The pinky 
+finger of his left hand is missing. 
+~
+26 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 1
+56218 56031 5.000000 0.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+6081 -1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55032
+Bareck seedy blue eyed man xBareck xShopkeep~
+a seedy, blue-eyed man~
+A seedy, blue-eyed man watched the store, or over his shoulder.~
+   This man's blue eyes are constantly shifting this way and 
+that, the movements holding a nervous quality. His brows are 
+heavy, those eyes sunken, and his pointed nose is crooked. He 
+has a receding hair line. The man is pretty scrawny, too - his 
+arms are lanky and long, as well as his legs. 
+~
+10 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 0
+56269 56033 5.000000 0.500000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+-1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55033
+Inigo curly haired average sized guy xVultures xShopkeep~
+a curly-haired, average-sized guy~
+A curly-haired, average-sized guy watches the counter.~
+   This young man of average height has piercing blue eyes and 
+curly blood-red hair. A few lightened scars mark his darkly 
+tanned skin. At the end of well-muscled arms hang thick-knuckled 
+hands, while his built-looking form is supported on stout, 
+muscular legs. 
+~
+26 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+0 1
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55034
+Ismael really big man scars xIsmael xShopkeep~
+a really big man with scars~
+A really big man with scars is here, selling goods.~
+   This guy is built like the Perimeter - taller than anyone and 
+nearly as wide. His body ripples with muscles; in fact, the man 
+might as well be a sea of muscle. All of this is barely 
+contained by darkly-tanned skin. His black hair is buzzed short 
+atop his large head, though he does sport a pair of fairly long 
+sideburns. 
+~
+10 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 1
+56261 56032 5.000000 0.500000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+-1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55035
+Troy dapper dark haired gentleman man xSex xShopkeep~
+a dapper, dark-haired gentleman~
+A dapper, dark-haired gentleman mans the storefront.~
+   Perhaps the most noticeable thing about this suave man is his 
+mustache - a solid black handlebar mustache, it is neatly combed 
+to either side of his face, about eight inches in total length. 
+Thick as it is, it makes his mouth nearly indiscernable. Short, 
+dark brown hair adorns the top of his head, combed very neatly to 
+the right. His nose is rather small, and above it sits hazel eyes 
+under groomed eyebrows. 
+~
+26 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 1
+56236 56030 5.000000 0.500000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+14045 -1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55036
+Sabrina sinewy frosty haired woman xBuzzard xShopkeep~
+a sinewy, frosty-haired woman~
+A sinewy, frosty-haired woman stands here.~
+   The pale, moon-white skin that covers this small woman's form 
+matches uncannily with her frosty-white, silver-touched hair. 
+These features, when combined with the glacial silver-blue of her 
+large eyes, give her a look of iciness only offset by the natural 
+upward bow of her full lips. Her hair has been bluntly chopped 
+at shoulder length, leaving unruly locks of the thick tresses to 
+fall against the deceptively delicate features of her face to 
+veil them. Her body is sinewy with muscle, the small frame toned 
+and packed with a wiry strength and energy that is suffused 
+through her lithe limbs with each movement. 
+~
+26 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 1
+56220 56126 1.000000 0.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+-1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' buzzardbeaker~
+0 0 0
+#55037
+Sam dirty gnarly man xSam xShopkeep~
+a dirty, gnarly man~
+A dirty, gnarly man attends the storefront.~
+   White hair, swept haphazardly back, covers this man's head in 
+thick tangles. His eyes are dark green and are evenly spaced 
+over a slighty-upturned nose. Light scars run dark crisscrosses 
+over his face, though none are particularly large or notable. He 
+is slightly tall, for a guy, and his body is muscular, though not 
+heavily built. Weathered skin is stretched tightly over long 
+arms and legs, interrupted occasionally by scars. Arms and legs 
+end in calloused hands and feet, described respectively with 
+long, gnarled fingers and stubby toes. 
+~
+10 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 0
+56242 56041 5.000000 0.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+-1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55038
+Bobert clean short man xLondon xShopkeep~
+a clean, short man~
+A clean, short man attends to patients and medical supplies.~
+   This tiny man is rather clean, and rather short. He's about 
+two heads shorter than most, and skinny, to boot. His slender 
+frame is borderline emaciated, with the occasional rib and other 
+bone poking out. His head is shaved, and he overall appears 
+pretty hairless. 
+~
+26 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 1
+56262 56042 5.000000 0.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+10038 10001 10020 -1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55039
+Chad bald headed man goatee xTradepost xShopkeep~
+a bald-headed man with a goatee~
+A bald-headed man with a goatee watches the counter.~
+   Light blue eyes have been set shallow in this man's narrow, 
+fair-skinned face. Above a pair of thin lips sits a slightly 
+crooked nose, a distinct bump in the center suggesting an 
+improperly set fracture. Faded scars mark his pale skin, a long, 
+pink slash under his left eye being the most notable. His head 
+has been shaven bald, a black goatee serving as his only facial 
+hair. Hardened muscle supports his frame, forcing his shoulders 
+back to further compliment his height. 
+~
+26 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 1
+56010 56040 5.000000 0.050000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+-1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55040
+woman inky-skinned behemoth~
+an inky-skinned behemoth of a woman~
+An inky-skinned behemoth of a woman manages a low-brow sect of auction stalls in this section of the market.~
+   Encased in a preponderous amount of blubber and muscle, this 
+behemoth of a human appears to be female, or at least somewhat 
+curvier than would be typically considered masculine. Though her 
+head has been shaved, the fuzz that remains is far lighter than 
+her skin tone, with a reddish cast. It is her skin, however, 
+that offers her the majority of her coloration: it is a rich, 
+almost purplish black which sets off the whites of her brown eyes 
+and the numerous wire and stud piercings spiking her large ears, 
+lips and broad nose. Small scars bite into her skin, salting the 
+black with silvery specks and her enormous hands are 
+spade-fingered and heavily calloused. 
+~
+50332170 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 55040 0 55283 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+0 1
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55041
+Franz squat fork bearded man xMarket xShopkeep~
+a squat, fork-bearded man~
+A squat, fork-bearded man organizes the auction, yelling and gesturing vividly.~
+   This little man's bearing belies his stature. Confident and brusque, he 
+manages a commanding presence despite being a full head shorter than most. His 
+arms are thick with the musculature of hard work which, combined with his 
+bow-legged posture, lends him a slightly comical appearance. His broad, 
+subdued facial features are partially obscured by a neat beard, protruding from 
+his chin where it forks into three spikes. 
+~
+16777738 0 36 5 0 5d1+112 1d2+0 0 8 8 1 1 0 0 0
+0 55063 0 54582 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+0 1
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55042
+Boar gigantic dark eyed man xMarket xShopkeep~
+a gigantic, dark-eyed man~
+A gigantic, dark-eyed man offers various goods for sale.~
+   The man is a near giant among men, standing a full head taller 
+than most. A thick, tangled mass of hair that reaches his 
+shoulders sits atop his head. His eyes are dark brown - nearly 
+black. Three parallel red scars are barely visible on the right 
+side of his face, the extent of these being covered by other, 
+smaller scars. His neck is a maze of interlocking scars, the 
+largest of which slices straight across his throat. His massive 
+frame sports a webwork of pockmarks, lines, and healed puncture 
+wounds. His arms and legs are covered with thick muscles, while 
+his knuckles are gnarled and bumped from their being broken and 
+then healing over several times in the past. His skin is tanned 
+brown in color and he has a tattoo of a bright green snake 
+coiling up his back. 
+~
+10 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 1
+55289 55459 1.000000 0.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+8104 8082 8072 8084 8086 8128 8130 8103 8079 8115 8013 6081 10082 10081 10083 8021 8134 8135 8136 -1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55043
+Rat emaciated one eared man xMarket xShopkeep~
+an emaciated, one-eared man~
+An emaciated, one-eared man sells various goods.~
+   This man has a perpetually hungry look about him. His hair is 
+dyed a blood red and sticks up in short, greasy tufts. His eyes 
+are a jaundiced-yellow and his skin is colored a dark brown, 
+though mottled white here and there. He is scrawny and his hands 
+are callused and scarred-- though his fingers seem unnaturally 
+long and nimble. A tattoo depicting a coiled snake, done in 
+bright red ink, lies just below his right eye and three short, 
+straight scars run across both his wrists. One of his large 
+ears, his left, has had the tip torn from it, while his right has 
+been altogether removed 
+~
+10 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 1
+55287 55460 1.000000 0.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+10019 8063 8064 8065 8068 8069 8070 10047 10073 10036 53205 5033 5057 5058 5059 5060 5061 -1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55045
+Pierre bull necked ham handed man xRevolucion xShopkeep~
+a bull-necked, ham-handed man~
+A bull-necked, ham-handed man watches the bar.~
+   This man's hair is black, dirty, grown long, and swept back 
+over his scalp; it is generally kept behind his ears, has the 
+upper half of it wasn't torn off. His thick brow slopes 
+downwards, nearly hooding his eyes, a muddy brown in color. He 
+has a blunted nose what sits over a large, frog-like mouth. He 
+has a thick, bullish neck that connects to a barrel chest, from 
+which sprout two thickly-muscled and long arms, which furthermore 
+end in giant hands. He stands in a hunch. Overall, this man's 
+scarred body is thick, muscled, and massive, proving a lifetime 
+of exposure and hardships. 
+~
+26 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 1
+56250 56251 1.000000 0.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 0
+-1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55044
+Crow rawboned weathered man xMarket xShopkeep~
+a rawboned, weathered man~
+A rawboned, weathered man stands here.~
+   His dark green eyes peering out of a broad face - they have a 
+slight earthen tint to them. Long dark brown hair is tied back 
+into a pontail reaching to his shoulders. Hardened muscle can be 
+seen beneath his scarred, darkly tanned skin. His somewhat large 
+frame is well supported by long legs and his longs arm lead to 
+thickly calloused hands. 
+~
+10 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 1
+55283 55461 5.000000 0.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+-1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55046
+Jimmy burly hairy man xGuns xShopkeep~
+a burly, hairy man~
+A burly, hairy man stands at the counter.~
+   This man's massive head holds a pair of dark green eyes, which 
+sit above a pig-like nose. His mouth is filled with crooked and 
+broken teeth, each of which is a varying tint of yellow. A pair 
+of long, beefy arms hang from his large and solid looking chest, 
+all of this being held up by a set of short, sturdy legs. Any of 
+his tanned skin that is exposed is most likely covered in scars. 
+The most noticeable one is a large scar that starts from his left 
+ear and moves along down his neck, disappearing under his 
+coverings. 
+~
+26 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 1
+56243 56039 5.000000 0.500000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+13030 13031 13032 13033 13034 13035 13036 13037 13038 13110 13111 13112 13113 13114 13115 13116 13117 13118 13021 13022 13023 13024 13025 13026 8141 8145 -1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55047
+Tracy lissome chestnut tressed woman xAnarchist xShopkeep~
+a lissome, chestnut-tressed woman~
+A lissome, chestnut-tressed woman keeps registry, here.~
+   Touched with auburn-red highlights, a thick mane of glossy 
+tresses, hued a rich, deep brown, spills down the head and over 
+the shoulders of this young woman. A few of the tresses fall to 
+frame her features, and the deep tint of the locks, which match 
+her arching brows, sets off the velvety blue of her cerulean 
+eyes. A thin nose and high cheekbones, combined with her small 
+chin, serves to give her face a feline cast. Save for a small 
+mole which draws attention to her sensitive-looking lips, her 
+fair skin is otherwise unmarred by any scar or blemish as it 
+stretches over her finely-boned features and slender frame. The 
+tone and curvatures of her lissome body suggests a lacking 
+familiarity with strenuous physical labor. 
+~
+10 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55048
+rat PACKLEADER $ratfeature xSewers~
+a $ratfeature rat~
+A $ratfeature rat scurries here.~
+This mangy, emaciated creature scurries around frantically, darting from shadow to shadow to either eat or hide from predators or both. It sports all the features of a rat: beady eyes, a long, hairless tail, and a squat body. $ratfeature.
+~
+136314920 9175044 5 71 0 5d1+52 2d5+0 0 8 8 0 0 0 0 0
+11003 0 0 2100 0 0 50 0 0 0 1 0 0 0 0 0 0 0 0
+8 16 3 16 16 3 40 15
+268435456 0
+0 10 0 0 10 0 16 16 0 0
+0 0 0 0 0 0 40 60 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' sewer_rat~
+576 86 0
+#55049
+mob new~
+a new mobile~
+(null)~
+(null)~
+8 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
 0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
 16 16 16 16 16 16 40 16
 0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55050
+Debbie drab wrinkled woman xColor xShopkeep~
+a drab, wrinkled woman~
+A drab, wrinkled woman tends this shop.~
+   This woman is rather dull - she has a hard, worn look about 
+her, and little else of much mention. Crows feet mark the 
+corners of her eyes in hard lines, and the rest of her face is a 
+mess of other harsh wrinkles. While her body is bent with age, 
+it is not yet broken, with hard muscles lying beneath layers of 
+wrinkled skin. 
+~
+26 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 1
+56001 56038 5.000000 0.500000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+8067 8073 8075 8074 8076 8077 8078 8087 8088 8089 8090 8091 8092 8106 8112 3024 3026 3027 3028 3029 3030 3031 3032 3033 3034 3035 3036 3037 3038 3039 3040 3041 3045 3042 3047 3050 3052 8149 -1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55051
+Jon brawny dark haired man xFurniture~
+a brawny, dark-haired man~
+A brawny, dark-haired man tends the shop.~
+   This large man has hard, chiseled features, long black hair, a 
+lantern jaw, and a great big bushy beard. His beady green eyes 
+are set far back in his thick skull, and his nose is particularly 
+large. While not particularly tall, this man is quite stout. 
+His arms and legs are muscular and scarred, his chest is large 
+and covered with hair. This man nearly has muscles on top of his 
+muscles, and he appears accustomed to using them frequently. 
+~
+10 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55052
+Jennifer skinny brown eyes woman xAccessories xShopkeep~
+a skinny, brown-eyed woman~
+A skinny, brown-eyed woman watches the store.~
+   Standing tall and stick thin, this woman has a somewhat 
+haunted look with her brown, deep-set eyes and yellow-hued skin 
+tone. A lack of color has left her olive skin tone washed out, 
+but despite her jaundiced appearance, she actually seems quite 
+sturdy. Her long and tenuous limbs are steady, and her posture 
+is upright. The hair crowning her head is a rather mousy shade 
+of brown, and it falls quite straight and limp down to her 
+shoulders. 
+~
+26 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+1 1
+56217 56029 5.000000 0.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+14036 14037 14038 14018 14019 14022 14023 14024 14025 14026 14027 14028 14031 14032 14034 14035 14039 14040 14041 14042 14033 -1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55053
+guard shop~
+a shop guard~
+A shop guard guards shops.~
+   Big and gruff, this person keeps a watchful eye on the shop $e 
+attends. 
+~
+4106 0 16 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+268435456 0
+0 24 30 26 23 20 21 20 29 26
+30 28 22 24 20 0 0 0 0 0
+0 24 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' shop_guard~
+0 0 0
+#55054
+Wilmington mob~
+a Wilmington mob~
+A Wilmington mob is here.~
+   This person carries themselves with typical Wilmington pomp 
+and dignity; the clothes $e wears is immaculately pressed and 
+crisp, and their chin is held high. 
+~
+8 0 15 5 0 5d1+96 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+15 11 11 10 15 14 40 12
+268435456 0
+0 24 23 25 23 22 21 29 25 21
+21 25 27 22 27 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55055
+Vulture mob~
+a Vulture mob~
+A Vulture mob is here.~
+   This person has all the swagger and devil-may-care manner of a 
+Vulture; their appearance is flamboyant and rugged, with varying 
+ornaments all over and wild colors, and $e holds himself with a 
+notable, laid-back slouch. 
+~
+8 0 16 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+268435456 0
+0 27 26 20 24 30 25 25 24 28
+20 27 29 20 28 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55056
+Anarchist mob~
+an Anarchist mob~
+An Anarchist mob stands here.~
+   This person can only be a member of the Revolutionary Army, 
+colloquially known as the Anarchists. From the fiery ardent 
+glint in their eyes, to the erect and straight-backed 
+military-like posture, $e is an Anarchist through and through. 
+~
+8 0 16 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+268435456 0
+0 28 27 25 20 24 22 29 21 25
+25 29 28 30 29 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55057
+trigger-puller tarriff~
+a New Phoenix tarriff collector~
+A New Phoenix tarriff collector is here.~
+(null)~
+10 786434 22 5 100 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 100 100 0 0
+10 0 0 0 0 0 100 100 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown~
+0 0 0
+#55058
+Lucy Lucretia monstrosity lizard like black wings~
+an enormous black lizard-like monstrosity with wings~
+An enormous black lizard-like monstrosity with wings soars here.~
+   This is a fearsome sight to behold. Towering over thirty-feet 
+high, with a twenty-feet wingspan, this monstrosity is larger 
+than any lizard has the right to be. Completely covered in 
+gleaming, thick black scales, the monster might be considered 
+beautiful, if not that it looked completely and utterly 
+dangerous. Not to mention the razor-sharp teeth in a gigantic 
+maw, the beast has four talons per claw that are as long as a 
+man, wicked scimitars that can easily rend flesh and armor as if 
+it was paper. Even more fearsome, its head is ridged with dozens 
+of white spiny protrusions, like horns, and all along its 
+serpentine back. The wings that stretch out, able to encompass 
+an entire building, are as black as night, and equally ridged 
+with spines. 
+~
+538968074 4 45 86 11 5d1+200 2d8+5 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 45 0 0 0 0 0 0 0 0 0 0 0 0
+22 16 22 16 16 22 40 15
+0 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' lizards~
+0 0 0
+#55059
+mob new~
+a new mobile~
+(null)~
+(null)~
+8 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55060
+Eloine typically built fiery haired woman~
+a typically-built, fiery-haired woman~
+A typically-built, fiery-haired woman stands here.~
+   This woman is neither short nor stocky, or particularly 
+remarkable in any way; other than her fiery long hair, 
+artificially dyed to be a myriad of orange, yellow, white, and 
+black, nothing about her stands out. Her eyes are a dull brown, 
+with a long, stern face, and a square jaw. Her skin is tanned 
+and leathery, as though she spent most of her days out in the 
+harsh sun. 
+~
+10 0 36 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' wilmingtons~
+0 0 0
+#55061
+mutant children~
+a new mobile~
+(null)~
+This stunted person bears the obvious signs of the Plague. With a predatory stalk, $e seems animalistic.
+~
+8 0 24 67 0 5d1+100 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+13 16 15 16 16 15 40 13
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' childrenprowler~
+0 0 0
+#55062
+Batukhan NANGONG sharp-featured wavy-haired older man~
+a sharp-featured, wavy-haired older man~
+A sharp-featured, wavy-haired older man is here.~
+   A dark, weathered skin covers the somewhat spindly frame of 
+this older man, it considerably lacking in any muscle. His 
+features are angular and sharp in appearance - his nose is 
+aquiline and pointed and his cheekbones are high and pointed. 
+His face is framed by greasy locks of black hair which often 
+dangle haphazardly in front of his dark chestnut eyes. 
+~
+10 0 16 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 50 0 0 0 30 20 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 100 0 0 0
+0 0 0 0 0 0 0 0 60 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown 'commander' nangongtheatre~
+0 0 0
+#55063
+Bayarmaa NANGONG dreadlocked sky-blue-eyed woman~
+a dreadlocked, sky-blue-eyed woman~
+A dreadlocked, sky-blue-eyed woman is here.~
+   This woman's darkened face is framed by thick black dreadlocks 
+which hang nearly to her waist at the back. Her features are 
+delicate and lend her a habitually kind look: soft lips near 
+always drawn in a smile and her thin, neat eyebrows always 
+lifted. Her body is curvaceous and shapely, wrought with light 
+but noticeable muscle - clearly a sign it is being kept in good 
+form. 
+~
+8 0 16 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 40 0 0 0 40 30 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 100 0 0 0
+0 0 0 0 0 0 0 0 60 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown 'commander' nangongtheatre~
+0 0 0
+#55064
+Art gruff featured cleanly trimmed young byKodiak~
+a gruff-featured, cleanly-trimmed young man~
+A gruff-featured, cleanly-trimmed young man is here, tending to the shop-counter.~
+   An older adolescent, this young man's head is shaven 
+completely bald. His nose is thick and flat, his jaw heavy and 
+his arms thick with poorly-defined muscles. He has strikingly 
+blue eyes, which peer out from a face marred by slashes and what 
+appear to be chemical burns. He's a bit on the shorter side and 
+husky, with dark tattoos up and down his arms. His skin is 
+tanned an uneven reddish-brown, and freckles dot his form all 
+over. 
+~
+1050 0 36 0 0 5d1+110 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+18 12 10 10 14 18 40 12
+1 1
+55508 55510 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777120
+-1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 0 60 60 60 60
+60 60 60 0 0 0 50 50 0 0
+50 0 0 70 0 0 70 0 0 0
+0 0 0 0 0 0 0 0 60 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' drugs_flavorings_chemicals~
+0 0 0
+#55065
+closer door monkey~
+a door-closer monkey~
+A door-closer monkey screeches and horses around here, making sure doors are closed.~
+(null)~
+10 786434 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 100 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#55150
+testing auctions~
+testing auctions for holmes~
+This dude's testing auctions for holmes.~
+(null)~
+50332170 0 5 104 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 350 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 1
 0 0 10 0 0 0 16 16 0 0
 10 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0

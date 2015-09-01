@@ -1,1 +1,57 @@
+#99000
+Jane mannequin statuesque~
+mannequin Jane~
+A statuesque mannequin stands, posing.~
+   This is Jane. She is a statuesque mannequin, molded of beige 
+plastic. Her face is featureless and smooth, her head a hairless 
+oblong ball. Her limbs are long and posed, but unjointed and 
+solidly formed, making movement difficult. 
+~
+8 0 5 1 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#99001
+mob new~
+a new mobile~
+(null)~
+(null)~
+8 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
 $~

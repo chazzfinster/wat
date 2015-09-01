@@ -1,9 +1,15 @@
 #62
 Lead: (null)~
-Empty Zone~
+Carthage~
 (null)~
 (null)~
 (null)~
 (null)~
-0 0 0 0 0 0
+0 0 0 1 0 0
+D 0 62006 1 1
+D 0 62006 2 1
+D 0 62011 0 1
+D 0 62012 3 1
+D 0 62013 5 1
+D 0 62005 4 1
 S

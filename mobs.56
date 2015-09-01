@@ -1,1 +1,1258 @@
+#56000
+doorguard Vultures~
+A Vultures doorguard variable mob~
+A Vultures doorguard variable mob stands here.~
+   This person has an alert gaze and $e has a vigilant stance, 
+keeping watch over their doorpost. 
+~
+10 0 16 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+268435456 0
+0 28 25 26 26 28 27 21 27 27
+27 24 29 24 29 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' buzzardbeaker 'sergeant' vultures~
+0 0 0
+#56001
+doorguard Wilmington~
+a Wilmington doorguard~
+A Wilmington variable doorguard stands here.~
+   This person has alert eyes and $e holds themselves with a 
+vigilant stance over their assigned doorpost. 
+~
+10 0 15 5 0 5d1+88 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 11 11 10 12 12 40 16
+268435456 0
+0 25 28 27 25 24 21 24 25 20
+27 27 27 30 28 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' wilmingtons~
+0 0 0
+#56002
+Anarchists doorguard~
+An Anarchists doorguard~
+An Anarchists variable doorguard mob is here.~
+This person has alert eyes and $e holds themselves with a vigilant stance about their assigned doorpost.
+~
+10 0 16 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+268435456 0
+0 21 27 23 22 21 28 27 28 21
+27 25 23 30 27 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' anarchs~
+0 0 0
+#56003
+Finn large dark skinned man shaved head xNaturiShop~
+a large, dark-skinned man with a shaved head~
+A large, dark-skinned man with a shaved head minds the store.~
+   Standing nearly at six and a half feet, this dark-skinned man 
+is very tall and quite large. His musculature is compact, but 
+the build of his body is broad, making his bulk seem larger than 
+it actually is. His skin tone is a dark, rich mahogany that is 
+decorated by various black-inked tattoos around the neck and all 
+down the arms. His nose is broad and his thick lips part to 
+reveal starkly white teeth when he speaks or smiles. Despite his 
+size and general appearance, his eyes are a soft brown, the 
+length and curl of his eyelashes adding an unexpected effeminate 
+touch. 
+~
+26 0 24 5 5 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+13 16 15 16 16 15 40 13
+1 1
+56081 56083 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+-1
+0 0 0 0 0 0 0 0 0 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' naturi~
+0 0 0
+#56004
+Pilot Rogerstein ruddy face man handle bar mustache xMattShop~
+a ruddy-faced man with a handle-bar mustache~
+a ruddy-faced man with a handle-bar mustache minds the store.~
+   This man has a stocky build, with thick, strong muscles, burly 
+hands, and a ruddy complexion. His head is shaved completely 
+bald, the skin there a bit paler than the rest of his body. He 
+has two bushy eyebrows, reddish-brown in color, that seem to be 
+set in a perpetual scowl over his light-green, beady eyes. His 
+nose is thick, and looks like it has been broken before. Two 
+round, blushed cheeks give him a sort of baby face. His lips are 
+thin, almost hidden by his thick, handle-bar mustache, the same 
+reddish color as his eyebrows. He has off-white teeth, his front 
+left tooth having been replaced with a metal one. 
+~
+26 0 24 0 5 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+13 16 15 16 16 15 40 13
+1 1
+56085 56087 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+-1
+0 0 0 0 0 0 0 0 0 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' rogerstein~
+0 0 0
+#56005
+Eric wiry unruly haired male youth xAKShop~
+a wiry, unruly-haired male youth~
+A wiry male youth with unruly, blond hair waits to speak to customers.~
+   Still clearly in the awkward stages before true adulthood, 
+this youth still has a hardbitten look to him, showing in the 
+gauntness of his face and the leaness of an ungainly body. He 
+looks about alertly, and is quick with a crooked-toothed grin. 
+Unruly, tangled blond hair falls about his pale features, a pair 
+of dark brown eyes gleaming beneath heavy brows. Already his 
+hands are rough from hard work, and a smattering of scars can be 
+seen wherever is not covered by clothing. 
+~
+26 0 24 5 5 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+13 16 15 16 16 15 40 13
+1 1
+56090 56092 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+-1
+0 0 0 0 0 0 0 0 0 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'recruit' fixed~
+0 0 0
+#56006
+Sasha young heavily tattooed woman bright pink streaked hair xCalindra~
+a young, heavily tattooed woman with bright pink-streaked hair~
+A young, heavily tattooed woman with bright pink-streaked hair tends the shop.~
+   A bright-eyed, pneumatic young woman with a light olive 
+complexion and layered, dark blond hair fading into varying 
+shades of dark brown and dark pink, she has rather youthful, if 
+not innocent, dark maroon eyes beneath dark, lightly feathered 
+eyebrows with a piercing in a left and a pair of full, delicate 
+pink lips that hold a silver piercing adorned with a tiny navy 
+ball on each distended ends. A wide variety of tattoos covers 
+each of her arms from shoulder to wrist, the well-known Vultures' 
+symbol done in greyscale dominating much of the space on her 
+left. 
+~
+26 0 24 0 5 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+13 16 15 16 16 15 40 13
+1 1
+56095 56097 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777214
+-1
+0 0 0 0 0 0 0 0 0 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' golden_touch~
+0 0 0
+#56007
+Ipichulatl Uncle Ipi fierce faced man~
+a fierce-faced man~
+A fierce-faced man crouches by the door here.~
+   This squat man makes up for what he lacks in height in 
+ferocity of expression-- one looking at him might be inclined to 
+believe he may actually be on the edge of murder. A scowling 
+brow reigns low over black eyes, and his head is shaven save for 
+a dark topknot. Tightly-bunched muscles knot over his frame, and 
+his dusky skin has been fully painted from neck to foot in 
+candy-stripes of red and white, bearing a widespread crackling 
+over much of it. Beneath his eyes, on each cheek, is a pair of 
+thickly-inked black marks resembling a lightning-forked serpent's 
+tongue. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' neoatzlan~
+0 0 0
+#56008
+Baby waifish pale haired child purple streaked hair~
+a waifish, pale-haired child with purple-streaked hair~
+A waifish, pale-haired child with purple-streaked hair is here, tending the wares.~
+   Standing just below five feet, this young girl is extremely 
+skinny, almost unhealthily so, with a full head of matted, curly 
+blonde hair streaked with vivid purple that frames a 
+dirt-smudged, heart-shaped face. She possesses a pair of 
+wide-set, violet-hued eyes, a little button nose, and a small 
+mouth with full, cherry red lips. 
+~
+26 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 1
+56103 56105 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777120
+-1
+0 0 0 0 0 0 0 0 0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' andelle_general~
+0 0 0
+#56009
+Romero tall broad-shouldered raven-haired youth~
+a tall broad-shouldered, raven-haired youth~
+A tall, broad-shouldered raven-haired youth stands here, tending his wares.~
+   This male youth is tall in height, with broad shoulders and a 
+large build. He has sienna eyes, and short, raven-black, tousled 
+hair. He has long sturdy legs and his face has a prominent pair 
+of dimples. His hands are unusually large and his lips are 
+especially thick. 
+~
+26 0 5 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 1
+56109 56107 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+-1
+0 0 0 0 0 0 0 0 0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' endless_bucket~
+0 0 0
+#56045
+Bruj faintly-scarred buzz-cut woman~
+a faintly-scarred, buzz-cut woman~
+A faintly-scarred buzz-cut woman is here, tending to the capsule pods. Type #6rent#5 to inquire as to her services.~
+   This woman is regular in height and of whipcord-thin build. 
+She has light-brown eyes, and chestnut-brown, buzz-cut hair. Her 
+eyebrows bend sharply and she bears a number of faded shadows 
+from scars past. Her skin is a swarthy brown shade and her 
+expression is habitually emotionless. 
+~
+10 0 15 5 0 5d1+112 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 71 0 0 0 0 0 0
+15 10 14 9 14 18 40 12
+0 1
+0 20 22 22 21 26 21 20 29 28
+29 24 30 21 27 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#56112
+Hanyan extremely short freckled aged man~
+an extremely short, freckled aged man~
+An extremely short, freckled aged man stands behind the reception desk, ocassionally chatting about rooms he has available to #6rent#0.~
+   This aged man is extremely short in height and of average 
+build. He has dark-amber eyes, and average-length, grey, 
+thatched hair. His jaw is broad and square and he is heavily 
+freckled. The color of his eyebrows is particularly dark and 
+stout legs descend from his hipside. 
+~
+10 0 17 5 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 65 3 0 0 0 0 0
+8 14 14 17 11 16 40 12
+0 1
+0 26 24 28 24 20 25 30 30 26
+26 22 21 26 21 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#56115
+Vincent robust half-metal-faced man xSHOPKEEPx xANARCHSx~
+a robust, half-metal-faced man~
+A robust, half-metal-faced man stands behind the counter.~
+   Of imposing size and a powerful build, this man carries 
+himself with an air of confidence. His head is balding and then 
+clean-shaven for a uniform look. The left side of his face is 
+wrapped in chrion-alloy metal which restricts his jaw movement 
+partially. His stomach carries a slight bulge which hangs over 
+his belt. A fair deal of scarring is present upon his large arms 
+and strong, thick-looking hands. 
+~
+26 0 40 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 1
+56115 56118 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 0
+-1
+0 0 0 0 0 0 0 0 0 0
+0 100 10 0 0 0 100 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' red_armory~
+0 0 0
+#56010
+guard buzzard beaker~
+a new mobile~
+(null)~
+   This door-guard stands ready, and $e has a vigilant stance. 
+~
+10 0 16 5 5 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+13 16 15 16 16 15 40 13
+268435456 0
+0 25 24 27 23 21 26 30 23 24
+23 20 23 26 26 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' buzzardbeaker 'member' buzzard_beaker~
+0 0 0
+#56011
+Bob small man arched eyebrows~
+a small man with highly-arched-eyebrows~
+A small man with highly-arched-eyebrows is here, tending the shop.~
+   Standing not too far over an average man's height, this shrewd 
+looking man has shoulder length, greasy hair that ends at his 
+shoulders. Squinty eyes stare over the rim of his glasses, their 
+color dark and not easy to discern. His back is slightly 
+hunched, which makes his long crooked nose even more protuberant. 
+At the end of long arms, which are disproportional to the rest of 
+his body, twitch spidery fingers with a penchant for movement. 
+~
+26 0 5 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 1
+56127 56130 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+-1
+0 0 0 0 0 0 0 0 0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' wears_tears_emporium~
+0 0 0
+#56012
+Mekfario xBEAKER_OWNER gap-toothed barrel-chested man~
+a gap-toothed, barrel-chested man~
+A gap-toothed, barrel-chested man stands here.~
+   This man's appearance is dirty, unkempt and rugged. His dark 
+brown hair flows wildly over his head and down his back, stopping 
+around half way down. The teeth he has remaining are chipped and 
+yellowed and he has a thick, bulbous nose and fat, cracked lips. 
+His frame is bulky and muscular, shaped somewhat like a barrel. 
+~
+8 0 14 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 40 40 40 0 40 30 16 0 0
+40 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' buzzard_beaker~
+0 0 0
+#56314
+Karina ample-bosomed red-tressed tressed bosomed woman shopkeeper~
+an ample-bosomed red-tressed woman~
+An ample-bosomed red-tressed woman stands behind the bar, watching out the window with a sense of excitement.~
+   Well-proportioned and possessing of ample curves, this woman 
+moves with evident spirit and a saucy attitude. She stands 
+fairly tall, long slender arms ending in well-scrubbed hands with 
+red-painted nails. Her skin is pale, dotted thickly with 
+sienna-hued freckles. Her long, wavy hair is a vibrant read, 
+pulled up and allowed to fall in tresses down to her mid-back. 
+Her full-lips are painted red with make-up, her emerald-green 
+eyes seeming good-humored. 
+~
+10 0 40 5 0 5d1+104 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 67 0 0 0 0 56314 0
+16 16 16 16 16 16 40 16
+1 1
+56314 56132 5.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 0
+-1
+0 0 0 0 0 0 0 0 0 0
+0 100 10 0 0 0 100 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#56013
+mob new~
+a new mobile~
+(null)~
+(null)~
+8 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#56014
+hovercopter sleek matte black xbyBoo copter helo~
+a sleek, matte black hovercopter~
+A sleek, matte black hovercopter flies over the wastes with the sound of rotors.~
+   Large enough to be a personnel carrier, this matte black 
+chopper is still on the smaller end of aircraft. It has a sleek 
+frame with an obvious cockpit, covered by reinforced glass at the 
+bullet-shaped front. With room for a number of humans, the belly 
+bulges out, still held aloft by the rodlike landing gear. From 
+there it tapers back into two tail wings, each with a 
+perpendicular pair of flaps on the end. At each side is a large 
+wing, at least half of the full length of the chopper. For more 
+than just balance, these expand and encircle two huge rotors. At 
+the bases of the wings, along the top, can be noted twin engines. 
+Along the tail has been painted "GC" in large, white-bordered 
+black letters. 
+~
+805568522 4 36 8 7 5d1+120 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 56055 0 0 50 66530 0 0 3 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 13
+0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' new_phoenix_merc~
+0 0 0
+#56015
+mob new~
+a new mobile~
+(null)~
+(null)~
+8 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#56016
+doorguard Wilmington Anaxios~
+a Wilmington/Anaxious Doorguard~
+A wilmington/anxios doorguard is here.~
+   This person has alert eyes and $e holds themselves with a 
+vigilant stance over their assigned doorpost. 
+~
+10 0 15 5 0 5d1+88 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+13 11 11 10 15 12 40 16
+268435456 0
+0 29 20 20 20 28 22 27 23 23
+30 26 20 22 28 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' the_flame 'sergeant' wilmingtons 'sergeant' wilmleader~
+0 0 0
+#56017
+couple petrine cross marked individuals board OTHER~
+a couple of petrine-cross-marked individuals~
+A couple of petrine-cross-marked individuals pass along messages here.~
+(null)~
+8 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#56018
+the flame doorguard~
+the flame doorguard~
+The flame doorguard is here.~
+(null)~
+10 0 20 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+14 11 11 10 13 13 40 16
+0 0
+0 0 50 50 0 0 50 50 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' the_flame~
+0 0 0
+#56133
+trigger-puller bartender~
+a bartender trigger-puller~
+A bartender trigger-puller pours cups here.~
+(null)~
+10 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#56019
+Brand grunger dark-eyed dark unkempt older man xSKEPSIS~
+An unkempt, dark-eyed older man~
+An unkempt, dark-eyed older man stands here, disheveled.~
+   Advancing in his years, this older man carries himself upon a muscular, but 
+bedraggled form. Peppered layers of dirt sift through his greasy hair, making 
+it hard to decipher what the true color is. Between thin, heavily chapped 
+lips, his teeth are a nasty yellowish-brown. His rugged face is sallow and 
+there is a malformed bump on the bridge of his nose. The strong odor of grime, 
+sweat and residual cigarette smoke constantly clings to him. 
+~
+10 0 24 5 5 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 70 4 0 0 0 0 0
+16 16 16 12 16 16 40 16
+0 0
+0 40 40 0 0 0 40 30 0 40
+10 0 0 0 0 0 30 30 0 0
+0 0 0 0 0 0 0 0 0 40
+0 0 0 0 0 0 0 0 0 0
+60 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown~
+0 0 0
+#56020
+scrawny middle-aged man balding rabbe~
+a scrawny, balding, middle-aged man~
+A scrawny balding man in his middle years stands here, eyes dazed.~
+   Sparse hair covers this man's head, wild though somewhat shorn. The wisps 
+stand out at odd angles from his skull when uncovered. His features are 
+unremarkable, his build is slight and scrawny with only a faint hint at any 
+muscle. He looks to be in his middle years, some of his locks already changed 
+from dull brown to even duller grey. Pale green eyes peer out beneath bushy 
+brows, dazed and rimmed heavily with red. 
+~
+10 0 5 0 0 5d1+80 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#56021
+Reisa grunger ruddy-cheeked woman graying hair xSKEPSIS~
+a ruddy-cheeked woman with graying hair~
+A gray-haired woman with flushed cheeks stands here.~
+   Advancing in her years, this woman's naturally dark brown hair is streaked 
+with threads of silver and grey. Gaunt and lean, she has a bony figure 
+complete with hollowed cheekbones and a sallow complexion. With a blackened 
+front tooth and numerous scars, she's far from being the most attractive woman 
+in the world. 
+~
+10 0 26 5 5 5d1+104 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 70 4 0 0 0 0 0
+16 16 16 12 16 16 40 16
+0 0
+0 50 40 0 0 0 40 30 0 40
+10 0 0 0 0 0 50 50 40 0
+0 0 0 0 0 0 0 0 0 50
+0 0 40 0 0 0 0 0 0 0
+60 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown~
+0 0 0
+#56022
+kavi xrefugee thin teenager dirty-brown brown hair~
+a thin teenager with dirty-brown hair~
+A thin teenager with dirty-brown hair loiters around here.~
+   This lanky teen sits at average height, thin limbs and a malnourished state 
+revealing little in the way of true athleticism. A mop of dirty brown locks 
+crowns his head, dangling unmanaged over his hazel eyes. He has thin lips, a 
+slightly upturned nose and skin pocked with the pimples of adolescence. 
+~
+10 0 24 5 5 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 70 4 0 0 0 0 0
+16 16 16 12 16 16 40 16
+0 0
+0 40 40 0 0 0 40 30 0 40
+20 0 0 0 0 0 50 50 0 0
+0 0 30 0 0 0 0 0 0 40
+0 0 0 0 0 0 0 0 0 0
+60 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown~
+0 0 0
+#56023
+Squeaker scrawny kid mop dark-brown brown hair xgrunger xskep~
+a scrawny kid with a mop of dark-brown hair~
+A scrawny kid with a mop of dark-brown hair idles about here.~
+   This scrawny kid stands on an awkward frame, his sprouting long limbs bereft 
+of a man's musculature. He doesn't seem to be very far out of prepubescence, a 
+speckling of pimples beginning to show amid his freckles. Dark brown hair is 
+matted with dirt and grime, unruly strands dangling down the sides of his face, 
+seemingly absent both a wash and a cut for some time. Spreading his thin lips 
+would reveal a few missing teeth and his nose is a little too large for his 
+face. Quirky brows and a pair of boyish dimples complete his youthful visage. 
+~
+10 0 24 5 5 5d1+96 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 70 4 0 0 0 0 0
+13 10 10 12 15 14 40 16
+0 0
+0 40 30 0 0 0 40 30 0 40
+20 0 0 0 0 0 45 45 50 0
+30 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+60 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown~
+0 0 0
+#56024
+Charlene sleepy-eyed curvaceous bottle blonde charlie Xinfection~
+a sleepy-eyed curvaceous bottle-blonde~
+Watching the world out of heavily-lidded eyes, a curvaceous blonde lingers here.~
+   Tousled and teased unnaturally blonde hair frames this woman's oval face in 
+an airy tumble. Her features are far from perfection: lids heavy and resting 
+over permanently party-worn red-rimmed blue eyes, a nose that would be improved 
+without a bumped bridge, and pouted lips trained to half-hide a few teeth that 
+have gone crooked. Her body is a little too thin to be lush but the generous 
+bust and hipline could arguably make up for that, sloping curves showing her to 
+be obviously female. Her skin is tanned and kept without blemish, though if 
+one were to look at her closely, they'd see very faint delicate lines starting 
+to show at the corners of her eyes, hinting that while still young enough, 
+she's passed her teens by a few years at least. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 60 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 60 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown 'member' vultures~
+0 0 0
+#56025
+#2black flat-bottomed bottomed hoverboat boat xreds xplot#0~
+#2a black, flat-bottomed hoverboat#0~
+#2A black, flat-bottomed hoverboat#0 is supported here on railings, tilted slightly to one side.~
+   Large enough to fit approximately eight to ten people at one time, this boat 
+is made of hammered sheets of riveted manon metal. The hull has been smoothed 
+with a layer of clear polyplastic, ensuring a watertight seal and relatively 
+more streamlined capabilities. The top of the craft itself is exposed to the 
+elements with small rounded handhelds present along the perimeter and carved 
+notches likely used to steady gunnery during an excursion. Two rows of robotic 
+hoverdrives adorn the base, alion has been shaped into protective railings that 
+allows the hoverboat to rest without damage to the electronics itself. You 
+could #6ENTER#0 the #6BOAT#0. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' anarchs~
+0 0 0
+#56027
+lanky teen unruly black locks micah xskep xrefugees~
+a lanky teen with unruly black locks~
+A lanky teen with unruly black locks loiters aimlessly here.~
+   Thin and lanky, this teenager stands a little above average height of an 
+everyday Grunger, however, he doesn't manage his height well. Stooping a bit 
+with skinny arms that dangle down out of proportion, his plump lips carry a 
+natural perpetual frown. A crop of black locks hangs untrimmed over his brows, 
+sprouting out over his head in tangled pieces. 
+~
+10 0 26 5 5 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 70 4 0 0 0 0 0
+16 16 16 12 16 16 40 16
+0 0
+0 50 40 0 0 0 40 30 0 40
+10 0 0 0 0 0 50 50 40 0
+0 0 0 0 0 0 0 0 0 50
+0 0 40 0 0 0 0 0 0 0
+60 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown~
+0 0 0
+#56026
+Wally grunger blue-eyed aged man xskep~
+an aged man with dark blue-eyes~
+An aged man with dark blue-eyes stands crookedly here.~
+   This man's black hair is sifted through with silvery grey streaks, reaching 
+around to the stubble strewn chin. It's doubtful that this man was every 
+handsome, a few hardened cysts with hairs jutting from his fragile, wrinkled 
+skin. When he opens his mouth, his teeth are yellowed and a few of them are 
+chipped. If he stood straight, he'd be about the size of an average man with 
+an unremarkable muscular structure. 
+~
+10 0 24 5 5 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 70 4 0 0 0 0 0
+16 16 16 12 16 16 40 16
+0 0
+0 40 40 0 0 0 40 30 0 40
+10 0 0 0 0 0 30 30 0 0
+0 0 0 0 0 0 0 0 0 40
+0 0 0 0 0 0 0 0 0 0
+60 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown~
+0 0 0
+#56028
+Kit grunger sallow-skinned skinned man disheveled hair xskep~
+a sallow-skinned man with disheveled hair~
+A sallow-skinned man with disheveled hair loiters here.~
+   This middle-aged man stands a little over average height. His light brown 
+hair is slicked with a layer of grime that makes it appear darker when out of 
+the light, hanging in choppy tangles around his one remaining ear. A 
+disorganized mesh of scars litters his brawny arms and heavily calloused 
+knuckles and hands account for a lifetime of manual labor. Darkened rings make 
+his sunken brown eyes look even deeper. 
+~
+10 0 24 5 5 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 70 4 0 0 0 0 0
+16 16 16 12 16 16 40 16
+0 0
+0 40 40 0 0 0 40 30 0 40
+40 50 0 0 0 0 30 30 0 0
+0 0 0 0 0 0 0 0 0 40
+0 0 0 0 0 0 0 0 0 0
+60 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown~
+0 0 0
+#56029
+Pinky grunger young plain-faced faced teenager xskep braided brown hair~
+a young plain-faced teen with braided brown hair~
+A young plain-faced teen girl with braided brown hair stands here awkwardly.~
+   Long braids are split into a part up the middle of this teenager's head, 
+hanging with one over each shoulder. She looks to be no more than fourteen 
+years old. Her face is unremarkable and exceptionally plain: thin lips, dull 
+brown eyes, bushy eyebrows and pudgy cheeks making up her face. Thin and 
+lanky, her body is more akin to that of a boy than a girl, though if she 
+smiles, her teeth look quite straight and mostly white. 
+~
+10 0 24 5 5 5d1+104 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 70 4 0 0 0 0 0
+16 16 16 12 16 16 40 16
+0 0
+0 40 40 0 0 0 40 30 0 40
+10 0 0 0 0 0 30 30 0 0
+0 0 0 0 0 0 0 0 0 40
+0 0 0 0 0 0 0 0 0 0
+60 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown~
+0 0 0
+#56030
+Samantha grunger thin little girl wavy brown hair xskep~
+a thin little girl with wavy brown hair~
+A thin little girl with wavy brown hair lingers shyly here.~
+   This little girl looks to be a mere child, not having yet hit pubescence. 
+Thick waves of brown hair fall unhindered to her waist, covering up much of her 
+facial features. When able to be seen, she has bright hazel eyes, a button 
+nose and two rosy cheeks. Her wobbly legs have a few scrapes upon the knees. 
+~
+10 0 24 5 5 5d1+104 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 70 4 0 0 0 0 0
+16 16 16 12 16 16 40 16
+0 0
+0 40 40 0 0 0 40 30 0 40
+10 0 0 0 0 0 30 30 0 0
+0 0 0 0 0 0 0 0 0 40
+0 0 0 0 0 0 0 0 0 0
+60 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown~
+0 0 0
+#56031
+Finn grunger spindly skinny emaciated youth man young XSKEPSIS~
+An emaciated, spindly youth~
+An emaciated, spindly youth skulks here.~
+   This youth is a clear example of the impoverished Grunger, dirt clinging to 
+his skin and beneath his yellowed nails, and a stick-thin frame with little to 
+no body fat or muscle to speak of. His nose is short and squat, and the barest 
+fuzz has grown on his chin and upper lip, its reddish hue matching his hair's 
+own fiery color. When he opens his mouth, it becomes immediately apparent that 
+the far greater part of the teeth in his mouth are missing. 
+~
+10 0 24 5 5 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 70 4 0 0 0 0 0
+16 16 16 12 16 16 40 16
+0 0
+0 40 40 0 0 0 40 30 0 40
+10 0 0 0 0 0 30 30 0 0
+0 0 0 0 0 0 0 0 0 40
+0 0 0 0 0 0 0 0 0 0
+60 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown~
+0 0 0
+#56032
+June grunger svelte ice blue woman XSKEPSIS~
+A svelte, ice-blue-eyed woman.~
+A svelte, ice-blue-eyed woman is here.~
+   Short, messy black hair adorns this woman's head, strewn about fairly 
+wildly; seemingly little care given to her appearance in general. Her face is 
+marked with smudges of dirt and dust, and her entire frame is likewise dirty, 
+but her eyes are a sharp contrast to this, a clearest hue of icy blue, the 
+brightest and most piercing aspect of her entire countenance. 
+~
+10 0 24 5 5 5d1+104 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 70 4 0 0 0 0 0
+16 16 16 12 16 16 40 16
+0 0
+0 40 40 0 0 0 40 30 0 40
+10 0 0 0 0 0 30 30 0 0
+0 0 0 0 0 0 0 0 0 40
+0 0 0 0 0 0 0 0 0 0
+60 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown~
+0 0 0
+#56033
+Slate grunger muscular musclebound shock white shock-white xSKEPSIS~
+A muscular man with shock-white hair.~
+A musclebound man with shock-white hair looms here.~
+   This figure holds himself with a proud bearing, his shoulders squared and 
+posture erect when he stands, his frame thickly packed with muscles, hands and 
+knuckles raw from what must have been years upon years of work. His hair is 
+pure white, a thick, straight tuft of it gelled forward on his head, and he has 
+a similarly thick moustache of the same shade. He looks to be a Grunger in the 
+latter end of his life, grizzled and hardened nonetheless. 
+~
+10 0 24 5 5 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 70 4 0 0 0 0 0
+16 16 16 12 16 16 40 16
+0 0
+0 40 40 0 0 0 40 30 0 40
+10 0 0 0 0 0 30 30 0 0
+0 0 0 0 0 0 0 0 0 40
+0 0 0 0 0 0 0 0 0 0
+60 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown~
+0 0 0
 $~

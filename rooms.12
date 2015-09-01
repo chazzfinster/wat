@@ -1,1 +1,19 @@
+#12000
+Junk Items~
+   This sector is set aside for junk items that are scavenged, 
+usually for the purpose of salvaging usable parts or for melting 
+down in the firebreathers. Objects that are for use in 
+firebreathers should be set as object type #6fiScrap#0. 
+~
+12 67174408 0
+0
+D1
+~
+~
+0 -1  0 13000
+D3
+~
+~
+0 -1  0 11000
+S
 $~

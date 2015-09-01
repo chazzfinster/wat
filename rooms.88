@@ -1,1 +1,333 @@
+#88000
+Ragnarok's Playground~
+   The banner of Ragnarok is staked into the ground, claiming all 
+objects, rooms, and mobs in zone 88, vnums 88000-88999 
+~
+88 67174400 0
+0
+P
+(null)~
+(null)~
+(null)~
+S
+#88001
+#1Ragnarok's #FEnd of Days#0 #1Challenge#0~
+Welcome, mortal, to the Ragnarok's End of Days Challenge. Match your wits
+against Ragnarok and claim the ultimate prize - if you are clever and quick
+enough to survive. 
+  
+If you have a challenge token, you may begin by typing #6take challenge#0.
+Only one occupant at a time, please. 
+ 
+You can see the highscores by typing #6view highscores#0.
+You can check a single highscore record by typing #6view score <#>#0
+~
+88 67174400 0
+0
+P
+take~
+challenge~
+if haso(-1,88001)
+take 88001
+trans 88002
+force -1 -1 config lock
+atlook 88002
+vbr -
+vstr As you enter the room, the inner-workings of #2a combination lock#0 can be heard, drawing your attention.
+else do
+vstr You aren't holding a challenge token.
+~
+P
+view~
+highscores~
+trans 88000
+force -1 88000 look reodc_board
+trans 88001
+~
+P
+view~
+score~
+atread 88000 reodc_board &(1)
+~
+P
+th thi thin think~
+(null)~
+vstr What would you possible have to think about?
+~
+P
+fe fee feel~
+(null)~
+vstr You feel NOTHING.
+~
+S
+#88002
+EoD Challenge - Combination Lock~
+   Completely devoid of anything that could be considered 
+decoration, this plain room is enclosed on all sides by stone 
+walls, the only apparent exit being a massive, steel-barred door 
+fixed with a very large, heavy-duty combination lock. From the 
+looks of it, many have attempted to break down the door, but only 
+a few nicks and scratches are all there is to show for the 
+effort. 
+   If you cannot figure out the combination and want to leave, just
+type #6leave room#0 and you'll be transported back to the Guest
+Lounge.
+~
+88 67174400 0
+0
+P
+leave~
+room~
+vstr A complete failure, you leave the Challenge, head hung low.
+ostr A complete failure, $n leaves the Challenge, head hung low.
+trans 121
+atlook 121
+ostr A complete failure, $n returns from Ragnarok's End of Days Challenge, head hung low in shame.
+~
+S
+#88004
+The Riddler~
+   A throne of stone stands alone in this enclosed chamber, 
+positioned directly below an archaic three-tiered candle 
+chandelier. The dim light provided there casts a shadowy 
+silhouette onto the smooth marble floors. A single bright red 
+button has been fitted to the arm of the throne. 
+   When you are ready, type #6try me#0 to see if you can beat The
+Riddler. If you get stuck, type #6leave room#0 to go back to the
+guest lounge.
+~
+88 67174400 0
+0
+P
+try~
+me~
+force -1 -1 config riddler
+~
+P
+leave~
+room~
+vstr A complete failure, you leave the Challenge, head hung low.
+ostr A complete failure, $n leaves the Challenge, head hung low.
+trans 121
+atlook 121
+ostr A complete failure, $n returns from Ragnarok's End of Days Challenge, head hung low in shame.
+~
+S
+#88005
+Ragnarok's EoD Challenge Board Room~
+Room for the Challenges Score Board.
+~
+88 67174400 0
+0
+S
+#88003
+New Room~
+~
+88 67174400 0
+0
+P
+leave~
+room~
+vstr A complete failure, you leave the Challenge, head hung low.
+ostr A complete failure, $n leaves the Challenge, head hung low.
+trans 121
+atlook 121
+ostr A complete failure, $n returns from Ragnarok's End of Days Challenge, head hung low in shame.
+~
+S
+#88006
+North Street, East of the Open Market~
+No Description Set.
+~
+88 65536 0
+0
+D1
+~
+~
+0 -1  0 88007
+D2
+~
+~
+0 -1  0 88008
+S
+#88007
+North Street, Sloping Rubble near the Perimeter~
+No Description Set.
+~
+88 65536 0
+0
+D2
+~
+~
+0 -1  0 88025
+D3
+~
+~
+0 -1  0 88006
+S
+#88008
+Alley Between North Street and Darkness Drive~
+No Description Set.
+~
+88 65536 0
+0
+D0
+~
+~
+0 -1  0 88006
+D1
+~
+~
+0 -1  0 88025
+D2
+~
+~
+0 -1  0 88009
+S
+#88009
+Darkness Drive, East of the Market~
+No Description Set.
+~
+88 65536 0
+0
+D0
+~
+~
+0 -1  0 88008
+D1
+~
+~
+0 -1  0 88011
+S
+#88011
+Darkness Drive Before an Exposed Sewer~
+No Description Set.
+~
+88 65536 0
+0
+D0
+~
+~
+0 -1  0 88025
+D3
+~
+~
+0 -1  0 88009
+S
+#88024
+Shattered Section of Darkness Drive before Exposed Sewers~
+No Description Set.
+~
+88 65536 0
+0
+D1
+~
+~
+0 -1  0 88036
+S
+#88025
+Sloping Rubble Before a Deep Crater~
+No Description Set.
+~
+88 65536 0
+0
+D0
+~
+~
+0 -1  0 88007
+D2
+~
+~
+0 -1  0 88011
+D3
+~
+~
+0 -1  0 88008
+S
+#88031
+Shattered Remains of North Street Before a Crater~
+No Description Set.
+~
+88 65536 0
+0
+D1
+~
+~
+0 -1  0 88032
+S
+#88032
+North Street, West of Revolutionary Way~
+No Description Set.
+~
+88 65536 0
+0
+D1
+~
+~
+0 -1  0 88033
+D3
+~
+~
+0 -1  0 88031
+S
+#88033
+The Intersection of North Street and Revolutionary Way~
+No Description Set.
+~
+88 65536 0
+0
+D2
+~
+~
+0 -1  0 88034
+D3
+~
+~
+0 -1  0 88032
+S
+#88034
+Revolutionary Way Between North and Darkness~
+No Description Set.
+~
+88 65536 0
+0
+D0
+~
+~
+0 -1  0 88033
+D2
+~
+~
+0 -1  0 88035
+S
+#88035
+The Intersection of Darkness Drive and Revolutionary Way~
+No Description Set.
+~
+88 65536 0
+0
+D0
+~
+~
+0 -1  0 88034
+D3
+~
+~
+0 -1  0 88036
+S
+#88036
+Darkness Drive, West of Revolutionary Way~
+No Description Set.
+~
+88 65536 0
+0
+D1
+~
+~
+0 -1  0 88035
+D3
+~
+~
+0 -1  0 88024
+S
 $~

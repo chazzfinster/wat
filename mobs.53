@@ -1,1 +1,1906 @@
+#53100
+vines stage1 small mass crawling $mobvinetype~
+#2a mass of crawling, slender vines#0~
+#2A mass of slender vines slithers on the ground.#0~
+   This is a mass of dark-green slender vines, spread out 
+discreetly over the ground. Wide, wedge-shaped leaves protrude 
+along the length of each vine while shoots and tendrils protrude 
+at evenly spaced intervals. Tiny thorns begin to form, rising as 
+small nodes on the plant's surface. Its tendrils move and probe 
+constantly, sliding slowly along of their own volition. 
+~
+271056904 33554436 12 57 3 5d1+80 2d5+0 0 8 8 0 0 0 0 0
+0 0 0 53105 0 0 50 0 0 1 0 0 0 0 0 0 0 0 659458
+8 3 10 16 16 10 40 13
+65536 0
+0 20 20 20 20 20 20 20 20 20
+20 20 20 20 20 0 70 70 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' crawling-vines~
+16 100 100 100 100
+1 24 86 0
+#53101
+vines stage2 large mass crawling tentacular deep purple flowers~
+#2a large mass of crawling, tentacular vines with deep purple flowers#0~
+#2A large mass of tentacular vines shifts and moves on the ground.#0~
+   This is a mass of dark-green tentacular vines, rising in a 
+large mound. Wide, wedge-shaped leaves protrude along the length 
+of each vine while shoots and tendrils protrude at evenly spaced 
+intervals. Moist thorns with sharp, curved tips line the sides 
+of its whip-like tendrils, studding the plant's surface. 
+Clusters of large, five-petaled deep purple flowers top the 
+plant, giving of a cloyingly-sweet scent. Its tendrils move and 
+probe constantly, sliding slowly along of their own volition. 
+~
+271056904 33554436 24 57 5 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 53106 0 0 50 0 0 1 0 0 0 0 0 0 0 0 659458
+13 3 15 16 16 15 40 13
+0 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 60 60 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'recruit' crawling-vines~
+16 100 100 100 100
+1 24 86 0
+#53102
+vines stage3 gargantuan mass crawling rope-like deep purple~
+#2a gargantuan mass of crawling, rope-like vines with huge, deep-purple flowers#0~
+#2A gargantuan mass of rope-like vines shifts and moves on the ground.#0~
+   This is a mass of dark-green rope-like vines, rising in a 
+gargantuan mound as it pulls together, alternately spreading out 
+into a wide mat of crawling vines to hide as it moves. Wide, 
+wedge-shaped leaves protrude along the length of each thick, 
+woody vine while shoots and tendrils protrude at evenly spaced 
+intervals in constant new growth. Moist thorns, almost two 
+inches long, with sharp, curved tips line the sides of its 
+whip-like tendrils, studding the plant's surface. Clusters of 
+large, five-petaled deep purple flowers top the plant, giving of 
+a cloyingly-sweet scent. Its tendrils move and probe constantly, 
+sliding slowly along of their own volition. 
+~
+271056936 33554436 36 57 7 5d1+120 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 53107 0 0 50 0 0 1 0 0 0 0 0 0 0 0 655362
+16 5 18 16 16 18 40 13
+0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 50 50 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' crawling-vines~
+16 100 100 100 100
+1 24 86 0
+#53000
+barker xWEAK dog $wolffur2 $wolfeyes1 oversized veteran~
+a $wolffur2 oversized dog with $wolfeyes1 eyes~
+A $wolffur2 oversized dog stands here, $wolfeyes1-eyed.~
+   This $wolfbuild dog stands at roughly half the height of a 
+grown man, and would easily match said man in weight. With 
+$wolfeyes and $wolffur, it moves in a near-constant, loping run, 
+$wolftail swishing behind it. The beast's oversized head is 
+oblong shaped, with short ears and a massive, fang-filled mouth. 
+~
+136314920 4 28 58 3 5d1+80 2d5+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 1 0 0 0 0 0 0 0 32784
+16 8 8 16 12 10 40 18
+268435456 0
+0 42 43 47 40 41 46 47 46 44
+49 47 44 46 42 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' junkyard_barkers~
+0 0 0
+#53001
+worm large $wormcolor $wormhide $wormteeth $wormshape~
+a large $wormcolor0 $wormteeth2 $wormshape3~
+A large $wormcolor0 $wormteeth2 $wormshape3 undulates on the ground.~
+   Large in size, this creature is at least five feet long and as 
+fat around as a man's waist. With a hide that is $wormcolor, 
+this beast's form is $wormhide. Its maw is filled with 
+$wormteeth. Its body is $wormshape. 
+~
+136380456 8388612 20 70 0 5d1+104 3d4+0 0 8 8 0 0 0 0 0
+0 0 0 53301 0 0 24 0 0 0 1 0 0 0 0 0 0 130 0
+20 4 8 4 12 16 40 12
+268435456 0
+0 50 0 0 0 0 50 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' worms~
+24 86 0
+#53002
+worm normal $wormcolor $wormhide $wormteeth $wormshape~
+a $wormcolor0 $wormteeth2 $wormshape3~
+A $wormcolor0 $wormteeth2 $wormshape3 undulates on the ground.~
+   Essentially a mouth with a tail, this creature is about three 
+feet long and a foot in circumference. With a hide that is 
+$wormcolor, this beast's form is $wormhide. Its maw is filled 
+with $wormteeth. Its body is $wormshape. 
+~
+136380456 8388612 16 70 0 5d1+64 2d4+0 0 8 8 0 0 0 0 0
+0 0 0 53301 0 0 24 0 0 0 1 0 0 0 0 0 0 0 0
+16 4 6 4 8 6 40 10
+268435456 0
+0 40 0 0 0 0 40 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' worms~
+24 86 0
+#53003
+worm tiny $wormcolor $wormhide $wormteeth $wormshape~
+a tiny $wormcolor0 $wormteeth2 $wormshape3~
+A tiny $wormcolor0 $wormteeth2 $wormshape3 wiggles on the ground.~
+   Tiny compared to its brethren, this creature is only about a 
+foot long and a a few inches in circumference. With a hide that 
+is $wormcolor, this beast's form is $wormhide. Its maw is filled 
+with $wormteeth. Its body is $wormshape. 
+~
+136380456 8388612 12 70 0 5d1+52 1d4+0 0 8 8 0 0 0 0 0
+0 0 0 53301 0 0 24 0 0 0 1 0 0 0 0 0 0 0 0
+12 4 4 4 8 3 40 10
+268435456 0
+0 30 0 0 0 0 30 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' worms~
+24 86 0
+#53004
+worm gargantuan $wormcolor $wormhide $wormteeth $wormshape~
+a gargantuan $wormcolor0 $wormteeth2 $wormshape3~
+A gargantuan $wormcolor0 $wormteeth2 $wormshape3 wiggles on the ground.~
+   Gargantuan and able to swallow men almost whole, this creature 
+is over ten feet long and too big around for a man's arms to 
+circle. With a hide that is $wormcolor, this beast's form is 
+$wormhide. Its maw is filled with $wormteeth. Its body is 
+$wormshape. 
+~
+136380456 8388612 24 70 0 5d1+120 4d4+0 0 8 8 0 0 0 0 0
+0 0 0 53301 0 0 24 0 0 0 1 0 0 0 0 0 0 0 0
+24 4 10 4 16 20 40 16
+268435456 0
+0 60 0 0 0 0 60 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' worms~
+24 86 0
+#53005
+Moon colossal gray worm Old-Man-Moon~
+a colossal, gray moon worm~
+A colossal, gray moon worm rears its head here, the majority of it still beneath the moon.~
+   This monster is impossibly big - it may well be over two 
+hundred feet long, and it is definitely over twenty feet in 
+diameter. Its skin is tough and leathery, with five-foot ridges 
+running the entirety of the worm's length. Its "face" holds a 
+tri-split mouth; three pieces of flesh split open to reveal that 
+twenty-foot wide mouth, and row upon row upon row of razor-sharp, 
+five-foot long teeth. They seem to disappear down the beast's 
+throat - an eternity of darkness and teeth. 
+~
+2097162 8388612 45 70 12 5d1+150 2d8+4 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 1 0 0 0 0 0 0 0 0
+19 16 20 16 16 20 40 13
+0 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' worms~
+0 0 0
+#53006
+Barker $wolfeyes0 $barkersized1 $barkerclan2 dog~
+a $barkersized1, $barkerclan2 dog with $wolfeyes0 eyes~
+A $barkersized1, $barkerclan2 dog with $wolfeyes0 eyes prowls here.~
+   The first thing one would notice about this beast is its teeth 
+- its jaw is nearly double the width of its head, and absolutely 
+filled with two rows of long, jagged teeth. Set beside this 
+nightmarish head are $wolfeyes. The beast's body body is 
+$barkersized0, and covered in coarse hair, marked by $barkerclan1 
+Growling and snarling, thick saliva drips from its mouth. 
+~
+136314920 4 24 58 4 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+11003 0 0 2103 0 0 45 0 0 0 1 0 6 0 0 0 0 0 8388608
+13 16 15 16 16 15 40 15
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+0 40 40 40 40 0 0 0 0 0
+0 0 50 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' barker~
+144 86 0
+#53007
+Boxer $spiderfeature $spidersize spider~
+a $spiderfeature, $spidersize spider~
+A $spiderfeature, $spidersize spider crawls around here.~
+   This arachnid is $spidersize, covered all the way in bristly 
+hair. Big as it is, tiny claws are visible at the end of each of 
+its eight legs, used primarily to latch onto surfaces. 
+$spiderfeature 
+~
+404750632 786436 24 72 5 5d1+52 2d5+0 0 8 8 0 0 0 0 0
+11110 0 0 2057 0 0 45 0 0 0 1 0 0 0 0 0 0 0 8388608
+5 16 3 16 16 3 40 15
+268435456 0
+0 35 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 100 100 0 0
+0 0 50 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' spider~
+144 86 0
+#53008
+Lagato $legatosized horn-faced $lizcolor lizard~
+a $legatosized, horn-faced, $lizcolor lizard~
+A $legatosized, horn-faced, $lizcolor lizard lumbers around.~
+   This creepy, crawly creature is all the more so because it is 
+$lagatosized. While the animals teeth lined maw is red on the 
+inside, the majority of the lizard is $legatocolored. The 
+saw-like teeth that sprout from the lizards foul smelling jaws 
+are a slimy in texture a discovery that is typically unpleasant. 
+Horny protrusions serve to protect its nostrils and angry looking 
+eyes. A thick tail balances the monsters long upper body which 
+is supported by four massive feet equipped with blunt claws. 
+~
+136314921 4 26 86 7 5d1+112 2d6+3 0 8 8 0 0 0 0 0
+11007 0 0 2048 0 0 50 0 0 0 1 0 0 0 0 0 0 0 8422400
+16 16 18 16 16 18 40 13
+268435456 0
+0 50 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 40 0 0
+0 0 50 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' lizard~
+144 86 0
+#53009
+Shredder $shreddersized $lizcolor bipedal vicious-toothed lizard~
+a $shreddersized, vicious-toothed, $lizcolor bipedal lizard~
+A $shreddersized, vicious-toothed, $lizcolor bipedal lizard zooms around.~
+   This little creature moves about at break-neck speeds with a 
+mouth full of vicious looking little chompers designed to shred 
+the meat off the bones of its prey. It is $shreddersized. 
+$lizcolor Moving around on its rear feet with its tail stretched 
+out behind to provide balance, it has a stream-lined build 
+optimized for speed. 
+~
+136314920 4 14 87 1 5d1+56 2d5+0 0 8 8 0 0 0 0 0
+11007 0 0 2047 0 0 35 0 0 0 1 0 0 0 0 0 0 0 8422400
+8 16 8 16 16 4 40 19
+268435456 0
+0 30 20 20 20 20 20 20 20 20
+20 20 20 20 20 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' lizard_shred~
+144 86 0
+#53010
+Deathshead $bigspider spider white $spidermark~
+a $bigspider spider with white $spidermark~
+A $bigspider spider with white $spidermark scurries around.~
+   While not the largest of the moons spiders, this one is 
+certainly bigger than any spider has any right to be. The 
+eight-legged freak has pincers up front that are ideally designed 
+to puncture its prey which it does not seem choosy about. It is 
+$bigspider. There $spidermark. The creatures bulky abdomen is 
+quite hairy, and its eight creepy eyes are each the size of a 
+quarter. 
+~
+404754728 786436 25 72 7 5d1+80 2d5+0 0 8 8 0 0 0 0 0
+0 0 0 2057 0 0 45 0 0 0 1 0 0 0 0 0 0 0 8388608
+8 16 10 16 16 10 40 15
+268435456 0
+0 45 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 100 100 0 0
+0 0 50 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'leader' spider~
+144 0 0
+#53011
+Coyote $coyotesized $coyotelooking~
+a $coyotesized, $coyotelooking coyote~
+a $coyotesized, $coyotelooking coyote sniffs around.~
+   This wily looking coyote is $coyotesized. $coyotelooking 
+Built long and lean, it resembles its Terran counterparts pretty 
+closely, just with a bit smaller of a frame. It has a long, 
+narrow muzzle with a pretty light jaw. It probably weighs about 
+thirty pounds and is about two feet tall. 
+~
+136319241 786436 12 74 3 5d1+80 2d5+0 0 8 8 0 0 0 0 0
+11003 0 0 2103 0 0 50 0 0 0 1 0 0 0 0 0 0 0 0
+8 16 10 16 16 10 40 13
+268435456 0
+0 20 20 20 20 20 20 20 20 20
+20 20 20 20 20 0 20 20 0 0
+0 0 50 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' barker~
+144 86 0
+#53012
+Squick Lizard $littlelizardsized $lizcolor~
+a $littlelizardsized, $lizcolor lizard~
+A $littlelizardsized, $lizcolor lizard putters about.~
+   This $littlelizardsized. $lizcolor The animal has pronounced 
+brow ridges. The little creatures eyes are a beady black in 
+color and complete with a nictitating eye membrane. About the 
+only spots of color on the animal, aside from dullish grays, is 
+its red, forked tongue and equally red inner mouth. 
+~
+136314889 4 6 75 1 5d1+25 2d3+0 0 8 8 0 0 0 0 0
+11007 0 0 2047 0 0 50 0 0 0 1 0 0 0 0 0 0 0 8422400
+5 16 8 16 16 8 40 13
+268435456 0
+0 10 10 10 10 10 10 10 10 10
+10 10 10 10 10 0 20 20 0 0
+0 0 50 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' lizard~
+24 86 0
+#53013
+Vulture $vulturecolored $vulturelooking~
+a $vulturecolored, $vulturelooking vulture~
+A $vulturecolored, $vulturelooking vulture circles overhead.~
+   This bald-headed vulture is roughly thirty inches tall with a 
+wingspan of nearly six feet. While its head is a stark white 
+color, $vulturecolored. $vulturelooking 
+~
+538968072 4 24 73 0 5d1+52 2d5+2 0 8 8 0 0 0 0 0
+2049 0 0 2108 0 0 40 0 0 0 1 0 0 0 0 0 0 0 8388608
+13 16 3 16 16 3 40 17
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' vulture~
+0 0 0
+#53014
+Anaconda $snakelength $snakefeature~
+a $snakelength, $snakefeature anaconda~
+A $snakelength, $snakefeature anaconda slithers here.~
+   This monster of a snake is $snakelength. Multiple serrated 
+teeth line the inside of its mouth, made more for holding on to 
+its prey than any other purpose teeth might be used for. From 
+snout to tail, it is covered in thick scales that shield it from 
+both the hostile environment it inhabits and any predators that 
+might feast upon it. $snakefeature 
+~
+2097192 4 36 76 7 5d1+100 2d6+3 0 8 8 0 0 0 0 0
+11007 0 0 2050 0 0 50 0 0 0 1 0 0 0 0 0 0 0 0
+16 16 15 16 16 15 40 13
+268435456 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' snake~
+0 0 0
+#53015
+Cthulhucat $catfeature tentacle faced cat~
+a $catfeature, tentacle-faced cat~
+A $catfeature, tentacle-faced cat stalks here.~
+   This cat sports the body of a terran lynx, only about a foot 
+high and nearly double that long. Its head, however, is an 
+abomination - where a snout would normally be is a series of five 
+tentacles, dangling down from its face and wriggling obscenely, 
+from which a thick black liquid drips. If anyone could catch a 
+glimpse beneath this writhing mass of horror they would notice 
+two things: the tentacles have hooks instead of suckers, and 
+there is a giant sucker hidden away where the beast's mouth would 
+be. $catfeature 
+~
+2097192 4 14 83 1 5d1+72 2d5+0 0 8 8 0 0 0 0 0
+11003 0 0 2051 0 0 45 0 0 0 1 0 0 0 0 0 0 0 0
+8 16 8 16 16 8 40 15
+268435456 0
+0 30 20 20 20 20 20 20 20 20
+20 20 20 20 20 0 20 20 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' cat~
+0 0 0
+#53016
+Crocodile $crocfeature $crocsized~
+a $crocfeature, $crocsized crocodile~
+A $crocfeature, $crocsized crocodile lies in wait, here.~
+   $crocfeature, sharp scales run across the length of this 
+amphibian's body, poking about half an inch out. Bright gold 
+eyes with slitted pupils sit about the creature's head, and the 
+rest of the head might as well just be teeth - big, curved, 
+jagged teeth. This crocodile is $crocsized. 
+~
+404750376 33554436 36 81 5 5d1+120 2d7+4 0 8 8 0 0 0 0 0
+0 0 0 2052 0 0 56 0 0 0 1 0 0 6 0 0 0 0 0
+19 16 20 16 16 20 40 11
+268435456 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 60 60 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' crocodile~
+144 0 0
+#53017
+Vine $vinelength $vinefeature~
+a $vinelength, $vinefeature vine~
+A $vinelength, $vinefeature vine grows here.~
+   This thick vine is brown in color, and appears more than a 
+little withered. The sole vine is wound into a tangle of other 
+vines, none of which seem to root into the ground - they, 
+instead, slither across it, the larger thorns in them cutting 
+furrows into the dirt. Also noticeable about this $vinelength 
+vine is $vinefeature. 
+~
+404750376 33554436 24 77 0 5d1+52 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 63 0 0 0 2 0 0 0 0 0 0 0 0
+16 16 3 16 16 3 40 9
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' plant~
+0 0 0
+#53018
+Audrey sickly brown botanical monstrosity layered razor sharp teeth~
+a sickly brown botanical monstrosity with layered, razor-sharp teeth~
+A sickly brown botanical monstrosity with layered, razor-sharp teeth grows here, surrounded by vines.~
+   No plant - if this towering nightmare is indeed one - should 
+have any right to grow as large as it is. It is reminiscent of a 
+crooked willow, the diameter of its mottled brown trunk measuring 
+at least the height of two men. The size of this creature is 
+almost inconceivable, looming tall over almost any ordinary 
+creature - spreading its prickly and gargantuan shadow over the 
+entire area. Creating a canopy unto itself, hundreds of vines as 
+thick as a man branch out in every direction, some sinking into 
+the earth itself, and others groping out toward the sky. At the 
+very top, the stem bends over nearly onto itself, and it is not 
+hard to see why, for a bulbous mass bigger than an 
+apartment-sized building hangs from it. Various shades of putrid 
+green splotches dot the bulbous mass, only abating at the center, 
+where the mass cleaves open to show a gaping maw. Even if one 
+should look from the ground, razor-sharp, layered teeth line its 
+mouth, looking more than capable of shredding anything that 
+crosses its path. 
+~
+268435464 33554436 7 77 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 20 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#53019
+Bear titantic white furred~
+a titanic, white-furred bear~
+A titanic, white-furred bear towers here.~
+   This bear is absolutely, unequivocally massive - it stands 
+twenty feet tall on its hindlegs, weighing an immeasurable number 
+of tons. Thick white fur covers its hide, thick enough even to 
+act as an armor - to get to the bear's skin, one would have to go 
+through all that fur. The gargantuan creature's skull, which is 
+a couple of feet wide, is adorned with similarly gigantic teeth; 
+the teeth are about as long as an arm, and sharp enough to severe 
+one fairly easily. Beady eyes are set somewhere above the 
+beast's teeth, as black as the infrequent moon night. Also of 
+note are the bear's claws, razor sharp and half a foot long, five 
+of which top off the end of each paw. 
+~
+8 0 5 78 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#53020
+Queen2 terrible insectoid asian features xSUUUUMMMMOOOOOO~
+a terrible insectoid with asian features~
+A terrible insectoid with asian features is here, suspended up on her hind legs.~
+   This horrible monstrocity was probably, at one point, some 
+type of insectiod. Now, however, it is a terrible amalgam of 
+moon creatures. Its rear is perhaps the most "normal" of this 
+atrocity; it holds the basic shape of a centipede, but its legs 
+are more like crab legs than insect legs - they possess an 
+incredibly armored exoskeleton, sectioned off at the joints. At 
+about half its length it bulges out, turned into a dome that 
+looks like something of a turtle shell. Five legs sprout from 
+this, most of which are the same crab-like appendages but longer. 
+Of particular note, however, are two of the legs - the one 
+closest to the creature's front is a giant pincer, covered in 
+spikes and the teeth of some unknown creature. Another leg, 
+closer to the center, is a crab leg that ends with a crocodile's 
+head, its yellow eyes flashing and alive, its toothed maw 
+gnashing at the air. On the bottom of this dome is the 
+creature's face - that of an alarmingly corpulant, slant-eyed 
+man. His face is covered in gray scales, his eyes blaze an 
+electric blue, and his features are frozen in a big, goofy grin. 
+~
+10 4 40 7 7 5d1+150 2d6+1 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 557120
+19 16 20 16 16 20 40 13
+0 0
+0 75 75 75 75 75 50 50 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' genetic-terror~
+0 0 0
+#53021
+Raphael turtle ravenous jumbo sized~
+a ravenous, jumbo-sized turtle~
+A ravenous, jumbo-sized turtle is here, big enough to be an island.~
+   This giant, shelled creature dwarfs nearly everything walking, 
+swimming, or flying on the moon. With a gaping mouth that is 
+nearly three feet wide, this gigantic turtle has a jagged beak 
+that is serrated with sharp edges designed for ripping. The 
+things eyes are protected with bony ridges that encircle them, 
+casting a slight shadow on the giant orbs. Its body is housed in 
+a huge shell which is more oval than round. The shell is covered 
+with several dozen distinct rows of spikes that rise from plates 
+on this creatures back. Stubby but heavily clawed arms and legs 
+project from the shell along with a longer, muscular tail which 
+is tipped with additional spikes for good measure. 
+~
+268435464 33554436 5 81 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#53022
+Mammoth $mammothadjective~
+a mammoth with $mammothadjective~
+A mammoth with $mammothadjective looms here.~
+   This great, big, hairy beast stands roughly sixteen feet at 
+the shoulder. It features a heavy skull with small ears which 
+lay back along its thick neck and a long, serpentine trunk which 
+is flanked by $mammothadjective 
+~
+8 0 5 78 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+268435456 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#53023
+Piranha big $fishycolored~
+a big, $fishycolored piranha~
+A big, $fishycolored piranha swims here.~
+   This flat looking fish is $fishycolored. Roughly circular in 
+shape and narrow, about half of it seems to be made up of a 
+mouth. In fact, this nasty looking fish's mouth is about the 
+most interesting thing about it. It is filled with razor sharp 
+teeth which interlock in a close fitting pattern which looks 
+perfectly designed for ripping and shearing off flesh. Coming in 
+a close second on the list of interesting things about this fish 
+are the spines that cover its back. 
+~
+268435464 33554436 5 81 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+268435456 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#53024
+Goat $goatcolor $goatsex~
+a $goatcolor, $goatsex goat~
+A $goatcolor, $goatsex goat is here.~
+   $goatsex Appearing to be a good climber, this goat looks well 
+suited for the mountains. It is $goatcolor. 
+~
+136314888 0 24 79 5 5d1+112 2d5+0 0 8 8 0 0 0 0 0
+11003 0 0 2048 0 0 70 0 0 0 5 0 0 0 0 0 0 0 0
+8 16 18 16 16 18 40 7
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' mammal~
+0 0 0
+#53025
+Skimmer $skimmerlooking $lizcolor~
+a $skimmerlooking, $lizcolor skimmer~
+A $skimmerlooking, $lizcolor skimmer flies around here.~
+   This $skimmerlooking. The creature is some sort of reptile 
+or, perhaps, a bird. It shares features of each. While probably 
+less than a hundred pounds, it is six feet tall with a wing span 
+of nearly triple that. It has relatively primitive clawed hands 
+at about the middle of its wings. From the looks of things, 
+however, it would seem to use its much larger feet to do most of 
+the grasping required in the day to day. The creatures large, 
+colorful beak could probably double as another hand in a pinch. 
+A tail stretches out behind the animal with some feathers only on 
+the very end. $lizcolor 
+~
+673185832 4 36 89 1 5d1+100 2d6+3 0 8 8 0 0 0 0 0
+11007 0 0 2048 0 0 35 0 0 0 2 0 0 4 0 0 0 0 0
+16 16 15 16 16 15 40 19
+268435456 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' lizard~
+0 0 0
+#53026
+Deathfang $deathfangcolor $deathfangsized~
+a $deathfangcolor, $deathfangsized deathfang~
+A $deathfangcolor, $deathfangsized deathfang stalks here.~
+   With a compact, muscular build this $deathfangsized, looking 
+more like a bear than a house cat. It has a back that slopes 
+down from its broad shoulders to its hips, and the animal has a 
+relatively stubby tail. The thick forelimbs of this creature 
+seem optimally designed for battering and pinning down prey. If 
+that was not enough, it has giant fangs jutting out from its 
+upper jaw which dwarf the rest of its teeth which would normally 
+be considered large in any other mouth. $deathfangcolor 
+~
+136577064 4 45 82 3 5d1+100 2d7+4 0 8 8 0 0 0 0 0
+11003 0 0 2054 0 0 45 0 0 0 1 0 0 6 0 0 0 0 0
+19 16 15 16 16 15 40 15
+268435456 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' mammal~
+0 0 0
+#53027
+mob new~
+a new mobile~
+(null)~
+(null)~
+8 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#53028
+xrobofactory trigger puller~
+the factory trigger-puller~
+The factory trigger-puller is purely OOC, ignore it.~
+(null)~
+136314890 786434 22 0 100 5d1+140 1d1+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 25 45 16
+0 0
+0 10 0 0 0 0 100 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 100 100 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#53029
+Barker BarkLead $wolfeyes $barkersized $barkerclan dog~
+a $barkersized1, $barkerclan2 dog with $wolfeyes0 eyes~
+A $barkersized1, $barkerclan2 dog with $wolfeyes0 eyes prowls here.~
+   The first thing one would notice about this beast is its teeth 
+- its jaw is nearly double the width of its head, and absolutely 
+filled with two rows of long, jagged teeth. Set beside this 
+nightmarish head are $wolfeyes. The beast's body body is 
+$barkersized0, and covered in coarse hair, marked by $barkerclan1 
+Growling and snarling, thick saliva drips from its mouth. 
+~
+136314920 4 36 58 6 5d1+100 2d6+2 0 8 8 0 0 0 0 0
+11003 0 0 2103 0 0 50 0 0 0 1 0 0 0 0 0 0 0 8388608
+13 16 15 16 16 15 40 13
+268435456 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 50 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' barker~
+0 86 0
+#53030
+Crab beetle $beetlesized long pincered~
+a $beetlesized, long-pincered beetle~
+A $beetlesized, long-pincered beetle scurries here.~
+   This beetle is $beetlesized. All of it is covered in 
+chitinous gray exoskeleton, flat, featureless, and hard as a 
+rock. Nearly a third of this bug is made up of its pincers - 
+long, thick, hard-as-steel weapons on the front of its head. 
+Spikes protrude at all angles from these two claws, razor-sharp. 
+Thick antennae jut upwards from the center of the creature's tiny 
+head, twitching this way and that as it feels its way around. 
+~
+404750376 0 24 88 7 5d1+52 2d5+0 0 8 8 0 0 0 0 0
+0 0 0 2058 0 0 70 0 0 0 2 0 0 0 0 0 0 0 8520192
+8 16 3 16 16 3 40 7
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' insect~
+144 86 0
+#53031
+Crab Crableader beetle $beetlesized long pincered~
+a $beetlesized, long-pincered beetle~
+A $beetlesized, long-pincered beetle scurries here.~
+   This beetle is $beetlesized. All of it is covered in 
+chitinous gray exoskeleton, flat, featureless, and hard as a 
+rock. Nearly a third of this bug is made up of its pincers - 
+long, thick, hard-as-steel weapons on the front of its head. 
+Spikes protrude at all angles from these two claws, razor-sharp. 
+Thick antennae jut upwards from the center of the creature's tiny 
+head, twitching this way and that as it feels its way around. 
+~
+404750376 0 24 88 5 5d1+72 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 2058 0 0 70 0 0 0 2 0 0 0 0 0 0 0 8520192
+13 16 8 16 16 8 40 7
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' insect~
+144 86 0
+#53032
+Shredder ShredLeader $shreddersized $lizcolor bipedal vicious-toothed lizard~
+a $shreddersized, vicious-toothed, $lizcolor bipedal lizard~
+A $shreddersized, vicious-toothed, $lizcolor bipedal lizard zooms around.~
+   This little creature moves about at break-neck speeds with a 
+mouth full of vicious looking little chompers designed to shred 
+the meat off the bones of its prey. It is $shreddersized. 
+$lizcolor Moving around on its rear feet with its tail stretched 
+out behind to provide balance, it has a stream-lined build 
+optimized for speed. 
+~
+136314920 4 24 87 1 5d1+72 2d5+0 0 8 8 0 0 0 0 0
+0 0 0 2047 0 0 35 0 0 0 1 0 0 0 0 0 0 0 8422400
+8 16 10 16 16 8 40 19
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' lizard_shred~
+144 86 0
+#53033
+Coyote CoyLeader $coyotesized $coyotelooking~
+a $coyotesized, $coyotelooking coyote~
+A $coyotesized, $coyotelooking coyote sniffs around.~
+   This wily looking coyote is $coyotesized. $coyotelooking 
+Built long and lean, it resembles its Terran counterparts pretty 
+closely, just with a bit smaller of a frame. It has a long, 
+narrow muzzle with a pretty light jaw. It probably weighs about 
+thirty pounds and is about two feet tall. 
+~
+136319273 786436 24 74 3 5d1+80 2d5+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 45 0 0 0 1 0 0 0 0 0 0 0 8388608
+8 16 10 16 16 10 40 15
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 20 20 0 0
+0 0 40 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' barker~
+144 86 0
+#53034
+trigger wilderness Grungetown mob~
+the Grungetown wilderness trigger mob~
+The Grungetown wilderness trigger mob, doing xpull on the hour.~
+(null)~
+2097162 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#53035
+Kristof SCIENTOLOG_MOB x x~
+a new mobile~
+(null)~
+   This person has clearly seen better days and looks wearied. 
+With wild eyes and a feverish, manic look about them, $e looks 
+disheveled and somewhat disoriented with their surroundings. 
+~
+10 0 16 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+268435456 0
+0 26 26 25 21 22 24 30 24 24
+23 22 30 20 27 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' scientology_zealot~
+0 0 0
+#53037
+Hosted-Shredder hgt $hgtskele bipedal lizard $lizcolor skin~
+a $hgtskele, bipedal lizard with patches of $lizcolor2 skin~
+A $hgtskele, bipedal lizard with patches of $lizcolor1 skin darts and jerks erratically.~
+   This animal is $hgtskele; identified as what may have once 
+been a shredder lizard. Positioned on a long neck, its mouth is 
+full of vicious little teeth while its eyes are $hgteyes. Even 
+though the ribs are clearly visible, some protrude from the skin, 
+snapped outwards as the chest and abdomen areas distend and swell 
+visibly into lumpy protrusions. $lizcolor. Most of the rest of 
+the animal has been warped, with different chitinous, $hgtscales 
+scales protruding and overlapping the others twistedly. Other 
+portions sport hoary hair, and still bony spikes or plates that 
+seem to extend from the skeleton. Still others are completely 
+raw, revealing slimy and greenish flesh underneath. 
+~
+136314920 8388612 18 97 4 5d1+80 2d5+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 40 0 0 0 1 0 0 0 0 0 0 0 0
+8 10 10 10 16 10 40 13
+268435456 0
+0 35 20 20 20 20 35 35 20 20
+20 20 20 20 20 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'private' zeta-strain 'private' genetic-terror~
+144 86 0
+#53038
+Peter crocodile hgt tattered bony grin seeping~
+a tattered, seeping crocodile with a bony grin~
+A crocodile with a tattered, seeping skin hunkers here, its skull like head bearing a bony grin.~
+   A grinning, sloughing muzzle full of curved, snaggled teeth leads the 
+swaying, attenuated body of this monstrosity. From the tip of its nearly 
+skeletal snout, all the way to the matching end of its tail, it's huge at 
+thirty-five feet long. The image of a gigantic crocodile hunkers close to the 
+ground on six legs that end in viciously clawed feet that have been rubbed raw. 
+Further holes have been torn into its side from a multitude of spikes on each 
+limb. Much of the seeping hide has peeled away, leaving patches of chitin and 
+bones almost like stone in its wake. In some ways, the body of this creature 
+looks like the very tunnels themselves. The tail is particularly lethal, 
+bearing a number of spikes and sharp, splintered bones. 
+~
+136577098 8388612 45 100 9 5d1+150 2d7+4 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 1 0 0 0 0 0 0 0 2359816
+19 16 25 16 16 20 40 13
+0 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 75 75 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' genetic-terror~
+0 0 0
+#53039
+Hosted-Barker dog barker distorted HGT patchy $wolffur bloated~
+a $barkersized, $hgtaction2 dog with a bloated body~
+Lurking nearby is a $barkersized, $hgtaction2 dog with a bloated body.~
+   In life $barkersized, this was once an animal large enough to 
+deliver a potentially single lethal bite to a man. Now its eyes 
+are $hgteyes and it $hgtaction. Its massive jaws have been torn 
+and are turning a greenish color from saliva, mucus, and rot. 
+Once covered with $wolffur; the hide has peeled away in some 
+portions, overgrown with $hgtscales scales and tumors in others, 
+while spikes jut out at odd angles and have torn into its body. 
+Ribs have been cracked outwards, and the chest and abdomen are 
+distended in a horrific way with knotted cording wrapped around 
+the pulsing deformities. Almost inaudible is a low thump, like a 
+giant heart. 
+~
+136314920 8388612 24 92 5 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 45 0 0 0 1 0 0 0 0 0 0 0 0
+13 11 15 16 14 15 40 13
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' zeta-strain 'member' genetic-terror~
+144 86 0
+#53040
+Hosted-Barker2 barker hgt dog $hgtdescrip $hgteyes $hgtaction $wolffur $hgtscales~
+a $hgtdescrip, $hgteyes-eyed dog with a torn, $wolffur3 hide~
+Skulking here is a $hgtdescrip, $hgteyes-eyed dog with a torn, $wolffur3 hide.~
+   As tall as a man's shoulder, this was once a massive barker 
+dog with an equally huge maw. Now it is $hgtdescrip. Most of 
+its flesh has peeled back from bony mandibles, leaving exposed 
+bone and the tatters of a leathery nose. Within its mouth sits a 
+rotted, festering lump: the remnants of a tongue that has been 
+bitten through. Past the muzzle, the eyes are $hgteyes. It is 
+$hgtaction. The rest of the beast shows remnants of its power in 
+life, patches of pulled away hide were once $wolffur. Spikes jut 
+out at odd angles, and $HGTscales scales have covered patches of 
+its torn hide in fashions with no clear pattern. Clumps of fur 
+hang by threads, or cover the beast's hulking frame. The ribcage 
+seems to have been bent outwards, the throat, chest, and abdomen 
+distended horrifically. 
+~
+136314920 8388612 36 92 7 5d1+120 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 40 0 0 0 1 0 0 0 0 0 0 0 0
+16 12 18 10 14 18 40 13
+268435456 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' genetic-terror~
+144 86 0
+#53036
+dog~
+dog~
+dog~
+(null)~
+8 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#53041
+Hosted-Vulture $hgtliquid $hgtclaws clawed vulture~
+a $hgtclaws1-clawed, $hgtliquid0-covered vulture~
+A $hgtclaws1-clawed, $hgtliquid0-covered vulture flaps around gracelessly.~
+   This large, ugly bird probably could not get much more 
+hideous. Its bald head is little more than a skull with a sharp 
+beak and sunken eyes, slung forward from a body that is partially 
+covered in dark brown and fluffy white feathers that are slick 
+with $hgtliquid. Marbled, rubbery pink and black flaps are 
+visible from the pinions of its wings, as well as in between the 
+$hgtclaws claws and legs. Some portions are completely lacking 
+feathers to show shriveled skin, such as the thumping goiter at 
+the base of its scrawny neck. 
+~
+673185832 8388612 24 94 3 5d1+70 2d3+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 40 0 0 0 3 0 0 0 0 0 0 0 0
+13 16 5 10 15 5 40 15
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic-terror~
+144 86 0
+#53042
+Hosted-Skimmer $hgtflavor0 $skimmerlooking1 skimmer~
+a $hgtflavor0 $skimmerlooking1 skimmer~
+A $hgtflavor0 $skimmerlooking1 skimmer flies here gracelessly.~
+   A $hgtflavor $skimmerlooking, though both of these coverings 
+seem to slough off at will. A bulging monstrosity at seven feet 
+long, with mis-shapen wings, this skimmer flies more out of sheer 
+will than grace, its wings often seeming to flap ineffectually 
+against the air, the occasional hollow bone poking out from 
+beneath rotting flesh. Its maw is a great cracked beak, and its 
+cry is most similar to air escaping a corpse. What were once 
+primitive hands at the end of its wings have turned into bony 
+claws, the hideous things rendering its flight even more 
+imbalanced, and its feet are gnarled husks of flesh, utterly 
+useless. 
+~
+671088648 8388612 36 93 2 5d1+120 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 2 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 13
+268435456 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' genetic_terror~
+144 86 0
+#53043
+Hosted-Lagato $lagatosized0 $hgtflavor1 $legatocolored2 lagato lizard hgt~
+a $hgtflavor1 $lagatosized0, $legatocolored2 lizard~
+A $hgtflavor1 $lagatosized0, $legatocolored2 lizard rots here.~
+   At a distance, this slab of decomposing meat might be mistaken 
+for one of the few lagato corpses that litter the wastelands. 
+However, any closer inspection would reveal that it still retains 
+some semblance of life, or, at the very least unlife. 
+$lagatosized. It is $hgtflavor and $legatocolored. Bones 
+protrude from beneath that thick, rotting hide, bits of scaly 
+flesh sloughing off with every movement. The rancid, poisonous 
+spit that drools even from a healthy member of the species, has 
+been replaced with something positively foul, a viscous, 
+blood-like discharge that clots around its gaping maw. 
+~
+136314920 8388612 36 95 7 5d1+120 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 1 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 13
+268435456 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' genetic_terror~
+144 86 0
+#53044
+Hosted-Octocat Octocat Cthulhucat $hgthide $hgtdescrip cat tentacular head hgt~
+a $hgthide1, $hgtdescrip2 cat with a tentacular head~
+In spite of twitching and spasming, a $hgthide1, $hgtdescrip2 cat with a tentacular head slips through the area.~
+   This animal resembles peripherally a terran lynx, only about a 
+foot high and nearly double that long. Its head is drastically 
+malformed, tapering into five hooked tentacles that drip black 
+liquid and bear vicious hooks. Behind that, once keen eyes are 
+now $hgteyes and the large, tapering ears droop. Its hide is 
+$hgthide. Some portions have been split away by sharp, bony 
+spikes which jut out at random angles, especially along the 
+spine. The frame of it is $hgtdescrip. 
+~
+134217738 8388612 21 101 3 5d1+90 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 40 0 0 0 1 0 0 0 0 0 0 0 0
+11 16 15 10 16 11 40 16
+268435456 0
+0 35 35 35 35 35 35 35 35 35
+35 35 35 35 35 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' genetic-terror~
+144 86 0
+#53045
+Alternate-Queen2 asian features terrible insectoid xByBoo~
+a terrible insectoid with asian features~
+A terrible insectoid with asian features rears back on its hindlegs.~
+   This monstrosity strongly resembles some type of insectoid. 
+Absolutely huge, the entire body would be nearly seventeen feet 
+long, front to back. Its rear is like that of a centipede, but 
+thick legs armored in jointed chitin sprawl from the sides. Most 
+of the pitch-black chitinous plates along the back are bowed, 
+pointed upwards with numerous ridges and rough patches like 
+scales. Its upper half is held aloft, with immense, 
+pincer-tipped legs propping it up. The back bulges in a domed 
+shape and the armoring is in the form of interlocking, jigsaw 
+plates that peak in sharp spikes. A number of appendages sprout 
+from around the bottom, all but two tentacular and bearing either 
+hooks or suckers. The last end in enormous, flat pincers that 
+interlock with toothlike growths on the outside, while the 
+internal parts are damp flesh, mottled pink and black. On the 
+bottom of the dome is thick, greyish hide with a scaly surface. 
+Protruding from this is a face - that of an alarmingly corpulant, 
+slant-eyed man. Bright, electric blue domes surround it, though 
+the eyes of the man match them in color and texture; his features 
+are frozen in a big, goofy grin. 
+~
+10 4 45 7 11 5d1+140 2d7+4 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 0
+19 16 20 16 16 20 40 13
+0 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' genetic-terror~
+0 0 0
+#53046
+Hosted-Crocodile $hgthide $crocsized crocodilian crocodile~
+a $crocsized, $hgthide $hgtflavor crocodilian~
+Crouching in silence is a $hgthide, $crocsized crocodilian.~
+   This festering hunk of reptile is $crocsized. It strongly 
+resembles a crocodile that has perhaps been allowed to fester in 
+the sun for a while, except for being covered in swollen, 
+pustulous lumps. A lot of its $hgtflavor form is $hgthide. Many 
+of the scales have peeled away, and its neck balloons out to the 
+side, rubbed raw and fetid on the underside of it. The hide 
+around its muzzle clings tightly, sunken into the eyesockets, and 
+the soft palate within the mouth hangs raggedly down. 
+~
+134217768 8388612 36 100 8 5d1+120 2d8+4 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 56 0 0 0 1 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 13
+268435456 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 60 60 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' genetic-terror~
+0 0 0
+#53047
+Hosted Squick $littlelizardsized $hgtdescrip lizard~
+a $littlelizardsized, $hgtdescrip lizard~
+A $littlelizardsized, $hgtdescrip lizard putters about, rotting.~
+   As this creature used to be a squick, it is $littlelizardsized. But squick 
+it is no more, instead $hgtdescrip. The little thing hobbles about, mutations 
+and decayed flesh slowing its once-quick pace. 
+~
+2097192 8388612 12 97 3 5d1+80 2d5+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 1 0 0 0 0 0 0 0 0
+8 16 10 16 16 10 40 13
+268435456 0
+0 20 20 20 20 20 20 20 20 20
+20 20 20 20 20 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic-terror 'member' zeta-strain~
+24 86 0
+#53048
+Hosted Beetle $hgtbuild1 long pincered beetle $beetlesized~
+a $hgtbuild1, long-pincered beetle~
+A $hgtbuild1, long-pincered beetle waddles here.~
+   This beast is $beetlesized. While it carries features that presumably once 
+made it a beetle - a thick carapace, spindly legs, and long, vicious pincers - 
+it is also $hgtbuild1 - so much so that not all of its legs can touch the 
+ground at once, so it is forced to waddle when it moves. 
+~
+136314920 4 24 2 7 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 56 0 0 0 2 0 0 0 0 0 0 0 2228752
+13 16 15 16 16 15 40 11
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic-terror 'private' zeta-strain~
+144 86 0
+#53049
+Hosted-Rat $hgttumor turmored rat~
+a $hgttumor-tumored rat~
+A $hgttumor-tumored rat is here.~
+   This mangy little creature was, at some point in the past, a rat. Now, 
+however, it is the living dead. Covered in $hgttumor tumors, the creature 
+scurries around as much as it can, trailing slime, and buzzing a static buzz 
+softly. 
+~
+136314920 4 12 2 3 5d1+80 2d5+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 1 0 0 0 0 0 0 0 0
+8 16 10 16 16 10 40 13
+268435456 0
+0 20 20 20 20 20 20 20 20 20
+20 20 20 20 20 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic-terror~
+24 86 0
+#53050
+Hosted-spider grotesque $hgteyes eyed spider~
+a grotesque, $hgteyes-eyed spider~
+A grotesque, $hgteyes-eyed spider lurches here.~
+   This spider is all bent out of shape - its legs skitter in every direction, 
+often in ways they were never meant to bend, which causes the arachnid to 
+stumble along in a lurch. Pieces of its exoskeleton have rotted away to reveal 
+the soft flesh beneath. Its eye are $hgteyes. 
+~
+404750344 4 24 72 5 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 1 0 0 0 0 0 0 0 0
+13 16 15 16 16 15 40 13
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic-terror~
+144 86 0
+#53051
+Hosted-goat $hgthide goat~
+a $hgthide goat~
+A $hgthide goat totters here.~
+   This atrocity has somewhat goatlike features - namely an elongated face and 
+horns on the top of its head. Most all resemblance to the moon creature ends 
+there, however. It's skin is $hgthide. It also has bright blue eyes. 
+~
+136314920 0 24 79 5 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 1 0 0 0 0 0 0 0 0
+13 16 15 16 16 15 40 13
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'private' genetic-terror~
+144 86 0
+#53052
+Hosted-coyote $coyotesized0 $hgtcysts1 cysted coyote~
+a $coyotesized0, $hgtcysts1-cysted coyote~
+A $coyotesized0, $hgtcysts1-cysted coyote shambles around.~
+   This shambling creature is $coyotesized0. Its skin is absolutely covered in 
+$hgtcysts1 cysts - leaking, spewing, bubbling, pus-dripping cysts that cling to 
+whatever rotting flesh hasn't sloughed off of the beast just yet. 
+~
+136314888 8388612 24 92 5 5d1+100 2d5+2 0 7 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 1 0 0 0 0 0 0 0 0
+13 16 15 16 16 15 40 13
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic-terror~
+144 86 0
+#53053
+Hosted Beetle $hgtbuild1 long pincered beetle $beetlesized~
+a $hgtbuild1, long-pincered beetle~
+A $hgtbuild1, long-pincered beetle waddles here.~
+   This beast is $beetlesized. While it carries features that presumably once 
+made it a beetle - a thick carapace, spindly legs, and long, vicious pincers - 
+it is also $hgtbuild1 - so much so that not all of its legs can touch the 
+ground at once, so it is forced to waddle when it moves. 
+~
+2097192 4 24 2 7 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 0
+13 16 15 16 16 15 40 13
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' genetic-terror~
+168 86 0
+#53054
+humanoid fragile chitin-covered grey HGT-Mage~
+a fragile, grey chitin-covered humanoid~
+A fragile humanoid covered completely in grey chitin plates stands here.~
+   This being's physique is vaguely humanoid in shape, built like a very lean, 
+bony panther, its stance predatory. Every inch of its body has been covered in 
+grey chitinous plates, seamlessly linked together as to give the impression of 
+a smooth, grey exoskeleton. The contours of its exoskeleton give just the 
+barest hint to toned musculature. Most of the head is completely covered, 
+giving no hint to any eyes if there any. The only respite is to where its 
+mouth should be - there is no jaw to this humanoid. Instead, part of its 
+throat and its gullet is exposed - or what would be its gullet and throat - 
+which is absolutely impenetratable black, as though it had swallowed a black 
+hole. Its hands are midnight-black talons, with four dangerously sharp 
+scimitar-like claws on each talon. 
+~
+10 4 34 2 6 5d1+112 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 45 0 0 0 2 0 0 0 0 0 0 0 524802
+16 16 18 16 16 18 40 15
+0 0
+0 60 60 60 60 60 50 50 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' genetic-terror~
+0 0 0
 $~

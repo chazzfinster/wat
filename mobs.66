@@ -1,1 +1,907 @@
+#66001
+Foster green-eyed neon neon-green neon-green-eyed tall fair-skinned fair~
+a tall, neon-green-eyed man with fair skin~
+A tall, neon-green-eyed man with fair skin is here.~
+   Thick, mid-neck-length black hair tucked behind his ears 
+stands in sharp contrast with this man's fair features. Thick 
+eyebrows are set over a pair of luminescent, neon-green eyes 
+which seem to be almost pixelated around the irises. His high 
+cheekbones and strong jawline give him a poised demeanor, a 
+notion supported by his erect posture and well-toned body. 
+~
+10 0 42 69 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 72 2 0 0 0 0 0
+15 16 15 10 16 16 40 16
+0 0
+0 70 50 70 0 0 70 70 70 70
+70 70 0 0 0 0 70 70 80 0
+0 0 0 60 0 0 80 70 0 0
+0 0 0 0 0 0 0 0 70 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' new_phoenix_merc 'member' anarchs 'member' wilmingtons 'member' vultures 'member' grungetown~
+0 0 0
+#66510
+Factory-Foreman stout one-armed man clerk~
+a stout, one-armed clerk~
+A stout, one-armed clerk mans the counter here.~
+   Standing at the average, and broad of shoulder, this man cuts an 
+intimidating figure even with his single remaining arm. It's a muscular thing, 
+that more than makes up for the lack of the other, and his hawkish blue eyes 
+watch the factory lobby with an unceasing vigilance. 
+~
+10 0 45 0 0 5d1+150 2d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+19 16 20 16 16 20 40 13
+1 1
+66510 66517 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 1
+66513 66514 66516 66512 -1
+0 0 0 0 0 0 0 0 0 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' grungetown~
+0 0 0
+#66000
+xwilmingtonapartmentx bespectled old man rent~
+a bespectaled old man~
+A bespectaled old man sits behind the receiption desk here, occassionally chatting with would-be patrons about rooms he has available to #6rent#0.~
+   A small pair of hastily-bound-together spectacles rest upon 
+this old man's small, round nose. He is short in height, 
+slightly slouched over. His features betray the hardships of his 
+years, wrinkled and spotted all over. 
+~
+10 0 14 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+12 15 12 10 16 12 40 11
+0 1
+0 0 10 0 0 0 60 60 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'lieutenant' grungetown 'lieutenant' wilmingtons~
+0 0 0
+#66002
+xslumapartmentsx tall grime-covered grime covered man~
+a tall, grime-covered man~
+A tall, grime-covered man stands here before a section of shanties set within the slum, marking a piece of paper in his hands to note those which he has #6rent#0#5ed#0.~
+   This man is taller than most, his form covered in the dust, 
+grime and dirt which has become commonplace to slumdwellers. His 
+features are emaciated, with his cheekbones portruding outwards. 
+~
+10 0 14 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+14 14 10 10 14 16 40 10
+0 1
+0 0 10 0 0 0 60 60 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'lieutenant' wilmingtons 'lieutenant' grungetown~
+0 0 0
+#66003
+doorguard market grungetown Wilmington~
+a market variable doorguard~
+A Market variable doorguard stands here.~
+   This person has alert eyes and $e holds themselves with a 
+vigilant stance over their assigned doorpost. 
+~
+10 0 45 5 0 5d1+116 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+19 11 10 7 12 19 40 10
+268435456 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'lieutenant' grungetown 'sergeant' wilmingtons~
+0 0 0
+#66004
+burlesque doorguard veteran~
+a veteran burlesque doorguard~
+A veteran burlesque doorguard is here.~
+   This person has alert eyes and $e holds themselves with a 
+vigilant stance over their assigned doorpost. 
+~
+10 0 14 5 0 5d1+88 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 11 11 10 12 12 40 16
+268435456 0
+0 22 20 22 29 24 20 21 21 23
+23 24 26 22 22 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#66005
+burlesque VIP doorguard veteran~
+a veteran burlesque doorguard~
+A veteran burlesque doorguard is here.~
+   This person has alert eyes and $e holds themselves with a 
+vigilant stance over their assigned doorpost. 
+~
+10 0 14 5 0 5d1+88 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 11 11 10 12 12 40 16
+268435456 0
+0 22 20 22 29 24 20 21 21 23
+23 24 26 22 22 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' burlesque-vip 'sergeant' burlesque 'corporal' wilmenforce~
+0 0 0
+#66006
+dontuse~
+a short, brown-haired man with a thin moustache~
+A short, brown-haired man with a thin moustache stands behind the bar serving drinks and food to various patrons.~
+   Short-cropped brown hair sits atop this middle-aged man's ovular face, 
+thinning just slightly in the back. A crooked nose sits above a pencil-thin 
+moustache, twirled upwards at the edges. His frame is somewhat stocky, marred 
+with wrinkles and various scars indicating his rough past. 
+~
+10 0 19 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 0
+230 314 0.000000 0.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 8384507
+6082 10084 10085 10086 10092 10093 10094 11126 -1
+0 0 0 0 0 0 0 0 0 0
+0 0 10 0 0 0 88 75 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' burlesque~
+0 0 0
+#66007
+bouncer tall nondescript~
+a tall, nondescript bouncer~
+A tall bouncer of nondescript air keeps his post by the northern exit.~
+   Wearing a plain, tight black shirt to showcase this man's "talents", there 
+is nothing else of note in this man's appearance. He stands tall and eyes 
+passersby warily, sticking to his post and holding up even the most veteran of 
+performers to ensure that no one passes without proper authorization. 
+~
+8421450 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#66008
+bartender well-groomed old~
+an old, well-groomed bartender~
+An old, well-groomed bartender stands behind the bar, serving food and drinks to patrons.~
+   The bartender is dressed in a slick, dark crimson-hued tuxedo, mixing drinks 
+with fitted black butler's gloves and offering them to patrons with a smile 
+that flashes white. While his short, slicked-back wavy hair has already 
+greyed, and fine lines have begun to form on his face, he carries himself with 
+pride fitting an accomplished man. 
+~
+8421466 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 1
+66593 66605 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 15858
+-1
+19 52 4 50 17 86 32 0 0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' burlesque~
+0 0 0
+#66009
+Gilderoy neatly haired straight backed man~
+a neatly-haired, straight-backed man~
+A neatly-haired, straight-backed man keeps a pleasantly predisposed watch on his shop.~
+   Of about average height, this is a man that keeps himself clean. If it were 
+not for his dapperly kept appearance, though, he would be quite plain. His 
+hair is a medium brown, swept off to the side and artfully spiked, while his 
+features themselves are small. He has large, brown eyes set on either side of 
+a slender nose. By comparison to his torso, his limbs are a little lanky. 
+~
+26 0 24 5 0 5d1+100 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+13 16 15 16 16 15 40 13
+1 1
+66625 66628 1.000000 0.500000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 33554399
+8073 8075 8074 8076 8077 8078 8087 8088 8089 8090 8091 8092 8106 8112 8129 8147 8149 8155 8162 14033 8169 14037 14036 14038 8164 8168 8086 8072 8156 8157 8158 8159 8160 8161 8163 8046 8128 8105 8181 8190 -1
+0 0 0 0 0 0 0 0 0 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown 'sergeant' wilmbuss 'sergeant' wilmingtons 'corporal' wilmington~
+0 0 0
+#66010
+Keenan burly bodied shaggy bearded man~
+a burly-bodied, shaggy-bearded man~
+Watching over the shop is a burly-bodied, shaggy-bearded man.~
+   Burly and taller than the average man, this male has broad shoulders and a 
+thick, straight neck. He is perhaps a little more squat of build, than usual. 
+A short, but shaggy beard graces the chin on his leathery, angular face. Dark, 
+brilliantly blue eyes look out from underneath his heavy brows. His deep brown 
+hair has been swept back into a loose fashion, streaked with a few greys. 
+~
+26 0 36 5 0 5d1+112 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 13
+1 1
+66624 66627 1.000000 0.500000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+8111 8108 8109 8154 8080 8110 8074 11097 13030 13031 13032 13033 13034 13035 13036 13037 13038 13110 13112 13111 13113 13114 13115 13116 13117 13118 8145 8130 8079 8082 8059 8134 8135 8136 8084 8093 8094 8180 8105 -1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown 'sergeant' wilmbuss 'sergeant' wilmingtons~
+0 0 0
+#66011
+Kaena able girl straight night black hair~
+an able girl with straight, night-black hair~
+An able girl with straight, night-black hair helps customers.~
+   While not very tall, this young woman carries herself with a certain amount 
+of assurity. Her skin is tanned to a crisp brown, and her completely black 
+hair is down to her shoulders, most frequently tied back in a ponytail. The 
+features to her face are a little angular, and her nose is small, but her lips 
+are plush. 
+~
+26 0 36 5 0 5d1+112 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 13
+1 1
+66623 66626 1.000000 0.500000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+8120 8121 8122 8123 8124 8125 8127 8119 8141 8103 8115 6081 8126 -1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' wilmingtons 'sergeant' wilmtech 'sergeant' wilmbuss 'member' grungetown~
+0 0 0
+#66012
+Anise wild haired young woman facial tattoo xPaintStore~
+a wild-haired young woman with a facial tattoo~
+A wild-haired young woman with a facial tattoo minds the shop.~
+   This woman is short and curvy, with spiked up hair in wild hues of green, 
+blue, and yellow. Her bags still hang down in her face, swept off to one side 
+and nearly reaching her jaw. The features of her face are pixieish, with a 
+small nose and almond-shaped eyes that are often smiling. Multiple piercings 
+adorn her ears, matching one just beneath her lower lip. On her right cheek is 
+a swirling, tribal style tattoo. 
+~
+26 0 36 5 0 5d1+112 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 13
+1 1
+66629 66630 1.000000 0.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 33554399
+8063 8064 8065 5059 8067 5057 8142 8068 8069 8070 5033 5061 5058 5060 8168 -1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' wilmbuss 'member' grungetown 'sergeant' wilmington~
+0 0 0
+#66013
+Ferdinand shaven headed hawk nosed man xMedicalSupply~
+a shaven-headed, hawk-nosed man~
+A shaven-headed, hawk-nosed man keeps a watchful eye on his store.~
+   This man is tall and lanky, with a rather jutting, hawk-like nosed. The 
+rest of his features are narrow and angular, and he has big, busy eyebrows 
+above amber-brown eyes. His head has been completely shaved, leaving nothing 
+but a shiny, bald scalp underneath. It matches the rest of his skin in a warm 
+brown hue, and his eyebrows with whatever accompanying stubble prove his hair 
+to be black. 
+~
+1034 0 36 5 0 5d1+112 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 13
+1 1
+66631 66632 1.000000 0.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16777215
+10038 10081 10082 10083 8144 -1
+0 0 0 0 0 0 0 0 0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown 'sergeant' wilmbuss 'sergeant' wilmingtons~
+0 0 0
+#66666
+mob unruly toughened Grungers~
+one of the unruly mob of toughened Grungers~
+An unruly mob of toughened Grungers protects their turf.~
+   Made up of individuals hardened from decades of serving on factory floors, 
+working the Breathers, and fighting, biting, and kicking to survive in 
+everything a Grungetown life can throw at them, this unruly mob is ready to 
+defend their turf with violence. Perhaps a dozen people in total, they look to 
+have left their jobs toiling away in the background to come together for the 
+sole purpose of defending what's theirs. 
+~
+4107 0 36 5 5 5d1+112 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 13
+0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+2 86 0
+#66014
+mob new~
+a new mobile~
+(null)~
+(null)~
+8 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#66015
+mob new~
+a new mobile~
+(null)~
+(null)~
+8 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#66935
+Yanali green-haired woman slanted dark eyes xTreasureChest~
+a green-haired woman with slanted dark eyes~
+A green-haired woman is here, tending to the shopfront.~
+   This delicately-boned woman stands quite short, with long graceful limbs and 
+a proud posture. Her hair has been dyed a startling emerald green, kept 
+up-swept with a few tendrils cascading down. Dark brown skin and almond-shaped 
+eyes so dark they almost seem black only highlight the unnatural shade. Many 
+small scars mark her skin, and her left pinky finger is missing from the second 
+joint. Her arms and hands bear an extensive and intricate etching of geometric 
+patterns surrounding a row of chips in gold-flecked denominations which lead to 
+her shoulders. At her collar, the top edge of a ceremonial disk tattoo peeks 
+over the edges of her clothing, and a vibrantly-striped sleeping squick lizard 
+is inked around her throat. Four small, polished rings are pierced along her 
+lower lip, and a stud decorates her left nostril. 
+~
+10 0 5 0 0 5d1+80 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 0
+66935 66936 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16776047
+-1
+0 0 0 0 0 0 0 0 0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#66667
+shopkeep turf-shopkeep~
+a turf shopkeeper~
+A turf shopkeeper is here.~
+Looking somewhat cleaner and better groomed than most of Grungetown, the
+lack of heavy calluses and freedom from some of the more common industrial
+stenches marks this individual as having some kind of relatively cushy
+indoor job - most likely a servant, doorman or shopkeep.
+~
+26 0 15 5 0 5d1+88 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+10 16 16 10 10 12 40 14
+268500993 1
+0 0 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16384
+-1
+0 0 0 0 0 0 0 0 0 0
+0 21 20 25 20 20 27 20 24 21
+25 22 30 24 30 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#66668
+soldier regular turf-soldier~
+a regular turf-soldier~
+A regular turf-soldier is here.~
+   This person exhibits a continually cagey look, their demenour rather rough 
+and guarded. In addition, $e has a number of scars and calluses, looking in 
+general a fairly rugged type of character. 
+~
+4106 0 22 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+268435456 0
+0 37 39 40 36 34 38 38 32 32
+38 33 39 40 32 0 0 0 0 0
+0 30 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#66658
+Olga tall woman cerulean Xshopkeep XOlga~
+a tall, cerulean-eyed woman~
+A tall woman with, cerulean eyes keeps an eye on her wares and the shop.~
+   This tall woman has a certain sophisticated air to her demeanor and 
+presence. She stands straight with her square shoulders. Her nose is long and 
+pointy, leaving way to thin, ruby red lips. Her high cheek bones only add to 
+this picture, crevices pulling in her cheeks. Her form is well rounded, 
+seeming to be well nourished with long fingers that have perfect nails. Short, 
+black, well combed hair sit atop of her head. Her eyes are of the cerulean 
+tint, rather piercing as they sit in sunken orbits. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 1
+66657 66658 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16252832
+-1
+0 0 0 0 0 0 0 0 0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' vultures~
+0 0 0
+#66647
+ebon-haired light-amber-eyed man dale bartender Xshopkeeper Xdale~
+an ebon-haired, light-amber-eyed man~
+A young man with ebon-hair stands behind the bar, serving up drinks and conversation alike.~
+   With eyes the color of honey, this man's pocked, clean-shaven face holds a 
+constant expression of calm coolness. His ebon hair is cut close to the scalp 
+in an almost buzz-cut and his thick brows and thin lashes match in color. Tall 
+and lean, you will always catch him well dressed and clean. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 1
+66645 66647 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16252832
+-1
+0 0 0 0 0 0 0 0 0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' vultures~
+0 0 0
+#66661
+long-haired beryl-eyed well-kempt man fabio Xfabio Xshopkeep~
+a long-haired, beryl-eyed man~
+A well-kempt, long-haired man lingers here with shelves of scanty clothing.~
+   With an easy dimple-inducing smile, this man stands well above the average 
+grunger. Well-kempt, clean and with abounding muscles, his dark hair falls to 
+his broad shoulders. Beryl-hued, crystalline eyes peer out from between dark, 
+inky lashes and slightly bushy brows. A hard chiseled chin and light stubble 
+complete his visage. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 1
+66649 66661 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16252832
+-1
+0 0 0 0 0 0 0 0 0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' vultures~
+0 0 0
+#66660
+graceful raven-haired woman heather Xheather Xshopkeep~
+a graceful, raven-haired woman~
+A graceful woman with long, raven-hair stands behind a counter, assisting customers.~
+   This woman carries an air of strength about her. Standing steady on her two 
+feet, subtle muscles ripple in her skin as she moves. Her long raven-black 
+hair has been carefully separated into two plaits which hang down her back. 
+Her green eyes carefully scan her surroundings, their bright color reflecting 
+the slightest hint of light. Her full lips are delicately accented by subtle 
+laugh lines, and will break into a playful pout or grin without notice. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 1
+66659 66660 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 16252832
+-1
+0 0 0 0 0 0 0 0 0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' vultures~
+0 0 0
+#66017
+clump rooted writhing tentacles outcropping central trunk mass xHosted~
+a clump of rooted writhing tentacles~
+Outcropping from a central trunk, a mass of thick tentacles clumps here.~
+   Barbed and spiked throughout, tough chitinous tentacles twist and roll over 
+each other. They seem forever seeking, snapping forward suddenly and 
+independently of each other, searching for food to bring to their centralized 
+body. A thick mucus covering and lubricating them gives off a faint stench of 
+rot and trails a path over whatever they touch. The sound of the tentacles 
+brushing over each other is a constant wet slapping sound of flesh against 
+flesh. 
+~
+2097162 4 20 2 7 5d1+120 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 9 0 0 0 0 0 0 0 0
+20 16 16 16 16 20 40 16
+0 0
+0 50 10 0 0 0 50 50 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' genetic-terror~
+0 0 0
+#66018
+thick trunk tentacled mass twisting writing mass tentacles lone trunk xHosted~
+the thick trunk of a tentacled mass~
+Amid a twisting writhing mass of tentacles, the lone trunk stands here.~
+   Amid writhing tentacles, this thick stalk is rife with twisted half-formed 
+faces straining and snapping their teeth. The whole creature is slick with 
+mucus though the source would be those horrific gaping mouths caught in forever 
+scream. Giving the appearance of melted wax, those eyes dotting along the 
+thick-formed creature have no orientation to the faces that would supposedly 
+house them. A sharp stink is exuded from every breathy maw. 
+~
+2097162 4 24 2 8 5d1+120 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 9 0 50 1 0 0 0 0 0
+20 16 20 16 16 20 40 16
+0 0
+0 60 10 0 0 0 60 60 0 0
+60 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' genetic-terror~
+0 0 0
+#66019
+test2 tentacled mass~
+a test of a tentacle-like mob~
+This is a test of a tentacle-like mob here.~
+(null)~
+2097162 4 20 2 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 50 10 0 0 0 50 50 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' genetic-terror~
+0 0 0
 $~

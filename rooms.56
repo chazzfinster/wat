@@ -1,1 +1,5205 @@
+#56000
+Base Room for Grungetown (Indoor Rooms)~
+This sector is for expansion of building interiors within Grungetown.
+
+56001 - 56199 = Anarchs
+56200 - 56399 = Shadows
+56400 - 56599 = Wilmingtons
+56600 - 56799 = Vultures
+
+Reliable ranges are needed for echos and progs. If 200 rooms isn't enough, we'll annex another zone.
+
+Type RUNUSED to see what numbers are available for use.
+~
+56 67174664 0
+0
+S
+#56800
+A Dimly-Lit Gambling Den~
+   This room is rather dimly-lit with lights hung from the walls 
+covered in opaque glass that casts a red glow around the room. 
+Gambling tables are positioned here and there with various games 
+and are perpetually occupied with at least a half-dozen players 
+at hand. The walls are bare and there are no decorations save 
+the rather large, deformed, stuffed dog that has been positioned 
+next to the entrance to the den right at the base of the stairs, 
+its face frozen in a harsh snarl. 
+~
+56 67174808 0
+0
+D4
+~
+~
+0 -1  0 56801
+S
+#56801
+Doghouse Bar~
+   This room is rather dimly-lit with lights hung from the walls covered in 
+opaque glass that casts a red glow around the room. Patrons wander in and out 
+of the bar with varied pace, but the atmosphere of the establishment seems 
+rather chilled. Various Family members lounge around in their own corners, 
+mainly keeping to themselves, though a few can be spotted at tables not 
+populated mainly by their own. A sign sits about the southern door, a crude 
+picture of a toilet, and along that wall is a rickety plastic staircase, 
+leading upwards. Above the northern door to the building is mounted a barker 
+head - the head is as large as a man's chest, black-furred, with its face 
+perpetually pulled into a vicious snarl. 
+~
+56 67699100 0
+0
+D0
+~
+broad-door~
+0 -1  0 75002
+D2
+~
+~
+0 -1  0 56803
+D4
+~
+~
+0 -1  0 56045
+P
+dr dra drag~
+(null)~
+vstr As you attempt to drag your victim, you see #5a greasy, nearly-toothless man#0 raise up his rifle menacingly.
+~
+P
+subdue su sub subd subdu~
+(null)~
+vstr As you attempt to subdue your victim, you see #5a greasy, nearly-toothless man#0 raise up his rifle menacingly.
+~
+P
+kill kil ki k~
+(null)~
+vstr As you attempt to kill your victim, you see #5a greasy, nearly-toothless man#0 raise up his rifle menacingly. 
+~
+P
+sell sel se~
+spirits spirit booze booz~
+info rhandvnum room -1 char -1 worn rhand vnum
+info lhandvnum room -1 char -1 worn lhand vnum
+if (&(rhandvnum)=9016)
+vstr #5A greasy, nearly-toothless man#0 takes your offered jug and nods to you, "Your generosity is noted."
+trans 56133
+force -1 -1 drop jug
+trans 56801
+else do
+if (&(lhandvnum)=9016)
+vstr #5A greasy, nearly-toothless man#0 takes your offered jug and nods to you, "Your generosity is noted."
+trans 56133
+force -1 -1 drop jug
+trans 56801
+else do
+vstr You need to be holding a plastic jug filled with spirits or booze.
+fi done
+fi done
+~
+S
+#56802
+A Spacious, Brown-Carpeted Office~
+   This room is quite spacious, with weathered metal shelves 
+that loom in the far corner of the wall filled with a few 
+knick-knacks, and a creaky ceiling fan hanging from the center of 
+the room. The paint on the walls is faded and chipped, much 
+like the rest of the building, but the floor is covered in a 
+shaggy, dark-brown carpet - its age obvious due to the missing 
+patches of fabric here and there. The carpet changes to 
+scratched flooring in the corner near the shelves where a 
+large desk filled with many drawers and cabinets stands. 
+~
+56 67174664 0
+0
+S
+#56803
+A Rack-Lined Hallway~
+   Just like the commons, this hallway is fairly ancient; the 
+paint on the walls somewhat less faded albeit in the same, 
+chipped state. One stuffed dog has been posed in a sleeping 
+position at the far end of the hallway as if watching the 
+passerbys, and otherwise the hallway remains bare. The waxy 
+sheen on the floor is incredibly dull here due to the heavy 
+traffic coming in and out of the kitchen doors to the east. 
+Signs are set above the western and southern doors - the former 
+is that of a stick figure, and the latter is a stick figure with 
+a skirt. 
+~
+56 67698712 0
+0
+D0
+~
+~
+0 -1  0 56801
+D1
+~
+door~
+1 56000  0 56804
+D2
+~
+door~
+1 -1  0 56044
+D3
+~
+battered door~
+1 -1  0 56043
+S
+#56804
+A Weathered, Tile-Floored Kitchen~
+   This kitchen seems to be the remains of what was once a rather 
+professional-looking kitchen. The shelves and counters, now 
+dented and dinged, are made of some shiny metal alloy, and the 
+floor is covered in faded blue tiles, most of which are cracked 
+so that the cement foundation peeks through here and there upon 
+the ground. The walls are now a dingy, grey color with black 
+smoke marks above the stove while various pots and pans hang from 
+racks affixed to the ceiling. A large freezer has been built 
+into the room, taking up most of the eastern wall and to the 
+north is the narrow door to the cupboard. 
+~
+56 67698952 0
+0
+D0
+~
+~
+0 -1  0 56805
+D3
+~
+door~
+1 -1  0 56803
+S
+#56805
+Inside A Narrow Cupboard~
+   Cramped, narrow, and a literal box. This cupboard can fit 
+only one average human comfortably at any time. Shelves line all 
+of the grey concrete walls. Should one look carefully, a small 
+gray door is set behind shelving to the east. 
+   #6[OOC: This is the storeroom for the Junkyard Bar barkeep. 
+Please only put things in here that are going to be sold or they 
+may disappear forever.]#0 
+~
+56 67698696 0
+0
+D1
+~
+door~
+1 -1  0 55204
+D2
+~
+~
+0 -1  0 56804
+S
+#56001
+A Color-Organized, Used Clothing Store~
+ Every article of clothing in this clothing store has been 
+previously owned, and mixed together in a nonsensical fashion, 
+though they all appear to have been arranged by color. While 
+garments in various shades of blues lines the shelves on one side 
+of the store, the reds have been put on display by the door. The 
+rest of the clothes on the racks and remaining shelves have been 
+organized in a similar fashion. A counter covered in a 
+multi-colored fabric has been set up near the entrance with a 
+register where one can pay for their purchases, and various 
+knick-knacks and baubles on display. 
+~
+56 720896 0
+0
+D1
+~
+door~
+1 -1  0 55198
+H5
+~
+trapdoor~
+1 -1  0 55944
+Q5
+1
+There is a trapdoor behind one of the clothing racks.
+~
+S
+#56002
+The Commons of the Shelter~
+   While easily one of the largest rooms within this 
+establishment, the commmons has obviously seen better days. 
+Where walls would otherwise be missing, thick sheets of metal 
+have been welded in their place to keep the elements out. Areas 
+of the roof, especially over the kitchen, have begun to 
+deteriorate, though provisions have been made to ensure it 
+doesn't collapse in any time soon. Along the far wall opposite 
+of the entrance is the kitchen and dining area, tables with long 
+benches dot this area, capable of accommodating many. The rest 
+of the room appears to be used for any and everything, with 
+shelves and bins lining their walls. A small hallway branches 
+off the room to the east, leading to rest of the shelter; the 
+western door is the only way back out into the alley. 
+~
+56 67174664 0
+0
+D1
+~
+~
+0 -1  0 56003
+H5
+~
+trapdoor~
+1 -1  0 55945
+Q5
+5
+A trapdoor thumps suspiciously beneath the plush carpet on one side of the room.
+~
+S
+#56003
+A Door-Flanked Hallway in the Shelter~
+   This small hallway branches off from the main commons of the 
+shelter, which lies to the west. The walls are bland, and the 
+tiled floor is dusty with mutiple pieces missing. A set of 
+doors, one pink and the other a dark blue, leads to two separate, 
+single-sexed dormitories. At the end of the hall lies a wide 
+doorway, though a heavy black tarp prevents one from seeing 
+what's behind it. 
+~
+56 65544 0
+0
+D0
+~
+pink-door~
+1 -1  0 56004
+D1
+~
+heavy-tarp~
+1 -1  0 56006
+D2
+~
+blue-door~
+1 -1  0 56005
+D3
+~
+~
+0 -1  0 56002
+S
+#56004
+The Women's Dormitory~
+   Rows upon rows of single beds line the walls of this spacious, 
+but insipid dormitory. 
+~
+56 65536 0
+0
+D2
+~
+pink-door~
+1 -1  0 56003
+S
+#56005
+The Men's Dormitory~
+No Description Set.
+~
+56 65536 0
+0
+D0
+~
+~
+0 -1  0 56003
+S
+#56006
+A Small, Cramped Bathroom~
+No Description Set.
+~
+56 65536 0
+0
+D3
+~
+~
+0 -1  0 56003
+S
+#56063
+West Street, South of the West Gate~
+   Stretching toward the southern wall of Grungetown, West Street 
+continues past a long-abandoned cluster of buildings that blocks 
+any travel eastwards. Most of the buildings have toppled into 
+rubble or are skeletal husks of walls and floors. The few 
+buildings still standing are heavily boarded, and tagged with 
+layers of graffiti. A scattering of trash covers the 
+pothole-ridden pavement in the near-constant shade of the 
+Perimeter that looms to the west. The busy clatter of West Gate 
+sounds to the immediate north. 
+~
+56 65536 25
+0
+D0
+~
+~
+0 -1  0 55027
+D2
+~
+~
+0 -1  0 55067
+S
+#56221
+A Private Den~
+   Curtains of thick, black fabric section off padded booths 
+along the walls of this den, allowing paying customers to spend 
+some private time with the dancer of their choosing. Against the 
+far wall, a small, circular stage has been built with only a few 
+comfortable seats circling it, the lighting in the whole room 
+soft and atmospheric. The music is quieter here though it can 
+still be heard drifting in from the main area of the club to the 
+south and there are significantly less patrons. 
+~
+56 65544 0
+0
+D0
+~
+iron-backed-door~
+1 56036  0 56126
+D2
+~
+door~
+1 56036  0 56220
+D4
+~
+door~
+1 56036  0 56227
+S
+#56222
+A Long, Dark Hallway~
+   This hallway has been painted entirely black, creating an 
+almost sinister feel to the already dark passageway. A single 
+door to the north bears the sign 'Employees Only' and the only 
+other exits are towards the music-filled room of the Buzzard's 
+Beaker to the west or towards 'Le Sex Shoppe' to the east whose 
+bright neons shine into the hall. 
+~
+56 65544 0
+0
+D0
+~
+door~
+1 -1  0 56235
+D1
+~
+door~
+1 -1  0 56236
+D3
+~
+~
+0 -1  0 56220
+S
+#56223
+A Hallway Above the Buzzard's Beaker~
+   The sound of the music from the club below drifts up into the 
+hall while a red-shaded lamp casts an eerie glow throughout the 
+length of the passageway. Doors lead to private rooms save to 
+the north where the hallway continues and up the stairs where the 
+Buzzard's Beaker leads up to its third floor. 
+~
+56 65544 0
+0
+D0
+~
+~
+0 -1  0 56224
+D1
+~
+door~
+1 55226  0 56226
+D2
+~
+door~
+1 55225  0 56225
+D4
+~
+~
+0 -1  0 56229
+D5
+~
+~
+0 -1  0 56220
+S
+#56224
+At the End of the Hallway, 2nd Floor of the Buzzard's Beaker~
+   The sound of the music from the club below drifts up into the 
+hall while a red-shaded lamp casts an eerie glow throughout the 
+length of the passageway. Doors lead to private rooms save to 
+the south where the hallway continues. 
+~
+56 65544 0
+0
+D0
+~
+door~
+1 56036  0 56227
+D1
+~
+door~
+1 55228  0 56228
+D2
+~
+~
+0 -1  0 56223
+S
+#56225
+A Pink, Private Room with Neon Lights~
+   This room is old and weathered, the walls cracked and painted 
+in a faded, pale pink that has chipped in many places. The focus 
+of the room is the queen-sized bed placed right in the center 
+with a neon sign of '2' casting a soft glow around the entire 
+room. The pounding of music can be heard coming up from the club 
+below and a single door to the north leads back out into the 
+hallway. 
+~
+56 65544 0
+0
+D0
+~
+door~
+1 55225  0 56223
+S
+#56226
+A Pink, Private Room with Neon Lights~
+   This room is old and weathered, the walls cracked and painted 
+in a faded, pale pink that has chipped in many places. The focus 
+of the room is the queen-sized bed placed right in the center 
+with a neon sign of '1' casting a soft glow around the entire 
+room. The pounding of music can be heard coming up from the club 
+below and a single door to the west leads back out into the 
+hallway. 
+~
+56 65544 0
+0
+D3
+~
+door~
+1 55226  0 56223
+S
+#56227
+A Small Office Above the Private Den~
+   This office is extremely bare with only a shelf and a desk for 
+furniture and there is absolutely no decor save for the nicks and 
+dents upon the desktop. When the wall lamp is lit, it only 
+illuminates the dirt that has accumulated over the years between 
+the grayed tiles of the floor. There is a bare window on the far 
+wall with a large crack in the glass, the curtain rod gone from 
+its hooks.
+~
+56 65544 0
+0
+D2
+~
+door~
+1 56036  0 56224
+D5
+~
+door~
+1 56036  0 56221
+S
+#56228
+A Clothing-Lined Dressing Room~
+   The music of the club downstairs vibrates through the dirty, 
+tile floors of this small dressing room. Cubbies line one wall 
+with hooks inside bearing frilly robes and undergarments while 
+the wall directly opposite the door has been turned into a series 
+of make-up stations, mirrors hung above short tables covered in 
+bottles of perfume and makeup in a variety of colors and types. 
+A series of lightbulbs have been affixed along the top of the 
+stations, casting a bright glow around the entire room and the 
+only exit is a thin door to the west. 
+~
+56 65800 0
+0
+D3
+~
+door~
+1 55228  0 56224
+S
+#56229
+At the Top of the Stairs, 3rd Floor of the Buzzard's Beaker~
+   Faint music from the club below drifts up into the hall while 
+a red-shaded lamp casts an eerie glow throughout the length of 
+the passageway. Doors lead to private rooms where moans and 
+other dirty sounds can sometimes be heard through the walls. The 
+main staircase at this end of the hall leads downstairs to the 
+second floor of the Buzzard's Beaker. 
+~
+56 65544 0
+0
+D1
+~
+door~
+1 -1  0 56230
+D2
+~
+door~
+1 -1  0 56231
+D5
+~
+~
+0 -1  0 56223
+S
+#56230
+A Pink, Private Room with Neon Lights~
+   This room is old and weathered, the walls cracked and painted 
+in a faded, pale pink that has chipped in many places. The focus 
+of the room is the queen-sized bed placed right in the center 
+with a neon sign of '3' casting a soft glow around the entire 
+room. The pounding of music can be heard coming up from the club 
+below and a single door to the north leads back out into the 
+hallway. 
+~
+56 65544 0
+0
+D3
+~
+door~
+1 55230  0 56229
+S
+#56231
+A Pink, Private Room with Neon Lights~
+   This room is old and weathered, the walls cracked and painted 
+in a faded, pale pink that has chipped in many places. The focus 
+of the room is the queen-sized bed placed right in the center 
+with a neon sign of '4' casting a soft glow around the entire 
+room. The pounding of music can be heard coming up from the club 
+below and a single door to the north leads back out into the 
+hallway. 
+~
+56 65544 0
+0
+D0
+~
+door~
+1 55231  0 56229
+S
+#56235
+A Grimy Kitchen~
+   Grime and dirt have been caked into the very cracks on the 
+cement walls and floor of this kitchen. Though the counters and 
+shelves seem to have been well-maintained, the rest of the room 
+is in ill-repair with creaky cupboards and a small hole in the 
+corner of the western wall, allowing the music of the club to be 
+easily heard. There is a dual stove and oven against one wall 
+that seems to have been rarely used but beside it is a large rack 
+for bottles of alcohol. A small door to the north opens up into 
+a pantry while the door to the south leads out into the hall. 
+~
+56 65544 0
+0
+D2
+~
+door~
+1 56036  0 56222
+S
+#56242
+Sam's Sundries~
+   The walls and floor of this wall are crumbling almost to 
+nothing. The paint has all but faded while the walls bear 
+gunshots that alley a peek or two out onto the alley to the west. 
+The floor is made of concrete but there are numerous cracks, even 
+chunks missing that provide hazardous travel for customers. 
+Shelves and hooks are aplenty here displaying a variety of 
+sundries for sale though there is little organization to how they 
+are arranged. A dented, metal door leads west back out into the 
+alley. 
+~
+56 196616 0
+0
+S
+#56251
+A Humid, Dingy Kitchen~
+   Although this kitchen has been built roomily enough, the 
+concrete foundations have done nothing to alleviate the humidity. 
+With constant cook-fires, much of the heat has been trapped 
+inside the room itself, and only a few small vents on the ceiling 
+provide much needed airflow. Grime and dust collects in the gray 
+tiled flooring, and on every nook and cranny visible. Though the 
+decor is maintained poorly, the tables, stoves, and shelves are 
+kept relatively clean. 
+~
+56 268501000 0
+0
+D2
+~
+door~
+1 -1  0 56250
+S
+#56252
+A Narrow Staircase Downstairs of La Revolucion~
+   Cut from cement and set with plastic boarding, the hallway 
+narrows into a small staircase. It creaks softly when stepped 
+upon, and climbs steeply up to the ceiling. At the very top of 
+the staircase, a thick trapdoor is installed. The sounds of 
+conversation and commotion resound muffled through the thick 
+wall. 
+~
+56 65544 0
+0
+D0
+~
+black-reinforced-door~
+1 -1  0 56253
+D4
+~
+thick-trapdoor~
+1 56000  0 56250
+S
+#56253
+An Underground, Shelf-Lined Warehouse~
+   The flickering darkness is offset by the sudden wealth of 
+light-diodes here. Gray cement has been poured to form an 
+expansive rectangular room, and countless stained white shelves 
+line every wall. The shelves continue to line up into numerous 
+aisles, save for a wide path in the middle to allow passage from 
+north to south. A black reinforced door is set in the southern 
+wall. 
+~
+56 65544 0
+0
+D0
+~
+~
+0 -1  0 56247
+D2
+~
+black-reinforced-door~
+1 -1  0 56252
+S
+#56254
+North of a Bend in the Alley~
+   This cramped alleyway is wedged between two buildings, filled 
+with trash and other detritus. A light smattering of grafitti 
+runs across the walls of the buildings, but it isn't quite as 
+heavy as other places in the town. Buildings line either side of 
+the street, wedged tightly together, offering no room for anyone 
+to pass. 
+~
+56 65536 25
+0
+D0
+~
+~
+0 -1  0 56255
+D2
+~
+~
+0 -1  0 55249
+S
+#56255
+Nearing a Dead End~
+   North and south, this alley can be seen coming to an end - 
+north it deadends, and south it bends harshly, a smooth ninety 
+degrees. Trash and other detritus litter the ground, not 
+allowing a single step without landing atop some unsavory 
+substance, while grafitti similarly covers the walls. Overall, 
+it is a fairly dirty little alleyway. 
+~
+56 65536 25
+0
+D0
+~
+~
+0 -1  0 55256
+D2
+~
+~
+0 -1  0 56254
+S
+#56257
+At the End of a Dimly-Lit Hallway~
+   This hallway is low, cramped and dimly lit. Hardly one human 
+can traverse abreast, and while it is a relatively straight path 
+north to south, the way is lit by the occasional sparse diode. 
+The light flickers now and then, and shadows skitter. It comes 
+to an abrupt end to the north, meeting only solid cement. 
+~
+56 65544 0
+0
+D2
+~
+~
+0 -1  0 56247
+S
+#56258
+A Heavily-Cluttered Electronics Store~
+   Computer monitors, new and old, have been stuffed into every 
+nook and cranny available in the room. Shelves line the walls 
+filled with bins of loose wires and old keyboards while the 
+shells of computer towers and various electronic pieces such as 
+circuit boards and resistors are all messily, but logically 
+organized for display for the customers, forcing them to have to 
+dig through boxes to find what they're looking for. A single 
+desk with a heavily-modified computer sits in the dark in the 
+very back of the store with a register nearby, obviously the 
+place to pay for one's items. 
+~
+56 65544 0
+0
+D1
+~
+door~
+1 -1  0 55029
+S
+#56260
+The Sunshine Lounge~
+   This lounge is fairly roomy and crowded, considering the 
+alleyway that led into it. While composed mostly of concrete, 
+extra care and attention has been gone into making the room as 
+comfortable as possible. A soft-brown, polymesh carpet has been 
+laid across the floor, and various pictures and posters, all of 
+different ages, adorn the walls, adding color to the otherwise 
+flat grey. A plastic bar runs along the southern wall, and rows 
+of couches run across the floor, providing seats for whoever 
+needs them. 
+~
+56 67699096 0
+0
+D1
+~
+battered-looking-door~
+1 56000  0 56011
+D3
+~
+door~
+1 -1  0 55207
+S
+#56262
+London Syndicate Shop - Medical Supplies~
+   As a stark contrast to the filth of Grungetown, this shop is 
+coldly crisp and clean. There is an unnerving precision of how 
+all wares are placed on the shelves, perfectly lined up as though 
+a machine arranged the entire place. All medical products have 
+been placed behind a wired wall, behind the counter to prevent 
+any thievery. The walls are a bland white and the floor is a 
+nondescript gray. It would be completely devoid of any 
+ornamentation if not for a large red cross painted in the centre 
+of the floor - if it can be called decor. 
+~
+56 720896 0
+0
+D3
+~
+plain-door~
+1 -1  0 55093
+S
+#56010
+The Tradepost~
+   A trio of rough topped tables form a crude semicicle that 
+dominates the center of this small shack, a small sign bearing 
+crude symbols that depict the various rates of exchange for this 
+particular business. The walls and every inch of available space 
+within are set with a jumble of racks, shelves, and crates all 
+displaying a plethora of odds and ends for trade. What little 
+bit of visible wallspace inbetween as been whitewashed over, the 
+paint a faded off-white and bearing a number of chips and cracks 
+that show the bare metal beneath it. 
+~
+56 720904 0
+0
+D1
+~
+battered door~
+1 -1  0 55007
+S
+#56213
+A Men's Clothing Shop~
+   Run-down, but otherwise free of the dust that seems to plague 
+most of the businesses in this dreary town, this shops walls are 
+plastered with old magazine cutouts of men in the latest fashion. 
+A small scrapmetal booth stands off to the southwestern corner of 
+the room, an old dented cash register resting upon it. Shelves 
+and racks sprawl in an unorganized manner about the shop, bearing 
+the merchants finished goods, while an old worktable and sewing 
+machine have been set up behind the booth, with crates of fabrics 
+and patterns stacked underneath. The northeastern corner of the 
+room has been curtained off with an old shower curtain and bears 
+a sign with a blocky symbol of a man painted across it. 
+~
+56 196616 0
+0
+S
+#56314
+VIP Lounge~
+   Furnished comfortably, this lounge looks to be perhaps the 
+single most expensive space in the entirety of the warehouse. 
+The floor is covered in woven lizard skin, acting as a sort of 
+carpet. From floor to sheet-metal ceiling, the four walls of 
+this room are thick glass, scratched a bit but uncracked, 
+providing a full view of the large arena around it. From here, 
+any spectators could watch combatants rip each other to pieces 
+from mere inches away, themselves perfectly safe. 
+~
+56 67305736 0
+0
+D4
+~
+trapdoor~
+1 -1  0 56316
+S
+#56316
+A Spectator's Room~
+   This wide room does just barely enough to protect people from 
+the elements - with walls and roof of rivetted sheet metal and a 
+floor of wired steel mesh, it is created for a single sole 
+purpose: Entertainment. While wide, the amount of people that 
+cram into this room can make it seem particularly crowded, and 
+the mesh floor often buckles dangerously beneath the weight of 
+the spectators. Below the mesh can be seen the bloodstained rock 
+of the arena floor. In the exact middle of the floor is a simple 
+steel trapdoor, opening to a hacked stairway. 
+~
+56 67305736 0
+0
+D1
+~
+~
+0 -1  0 56298
+D3
+~
+screen-door~
+1 -1  0 56136
+D5
+~
+trapdoor~
+1 -1  0 56314
+S
+#56298
+A Sheet-Metal Hallway and Viewing Room~
+   This hallway is wide and crudely-constructed - it is a 
+sheet-metal addition to the eastern warehouse, branching off and 
+moving on westwards. The floor, starting just at the hallway's 
+beginning, is steel mess, bent downwards from the constant 
+trampling underfoot. Below are are two cramped, bloodstained 
+rooms - the fighting pits, the one-on-one arenas - and the floor 
+is kept fairly clean, so as to allow the viewing of the 
+combatants below. A metal spiral stair leads up to a door above. 
+~
+56 67305480 0
+0
+D1
+~
+~
+0 -1  0 56296
+D3
+~
+~
+0 -1  0 56316
+D4
+~
+door~
+1 -1  0 56300
+S
+#56217
+Ice Nine Accessories~
+   This shop is nigh on crumbling. Constructed archaically using 
+plastic boarding, the shop itself appears to be slanting inward. 
+Plastic boards that may have once been white - now a questionable 
+yellow - are splintered and torn, and some lean inward on the 
+ceiling. Indeed, all that holds it up appears to be cement 
+pillars set in the walls. Despite its deteriorating condition, 
+the counter is kept curiously clean and nearly sparkling white. 
+Equally clean shelves behind the counter hold numerous 
+accessories, polished to a glow. A rectangular black sign above 
+the counter bears the shop's logo: a fading blue block, 
+resembling ice, and the numerical "9" by it. 
+~
+56 720904 0
+0
+D2
+~
+stained-door~
+1 -1  0 55189
+S
+#56296
+A Messy Warehouse~
+   Set firmly onto the edge of the market square, this warehouse stretches out 
+long and wide, allowing a large number of people to crowd in at the same time - 
+participants, spectators, and other traffic that flows from the marketplace, 
+all filtering through the warhouse-turned-arena. Contrary to the look on the 
+outside, this warehouse is fairly well-constructed, with sturdy walls and 
+support beams and actually intact windows, here and there. The floors are 
+covered in all manner of trash and the walls are scratched and marred, giving 
+the place an altogether messy appearance. 
+   Amidst the semi-controlled chaos is a betting booth, situated on the western 
+wall, near the hallway that leads onwards. A golden coin is painted onto the 
+wall above it, so as to prevent confusion. Southwards stretches another 
+hallway. 
+~
+56 67174408 0
+0
+D0
+~
+warehouse-doors~
+1 -1  0 66292
+D2
+~
+~
+0 -1  0 56297
+D3
+~
+~
+0 -1  0 56298
+S
+#56297
+The Betting Booths~
+   Considerably cleaner than the warehouse from which it 
+branches, this small room is kept fairly spartan. A trapdoor is 
+set into the south-end of the floor, and just to the left of that 
+trapdoor is a booth, and painted along either side are large 
+warriors that stand at attention, facing the crowds; one is 
+painted red and the other is painted blue. 
+~
+56 67174664 0
+0
+D0
+~
+~
+0 -1  0 56296
+D5
+~
+trapdoor~
+1 -1  0 56311
+S
+#56216
+A Quiet Warehouse Filled with Furniture~
+   The furniture here has been organized by type - in one corner 
+sits chairs of the same design, all stacked one atop the other - 
+and in another corner tables have been arranged in a similar 
+order. There seems to be no effort made into displaying the 
+pieces and some already have been marred by the lack of care and 
+attention given them by the store owner. There are hardly any 
+customers within, the only sound inside the shop being the sounds 
+of the park across the street. 
+~
+56 196616 0
+0
+S
+#56307
+The Prep Room~
+   Crudely hacked out of the surrounding stone, this room is 
+tight, cramped, and more than a little lopsided. Rows of racks 
+line the walls, bolted or otherwise leaning against the stone, 
+stacked in heaps with armor and weapons that are, more often than 
+not, just cast haphazardly about on the ground around the racks. 
+A single heavy door is set on the western wall, cleverly designed 
+to be opened only from the inside. 
+
+
+   #6Be sure to pick up your bag of equipment before leaving.#0 
+~
+56 67174408 0
+0
+D3
+~
+~
+0 -1  0 56311
+S
+#56311
+A Dirty Operating Room~
+   This small room consists of two operating tables, both of them 
+rusty and stained, and an incredibly dirty sink. The stone 
+beneath the tables has been dyed a dark brown from perhaps 
+gallons of blood, and the stains lead back and forth from those 
+to the aforementioned sink. A lone, bare lightbulb flickers in 
+the center of the room, providing a dim yellow that casts lengthy 
+shadows. 
+~
+56 67174408 0
+0
+D0
+~
+~
+0 -1  0 56100
+D2
+~
+~
+0 -1  0 56099
+D3
+~
+~
+0 -1  0 56308
+D4
+~
+trapdoor~
+1 -1  0 56297
+P
+g ge get~
+a al all~
+vstr That's probably not a good idea right now! Get the items individually from the bag.
+~
+S
+#56218
+A Musty Tool Shop~
+   The musty aroma of motor oil, metal polish, and dust mingle to 
+fill the air, creating an almost choking atmosphere within this 
+dingy business. A large worktable dominates the western portion 
+of the shop, signs and hand-drawn diagrams depicting various 
+nuts, screws, and bolts in a range of sizes and models. 
+Peg-boards line the available wallspace and house a number of 
+tools, most of them hand operated, with racks that shelve small 
+plastic containers hold a myriad of fasteners ranging from the 
+common staple to large deep-threaded bolts. 
+~
+56 589832 0
+0
+S
+#56308
+A Stone-Hacked Hallway~
+   This crude stone tunnel is hacked east-to-west, the tool-marks 
+still visible on the walls. A single bare lightbuld casts a 
+yellow glow over the dull gray stone, flickering occasionally, 
+weak. A metal door is set into the northern wall, the number one 
+crudely painted across its surface. 
+~
+56 67174408 0
+0
+D0
+~
+door~
+1 -1  0 56302
+D1
+~
+~
+0 -1  0 56311
+D2
+~
+door~
+1 -1  0 56301
+D3
+~
+door~
+1 -1  0 56304
+S
+#56219
+Vultures' Apartment Complex~
+   An overwhelming odor of soot and charred plastic lingers in 
+the air of this small, crudely repaired complex. Hints of fire 
+damage can be seen in melted sections of the walls plastic 
+sheeting and large black smudges that run along the ceiling of 
+the crowded foyer that makes up the ground level of the building. 
+The floor space is sparsely furnished, a pair of benches rest 
+along the wall near the entrance, and a small desk has been set 
+up between the rickety flights of stairs that lead upwards to the 
+apartments. Small crowds of grungetownians bustle to and fro 
+from the stairs to the entrance frequently, their hushed tones of 
+gossip creating a quiet drone of background noise. 
+~
+56 721036 0
+0
+D1
+~
+vulture marked door~
+1 5152  0 55065
+D3
+~
+thick-polyprop-door~
+1 5152  0 56200
+S
+#56302
+A Cramped Arena~
+   This arena is roomy enough to allow two people to enter and 
+fight and little else. Cramped, the crudely-hacked walls are 
+jagged and harsh and stained, splatters of old brown mottling the 
+dull gray. Above is a low-hanging, steel-mesh ceiling, allowing 
+the crowd above to watch, jeer, chant, spit, and piss on the 
+fighters below. 
+~
+56 201392136 0
+0
+D2
+~
+door~
+1 -1  0 56308
+S
+#56243
+A Guns and Ammo Store~
+   Weapons of every type have been set on display in this 
+deteriorating building. Along the walls, various shotguns and 
+rifles are hung behind a cage display while smaller handguns and 
+knives are set out inside of a glass counter. Ammo, which is 
+quite plentiful, is set out in bins on the floor by type nearby 
+the counter that runs along the far wall. There is even a small 
+hunting section in the back of the store that shows off a wide 
+array of hunting tools for every hunting need with the preserved 
+head of a Barker hanging above it. With the number of things for 
+sale, one hardly notices that most of the floor has been stripped 
+out in exchange for cement and that door, which is made of heavy 
+steel, also bears prison-like bars against it, making this 
+building quite a fortification. 
+~
+56 720896 0
+0
+D3
+~
+door~
+1 -1  0 55144
+S
+#56301
+A Small, Jagged Arena~
+   This arena is roomy enough to allow two people to enter and 
+fight and little else. Cramped, the crudely-hacked walls are 
+jagged and harsh and stained, splatters of old brown mottling the 
+dull gray. Above is a low-hanging, steel-mesh ceiling, allowing 
+the crowd above to watch, jeer, chant, spit, and piss on the 
+fighters below. 
+~
+56 201392136 0
+0
+D0
+~
+door~
+1 -1  0 56308
+S
+#56303
+An Expansive Arena With a Low Ceiling~
+   With a ceiling of steel mesh, sunken in places from spectators 
+above, this arena is a fairly large, hacked out square. The 
+walls and floor are rough, jagged stone, splattered with old 
+bloodstains, spit, sweat, and dust. Bare lightbulbs hang 
+randomly about, often low enough to be right in the faces of 
+fighters, and many of these are broken, the glass long since 
+pounded to dust. In the very center of the killing ground sits a 
+box made entirely of thick, scratched, bulletproof glass, and 
+within that is a fairly comfortable-looking lounge.
+~
+56 201523208 0
+0
+D2
+~
+~
+0 -1  0 56304
+D3
+~
+~
+0 -1  0 56306
+S
+#56304
+An Expansive Arena With a Low Ceiling~
+   With a ceiling of steel mesh, sunken in places from spectators 
+above, this arena is a fairly large, hacked out square. The 
+walls and floor are rough, jagged stone, splattered with old 
+bloodstains, spit, sweat, and dust. Bare lightbulbs hang 
+randomly about, often low enough to be right in the faces of 
+fighters, and many of these are broken, the glass long since 
+pounded to dust. In the very center of the killing ground sits a 
+box made entirely of thick, scratched, bulletproof glass, and 
+within that is a fairly comfortable-looking lounge.
+~
+56 201523208 0
+0
+D0
+~
+~
+0 -1  0 56303
+D1
+~
+door~
+1 -1  0 56308
+D3
+~
+~
+0 -1  0 56305
+S
+#56305
+An Expansive Arena With a Low Ceiling~
+   With a ceiling of steel mesh, sunken in places from spectators 
+above, this arena is a fairly large, hacked out square. The 
+walls and floor are rough, jagged stone, splattered with old 
+bloodstains, spit, sweat, and dust. Bare lightbulbs hang 
+randomly about, often low enough to be right in the faces of 
+fighters, and many of these are broken, the glass long since 
+pounded to dust. In the very center of the killing ground sits a 
+box made entirely of thick, scratched, bulletproof glass, and 
+within that is a fairly comfortable-looking lounge.
+~
+56 201523208 0
+0
+D0
+~
+~
+0 -1  0 56306
+D1
+~
+~
+0 -1  0 56304
+S
+#56306
+An Expansive Arena With a Low Ceiling~
+   With a ceiling of steel mesh, sunken in places from spectators 
+above, this arena is a fairly large, hacked out square. The 
+walls and floor are rough, jagged stone, splattered with old 
+bloodstains, spit, sweat, and dust. Bare lightbulbs hang 
+randomly about, often low enough to be right in the faces of 
+fighters, and many of these are broken, the glass long since 
+pounded to dust. In the very center of the killing ground sits a 
+box made entirely of thick, scratched, bulletproof glass, and 
+within that is a fairly comfortable-looking lounge.
+~
+56 201523208 0
+0
+D1
+~
+~
+0 -1  0 56303
+D2
+~
+~
+0 -1  0 56305
+S
+#56244
+Sassy Lassy Co.~
+   Plastic peach-colored models protected by tall transparent 
+cases mark this as a clothing shop. All manners of clothing are 
+demonstrated by the models, from rugged solar radiation-resistant 
+sleek dusters, to revealing dresses designed to accentuate 
+feminine beauty. The shop itself is kept in great order. Its 
+interior is painted a mellow beige, and the floor is 
+brown-boarded as though to mimic wood. The wide counter is set 
+in the back, and all actual clothing to be bought is stored 
+behind it behind a thick glassy case. Sassy Lassy Co.'s logo is 
+painted on the counter itself: a vague female face grinning and 
+winking. 
+~
+56 720904 0
+0
+S
+#56220
+The Buzzard's Beaker~
+   Music constantly blares from a speaker on the stage which is 
+the main focus of the entire room, spotlights highlighting a 
+silver stripper pole set before a wall of mirrors. Two smaller 
+stages are set to the right and left but are lit only half as 
+bright with a string of chairs arranged along the edge of all 
+three performance areas. The rest of the room is cast in dim 
+lighting or near darkness where other tables or seating have been 
+placed for customers to view the scantly-clothed dancers. A bar 
+runs along one wall, out of the way and near the entrance, with a 
+few hundred bottles, empty and filled, lining the shelves. There 
+is a constant flow of activity throughout the room with some of 
+the dancers disappearing upstairs with paying customers or north 
+to where a private viewing area is blocked off. 
+~
+56 67699096 0
+0
+D0
+~
+door~
+1 56036  0 56221
+D1
+~
+~
+0 -1  0 56222
+D4
+~
+~
+0 -1  0 56223
+S
+#56245
+Jack's Flaks~
+   A large metal counter bisects the center of this small 
+ramshackle building, its surface marred and scuffed with deep 
+scratches and dents. The shop, much like the counter, is worn 
+and dirty, the walls bearing a number of crudely patched holes 
+and random graffiti. Skeletal mannequins - cobbled pieces of 
+scrap and junk metal - are set about the dusty shack bearing the 
+merchants finer wares, while the more common and affordable items 
+hang along the wall behind the counter or lie in disorganized 
+piles upon the floor. 
+~
+56 720904 0
+0
+D1
+~
+metal-door~
+1 -1  0 55112
+S
+#56236
+#DLe Sex Shoppe#0~
+   Though the store is obviously run-down, the walls have been 
+freshly-painted a bright shade of hot pink. Items of an adult 
+nature are set out on display in every direction, with various 
+massage oils and lubes for sale on one shelf while pornographic 
+magazines and toys are organized nearby. Female mannequins 
+wearing lingerie or fantasy-fetish clothing have been posed along 
+the window to the shop to the south, facing the street outside 
+where the bright, neon lights of the shop shine out to attract 
+customers. 
+~
+56 67698696 0
+0
+D3
+~
+door~
+1 -1  0 56222
+S
+#56250
+La Revolucion~
+   A thin haze of tobacco smoke clouds the atmosphere of this 
+small establishment, carrying the scent of sweat and cheap 
+alcohol. An "L" shaped bar takes up most of the northern part of 
+the common room, it's end stopping just short of the northern 
+doorway. A few rough barstools sit scattered about it, some 
+bearing the hunched forms of patrons, while others lie stacked 
+seat down upon the floor. A pair of worn billiards tables have 
+been set up a few feet apart from each other beneath a hideous 
+plaque-mounted Barker's head. The only clear floorspace marks 
+the outline of a trapdoor set flush with the floorboards. Groups 
+of patrons mill about, gossiping, and the occasional burst of 
+raucious laughter can be heard echoing about the room. 
+~
+56 590232 0
+0
+D0
+~
+door~
+1 56000  0 56251
+D1
+~
+door~
+1 56000  0 56119
+D2
+~
+door~
+1 -1  0 55146
+D5
+~
+thick-trapdoor~
+1 56000  0 56252
+P
+enter ente ent en e~
+gambling gamblin gambli gambl gamb gam ga g den de d~
+info curroom room -1 vnum
+vstr You offer #5A tattooed bouncer#0 your &(1) chips.
+vbr -
+if (&(1)>0)
+if (&(1)>5)
+if can_take_money(&(1),chips) 
+takemoney -1 &(1)
+atecho &(curroom) #5A tattooed bouncer#0 says, #6"Alright.  Have some fun.  Quit when you are broke, or we own you."#0 
+vbr -
+vstr #5A tattooed bouncer#0 hands you #2a Revolucion debt chit#0 and lets you through the door.
+ostr #5A tattoed bouncer#0 lets @ enter the gambling den.
+vbr -
+set var chitamt &(1)
+math chitamt sub 5
+give 56031 
+setval room -1 char -1 inv 56031 oval0 &(chitamt)
+setval room -1 char -1 inv 56031 oval1 &(chitamt)
+trans 56119
+atlook 56119
+else do
+atecho &(curroom) #5A tattooed bouncer#0 says, #6"Real funny, wise ass.  Come back when you have that much."#0
+fi done
+else do
+atecho &(curroom) #5A tattooed bouncer#0 says, #6"You got to offer me 5 chips just to get in, buddy.  Come back when you're not so tight."#0
+fi done
+else do
+atecho &(curroom) #5A tattooed bouncer#0 says, #6"You got to offer me money to get in, clown.  How much you putting up?"#0
+fi done
+~
+S
+#56246
+A Heady-Scented Smoke Shop~
+   The heady scent of cigarettes and other smokey flavors fill 
+the air, almost overbearing to one's senses. The shop is 
+incredibly run-down and dirty, with small holes or cracks in the 
+wall visible running behind the many, ancient posters. The 
+posters, while old, are still viewable, and they depict a variety 
+of scenes including smoking camels, women in skimpy clothing, and 
+alcohol. Other than the dirt, the shop is bare except for the 
+large, glass display case where all of the shop's products line 
+the shelves within. 
+~
+56 720904 0
+0
+D1
+~
+door~
+1 -1  0 55206
+S
+#56259
+Ray's Junk Shop~
+   There are various shelves and display areas here showing a 
+myriad of items from tools, old jewelry, and even broken, 
+household appliances. There seems to be no organization to the 
+entire shop, the things for sale just haphazardly placed. Bare 
+lightbulbs, some even cracked, just hang from their wires down 
+from the ceiling to light the entire room in a raw, yellow light 
+that allows customers to find their way through the maze within. 
+~
+56 720904 0
+0
+S
+#56247
+A Dimly-Lit Hallway~
+   This hallway is low, cramped and dimly lit. Hardly one human 
+can traverse abreast, and while it is a relatively straight path 
+north to south, the way is lit by the occasional sparse diode. 
+The light flickers now and then, and shadows skitter. A thick 
+plastic trapdoor is set on the ceiling. 
+~
+56 65544 0
+0
+D0
+~
+~
+0 -1  0 56257
+D2
+~
+~
+0 -1  0 56253
+D4
+~
+plastic-trapdoor~
+1 -1  0 55248
+S
+#56261
+Ismael Corp - Raw Materials and Plastics~
+   This shop is literally a gray warehouse, save that all lined 
+shelves and aisles are protected behind a thick electrified 
+wire-mesh. Signs bearing a red hand held palm-up hang at regular 
+intervals before the wire-mesh. A blocky black stall stands in 
+front, accepting all transactions and dealings. The image of 
+black boxes and beige-colored boxes stacked on one another is 
+painted onto the counter. 
+~
+56 720904 0
+0
+D3
+~
+~
+0 -1  0 55932
+S
+#56269
+Bareck's Home Goods & Appliances~
+   Bare and utilitarian, this shop is spartan. Its concrete 
+interior has been left a nondescript gray and simple shelves line 
+the wall behind the broad counter. Boxy black machines, 
+collections of pipes, and many appliances are on display behind 
+the counter. A sign hangs before the weathered southern door 
+with a symbol; a roughly drawn house and a hammer beside it. 
+~
+56 196616 0
+0
+S
+#56810
+An Imposing, Empty Round Chamber~
+   Oddly well-maintained, this stone building is clearly of original 
+manufacture by technology now beyond reach, smoothly mitered and well-joined 
+stone making the walls and floors. The chamber is perfectly round, surrounding 
+a central metal pillar that rises through both ceiling and floor. Translucent 
+triangular plastic panels make up the high ceiling almost twenty feet overhead, 
+concealing the workings beyond from view, but allowing the arcing electricity 
+and whirling lights being generated there to cast their illumination through. 
+The thick walls insulate from the cacophony beyond, the rhythmic sound of 
+gears, gyros, and arcing power conduits providing an almost soothing 
+syncopation. 
+~
+56 67174408 0
+0
+D0
+~
+reinforced-door~
+1 67000  0 66273
+S
+#56418
+Within a Small, Rundown Shack~
+   Pitted, plastic sheeting lines the sheet metal walls of this 
+small building, the paint faded and flaking to reveal the dull 
+monocolored material beneath. The floor is open to the ground, 
+the dusty, barren soil creating a thick layer of grime along the 
+edges of the walls and a choking atmosphere of dust and stale 
+air. A large gaping hole lined by rust dominates the 
+northeastern section of the ceiling, though the rest of the 
+structure appears unaffected by the damage. 
+~
+56 65536 0
+0
+D2
+~
+lopsided-door~
+1 -1  0 55417
+P
+climb~
+hole~
+force -1 -1 emote slowly climbs upwards through the hole in the ceiling, bracing their feet against the wall for support.
+delay 1 look
+trans 55418
+fi done
+~
+S
+#56422
+A Cramped, Decrepit Shop~
+   Soot and burn marks coat the interior of this small abandoned 
+building, the walls rippled and, in some areas, completely melted 
+into a smooth, bubbled surface of metal and plastic. The 
+flooring is torn and uneven, collapsing to nothing but a dirt 
+floor to the east beneath a large, jagged-edged hole that takes 
+up a large portion of the eastern wall. 
+~
+56 65536 0
+0
+D0
+~
+rusted-door~
+1 -1  0 55421
+D1
+~
+~
+0 -1  0 55423
+S
+#56427
+A Large, Spacious Warehouse~
+   Rising two stories high and as wide as it is tall, the 
+building is in fair shape compared to the surrounding area. A 
+few odds and ends rest in cluttered piles upon the floors, though 
+most of the floor space is open and devoid of furnishing other 
+than a few lockers and shelves lining the southern wall. 
+~
+56 65792 0
+0
+D0
+~
+thick-metal-doors~
+1 56000  0 55426
+D1
+~
+~
+0 -1  0 56428
+D3
+~
+~
+0 -1  0 56426
+E
+refomat~
+~
+S
+#56428
+Eastern End of a Large Warehouse.~
+   Rising two stories high and as wide as it is tall, the 
+building is in fair shape compared to the surrounding area. A 
+few odds and ends rest in cluttered piles upon the floors, though 
+most of the floor space is open and devoid of furnishing. Along 
+the eastern wall, a meshed, metal staircase leads upwards to a 
+scaffolding beneath a horizontal row of rectangular windows. 
+~
+56 65792 0
+0
+D3
+~
+~
+0 -1  0 56427
+D4
+~
+~
+0 -1  0 56425
+S
+#56426
+Western End of a Large Warehouse~
+   Rising two stories high and as wide as it is tall, the 
+building is in fair shape compared to the surrounding area. A 
+few odds and ends rest in cluttered piles upon the floors, though 
+most of the floor space is open and devoid of furnishing. Along 
+the western wall, a meshed, metal staircase leads upwards to a 
+scaffolding beneath a horizontal row of rectangular windows. 
+~
+56 65792 0
+0
+D1
+~
+~
+0 -1  0 56427
+D4
+~
+~
+0 -1  0 56423
+S
+#56423
+Scaffolding Above the Western End of the Warehouse~
+   Meshed scaffolding extends east above the western end of the 
+warehouse below, and widens out into a solid landing to the east. 
+To the north a metal shuttered window affords a view of the area 
+outside of the warehouse. 
+~
+56 65536 0
+0
+D0
+~
+metal-shuttered-window~
+1 -1  0 55422
+D1
+~
+~
+0 -1  0 56424
+S
+#56425
+Scaffolding Above the Eastern End of the Warehouse~
+   Meshed scaffolding extends west above the eastern end of the 
+warehouse below, and widens out into a solid landing to the west. 
+To the north a metal shuttered window affords a view of the area 
+outside of the warehouse. 
+~
+56 65536 0
+0
+D0
+~
+metal-shuttered-window~
+1 -1  0 55429
+D2
+~
+~
+0 -1  0 56121
+D3
+~
+~
+0 -1  0 56424
+D5
+~
+~
+0 -1  0 56428
+S
+#56424
+A Landing Above the Center of the Warehouse~
+   Meshed scaffolding to the east and west widen out into this 
+solid landing, forming a ceiling over the center of the warehouse 
+below. To the north a metal shuttered window affords a view of 
+the area outside the warehouse. 
+~
+56 65536 0
+0
+D0
+~
+metal-shuttered-window~
+1 -1  0 55428
+D1
+~
+~
+0 -1  0 56425
+D3
+~
+~
+0 -1  0 56423
+S
+#56007
+Atop a Ruined Shophouse~
+   Twisted, unstable metal comprises the entirety of the 
+shophouse ceiling. It pops, pings, and groans in protest when 
+under pressure. The footing is precarious as one proceeds 
+farther from the gaping ceiling hole, and only an outcropping of 
+rubble to the east offers further passage. 
+~
+56 65536 25
+0
+D0
+~
+~
+0 -1  0 56012
+D1
+~
+~
+0 -1  0 56008
+D5
+~
+~
+0 -1  0 55430
+S
+#56008
+A Flat Outcropping of Rubble~
+   By some chance, rubble and metal toppled in such a way as to 
+provide a relatively flat platform to stand upon. Much like 
+everything else near these ruins, crumbling rock, bent and warped 
+metal, and indistinguishable material has formed this platform. 
+It slopes upward to lean against another scored building's 
+ceiling, ruined and blackened by soot. 
+~
+56 65536 25
+0
+D2
+~
+~
+0 -1  0 56009
+D3
+~
+~
+0 -1  0 56007
+D5
+~
+~
+0 -1  0 56009
+S
+#56009
+In the Air Above an Alley~
+No Description Set.
+~
+56 66564 25
+0
+D0
+~
+~
+0 -1  0 56008
+D2
+~
+~
+0 -1  0 55423
+D4
+~
+~
+0 -1  0 56008
+D5
+~
+~
+0 -1  0 55423
+S
+#56011
+A Shabby Kitchen~
+   This concrete room is not much different from a cell. There 
+are now windows, and the only door leads out into the lounge. It 
+is obvious that this is where all the preperation work for 
+whatever goes on outside happens. There is space enough to work 
+and, perhaps, for an employee to nap but not much else other than 
+storage. 
+~
+56 269025544 0
+0
+D3
+~
+battered-looking-door~
+1 -1  0 56260
+S
+#56012
+In the Air Above the Deep Ruins~
+No Description Set.
+~
+56 66564 25
+0
+D0
+~
+~
+0 -1  0 55421
+D2
+~
+~
+0 -1  0 56007
+D4
+~
+~
+0 -1  0 56007
+D5
+~
+~
+0 -1  0 55421
+S
+#56013
+A Cramped, Noxious Dead End~
+   For whatever reason, rubble has been piled up on the southern 
+end of this tight, little alleyway. While the alley does not go 
+anywhere, it does provide an inconspicious place to watch 
+passersby on the street. The limiting factor is how long one can 
+stand the stench of the rubbish that has been piled in. 
+~
+56 65536 0
+0
+D0
+~
+~
+0 -1  0 55121
+S
+#56014
+Above the Intersection of North Street and Revolutionary Way~
+No Description Set.
+~
+56 66564 0
+0
+D5
+~
+~
+0 -1  0 66111
+S
+#56015
+Atop a Slanting Townhouse Rooftop~
+   The going is dangerous on this townhouse roof. With no stable 
+footing, save for the hundreds of small loose shingles that layer 
+the roof, it is a laborious crossing. To the north, there is a 
+medium-sized gap, no more than the height of a man, between the 
+rooftop of an apartment flat. 
+~
+56 65536 25
+0
+D0
+~
+~
+0 -1  0 56019
+D2
+~
+~
+0 -1  0 56016
+P
+jump leap~
+building gap hole roof rooftop~
+info check room -1 char -1 agi
+set random 2d&(check)
+if (random>10)
+force -1 -1 emote Getting a running start northward, @ leaps over the gap between the two buildings
+atecho 56017 There is the patter of feet as #5$n#0 runs across the rooftop of the southern building, then soars through the air, managing to land and roll upon the flat rooftop on this side of the street.
+atecho 55205 The ceiling above a half-ruined townhouse creaks and groans loudly as what sounds like heavy foot steps pound their way across it.
+atecho 55455 You feel a brief breeze pass by you and hear a dull 'thud' from above.
+trans 56017
+delay 5 look
+else do
+set random 1d10
+info name room -1 char -1 name
+rend -d &(random) -t crush &(name)
+force -1 -1 emote Getting a running start, @ attempts to jump over the gap between this rooftop and the northern building. They do not quite make the jump, however, and crashes into the side of the building before sprawling to the street down below
+atecho 56017 To the south, #5$n#0 attempts to jump from their rooftop to the one that you stand upon. However, they do not quite make it, instead smashing into the side of your building and sprawling down to the street below.
+atecho 55455 From above, #5$n#0 smashes into the side of the northern building and falls to the narrow street below with a sickening 'thud'!
+atecho 55205 The ceiling above a half-ruined townhouse creaks and groans loudly as what sounds like heavy foot steps pound their way across it.
+trans 55455
+delay 5 look
+fi done
+~
+P
+climb scramble~
+drainage pipe townhouse building down~
+atecho 56015 Wrapping their arms around #2a dented drainage pipe#0, #5$n#0 scrambles down the side of the building and to the courtyard below.
+atecho 55205 There is a loud rumbling of metal against metal from a half-ruined, ancient townhouse on the north side of the courtyard, as #5$n#0 shimmies down #2a dented drainage pipe#0 from the rooftop.
+trans 55205
+delay 5 look
+~
+S
+#56016
+In the Air Above a Townhouse-Lined Court~
+No Description Set.
+~
+56 66564 25
+0
+D0
+~
+~
+0 -1  0 56015
+D2
+~
+~
+0 -1  0 55205
+D4
+~
+~
+0 -1  0 56015
+D5
+~
+~
+0 -1  0 55205
+S
+#56017
+Atop a Flat Rooftop~
+   Shadowed by twin buildings to either the west or east, this 
+rooftop offers vantage to the north and beyond into North Street. 
+Being wrought from rough concrete, this rooftop is relatively 
+flat and rectangular. A medium-sized gap cuts off easy passage 
+to the south, a slanting townhouse rooftop in the distance. 
+~
+56 65536 25
+0
+D0
+~
+~
+0 -1  0 56018
+D2
+~
+~
+0 -1  0 56019
+P
+jump leap~
+building hole gap townhouse roof rooftop~
+info check room -1 char -1 agi
+set random 2d&(check)
+if (random>10)
+force -1 -1 emote Getting a running start southward, @ leaps over the gap between the two buildings
+atecho 56015 There is the patter of feet as #5$n#0 runs across the rooftop of the northern building, then soars through the air, managing to land and roll upon the flat rooftop on this side of the street.
+atecho 55455 You feel a brief breeze pass by you and hear a dull 'thud' from above.
+atecho 55122 There is the faint patter of feet from atop the concrete building to the south.
+trans 56015
+delay 5 look
+else do
+set random 1d10
+info name room -1 char -1 name
+rend -d &(random) -t crush &(name)
+force -1 -1 emote Getting a running start, @ attempts to jump over the gap between this rooftop and the southern building. They do not quite make the jump, however, and crashes into the side of the building before sprawling to the street down below
+atecho 56015 To the north, #5$n#0 attempts to jump from their rooftop to the one that you stand upon. However, they do not quite make it, instead smashing into the side of your building and sprawling down to the street below.
+atecho 55455 From above, #5$n#0 smashes into the side of the southern building and falls to the narrow street below with a sickening 'thud'!
+atecho 55122 There is the faint patter of feet from atop the concrete building to the south.
+trans 56015
+delay 5 look
+fi done
+~
+S
+#56018
+In the Air Above North Street~
+No Description Set.
+~
+56 67175428 25
+0
+D0
+~
+~
+0 -1  0 55122
+D2
+~
+~
+0 -1  0 56017
+D4
+~
+~
+0 -1  0 56017
+S
+#56019
+In the Air Above a Dead-End~
+No Description Set.
+~
+56 66564 25
+0
+D0
+~
+~
+0 -1  0 56017
+D2
+~
+~
+0 -1  0 56015
+D5
+~
+~
+0 -1  0 55455
+S
+#56020
+Atop a Small Building~
+   The small roof of this square building is flat and made of 
+cheap concrete - a literal square. Spidery cracks run along some 
+portions of it, and it has surely seen better days. It is 
+enclosed on all sides but the north by taller square buildings of 
+the same make. The western building's walls are scored with 
+holes, notably caused by bullets, old age, and otherwise. 
+~
+56 65536 25
+0
+D0
+~
+~
+0 -1  0 56021
+E
+wall~
+   The western wall is completely scored with holes of varying 
+shapes, from small bullet-holes to holes as big as one's head. 
+It may provide footholds to climb up to the western building. 
+~
+P
+climb scramble heave~
+up wall foothold hole~
+atecho 56020 Managing to find a foothold on #2the numerous holes and scorings#0 on the western wall, #5$n#0 climbs up onto the roof of the western building above.
+atecho 56022 There is a low groan of disturbed rubble from the eastern end of the building as #5$n#0 emerges atop the roof, having climbed up from #2a small square building#0 below.
+trans 56022
+delay 5 look
+~
+P
+climb~
+down~
+atecho 56020 Swinging up and over the northern side of the building, #5$n#0 clambers down #2a caved-in building#0 to the ground below.
+atecho 55188 There is a rumbling of dropping concrete flakes and rubble from #2a caved-in building#5 as #5$n#0 drops down safely to the ground, having climbed down from a small square building above.
+trans 66188
+delay 5 look
+~
+S
+#56021
+In the Air Above a Side Street~
+No Description Set.
+~
+56 66560 25
+0
+D0
+~
+~
+0 -1  0 66188
+D2
+~
+~
+0 -1  0 56020
+D4
+~
+~
+0 -1  0 56020
+D5
+~
+~
+0 -1  0 66188
+S
+#56022
+Atop a Flat, Crumbling Roof~
+   Of poor construct, this concrete roof is nigh on crumbling. 
+It is still flat, but some areas appear to be buckling in. Yet 
+taller square buildings block off view to the south, but the 
+vantage is clear on a side street and a dark alley. 
+~
+56 65536 25
+0
+D0
+~
+~
+0 -1  0 56024
+D3
+~
+~
+0 -1  0 56025
+P
+climb~
+down wall~
+atecho 56022 Swinging up and over the eastern side of the building, #5$n#0 clambers down to the neighboring lower building.
+atecho 66020 There is a rumbling of dropping concrete flakes and rubble from the western wall as #5$n#0 drops down safely onto the flat roof, having climbed down from the western building above.
+trans 56020
+delay 5 look
+~
+S
+#56024
+In the Air Above a Side Street~
+No Description Set.
+~
+56 66560 25
+0
+D0
+~
+~
+0 -1  0 66189
+D2
+~
+~
+0 -1  0 56022
+D4
+~
+~
+0 -1  0 56022
+D5
+~
+~
+0 -1  0 66189
+S
+#56025
+In the Air Above an Alley~
+No Description Set.
+~
+56 66560 25
+0
+D1
+~
+~
+0 -1  0 56022
+D3
+~
+~
+0 -1  0 66199
+D4
+~
+~
+0 -1  0 56022
+D5
+~
+~
+0 -1  0 66199
+S
+#56023
+The Firebreather's Pit; The Metal Eaters~
+   The interior of this large building is never empty - there are always a 
+number of people coming and going, a handful more people loitering to carry on 
+conversation, and others that just wait silently for their turn. Perpetually 
+here are the workers that tend the Firebreather; barrel-chested, burly men that 
+collect metal scrap from the townsfolk and feed it into the mechanical monster, 
+then divvy out the materials produced. These men are a blend of denizens, 
+mutations, and cybernetics, and all are covered in soot. The thick layer of 
+ash makes all the men equal - walking black giants with indistinguishable 
+features that lug the offered scraps of metal to and fro. The atmosphere that 
+surrounds the salvaging activities is somewhat claustrophobic, but everyone 
+inside appears to generally be at ease, despite the cramped space that the 
+large crowd causes. 
+~
+56 201916440 0
+0
+D1
+~
+double-doors~
+1 -1  0 66291
+S
+#56026
+The Firebreather's Pit; The Cloth Turners~
+   This room is a flurry of activity as raw cloth material is 
+processed and fed into the Firebreather: a crocodile-like machine 
+with cloth-spines protruding out. Here workers are constantly 
+switched in in alternating shifts, carrying crates to and from 
+the Firebreather, feeding the material through its maw. It is 
+rather busy and cramped, as business always rages. The air is 
+thick and hot. 
+~
+56 201916440 0
+0
+D3
+~
+double-doors~
+1 -1  0 66295
+S
+#56027
+The Firebreather's Pit; The Plastic Burners~
+   While the traffic here is thick, it is not quite as thick as the traffic 
+that runs through the other Firebreather buildings. This is, perhaps, owing to 
+the haze of black smoke that hangs around inside the building and the chemical 
+smell of burning plastic. The smoke and smell come from behind the roped-off 
+firebreather, pouring out in thick layers that a large hole in the ceiling 
+ultimately fails to ventilate. Around the Firebreather are the Plastic 
+Burners, bulky figures covered head-to-toe in thick, black leather, with faces 
+obscured by crudely made gas masks. Faceless, these figures march about their 
+duties in an organized fashion, offering nothing else in the warehouse any 
+attention but the mechanical lizard. Curiously, some of these figures are 
+missing a single hand or foot, with nothing but an empty glove or boot covering 
+it. If one were to pay enough attention, they would notice gruesome scarring 
+beneathe the layers of leather that the Plastic Burner wear - as if their skin 
+were melted off the bone and poorly healed. The thick black smoke chokes out 
+much of the light, but it is still possible to see through for anyone 
+determined enough to stay a while. 
+~
+56 591888 0
+0
+D1
+~
+double-doors~
+1 -1  0 66286
+S
+#56028
+The Firebreather's Pit; the Red Stompers~
+   As large as this warehouse is, it still does not quite seem 
+large enough to hold everyone that wishes to be within it. A 
+massive crowd of people is constantly on the move, clambering for 
+their turn to give the workers their organic goods. These 
+workers form three parties: the first are burly men who take the 
+offered materials, the second are the men that stand atop the 
+Firebreather, mashing the materials down with thick legs and 
+large feet, and the last party are the men that pass out the 
+recycled portions, most of whom have one or no legs. The first 
+two parties occasionally switch out, the stompers getting a 
+much-needed break every now and then. Bodies, carcasses, and 
+other assorted organic materials constantly run through this 
+simple production line, offering the men no rest as the traffic 
+of the city flows constantly around them, unending. 
+~
+56 134807568 0
+0
+D3
+~
+double-doors~
+1 -1  0 66290
+S
+#56029
+Ice Nine Storeroom~
+Store Room for Ice Nine Accessories.
+~
+56 268500992 0
+0
+S
+#56030
+Le Sex Shoppe Storeroom~
+yep
+~
+56 268500992 0
+0
+S
+#56031
+Toolshop storeroom~
+yep
+~
+56 268500992 0
+0
+S
+#56032
+Raw Materials and Plastic storeroom~
+yep
+~
+56 268500992 0
+0
+S
+#56033
+Ray's Junk Shop Storeroom~
+yep
+~
+56 268500992 0
+0
+S
+#56034
+Jack's Flak's storeroom~
+yep
+~
+56 268500992 0
+0
+S
+#56035
+Smokeshop Storeroom~
+yep
+~
+56 268500992 0
+0
+S
+#56036
+Sassy Lassy Storeroom~
+yep
+~
+56 65536 0
+0
+S
+#56037
+Men's Clothing Storeroom~
+yep
+#
+~
+56 65536 0
+0
+S
+#56038
+Clothing Storeroom~
+yep
+~
+56 268500992 0
+0
+S
+#56039
+Gun Shop storeroom~
+yep
+~
+56 268500992 0
+0
+S
+#56040
+Tradepost storeroom~
+yep
+~
+56 268500992 0
+0
+S
+#56041
+Sam's Sundries storeroom~
+yep
+~
+56 268500992 0
+0
+S
+#56042
+London Syndicate storeroom~
+yep
+~
+56 268500992 0
+0
+S
+#56043
+A Dinky Men's Restroom~
+   This bathroom is rather large, with five plastic stalls 
+running one length of the wall, five urinals running the opposite 
+wall, and a single sink in the corner. The locks are broken on 
+all the stalls, which are also covered heavily in graffitti. A 
+shattered mirror sits above that lone sink, offering cracked 
+reflections to any that wish it. Oddly enough, all of the 
+urinals are fairly intact. 
+~
+56 67698696 0
+0
+D1
+~
+battered door~
+1 -1  0 56803
+S
+#56044
+A Cozy Women's Bathroom~
+   This bathroom, for what it is, could be considered fairly 
+cozy. The concrete walls have been painted a dull pink, which 
+softens the edges of the corners. Along one side of the wall are 
+soft pink stalls, the plastic wholly intact. A couch sits on the 
+wall opposite the wall, and a full row of sinks lines the wall 
+across from the stalls, complete with round mirrors for each one. 
+~
+56 67698696 0
+0
+D0
+~
+door~
+1 -1  0 56803
+S
+#56045
+A Row of Rentable Rooms~
+   A narrow plastic stairway opens into a narrow concrete hallway 
+that runs a good ways south. The lighting is dim, the concrete 
+is cracked, and paint flecks the walls where graffitti was drawn 
+and painted over, again and again. On either side of the hallway 
+are set thick plastic doors, numbered, and presumably for rent. 
+Interspersed between the doors are three-high rows of capsules, 
+designed to accommodate those without funds to rent a complete 
+room for themselves. 
+~
+56 67699096 0
+0
+D5
+~
+~
+0 -1  0 56801
+S
+#56200
+A Run-Down Hallway~
+   This hallway is made out of yellow polyprop - or perhaps it 
+was once white - and clearly has the look of bare minimum 
+cleaning to it. Every now and then a spray-painted Vultures' 
+symbol is visible on the ceiling or wall - the trademark 
+blood-dripping beak. The carpet underfoot is a dingy red, 
+running down the length of the hallway. 
+   At this particular juncture, the hallway extends in all 
+cardinal directions, the east and south barred by doors. A 
+biometric scanner has been installed on the southern door. With 
+proper permissions, you may be able to #6HANDSCAN#0 #6SOUTH#0. 
+~
+56 327816 0
+0
+D0
+~
+~
+0 -1  0 56201
+D1
+~
+thick-polyprop-door~
+1 5152  0 56219
+D2
+~
+iron-reinforced-door~
+1 5151  0 56202
+D3
+~
+~
+0 -1  0 56203
+P
+handscan~
+s so sou sout south~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(vultures,corporal)
+delay 8 xopen south
+else do 
+delay 8 xfail south
+fi done
+~
+P
+xopen~
+south~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #6"Identification verified. Access granted."#0 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 56200 The reinforced door creaks open on its own accord, and #5$n#0 passes through quickly before it shuts once again.
+trans_group -1 56200 56202
+trans 56202
+~
+P
+xfail~
+south~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #1"Necessary Identification unverified. Access denied."#0 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 56202 A cold, computerized voice speaks: #1"Warning. Unverified room entry attempted."#0
+~
+S
+#56201
+A Memorabilia-Ridden, Cozy Lounge~
+   This rectangular polyprop room is decked in all kinds of 
+memorabilia and trophies. The head trophies of all kinds of 
+wildlife line the northern wall, but makes a clearing for the 
+centerpiece: a brown polyprop board with gold engraving, with a 
+long ivory-colored claw affixed to it. The lettering reads on 
+the gold engraving: "To "Wild Cat" Mont, Lucy-Wrangler". 
+Scattered about with no real organization, the furniture is 
+assembled as though a drunkard did it - and likely was the case. 
+The flooring is entirely dingy red carpet, and the walls are like 
+streaks of a rainbow, all graffiti and obscene phrases in spray 
+paint. 
+~
+56 328072 0
+0
+D2
+~
+~
+0 -1  0 56200
+S
+#56202
+A Wide Storage Room~
+   This is a wide storage room - dirty-yellow and plain in 
+ornamentation. Many, many liners line the walls' length. The 
+stale scent of dust lingers here. A biometric scanner has been 
+installed on the northern door. 
+   You realize with proper permissions, you can #6HANDSCAN 
+NORTH#0. 
+~
+56 328072 0
+0
+D0
+~
+iron-reinforced-door~
+1 5151  0 56200
+P
+handscan~
+north n no nor nort~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank (vultures,corporal)
+delay 8 xopen north
+else do 
+delay 8 xfail north
+fi done
+~
+P
+xopen~
+north~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Identification verified. Access granted." 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 56202 The reinforced door creaks open on its own accord, and $n passes through quickly before it shuts once again.
+trans_group -1 56202 56200
+trans 56200
+~
+P
+xfail~
+north~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #1"Necessary Identification unverified. Access denied."#0 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 56200 A cold, computerized voice speaks: #1"Warning. Unverified room entry attempted."#0
+~
+S
+#56203
+A Dirty-Yellow Stairwell~
+   This is a circular stairwell that spirals its way up to an 
+upper level. The stairs are rickety and creak and groan when 
+stepped upon, but appear to be sturdy. The polyprop that 
+comprises this stairwell is a dirty yellow - probably once white. 
+~
+56 327816 0
+0
+D1
+~
+~
+0 -1  0 56200
+D4
+~
+~
+0 -1  0 56204
+S
+#56204
+A Dirty-Yellow Stairwell~
+   This is a circular stairwell that spirals its way down to an 
+upper level. The stairs are rickety and creak and groan when 
+stepped upon, but appear to be sturdy. The polyprop that 
+comprises this stairwell is a dirty yellow - probably once white. 
+~
+56 327816 0
+0
+D1
+~
+~
+0 -1  0 56205
+D5
+~
+~
+0 -1  0 56203
+S
+#56205
+A Run-Down Hallway~
+   This hallway is made out of yellow polyprop - or perhaps it 
+was once white - and clearly has the look of bare minimum 
+cleaning to it. Every now and then a spray-painted Vultures' 
+symbol is visible on the ceiling or wall - the trademark 
+blood-dripping beak. The carpet underfoot is a dingy red, 
+running down the length of the hallway. 
+   At this particular juncture, the hallway extends in all 
+cardinal directions, the south blocked by a black polyprop door. 
+~
+56 327816 0
+0
+D0
+~
+~
+0 -1  0 56206
+D1
+~
+~
+0 -1  0 56208
+D2
+~
+black-polyprop-door~
+1 -1  0 56207
+D3
+~
+~
+0 -1  0 56204
+S
+#56206
+A Cramped, Food-Processing Room~
+   This is a cramped room mostly dominated by a large food 
+processor. The decor is plain, straight-up yellow polyprop. 
+There is not a sign of ornamentation - indeed, no attempt at it. 
+A low, continuous hum emanates from the machinery housed here. 
+~
+56 327816 0
+0
+D2
+~
+~
+0 -1  0 56205
+S
+#56207
+A Disheveled Barracks~
+   These dirty-yellow barracks are the epitome of an apathy to 
+orderliness. Any neatly arranged bunk beds are an exception to 
+the norm. It is quite curious then, that the walls and floors 
+are quite clean, a fact probably owed to cleaning-bots. However, 
+where personal effects are concerned, the contrast is night and 
+day. Random pictures of nude women, robot-designs, radio-show 
+ads dot the walls. The dingy red carpet underfoot is crunchy, 
+doubtlessly with random junk. 
+~
+56 328072 0
+0
+D0
+~
+black-polyprop-door~
+1 -1  0 56205
+S
+#56208
+A Run-Down Hallway~
+   This hallway is made out of yellow polyprop - or perhaps it 
+was once white - and clearly has the look of bare minimum 
+cleaning to it. Every now and then a spray-painted Vultures' 
+symbol is visible on the ceiling or wall - the trademark 
+blood-dripping beak. The carpet underfoot is a dingy red, 
+running down the length of the hallway. 
+   At this particular juncture, the hallway extends in all 
+cardinal directions, the north and south barred by doors. 
+~
+56 327816 0
+0
+D0
+~
+dingy-red-door~
+1 -1  0 56209
+D1
+~
+~
+0 -1  0 56211
+D2
+~
+black-polyprop-door~
+1 -1  0 56210
+D3
+~
+~
+0 -1  0 56205
+S
+#56209
+A Manufacturing Shop~
+   This dirty-yellow rectangular workshop is lined with lockers 
+against the western wall, and all manners of equipment against 
+all the other walls. Long tables are positioned in the centre, 
+bolted down to the floor. No signs of ornamentation are here - 
+everything devoted for manufacturing materials. 
+~
+56 327816 0
+0
+D2
+~
+dingy-red-door~
+1 -1  0 56208
+S
+#56210
+A Disheveled Barracks~
+   These dirty-yellow barracks are the epitome of an apathy to 
+orderliness. Any neatly arranged bunk beds are an exception to 
+the norm. It is quite curious then, that the walls and floors 
+are quite clean, a fact probably owed to cleaning-bots. However, 
+where personal effects are concerned, the contrast is night and 
+day. Random pictures of nude women, robot-designs, radio-show 
+ads dot the walls. The dingy red carpet underfoot is crunchy, 
+doubtlessly with random junk. 
+~
+56 328072 0
+0
+D0
+~
+black-polyprop-door~
+1 -1  0 56208
+S
+#56211
+An Abrupt-End to the Hallway~
+   This hallway is made out of yellow polyprop - or perhaps it 
+was once white - and clearly has the look of bare minimum 
+cleaning to it. Every now and then a spray-painted Vultures' 
+symbol is visible on the ceiling or wall - the trademark 
+blood-dripping beak. The carpet underfoot is a dingy red, 
+running down the length of the hallway. 
+   At this particular juncture, the hallway ends abruptly, and a 
+thick double-bolted reinforced door stands to the north. A 
+biometric scanner has been installed into it. You realize with 
+proper permissions you can #6HANDSCAN NORTH#0. 
+~
+56 327816 0
+0
+D0
+~
+double-reinforced-door~
+1 5152  0 55920
+D3
+~
+~
+0 -1  0 56208
+P
+handscan~
+n no nor nort north~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(vultures,corporal)
+delay 8 xopen north
+else do 
+delay 8 xfail north
+fi done
+~
+P
+xopen~
+north~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Identification verified. Access granted." 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 56211 The reinforced door creaks open on its own accord, and $n passes through quickly before it shuts once again.
+trans_group -1 56211 55920
+trans 55920
+~
+P
+xfail~
+north~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #1"Necessary Identification unverified. Access denied."#0 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 56920 A cold, computerized voice speaks: #1"Warning. Unverified room entry attempted."#0
+~
+S
+#56046
+A Domed Entryway~
+   Roughened walls of dark-grey concrete line this large, domed 
+entryway, the ceiling stretching high overhead. Several dark 
+sconces line the cold walls, holding long-dead battery-operated 
+lanterns, most having been broken, their parts scavenged. Uneven 
+stonework lines the floor, a dirty footpath leading from north to 
+south through the center of the room. Off to each side of the 
+dirty path the stone appears pristine, as though no one has trod 
+upon it since its installation. Doors lead both north and south 
+from the room. 
+~
+56 327820 0
+0
+D0
+~
+rugged-plastic-door~
+1 5153  0 55169
+D2
+~
+black-plastic-door~
+1 5153  0 56047
+S
+#56048
+A Circular Antechamber~
+   This is a gold-gilded circular antechamber, a polished white 
+polyprop with gold-painted iron bands. The floor is also 
+polished white polyprop, but colored in such a way as to mimic 
+Terran marble. The room been tastefully decorated and well-kept 
+- even gaudy. 
+   A similarly-decorated lounge is to the south, and stairs lead 
+up to an upper floor. 
+~
+56 589960 0
+0
+D2
+~
+~
+0 -1  0 56049
+D4
+~
+~
+0 -1  0 56053
+S
+#56047
+Northern Hallway~
+   A simplistic hallway of smooth concrete leads one naturally 
+away from a black-plastic door to the north to the south where 
+the hallway extends onwards. A low ceiling and narrow way makes 
+for tight passage through the hallway, allowing no more than 
+three or four people at a time to linger in the area. To the 
+east and west, well-kept doors lead off the hallway. 
+~
+56 65672 0
+0
+D0
+~
+black-plastic-door~
+1 5153  0 56046
+D1
+~
+green-plastic-door~
+1 -1  0 56064
+D2
+~
+~
+0 -1  0 56051
+S
+#56049
+A Gold-Painted, Gaudy Lounge~
+   Whoever decorated this room has a penchant for the Terran 
+Victorian style. A mock-fireplace stands against one wall, while 
+the gold-framed portrait of a wiry, raven-black-haired man hangs 
+above it. His ever-smug face is captured beautifully, as he 
+stands casually in a long white-and-yellow long coat, leaning 
+against a nondescript white wall. More portraits hang on each of 
+the walls, some quite random in content. Many of them, however, 
+depict a glowing city built on a lone hill, overlooking a sea. 
+The floor mimics Terran marble, in reality white polyprop, but 
+painted in such a way as to give such an impression. 
+~
+56 65928 0
+0
+D0
+~
+~
+0 -1  0 56048
+S
+#56050
+Hallway~
+No Description Set.
+~
+56 65536 0
+0
+D1
+~
+~
+0 -1  0 56055
+S
+#56051
+Southern Hallway~
+   This drab, but well-kept hallway, leads off to the north, the 
+walls grimy from countless hands that have been dragged along 
+their surface. The floor is painted a dark gray, the walls a 
+boring lime and the ceiling, which hosts a pair of flickering 
+incandescent bulbs has been painted an out-of-place pink. Doors 
+lead to the east and west along this length of hallway and above 
+a sturdy cable tray holds many cables just below some ventilation 
+ductwork. 
+~
+56 65672 0
+0
+D0
+~
+~
+0 -1  0 56047
+D1
+~
+~
+0 -1  0 56057
+D2
+~
+~
+0 -1  0 56052
+D3
+~
+~
+0 -1  0 56058
+S
+#56052
+Cavernous Drill Hall~
+   This cavernous hall is nearly twenty paces long and fifteen 
+paces deep and devoid of anything that may be considered homey. 
+The walls are stark and smooth, painted a putrid pea-green, with 
+the exception of a single huge mural, painted in a bright white 
+that stands out sharply, along the eastern wall, that of a huge 
+circle with a lower-case 'a' within, forming a '@'. The floor 
+and ceiling, which hangs high overhead have been painted a dull 
+brown. 
+   A biometric scanner has been installed to the west and south, 
+and you realize you can #6HANDSCAN WEST#0 or #6HANDSCAN SOUTH#0 
+with proper permissions. 
+~
+56 65928 0
+0
+D0
+~
+~
+0 -1  0 56051
+D2
+~
+heavy-brown-plastic-door~
+1 5153  0 55940
+D3
+~
+iron-banded-red-plastic-door~
+1 5153  0 56056
+P
+handscan~
+south~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(anarchs,corporal)
+delay 8 xopen south
+else do 
+delay 8 xfail south
+fi done
+~
+P
+xopen~
+south~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #6"Identification verified. Access granted."#0 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 56052 The reinforced door creaks open on its own accord, and #5$n#0 passes through quickly before it shuts once again.
+trans_group -1 56052 55940 
+trans 55940 
+~
+P
+xfail~
+south~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #1"Necessary Identification unverified. Access denied."#0 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 55940 A cold, computerized voice speaks: #1"Warning. Unverified room entry attempted."#0
+~
+P
+handscan~
+w we wes west~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(anarchs,corporal)
+delay 8 xopen west
+else do 
+delay 8 xfail west
+fi done
+~
+P
+xfail~
+west~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #1"Necessary Identification unverified. Access denied."#0 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 56056 A cold, computerized voice speaks: #1"Warning. Unverified room entry attempted."#0
+~
+P
+xopen~
+west~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #6"Identification verified. Access granted."#0 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 56052 The reinforced door creaks open on its own accord, and #5$n#0 passes through quickly before it shuts once again.
+trans_group -1 56052 56056
+trans 56056
+~
+S
+#56053
+A Polished White Hallway, Before Stairs~
+   This hallway is polished white polyprop, gilded with 
+gold-painted alloys. At regular intervals, the golden-yellow 
+carpet underfoot is marked with a purple W. It is well-kept and 
+clean, scrupulously orderly. A set of white stairs leads down to 
+the lower level. 
+~
+56 65672 0
+0
+D1
+~
+~
+0 -1  0 56055
+D3
+~
+~
+0 -1  0 56054
+D5
+~
+~
+0 -1  0 56048
+S
+#56054
+A Polished White Hallway~
+   This hallway is polished white polyprop, gilded with 
+gold-painted alloys. At regular intervals, the golden-yellow 
+carpet underfoot is marked with a purple W. It is well-kept and 
+clean, scrupulously orderly. 
+~
+56 65672 0
+0
+D0
+~
+gray-door~
+1 -1  0 56066
+D1
+~
+~
+0 -1  0 56053
+D2
+~
+~
+0 -1  0 56062
+S
+#56055
+A Polished White Hallway~
+   This hallway is polished white polyprop, gilded with 
+gold-painted alloys. At regular intervals, the golden-yellow 
+carpet underfoot is marked with a purple W. It is well-kept and 
+clean, scrupulously orderly. 
+   A magnon-reinforced door is set in the northern wall, a 
+biometric scanner installed. You realize with proper 
+permissions, you can #6HANDSCAN NORTH#0. 
+~
+56 65672 0
+0
+D0
+~
+reinforced-door~
+1 5151  0 55900
+D1
+~
+~
+0 -1  0 56061
+D3
+~
+~
+0 -1  0 56053
+P
+handscan~
+n no nor nort north~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(wilmingtons,corporal)
+delay 8 xopen north
+else do 
+delay 8 xfail north
+fi done
+~
+P
+xopen~
+north~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #6"Identification verified. Access granted." #0
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 56055 The reinforced door creaks open on its own accord, and #5$n#0 passes through quickly before it shuts once again.
+trans_group -1 56055 55900
+trans 55900
+~
+P
+xfail~
+north~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #1"Necessary Identification unverified. Access denied."#0 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 55900 A cold, computerized voice speaks: #1"Warning. Unverified room entry attempted."#0
+~
+S
+#56056
+Simple Store Room~
+   Of ample room, this storage room provides simply-built shelves 
+along all four walls, providing plenty of space for any type of 
+storage. In the center of the room, a double row of plastic bins 
+stand back to back, allowing for further storage. The walls and 
+ceiling have been painted a simple white and the floor a flat 
+gray. 
+~
+56 65672 0
+0
+D1
+~
+iron-banded-red-plastic-door~
+1 5153  0 56052
+P
+handscan~
+e ea eas east~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(anarchs,corporal)
+delay 8 xopen east
+else do 
+delay 8 xfail east
+fi done
+~
+P
+xopen~
+east~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #6"Identification verified. Access granted."#0 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 56056 The reinforced door creaks open on its own accord, and #5$n#0 passes through quickly before it shuts once again.
+trans_group -1 56056 56052
+trans 56052
+~
+P
+xfail~
+east~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #1"Necessary Identification unverified. Access denied."#0 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 56052 A cold, computerized voice speaks: #1"Warning. Unverified room entry attempted."#0
+~
+S
+#56057
+Spacious Workshop~
+   Of simplistic design, this squared room is open and spacious 
+with its eastern and southern walls covered in hooks and panels 
+to allow access to the well-stocked inventory of tools. 
+Workbenches adorn the walls below the tool panels, their plastic 
+surfaces well-worn yet cleaned and tended. The floor is a drab 
+gray with a painted symbol of a circle and lowercase 'a' directly 
+in the center in bright yellow. Overhead a maze of ductwork 
+spider-webs in all directions, along with electrical conduit and 
+cable trays, which are overloaded with bright blue coils of wire. 
+~
+56 327816 0
+0
+D3
+~
+~
+0 -1  0 56051
+S
+#56058
+A Comfortable Lounge~
+   Though not very spacious, this dim room has been furnished 
+with a goodly number of chairs and couches. The walls have been 
+panelled with angled and spaced plastic squares of multiple hues, 
+arranged in random sequence. The floor has been painted black to 
+add to the relaxing atmosphere and the ceiling is a majestic navy 
+blue, nearly black. Flecked into the ceiling are bits of 
+twinkling matter that flash when seen in just the right light, 
+simulating a starry blanket overhead. Upon the floor, just 
+before the east exit, a symbol has been painted in clean white 
+and seems to have a path beaten around it on both sides where 
+others have avoided stepping on it. 
+~
+56 328072 0
+0
+D1
+~
+~
+0 -1  0 56051
+S
+#56059
+A Simple Barracks~
+   These barracks are very much spartan and utilitarian, though 
+the interior decoration is still polished white with golden 
+gilding. Bunk beds line all down the western and eastern wall. 
+On the mock-marble floor, a large black W has been stylishly 
+etched. 
+~
+56 590216 0
+0
+D2
+~
+~
+0 -1  0 56061
+S
+#56070
+A Simple Barracks~
+   These barracks are very much spartan and utilitarian, though 
+the interior decoration is still polished white with golden 
+gilding. Bunk beds line all down the western and eastern wall. 
+On the mock-marble floor, a large black W has been stylishly 
+etched. 
+~
+56 590216 0
+0
+D0
+~
+~
+0 -1  0 56061
+S
+#56060
+A Spartan Concrete Building~
+   An old concrete building which has received few modifications 
+or improvements since the founding of Grungetown, this room is 
+grungy and unkempt. The ceiling is darkened with smoke and the 
+walls with stains from blood, urine, and other less identifiable 
+sources. A platform made of thick plastic slabs is bolted into 
+the walls, making a loft above. To the west the space expands 
+outward and upward, the ceiling over twenty feet up and the 
+entire space filled with clanking and groaning pipes and 
+equipment. 
+~
+56 589976 0
+0
+D3
+~
+~
+0 -1  0 55901
+D4
+~
+trapdoor~
+1 -1  0 56065
+P
+xopen~
+east~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Identification verified. Access granted." 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 56060 The reinforced door creaks open on its own accord, and $n passes through quickly before it shuts once again.
+trans_group -1 56060 55094 
+trans 55094
+~
+P
+xfail~
+east~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #1"Necessary Identification unverified. Access denied."#0 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 55094 A cold, computerized voice speaks: #1"Warning. Unverified room entry attempted."#0
+~
+S
+#56062
+An Elegant Food-Processing Room~
+   A golden carpet lies thick on the floor here, running the full 
+length of the room, and apparently cleaned very regularly. The 
+walls are polished white polyprop, spread out into a wide room, 
+trimmed with golden alloy. The food processor sits against the 
+far wall, painted with a stylish W, the red letter taking up a 
+majority of the machine's side. Overall, entirely too much care 
+has gone into the upkeep of this room. 
+~
+56 327816 0
+0
+D0
+~
+~
+0 -1  0 56054
+S
+#56064
+Food Processing Hutch~
+   This smallish room's uneven, stone floor has been painted a 
+bright orange and the smooth block walls have been coated with 
+many coats of smooth, brown paint. The eastern wall is dominated 
+by a massive food processor which growls constantly, its 
+incessent hum vibrates the floor slightly. A sharply-contrasting 
+symbol has been painted upon the southern wall in black, that of 
+a circle with a a lowercase 'a' emblazoned within, it is 
+remeniscent of the '@' symbol. 
+~
+56 327816 0
+0
+D3
+~
+green-plastic-door~
+1 -1  0 56047
+S
+#56065
+A Sparse Loft~
+   A floor of off-white slab plastic is bolted into the concrete 
+walls here to make a serviceable loft over the grimy floor below. 
+The loft is about ten feet deep and twice that to span from wall 
+to wall along its other dimension. The main feature of the loft 
+is in the wall to the east, where a thick metal drop-hatch allows 
+visibility down onto the street. To the west into the building 
+the loft simply ends abruptly, wide pipes and thrumming pistons 
+arching up and down in the space beyond. 
+~
+56 589976 0
+0
+D1
+~
+~
+0 -1  0 56074
+D3
+~
+~
+0 -1  0 56075
+D5
+~
+trapdoor~
+1 -1  0 56060
+S
+#56066
+A Utilitarian Workshop~
+   This workshop is decidedly utilitarian, not even colored as 
+the rest of the interior decoration. Instead, the walls are 
+dull-gray without a hint of ornamentation. It's clear this room 
+was intended for only one thing: work. All manner of equipment 
+and machinery has been arranged against the walls, and it is 
+often hot and cramped. 
+~
+56 589960 0
+0
+D0
+~
+heat-resistant-door~
+1 5151  0 56067
+D2
+~
+gray-door~
+1 -1  0 56054
+S
+#56067
+A Utilitarian Lab~
+   This dull-gray lab is filled with reactors, test-tube racks, 
+centrifuges, and equipment important in research. Lab tables 
+line down one wall, and machines on the adjacent wall. There is 
+a persistent chemical smell, overpowering all other senses. 
+~
+56 327816 0
+0
+D2
+~
+heat-resistant-door~
+1 5151  0 56066
+S
+#56061
+A Polished White Hallway~
+   This hallway is polished white polyprop, gilded with 
+gold-painted alloys. At regular intervals, the golden-yellow 
+carpet underfoot is marked with a purple W. It is well-kept and 
+clean, scrupulously orderly. 
+   The eastern iron-banded doorway has been installed with a 
+biometric scanner. You realize with proper permissions you can 
+#6HANDSCAN EAST#0. 
+~
+56 65672 0
+0
+D0
+~
+~
+0 -1  0 56059
+D1
+~
+iron-banded-door~
+1 5151  0 56068
+D2
+~
+~
+0 -1  0 56070
+D3
+~
+~
+0 -1  0 56055
+P
+xopen~
+east~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Identification verified. Access granted." 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 56061 The reinforced door creaks open on its own accord, and $n passes through quickly before it shuts once again.
+trans_group -1 56061 56068
+trans 56068
+~
+P
+xfail~
+east~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #1"Necessary Identification unverified. Access denied."#0 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 56068 A cold, computerized voice speaks: #1"Warning. Unverified room entry attempted."#0
+~
+P
+handscan~
+e ea eas east~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(wilmguard,corporal)
+delay 8 xopen east
+else do 
+delay 8 xfail east
+fi done
+~
+S
+#56068
+An Expansive Storage Room~
+   This rectangular polished white storage room is wide and 
+expansive, lined all with lockers and crates of all sizes. All 
+of them have been arranged neatly, and the room is kept in good 
+working order. 
+   The iron-banded western doorway is installed with a biometric 
+scanner. You realize with proper permissions you can #6HANDSCAN 
+WEST#0. 
+~
+56 65672 0
+0
+D3
+~
+iron-banded-door~
+1 -1  0 56061
+P
+xopen~
+west~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Identification verified. Access granted." 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 56068 The reinforced door creaks open on its own accord, and $n passes through quickly before it shuts once again.
+trans_group -1 56068 56061
+trans 56061
+~
+P
+xfail~
+west~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #1"Necessary Identification unverified. Access denied."#0 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 56061 A cold, computerized voice speaks: #1"Warning. Unverified room entry attempted."#0
+~
+P
+handscan~
+w we wes west~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(wilmguard,corporal)
+delay 8 xopen west
+else do 
+delay 8 xfail west
+fi done
+~
+S
+#56069
+A Cramped Tunnel~
+   Made, for the most part, out of thick concrete, this tunnel 
+runs down into the moonrock rather sharply. It is wide enough 
+for only two people abreast, and seems mostly utilitarian in 
+purpose - it is a means to get from point A to point B, and 
+nothing more. 
+~
+56 65544 0
+0
+D0
+~
+thick plastic door~
+1 -1  0 55264
+S
+#56071
+A Humid Greenhouse~
+   Thick plates of plexiglass separate this greenhouse from the 
+outside world, plates that would be see-through if it was not for 
+the heavy moisture built upon them. The entire room is kept 
+uncomfortably humid, and the sound of dripping water leads a 
+constant assault against the ears. Many rows of troughs run the 
+length of the greenhouse, filled with thick plants. The room is 
+kept fairly hot also, adding to the general discomfort of the 
+small space. 
+~
+56 65560 0
+0
+D5
+~
+metal-hatch~
+1 -1  0 55924
+S
+#56072
+A Humid Greenhouse~
+   Thick plates of plexiglass separate this greenhouse from the 
+outside world, plates that would be see-through if it was not for 
+the heavy moisture built upon them. The entire room is kept 
+uncomfortably humid, and the sound of dripping water leads a 
+constant assault against the ears. Many rows of troughs run the 
+length of the greenhouse, filled with thick plants. The room is 
+kept fairly hot also, adding to the general discomfort of the 
+small space. 
+~
+56 65560 0
+0
+D1
+~
+closed~
+0 -1  0 55073
+S
+#56073
+A Humid Greenhouse~
+   Thick plates of plexiglass separate this greenhouse from the 
+outside world, plates that would be see-through if it was not for 
+the heavy moisture built upon them. The entire room is kept 
+uncomfortably humid, and the sound of dripping water leads a 
+constant assault against the ears. Many rows of troughs run the 
+length of the greenhouse, filled with thick plants. The room is 
+kept fairly hot also, adding to the general discomfort of the 
+small space. 
+~
+56 65560 0
+0
+D1
+~
+A-marked-door~
+1 5153  0 55171
+H5
+~
+drain-grate~
+1 -1  0 55954
+Q5
+10
+A drain-grate along the alleyside is unscrewed and able to be lifted.
+~
+P
+handscan~
+e ea eas east~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(anarchs,corporal)
+delay 8 xopen east
+else do 
+delay 8 xfail east
+fi done
+~
+P
+xopen~
+east~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #6"Identification verified. Access granted."#0 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 56073 The reinforced door creaks open on its own accord, and #5$n#0 passes through quickly before it shuts once again.
+trans_group -1 56073 55171
+trans 55171
+~
+P
+xfail~
+east~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #1"Necessary Identification unverified. Access denied."#0 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+~
+S
+#56074
+Air Over The Road~
+No Description Set.
+~
+56 66560 0
+0
+D1
+~
+~
+0 -1  0 55150
+D3
+~
+~
+0 -1  0 56065
+D4
+~
+~
+0 -1  0 56065
+S
+#56075
+Air Filled With Piping~
+No Description Set.
+~
+56 66560 0
+0
+D1
+~
+~
+0 -1  0 56065
+D3
+~
+~
+0 -1  0 55901
+D4
+~
+~
+0 -1  0 56065
+D5
+~
+~
+0 -1  0 55901
+S
+#56076
+A Rebuilt Sheet-Metal Shanty~
+   An original, smooth concrete slab still making up the floor, 
+the roof and walls of this shanty are rebuilt of sheet-metal and 
+chinked with rags and scrap. Dozens of thick pipes rise through 
+the floor at the far end of the room and snake off in all 
+directions while a round bolt-hatch opens right in the center of 
+the room, leading to a chamber below. Around the room are strewn 
+random personal effects and odds and ends that work as furniture, 
+many years of careless men leaving their mark as they pass 
+through. 
+~
+56 65688 0
+0
+D5
+~
+bolt-hatch~
+1 5151  0 55902
+P
+handscan~
+d do dow down~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank (wilmingtons,corporal)
+delay 8 xopen down
+else do 
+delay 8 xfail down
+fi done
+~
+P
+xopen~
+down~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #6"Identification verified. Access granted."#0 
+delay 2 emote The bolt-hatch creaks open, and @ steps into the room.
+atecho 56076 The bolt-hatch creaks open on its own accord, and #5$n#0 passes through quickly before it shuts once again.
+trans_group -1 56076 55902
+trans 55902
+~
+P
+xfail~
+down~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #1"Necessary Identification unverified. Access denied."#0 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 55902 A cold, computerized voice speaks: #1"Warning. Unverified room entry attempted."#0
+~
+S
+#56077
+A Cluttered Guardroom~
+   Little more than a shanty attached to a piece of aged and 
+clanking equipment to the west, this space has been made more 
+'homey' by the clutter of dozens of former tenants. Rags, 
+debris, and cast-offs mound along all the walls, and small 
+knicknacks rest on shelves bolted here and there. 
+   A biometric scanner has been installed in the eastern corroded 
+titanium door, and you realize you can #6HANDSCAN EAST#0 with 
+proper permissions. 
+~
+56 65688 0
+0
+D3
+~
+~
+0 -1  0 55903
+E
+reformat~
+l
+~
+P
+handscan~
+e ea eas east~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(wilmingtons,corporal)
+delay 8 xopen east
+else do 
+delay 8 xfail east
+fi done
+~
+P
+xopen~
+east~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #6"Identification verified. Access granted."#0 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 56077 The reinforced door creaks open on its own accord, and #5$n#0 passes through quickly before it shuts once again.
+trans_group -1 56077 55154 
+trans 55154
+~
+P
+xfail~
+east~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #1"Necessary Identification unverified. Access denied."#0 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 55154 A cold, computerized voice speaks: #1"Warning. Unverified room entry attempted."#0
+~
+S
+#56078
+A Cramped Space~
+   This cramped space is barely large enough to get in off the 
+street, a dim row of lighting on the ceiling above. A piece of 
+loose sheet-metal can be pulled shut to conceal it from the 
+street outside, while to the east a solid door with a biometric 
+scanner blinks, waiting. 
+~
+56 65544 0
+0
+D1
+~
+reinforced-door~
+1 5151  0 55904
+S
+#56079
+An Access Platform~
+   A corroded titanium ladder is bolted to the slick wall here, 
+leading to a hatch above. A slime-covered plastic platform is 
+here, granting access to the hatch above and the pumping 
+equipment that then surrounds it in each direction. The only 
+place with enough room to climb down lies to the east, shadowed 
+by some large pumps and pistons. 
+   The hatch has been installed with a biometric scanner, and you 
+realize you can #6HANDSCAN UP#0 with proper permissions. 
+~
+56 65688 0
+0
+D4
+~
+corroded-hatch~
+1 5151  0 55190
+D5
+~
+~
+0 -1  0 55905
+P
+handscan~
+u up~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank (wilmingtons,corporal)
+delay 8 xopen up
+else do 
+delay 8 xfail up
+fi done
+~
+P
+xopen~
+up~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #6"Identification verified. Access granted."#0 
+delay 2 emote The bolt-hatch creaks open, and @ steps into the room.
+atecho 56079 The bolt-hatch creaks open on its own accord, and #5$n#0 passes through quickly before it shuts once again.
+trans_group -1 56079 55190
+trans 55190
+~
+P
+xfail~
+up~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #1"Necessary Identification unverified. Access denied."#0 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 55190 A cold, computerized voice speaks: #1"Warning. Unverified room entry attempted."#0
+~
+S
+#56080
+A Small Niche, Below The Platform~
+   Thin streams of light filter down from between the thick 
+plastic slabs that make up the large platform above, barely 
+penetrating the dust-laden darkness below. The concrete walls 
+encasing the area are darkened with stains from blood, urine and 
+other unidentifiable bodily fluids. Thick metal pipes 
+criss-cross overhead, flexible wiring attached to the underside 
+of the platform holding them aloft. Several large pieces of 
+equipment have been abandoned here; some irreparably damaged, 
+others stripped down to their skeletal remains. 
+~
+56 65544 0
+0
+D1
+~
+~
+0 -1  0 55905
+S
+#56081
+Sawyer's Swapstop~
+   The shelves of this small shop are lined with salvage 
+materials, both used and new handcrafted items, trinkets, and 
+tools of all varieties, demonstrating an utter lack of sales 
+theme. A chipped and scratched counter made from scrap metal and 
+moonrock is erected in front of a closed doorway leading into the 
+back of the shop. The walls are decorated with a cover of old 
+paper advertisements and brightly colored picture posters from 
+years long gone, the ripped pieces made into a sort of artsy 
+vintage collage. 
+~
+56 67305496 0
+0
+D2
+~
+door~
+1 56004  0 56082
+D6
+~
+~
+0 -1  0 55281
+S
+#56082
+A Cozy Backroom~
+   A square, folding card table set with three chairs takes up a 
+good potion of this small back room. The fourth chair is pushed 
+off against a space on one of the walls next to the heating 
+furnace, teetering with a broken leg. A single bed made up with 
+a thick patchwork blanket takes up most of the remaining space, 
+shoved into a corner against the walls. Though small and dimly 
+lit, the room is cozy and almost gaudily overdecorated-- three of 
+the walls are decorated with the same kind of artsy vintage 
+poster and paper collage that is in the front of the store, but 
+much of the content and pictures are more lurid and risque, 
+bordering on downright obscene in some places. The last wall has 
+a chest of dresser drawers and a shelf-case pushed against it, 
+and has been painted a rich blood red hue. Small faux flower 
+bouquets have been shoved into small cans and jars that serve as 
+makeshift vases and stationed on the various surfaces around the 
+room. A thick green shag rug is thrown onto the middle of the 
+floor and a tall, rusty cage fan is set up in one of the corners 
+to help cool the room during the heat of daylight. 
+~
+56 67174664 0
+0
+D0
+~
+door~
+1 56004  0 56081
+D3
+~
+door~
+1 56004  0 56083
+P
+flip~
+rug~
+force -1 -1 emote pulls aside and old rug, opens a hidden trapdoor and then drops down below
+atecho 56084 From above, #5$n#0 drops down into the room.
+trans 56084
+delay 4 look
+~
+S
+#56083
+Inventory Room~
+   A lightbulb with a pull chain is the only providing light for 
+this inventory room, and every now and again it flickers due to 
+some loose wiring. Shelves and trunks are provided for 
+organizing goods to store or sell. Some of the most unappealing 
+junk items have a rather thick layer of dust on them, and it 
+seems they haven't been touched for years. A small and wobbly 
+side table provides space for managing and storing any currency 
+that comes in. 
+~
+56 335609864 0
+0
+D1
+~
+door~
+1 56004  0 56082
+S
+#56084
+A Basement Collection~
+   This little carved out basement room is a menagerie of 
+numerous antique treasures, all of them lovingly arranged and 
+displayed on shelving and surfaces. Most of the items are 
+trinkets, tiny toys, or pieces branded with old pop culture 
+references, worthless by currency standards but priceless to the 
+eye of a collector. Old and rusted license plates or road signs 
+cover any bared wall space and are propped to display along the 
+tops of the shelves. An old battered blue armchair alongside a 
+tiny folding tray table is situated in the center of the room, a 
+seat for the admiring viewer. Though coated with a fine layer of 
+dust, some of the glass items still catch the light at certain 
+angles, the eye-catching glimmers serving as insistent reminders 
+of a time long lost. 
+~
+56 67174664 0
+0
+P
+leave~
+room~
+force -1 -1 emote climbs up the staircase, into the room beyond.
+trans 56082
+atlook 56082
+~
+S
+#56085
+The Rogersteins' Gunsmithy~
+   This average sized room is filled to the brim with items for 
+sale, all held on grey metal shelves that extend to the cieling. 
+The walls are painted with thick white and black stripes, a 
+pattern that flows across the floor in black and white linoleom. 
+One large, white counter is set near the back wall, where the 
+shopkeep stands guard over the wares. Flourescent lights stretch 
+across the cieling, the tubes bare and uncovered. 
+~
+56 67305496 0
+0
+D2
+~
+door~
+1 56005  0 56086
+D6
+~
+~
+0 -1  0 55294
+S
+#56086
+The Living Space~
+   This is the biggest room in the shop, serving as the living 
+quarters, kitchen, and sleeping area. A few beds are tucked in 
+one corner, hidden by thick, white, floor to cieling curtains for 
+privacy. A counter and cupboards line the opposite wall, serving 
+as a storage and cooking area. The walls in this room are a 
+soothing taupe color, the tiles on the floor set to match. A few 
+lightbulbs dangle from the cieling, with brightly colored plastic 
+shades in red and orange. 
+~
+56 67174664 0
+0
+D0
+~
+door~
+1 56005  0 56085
+D1
+~
+door~
+1 56005  0 56087
+D3
+~
+~
+0 -1  0 56089
+S
+#56087
+The Storage Room~
+   Various boxes and shelves line the walls in this room. The 
+walls are painted a dingy beige, and the floor is tiled with 
+speckled lineolem in a checkered black and white pattern. Two 
+bare light bulbs hang from the cieling, with chains dangling from 
+each to turn them on or off. 
+~
+56 335609864 0
+0
+D3
+~
+door~
+1 56005  0 56086
+S
+#56089
+The Work Room~
+   This room is well lit, with bright white flourescent lighting 
+illuminating every corner. The walls are painted a light grey, 
+though posters and blue-prints practically cover each wall's 
+surface. Tools and scrap materials are scattered about on the 
+black linoleum tiled floor. The room is pretty plain and some 
+might call it run down. It's decently kept and tidy for the most 
+part. 
+~
+56 67174664 0
+0
+D1
+~
+~
+0 -1  0 56086
+S
+#56090
+Fixed Findings~
+   The walls of this room have seen better days, and one side of 
+the high ceiling sags rathernotably. An old, patchy rug covers 
+part of the floor, marred with oil, dust, and other grime. Along 
+one wall is a counter, perpendicular and offset from a bay door 
+leading into other rooms. 
+~
+56 67305496 0
+0
+D2
+~
+door~
+1 56007  0 56091
+D6
+~
+~
+0 -1  0 55277
+S
+#56091
+A Dingy Bunkroom~
+   Like the rest of this building, the somewhat dilapidated room 
+is covered in a thin layer of grime. Most of it has been cleaned 
+from the center of the cold floor, however, and shoved off into 
+the corners. Arrayed around the room are perhaps, at the most, 
+half a dozen rickety metal bunks that are more or less kept in 
+some state of cleanliness relative to Grungetown. 
+~
+56 67174664 0
+0
+D0
+~
+door~
+1 56007  0 56090
+D1
+~
+~
+0 -1  0 56093
+D3
+~
+door~
+1 56007  0 56092
+S
+#56092
+A Musty Storeroom~
+   A small, barren room save for a number of shelves meant for 
+storing things. It is fairly clean, but the floor shows signs of 
+dirt and grime. The scent of the air would hint this room 
+doesn't get much ventilation. 
+~
+56 335609864 0
+0
+D1
+~
+door~
+1 56007  0 56091
+S
+#56093
+A Dusty, Grimy Workroom~
+   By the standards of the surrounding buildings, this room is 
+fairly large. It has old metal pieces in the floor, and a pit 
+cut out towards the center area. Everything is covered in a 
+layer of old grime, perhaps oil, dust, or other substances. 
+Along the walls are organized some metal shelves, leaving most of 
+the space open. One sturdy door leads off to a smaller room, 
+while a curtained off portion can be pushed aside to open into a 
+dingy bunkroom. Frequently, there are bits of metal on the 
+floor, making walking about in bare feet treacherous. 
+~
+56 67174408 0
+0
+D3
+~
+~
+0 -1  0 56091
+S
+#56088
+A Chaotically-Decorated Clinic~
+   Decorated somewhere between primitive domicile and medical 
+clinic, this long room is floored with cleanly-swept concrete 
+covered in a motley assortment of braided rugs and a few cots and 
+bedrolls. Tubing runs across the ceiling and walls, from which 
+strange fetishes and mobiles crafted of bits of plastic, bone and 
+organic debris hang. Modern and primitive are joined almost 
+forcibly together. A stainless steel sink, simple and sterile in 
+construction, has had etchings of raindrops and a fierce, almost 
+abstract figure holding wheat scratched onto it. The curving 
+walls have been daubed with paint, picking out equally strange 
+and vivid creations of dancing figures, some almost frenetic and 
+morbid in design, others more serene. 
+   Hung here and there to afford some screening, are long swathes 
+of cheap red cloth. In the center of the room, radiating heat, 
+is a bulbous stove. Despite the hectic painting and decoration, 
+signs of modern medical treatment can be glimpsed in a couple of 
+tin and synthwood racks, and an ancient-looking sterilization 
+unit that sits on the stove. 
+   Ever vigilant, a few Barker Dog-marked narrow-eyed guards keep 
+a constant eye on the proceedings here. 
+~
+56 67305752 0
+0
+D2
+~
+door~
+1 56009  0 56094
+D6
+~
+~
+0 -1  0 55288
+S
+#56094
+The Back Room of a Lodge~
+   The frenetic paintings of the clinic have given away to more 
+serene decorations done in a monochromatic, and somewhat sooty 
+print in simple, almost geometric designs, that form a band 
+around the curved chamber. The thick concrete wall and door, 
+beside which rests another scanner, help to muffle the sounds of 
+the other room to muted levels. Another stove sits in the middle 
+of this room, helping to keep the heat to comfortable levels and 
+a couple of large shelves and a few boxes make clear that this 
+room's secondary function is mainly for storage. The primary 
+purpose is also clear. Along a raised and softly-padded section 
+of concrete are hung curtains of vivid cloth, creating shade and 
+enough quasi-private space for a few bedrolls. 
+~
+56 67174664 0
+0
+D0
+~
+door~
+1 56009  0 56088
+S
+#56095
+The Golden Touch~
+   The main room of the shop is relatively wide and spacious, 
+brightly-lit and clean. The champagne-colored, concrete walls 
+bears a wide array of patterns and illustrations tacked to it, 
+detailing various clothing for sale, the ebon carpeting worn down 
+from years of traffic. A pair of doors flank either side of the 
+shop, one leading to the outside, the other leading deeper into 
+the store. Several long, metallic black shelves have been 
+arranged into neat rows in the centre of the store, hosting 
+various loose goods for people to see. A makeshift display case, 
+fashioned from a pair of intact car windshields and a 
+gold-painted metal frame, holds more precious items within it. A 
+reinforced door leads to the backroom on the western wall, just 
+behind the display case. 
+~
+56 67305496 0
+0
+D3
+~
+door~
+1 55263  0 56096
+D6
+~
+~
+0 -1  0 55283
+S
+#56096
+A Dimly-Lit, Paint-Splattered Room~
+   A myriad of colors cover the cracked, concrete wall and floors 
+in artistic disarray, dyes and paints stains nearly ever inch of 
+dull grey concrete. Makeshift mannequins and easels lie 
+scattered haphazardly about the room, their twisted, melted 
+polyprop forms casting eerie shadowy projections in the dimly-lit 
+room. The room is rather bare, and spacious, save for the most 
+essential of equipment. A series of shelves lends organization 
+to potential clutter. A colorful, patchwork cloth hangs across 
+the eastern exit, while west and south leader deeper into the 
+shack's depths, the latter being barred by a reinforced door. 
+~
+56 67174664 0
+0
+D1
+~
+door~
+1 55263  0 56095
+D2
+~
+door~
+1 55263  0 56097
+D3
+~
+patchwork-curtain~
+1 -1  0 56098
+S
+#56097
+A Simple, Cluttered Storeroom~
+   Small and utilitarian, this storeroom does little more than 
+house the store inventory. Assorted metal boxes containing 
+various goods and wares line several long shelves along the 
+southern wall. A large magnon table sits in the center of the 
+room, a lockbox atop it holding chips between transactions. The 
+stone floor is covered in a fine layer of dust, a stained with 
+paint. A narrow, reinforced door leads north back to the 
+workroom. 
+~
+56 335609864 0
+0
+D0
+~
+door~
+1 56011  0 56096
+S
+#56098
+A Graffiti-Covered Living Quarters~
+   Nearly ever inch of surface area within this room has been 
+sacrificed as a makeshift canvas for elaborate graffiti tagging. 
+Many styles of graffiti cover the room, ranging from realistic 
+murals to trippy surrealistic expressionism, most painstakingly 
+detailed. A simple, cluttered desk sits beside a set of metal 
+shelves, while a small set of crimson-dyed couches are arranged 
+around a makeshift kitchen. 
+~
+56 67174664 0
+0
+D1
+~
+patchwork-curtain~
+1 -1  0 56096
+S
+#56099
+Grimy Change Room~
+   This grimy change room has a number of nicked and worn 
+polyprop benches, lockers, and tables, suited for allowing 
+gladiators to change and dress back in to their normal clothes. 
+Cut out from the stony underbelly of Grungetown, a few flickering 
+electric lights provide just enough visibility to get dressed. 
+~
+56 67174408 0
+0
+D0
+~
+~
+0 -1  0 56311
+P
+g ge get~
+a al all~
+vstr That's probably not a good idea right now! Get the items individually from the bag.
+~
+S
+#56100
+Grimy Change Room~
+   This grimy change room has a number of nicked and worn 
+polyprop benches, lockers, and tables, suited for allowing 
+gladiators to change and dress back in to their normal clothes. 
+Cut out from the stony underbelly of Grungetown, a few flickering 
+electric lights provide just enough visibility to get dressed. 
+~
+56 67174664 0
+0
+D2
+~
+~
+0 -1  0 56311
+P
+g ge get~
+a al all~
+vstr That's probably not a good idea right now! Get the items individually from the bag.
+~
+S
+#56101
+A Derelict Shop~
+   Concrete walls square-out this room, once painted a gaudy 
+yellow, now chipped and faded. Stains mar every surface with a 
+smeared, bloody handprint faded to brown on the north wall. A 
+rickety counter has been broken, half-standing near some scraps 
+that were once shelves. Waste and detritus has collected in all 
+corners of the space and piled across the floor. 
+~
+56 65544 0
+0
+D1
+~
+dented-metal-door~
+1 -1  0 55187
+H5
+~
+trapdoor~
+1 -1  0 55911
+Q5
+10
+A trapdoor is disguised below a mound of mouldy cloth in the corner.
+~
+S
+#56102
+An Abandoned Storefront~
+   This was once a storefront, the walls faded in patterns that 
+indicate that there were once shelves along most of the walls. 
+The roof overhead has collapsed in the center, the room now 
+exposed to the weather beyond. A set of circular metal stairs 
+lead down to the basement below in the northeast corner. 
+~
+56 65536 0
+0
+D2
+~
+warped-door~
+1 -1  0 55181
+D5
+~
+~
+0 -1  0 55927
+S
+#56103
+Andelle's General Store and Tech Repair~
+   The storefront of Andelle's General Store is relatively wide 
+and spacious, brightly-lit and clean. The four moonstone walls 
+encasing the room have been painted a dark shade of red, each 
+decorated sparingly with petrified heads of various wild life and 
+framed blueprints of robots and other forms of technology. In 
+the center of the store are several long, black magnon shelves, 
+each housing a wide variety of electronics and general goods. 
+The more expensive items are locked up in a display case set in a 
+wide metal counter that runs the length of the western wall, just 
+in front of a reinforced metal door leading deeper into the shop. 
+~
+56 65560 0
+0
+D3
+~
+door~
+1 56022  0 56104
+D6
+~
+~
+0 -1  0 55282
+S
+#56104
+A Dimly-Lit Workroom~
+   This workroom's cracked concrete walls are painted a dark 
+shade of magenta, a stark contrast to the thick black carpeting 
+covering the majority of a floor, the old oil stains barely 
+discernible. A working station and drafting table dominates the 
+center of the room, each kept surprisingly clean compared to the 
+cluttered shelves donned on the northern wall, each filled to the 
+brim with a wide variety of supplies, tools and mechanical 
+replacement parts. A tarped entrance set in the eastern wall 
+leads back to the shop's main room, while a pair of reinforced 
+doors in the southern and western walls lead deeper into the 
+shop. 
+~
+56 65544 0
+0
+D1
+~
+door~
+1 56022  0 56103
+D2
+~
+~
+0 -1  0 56106
+D3
+~
+door~
+1 56022  0 56105
+S
+#56105
+A Large, Cluttered Storeroom~
+   Despite being large in size, the cluttered state of the 
+storeroom instills a sense of claustrophobia. Assorted metal 
+boxes containing half-repaired robots and tools line several long 
+shelves on the northern wall. A large magnon table sits in the 
+center of the room, surrounded by numerous stacks of boxes. The 
+stone floor is covered with a fine layer of dust, and stained 
+with oil, the walls surprisingly clean. A narrow door is to the 
+south, leading back into the workroom. 
+~
+56 335609864 0
+0
+D1
+~
+door~
+1 56022  0 56104
+S
+#56106
+Living Quarters~
+   Lilac colored walls framed by white with swirled detailing 
+makes up the framework for these spacious living quarters, the 
+scent of a sweetly smelling perfume lingering in the air. The 
+furniture is all the same, dark-tinted chrion and magnon. A 
+large bed dominates the southern wall, two heavy chests with 
+drawers filled to the brim with colorful, feminine apparel 
+flanking it. A make-shift kitchen dominates the southern portion 
+of the room, consisting of nothing but a a small counter and a 
+series of shelves housing a few edible items. 
+~
+56 65800 0
+0
+D0
+~
+~
+0 -1  0 56104
+S
+#56107
+A Grimy Storeroom~
+   Neat and organized despite the grimy surroundings of most of 
+the shop, this storeroom holds stock for The Endless Bucket. 
+Lines of shelves and makeshift crates hold much of the stock in 
+an organized manner. One wall is completely bare except for many 
+random scribbles and row upon row of neat tally marks. 
+~
+56 268500992 0
+0
+D2
+~
+door~
+1 56027  0 56108
+S
+#56108
+A Work Room~
+   Hot and rather stuffy, this room smells of plastics, metal, 
+burnt grease and wet polymer. The walls are darkly stained as 
+are the floors, ceiling, and most every place one looks. Rows of 
+intertwining tubes and pipes line the ceiling providing 
+ventilation, water and exhaust ways. 
+~
+56 65800 0
+0
+D0
+~
+door~
+1 56027  0 56107
+D1
+~
+door~
+1 56027  0 56109
+D3
+~
+~
+0 -1  0 56110
+S
+#56109
+The Endless Bucket~
+   The floor of this shop is well swept revealing dark stains and 
+several deep gouges on the hard cement. The walls are rough and 
+variated in color as if layers upon layers of posters, glue, 
+wallpaper and paint have been peeled and glued over time. There 
+is an old warped advert poster of TitonBack hanging on the wall 
+behind the counter, along with bits and pieces of taped, glued, 
+and pinned yellowed paper with various scratchings. The ceiling 
+has dark water stains in one corner by the door. 
+~
+56 67305496 0
+0
+D3
+~
+door~
+1 56027  0 56108
+D6
+~
+~
+0 -1  0 55287
+S
+#56110
+A Tidy Living Space~
+   Neat and ordered, this room has obviously been turned into a 
+living area. A rough, but sturdy bed has been placed in one 
+corner, made up with clean black sturdy polymesh sheets and a 
+burgundy, thick-weaved polymesh comforter. In the opposite 
+corner, a sink has been installed, while shelves take up any 
+other availablewall space. The walls themselves have been 
+cleaned down close to their original soft grey color. Scribbles 
+and drawings adorn three walls, mostly odd scratchings of tiny 
+windup things, squares piled upon each other to form a hovel, and 
+sketches of various critters, creatures, and vehicles. On the 
+fourth wall there is a single drawing of Earth made with 
+meticulous care. On the floor is a worn, red carpet, protecting 
+bare feet from the hard, cold polycrete beneath. 
+~
+56 65800 0
+0
+D1
+~
+~
+0 -1  0 56108
+S
+#56111
+Interior of a Capsule Pod~
+   This tiny, cramped capsule pod is just big enough for one 
+person, and perhaps a backpack full of whatever items they could 
+scavenge. Colored a grimy, uneven beige, the bottom of the 
+capsule is a patchy, bug-infested mattress fashioned from some 
+lumpy and not very soft polymesh. A single dingy light, set 
+behind some tough and translucent polymesh siding, is set in the 
+centre of the pod of the capsule. A set of iron rungs also set 
+in to the ceiling allow you to pull yourself in and out of the 
+capsule as needed, and there are a variety of small and large 
+pockets that run up and down the sides of the pod. 
+~
+56 67174688 0
+0
+S
+#56112
+A Lobby in the Midst of Reconstruction~
+   By Grungetown standards this room would be considered 
+cavernous. Wide open and constructed of a blend of steel-grey 
+concrete and moonrock inlaid with veins of high grade white 
+polyprop that present a marbled effect. The wall behind the 
+faux-woodgrain, polyprop reception station is dominated by an 
+immense red 'W' set within a circle. The floor is tition-alloy 
+and textured in a gridwork pattern bare of any manner of 
+covering. Inlaid in the floor's surface is a mirror image of the 
+wall design. Construction continues to take place all around, as 
+new materials are transported and set into place by groups of 
+laborers and specialists, the most evident cause of the 
+construction-based clamor which resounds incessantly throughout 
+the area. 
+~
+56 67305744 0
+0
+S
+#56113
+Dreary Polycrete Frontroom~
+   This small room is nothing more than a polycrete box, the same 
+grainy, off-white building material used to form the ceiling, 
+walls and floor. A heavy ironalloy door is set in the southern 
+wall, numerous locks and bolts affixed to the inside, while on 
+the opposite to the north a hole cut in the box and covered by a 
+drab red curtain leads in to a second room. A row of small 
+recessed lights are set in the ceiling. 
+~
+56 67174664 0
+0
+D0
+~
+curtain~
+1 -1  0 56114
+S
+#56114
+Tiny, Windowed Polycrete Backroom~
+   A series of small windows looks out of this room on to the 
+Grungetown Marketplace, showing the crowd in all of its thriving, 
+bubbling energy, the Perimeter, and the stark and dusty Outlands 
+beyond it. Back from the view, this tiny room is large enough to 
+contain a bed and maybe a piece of furniture or two, but 
+otherwise the dull polycrete walls seem to loom near. A square 
+hole cut in the southern wall and covered by a curtain leads to 
+the front room. 
+~
+56 67174664 0
+0
+D2
+~
+curtain~
+1 -1  0 56113
+S
+#56115
+The Red Armory~
+   The shopfront of this shack is composed of recycled and 
+refurbished scrap metal, painstakingly pieced together to form an 
+exterior that offers little more than protection from the 
+elements. The floor of the shop is barren, boards along the 
+outskirts of the place protecting from seepage below the walls. 
+Hanging from the middle of the shop is a sign, reading "FUR 
+DISPAY PURPASS ONLEE," beneath which a rough picture detailing a 
+rifle without the bolt is drawn. Along the western wall is a 
+display case which holds an assortment of melee weaponry, all of 
+which are bolted to the case by wire. On the opposite eastern 
+wall is a shelving unit which displays an assortment of body 
+armor, ranging in make and size, all of which is equally secured. 
+On the southern side of the storefront is the check-out counter 
+and revealed through clear plastic windowing is an assortment of 
+small arms and magazines. Behind the counter circling the heavy 
+metal doorway is a large shelving unit which displays the larger 
+rifles and boxes of ammunition beneath. 
+~
+56 196616 0
+0
+D2
+~
+heavy-chrion-door~
+1 56115  0 56116
+D6
+~
+~
+0 -1  0 55293
+S
+#56116
+A Loosely Organized Workshop~
+   This workshop is fairly large in comparison to the rest of the 
+shop; an assortment of tools, machinery, shelving, lockers, and 
+crates take up the majority of the space along its walls. At the 
+center stands a worktable, outfitted with a series of chairs, 
+providing the only sense of comfort within the hectic clutter of 
+this space. On the western wall is a doorway, its path kept 
+fairly clear from debris and tools. Near the southern wall is a 
+trapdoor, which is fairly easy to spot despite the clutter. 
+~
+56 65544 0
+0
+D0
+~
+heavy-chrion-door~
+1 56115  0 56115
+D3
+~
+sealed-door~
+1 -1  0 56118
+D5
+~
+trapdoor~
+1 -1  0 56117
+Q3
+0
+A hand scanner is embedded in the western wall by the door.  You think you could HANDSCAN to the WEST.
+~
+P
+handscan~
+west wes we w~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(red_armory,corporal)
+delay 8 xopen west
+else do 
+delay 8 xfail west
+fi done
+~
+P
+xopen~
+west~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #6"Identification verified. Access granted."#0 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 56118 The reinforced door creaks open on its own accord, and #5$n#0 passes through quickly before it shuts once again.
+trans_group -1 56116 56118 
+trans 56118
+~
+P
+xfail~
+west~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #1"Necessary Identification unverified. Access denied."#0 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 56115 A cold, computerized voice speaks: #1"Warning. Unverified room entry attempted."#0
+~
+S
+#56117
+A Well-Lived-In Basement~
+   Dug from beneath the shop, this basement apparently serves the 
+purpose of a living quarters. Its only access point is a ladder 
+which leads to the above trapdoor in the center of the room. 
+Polymesh carpeting covers the ground, which is littered from dirt 
+crumbling off of the grey stone walls. A series of support beams 
+line the walls, holding the majority of the dirt from collapse. 
+A low-quality painting of a man, woman, and child adorns the 
+western wall, its features hard to recognize, even at close 
+proximity. 
+~
+56 65800 0
+0
+D4
+~
+trapdoor~
+1 -1  0 56116
+S
+#56118
+A Well-Organized Storeroom~
+   Great measures have been taken to seal this room off from the 
+elements. The walls are uniformly composed of sheet metal, 
+covering all sides, even the floor. The seams of these walls 
+have been welded together. The floor is covered in ceramic 
+tiling, all of which is fairly clean, the walls have been draped 
+with coarse polymesh to further seal off the area. A series of 
+counters and shelves display the wares which are for sell at any 
+given time. A #2big button#0 sits next to the door, installed on 
+its mechanism. 
+~
+56 335609864 0
+0
+D1
+~
+sealed-door~
+1 -1  0 56116
+P
+push button~
+push button~
+force -1 -1 emote presses the big red button and steps through the door.
+trans 56116
+atlook 56116
+force -1 -1 emote in from the west as the door closes behind them.
+~
+S
+#56119
+La Revolucion Gambling Den~
+   A thin haze of tobacco smoke clouds the atmosphere of this 
+small gambling den, the scent of sweat and cheap alcohol 
+lingering. The walls are a bare grey moonrock, stained black and 
+yellow over time from smoke. The floor is covered in what once 
+might have been a plush, velvet-like polymesh, though time has 
+trampled it down everywhere but in the corners. In many places, 
+the fabric has been worn down to the moon-rock floor beneath. 
+Old tables have been scattered over the room, the once vibrant 
+green polymesh tops to them now stained a spattered brown. 
+Barstools seem to be the seating of choice, many of them having 
+their legs cut down sot that their occupants might be level with 
+the table, though the job has often been done unevenly, some 
+higher than others, with most unstable. 
+~
+56 589976 0
+0
+D3
+~
+door~
+1 -1  0 56250
+S
+#56120
+A Bookie's Record Room~
+   A narrow room between the bar and the gambling hall, this 
+bookie's room is protected from the hallway by a protective 
+bullet-proof window. Stacks of papers and debt notes mound on 
+all surfaces. 
+~
+56 67174408 0
+0
+D1
+~
+barred-window~
+1 -1  0 56119
+D3
+~
+door~
+1 -1  0 56250
+S
+#56121
+Along a Thin Sheet of Scaffolding above the Forgotten Warehouse~
+   A corrugated piece of sheet metal allows further access into 
+the recesses of this forgotten warehouse. It is completely 
+derelict and in dangerously poor shape. The walls have crumbled 
+to near collapse and only the scaffolding allows any protection 
+whatsoever from the elements. The sheet metal continues slightly 
+to the south. 
+~
+56 65536 0
+0
+D0
+~
+~
+0 -1  0 56425
+D2
+~
+~
+0 -1  0 56122
+S
+#56122
+A Narrow Platform of Metal Above the Warehouse~
+   The sheet metal's surface narrows significantly here though it 
+maintains some degree of solidity for passage to the north. It 
+does, however, halt at a crumbled concrete wall to the south and 
+only a small plastic-fibre ladder with chrion-alloy rungs allows 
+access into the dark, derelict region of the warehouse below, 
+clearly forgotten. 
+~
+56 65536 0
+0
+D0
+~
+~
+0 -1  0 56121
+D5
+~
+~
+0 -1  0 56123
+S
+#56123
+A Clearing in a Collapsed Rubble Warehouse~
+   Access to the rest of the warehouse is only possible through 
+use of the plastic fibre ladder which has been securely fastened 
+to one of the more solid looking walls here, though there are 
+other gaps which open up in the rubble in the dark. This place, 
+seemingly forgotten, is dangerously close to collapse but seems, 
+in its angles, to remain upright for the time being. The floor 
+is scattered with all manner of forgotten refuse and litter to 
+old electrical circuits and wires, obscuring much of its surface. 
+~
+56 65536 0
+0
+D4
+~
+~
+0 -1  0 56122
+P
+slip~
+rubble~
+if clan(-1, childrenprowler)
+force -1 -1 emote slips between an opening in the rubble on their stomach.
+delay 1 look
+trans 56124
+ostr $n slips through an opening in the rubble from above.
+else do
+vstr Hmm?
+~
+S
+#56124
+A Cold, Crumbling Basement~
+   The roof of this basement is essentially composed of 
+collapsing rubble held dangerously in place by thick metal 
+support posts and as a result has significantly reduced the 
+height of the room from what it once was. It is cold, damp and 
+quiet in this grey concrete basement and only the occasional 
+dripping can be heard from some forgotten water pipes. Cracked 
+and eroding quickly, the walls have been somewhat poorly 
+decorated with torn and greyed posters, mostly depicting 
+prominent mutant radio show hosts and band members. The western 
+wall holds way to another darker room by way of a very narrow 
+corridor in the concrete. 
+~
+56 67174664 0
+0
+D3
+~
+~
+0 -1  0 56125
+P
+peek~
+clearing~
+vstr $n gains a foothold on a pile of rubble to peek through a small gap to the clearing above.
+ostr $n gains a foothold on a pile of rubble to peek through a small gap to the clearing above.
+atlook 56123
+fi done
+~
+P
+go enter climb~
+clearing rubble~
+if clan(-1, childrenprowler)
+force -1 -1 emote finds a foothold on a pile of rubble and pulls themself up to the clearing above.
+delay 1 look
+trans 56123
+ostr $n slips through an opening in the rubble from below.
+else do
+vstr Hmm?
+~
+S
+#56125
+A Damp, Underground Concrete Room~
+   This grey concrete room is almost prison-like, encased on all 
+sides except a small area which leads eastward via a narrow 
+corridor. It is damp and cold in here - not particularly 
+comforting for most. The walls are cracked for the most part and 
+litter and refuse line the walls, shoved there in an attempted 
+clearance. Around the room are scattered filthy beds and plastic 
+crates, their surfaces usually filled with clutter such as 
+clothes, food wrappers or weaponry. A very dim light gives a 
+soft white glow over the room - not by any means uncovering the 
+entirety of this dark place - and it flickers on and off 
+frequently. 
+~
+56 67174664 0
+0
+D1
+~
+~
+0 -1  0 56124
+S
+#56126
+A Rickety Storage Room~
+   This padded storage room is old and rickety, but serviceable. 
+Dozens of shelves and racks line the walls for storage. A 
+rectangular crimson-red room, this is for little more than 
+storing goods. 
+~
+56 335609864 0
+0
+D2
+~
+iron-backed-door~
+1 56036  0 56221
+S
+#56127
+Wilmington Wears and Tears Emporium~
+   This cramped room is made to look larger as most of the wares 
+are on the wall and a handful of thin tables that run the length 
+of the store. A single support beam sits bare in the room's 
+center, holding up the roof above. The floors are scuffed and 
+old, yet they are well kept and clean. The most expensive and 
+fragile of items are on display behind the sales counter in the 
+back. Though old and reused, the room is kept bright with more 
+rows of light than seems to be needed to light the space. 
+~
+56 67305496 0
+0
+D3
+~
+door~
+1 56038  0 56128
+D6
+~
+~
+0 -1  0 55295
+S
+#56128
+A Cluttered Work Room~
+   This cluttered workroom is full of equipment and raw materials 
+for trade and use. The walls are lined with cages for tools, 
+merch and anything else of use. The tables within contain 
+halfway finished wares, raw materials, scrap and stains from 
+various liquid substances. The space is spartan and clean. 
+~
+56 67174664 0
+0
+D0
+~
+door~
+1 56038  0 56130
+D1
+~
+door~
+1 56038  0 56127
+D3
+~
+reinforced-door~
+1 56000  0 56131
+P
+handscan~
+w we wes west~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(chaz_emporium,private)
+delay 8 xopen west
+else do 
+delay 8 xfail west
+fi done
+~
+P
+xopen~
+west~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #6"Identification verified. Access granted." #0
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 56128 The reinforced door creaks open on its own accord, and #5$n#0 passes through quickly before it shuts once again.
+trans_group -1 56128 56131
+trans 56131
+~
+P
+xfail~
+west~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #9"Necessary Identification unverified. Access denied."#0
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 56131 A cold, computerized voice speaks: #9"Warning. Unverified room entry attempted."#2
+~
+S
+#56130
+Storage Room~
+   This storage room is cramped and lined with shelves full of 
+crates. These crates contain the finished items ready for sale 
+in the shop above. The air in the room is cool and dry, good for 
+electronics and other fragile goods. The room's center is 
+divided into rows of metal shelves that raise all the way to the 
+ceiling. Though dimly lit, it is well kept. 
+~
+56 335609864 0
+0
+D2
+~
+door~
+1 56038  0 56128
+S
+#56131
+A Cramped Repair Room with a Low Ceiling ~
+   This extra work room is smaller than the others, relegated it 
+seems to repair and side projects. One large rectangular table 
+sits in the center of the room, while the walls are lined with 
+numerous shelves and storage bins. Various tools and parts are 
+strewn about, ready to be used. This room is as well lit as the 
+front room and just as spartan as the other workroom within the 
+shop. 
+~
+56 67174408 0
+0
+D1
+~
+reinforced-door~
+1 56000  0 56128
+P
+handscan~
+e ea eas east~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(wears_tears_emporium,private)
+delay 8 xopen east
+else do 
+delay 8 xfail east
+fi done
+~
+P
+xopen~
+east~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #6"Identification verified. Access granted."#0
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 56131 The reinforced door creaks open on its own accord, and #5$n#0 passes through quickly before it shuts once again.
+trans_group -1 56131 56128
+trans 56128
+~
+P
+xfail~
+east~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #9"Necessary Identification unverified. Access denied."#0
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 56128 A cold, computerized voice speaks: #9"Warning. Unverified room entry attempted."#0
+~
+S
+#56129
+The Firebreather's Pit; The Bullet Eaters~
+   The metal panels lining the walls have a layer of soot, scrubbed and 
+recoated time and again. Dust filters across the rubberized, dark grey floor, 
+scuffed from heavy objects and the tread of traffic across it. The interior of 
+this large chamber would fit a number of people, even with the mechanical 
+monster taking up the majority of the room. A small metal plate is bolted into 
+the wall near the western doorway. 
+~
+56 202047496 0
+0
+D3
+~
+~
+0 -1  0 54166
+S
+#56132
+VIP Bar Store Room~
+Storage room for the VIP Room of the Arena.
+~
+56 335740936 0
+0
+S
+#56135
+A Dank, Dark Cellar~
+   A single lightbulb has been hastily wired overhead, the black 
+and red wires providing it's source connected to a small, 
+corroded battery sitting in the northeastern corner. The walls 
+are gray and dirty, smeared, stained and battered with all manner 
+of foul and violent substances. Upon the eastern wall is a 
+particularly large #9red stain#0, pockmarked with what look to be 
+bulletholes. Dust and dirt cover the floor below, bare and 
+solid. Despite the small confines of the area, noise seems to be 
+absorbed into the walls rather than echoed. On the northern wall 
+sits a small, narrow entryway about four feet tall and two feet 
+across, reinforced and bolted with several high-tech locks. 
+~
+56 67174400 0
+0
+D0
+~
+small-door~
+1 56000  0 55186
+S
+#56300
+A Spartan Sparring Room~
+   This room is a deep rectangle, running along side the 
+warehouse to the east. A metal rail runs along the open space of 
+the warehouse's air, preventing untoward falls. The walls here 
+are of concrete painted beige, the floor of textured faux-wood 
+plastic, deep brown in color. Racks line the wall with weapons 
+of various sorts bolted for display. 
+~
+56 67174408 0
+0
+D5
+~
+door~
+1 -1  0 56298
+S
+#56299
+The Air In a Messy Warehouse~
+No Description Set.
+~
+56 67175436 0
+0
+D1
+~
+~
+0 -1  0 56296
+D4
+~
+~
+0 -1  0 56300
+S
+#56136
+A Rubble-Strewn Flashball Field~
+   This long, rectangular field stretches along the outer 
+sheet-metal wall of the Arena Warehouse to the east, wrapped on 
+the north and west sides by chainlink fencing and steel support 
+posts which hold #2bright white lights#0 above, shining down to 
+illuminate the whole field. The ground is rough heavy gravel, 
+composed mostly of charred and collapsed moonrock smashed into 
+grape-sized nuggets and layered thick to provide a level ground 
+surface. Above the lights and girders above, the area is open to 
+the sky, though the bright lights obscure the comforting colors 
+of the ion field above Grungetown. 
+~
+56 67436544 25
+0
+D0
+~
+~
+0 -1  0 56139
+D1
+~
+screen-door~
+1 -1  0 56316
+D2
+~
+~
+0 -1  0 56137
+D4
+~
+~
+0 -1  0 56139
+P
+north nort nor no n~
+(null)~
+vstr You cannot pass through the chainlink fence to the viewing bleachers.
+~
+P
+sneak snea sne sn ~
+north nort nor no n~
+vstr You cannot pass through the chainlink fence to the viewing bleachers.
+~
+S
+#56137
+A Rubble-Strewn Flashball Field~
+   This long, rectangular field stretches along the outer 
+sheet-metal wall of the Arena Warehouse to the east, bordered on 
+the west side by chainlink fencing and steel support posts which 
+hold #2bright white lights#0 above, shining down to illuminate 
+the whole field. The ground is rough heavy gravel, composed 
+mostly of charred and collapsed moonrock smashed into grape-sized 
+nuggets and layered thick to provide a level ground surface. 
+Above the lights and girders above, the area is open to the sky, 
+though the bright lights obscure the comforting colors of the ion 
+field above Grungetown. 
+~
+56 67436544 25
+0
+D0
+~
+~
+0 -1  0 56136
+D2
+~
+~
+0 -1  0 56138
+S
+#56138
+A Rubble-Strewn Flashball Field~
+   This long, rectangular field stretches along the outer 
+sheet-metal wall of the Arena Warehouse to the east, bordered on 
+the south by the dull-grey walls of some adjacent buildings and 
+on the west side by chainlink fencing and steel support posts 
+which hold #2bright white lights#0 above, shining down to 
+illuminate the whole field. The ground is rough heavy gravel, 
+composed mostly of charred and collapsed moonrock smashed into 
+grape-sized nuggets and layered thick to provide a level ground 
+surface. Above the lights and girders above, the area is open to 
+the sky, though the bright lights obscure the comforting colors 
+of the ion field above Grungetown. 
+~
+56 67436544 25
+0
+D0
+~
+~
+0 -1  0 56137
+S
+#56139
+A Set of Alion Bleachers~
+   These alion-metal bleachers rise at the north end of the 
+field, the Marketplace visible if you look over the back rail. 
+In front of you lies a clear view of the entire Flashball field. 
+A chainlink fence rises between the field and the spectators for 
+their own protection. You can #6WATCH SOUTH#0 to keep an eye on 
+the game. 
+~
+56 67436688 25
+0
+D2
+~
+~
+0 -1  0 56136
+D5
+~
+~
+0 -1  0 56136
+P
+south sout sou so s~
+(null)~
+vstr You cannot pass through the chainlink fence to the field.
+~
+P
+sneak snea sne sn ~
+south sout sou so s~
+vstr You cannot pass through the chainlink fence to the field.
+~
+S
+#56133
+The Doghouse Distillery~
+   This room will pour out jugs and move cups into the store room for the 
+Doghouse bar. 
+~
+56 67174408 0
+0
+S
+#56134
+Inside a Large Makeshift Tent~
+   Wide enough to accomodate about ten people, the abundance of cots stretched 
+across the large tent makes for a cramped and congested environment as is. 
+Sheets of heavy duty canvas have been stretched and secured onto thick chrion 
+poles to create this makeshift shelter. The heavy stench of sweat from too 
+many unwashed bodies crammed into one space only adds to the discomfort. 
+Lacking the convenience of electricity and running water, worn pole lights have 
+been erected about the shelter, casting flickering shadows when the light is 
+dim. The flap to the outside marketplace is pinned open, the occasional 
+incoming breezes managing little in the role of airing out the dwelling. 
+~
+56 65536 0
+0
+D6
+~
+~
+0 -1  0 66276
+S
+#56334
+Inside a Large Makeshift Tent~
+   Wide enough to accomodate about ten people, the abundance of cots stretched 
+across the large tent makes for a cramped and congested environment as is. 
+Sheets of heavy duty canvas have been stretched and secured onto thick chrion 
+poles to create this makeshift shelter. The heavy stench of sweat from too 
+many unwashed bodies crammed into one space only adds to the discomfort. 
+Lacking the convenience of electricity and running water, worn pole lights have 
+been erected about the shelter, casting flickering shadows when the light is 
+dim. The flap to the outside marketplace is pinned open, the occasional 
+incoming breezes managing little in the role of airing out the dwelling. 
+~
+56 67174408 0
+0
+D6
+~
+~
+0 -1  0 66276
+S
+#56325
+Onboard a Hoverboat~
+   The entirity of this smooth-lined hoverboat features hammered sheets of 
+manon metal overlaid in a watertight layer of clear polyplastic. Exposed to 
+the elements, the deck itself provides about two feet along each of the sides. 
+Small rounded handholds are present along the perimeter, interspersed with 
+carved notches likely used to steady gunnery during an excursion. Two backless 
+benches serve as sparse furnishings up the length of the flat-bottomed vehicle. 
+To the fore is a shielded #3console#0, consisting of a refurbished laptop 
+programmed with movement commands that connect the complicated array of robotic 
+drives. At the rear of the boat, a large anti-gravity drive is set up as a 
+method of propolsion, able to be rotated to control the direction of movement. 
+~
+56 201392128 0
+0
+D6
+~
+~
+0 -1  0 66465
+E
+console~
+   Shielded by a translucent layer of black plastic, this electronic computer 
+console serves as the directional apparatus in order to manipulate this 
+hoverboat craft. The operator of the craft could #6POWER#0 the #6BOAT-ON#0 or 
+#6POWER the #6BOAT-OFF#0. Once in operation, they could then program the 
+directional course of the craft itself, allowing propulsion to #6STEER NORTH#0, 
+#6SOUTH#0, #6EAST#0 and #6WEST#0 directions. 
+~
+P
+power~
+boat-on~
+if oexist(66991,56325)
+vstr The hoverboat is already running.
+else do
+if clanrank(anarchs,sergeant)
+delay 1 emote flips a switch on the console, powering on the hoverboat. With a slight shudder, the multiple anti-grav drives along the base of the boat kick in with a rumble, lifting the craft about a foot off the ground.
+put 66991 56325
+else do
+vstr You do not have the programmed authority to power-on the hoverboat.
+fi done
+~
+P
+power~
+boat-off~
+if oexist(66991,56325)
+delay 1 emote Flipping a switch on the console, @ powers off the hoverboat. The multiple drives along the base of the boat slowly lower the vehicle to the ground.
+get 66991 56325
+else do
+vstr The hoverboat is already powered off.
+fi done
+~
+P
+steer~
+north nort nor no n~
+if oexist(66991,56325)
+delay 1 emote inputs a few commands into the hoverboat console. With the continued hum of the multiple anti-gravity drives, the vessel uses its own propulsion to slowly move southwards.
+else do
+vstr The hoverboat is currently powered off. You must #6power boat-on#0 to direct it.
+fi done
+~
+P
+steer~
+south sout sou so s~
+if oexist(66991,56325)
+delay 1 emote Using the electronic console, @ steers the vessel southwards through the hum of the robotic anti-grav drives.
+else do
+vstr The hoverboat is currently powered off. You must #6power boat-on#0 to direct it.
+fi done
+~
+P
+steer~
+west wes we w~
+if oexist(66991,56325)
+delay 1 emote The anti-grav drives continue in their constant hum as @ commands the craft westwards.
+else do
+vstr The hoverboat is currently powered off. You must #6power boat-on#0 to direct it.
+fi done
+~
+P
+steer~
+east eas ea e~
+if oexist(66991,56325)
+delay 1 emote Under @'s command, the back propulsional drive pivots into position, directing the hovercraft eastwards slowly.
+else do
+vstr The hoverboat is currently powered off. You must #6power boat-on#0 to direct it.
+fi done
+~
+P
+east eas ea e north nort nor no n west wes we w south sout sou so s~
+(null)~
+vstr Heading in that direction would mean completely jumping off the hovercraft itself... You rethink your objectives.
+~
+S
 $~

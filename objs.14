@@ -1,1 +1,908 @@
+#14000
+brick solid gold bullet METAL~
+a solid gold brick~
+A solid gold brick rests here.~
+   This is a standard gold brick, measuring six inches long, 
+three inches wide, and two inches deep. Despite its small size, 
+this brick weighs twenty eight pounds and is difficult to hold 
+with one hand. This bar is stamped and certified with the seal 
+of New Phoenix to be pure twenty-four carat gold. 
+~
+30 4096 1
+7 0 1 0
+2800 0.000000
+0 0 0 0 0 0 0 1
+400.000000 0 0 0 0 0 0
+God~
+God~
+#14001
+bar small iron alloy METAL money~
+a small bar of iron alloy~
+A small bar of iron alloy lies here, dull.~
+   This is a bar of iron alloyed with a metal that is not gold, 
+one foot long and two inches wide. 
+~
+12 4198400 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+1.000000 0 0 0 0 0 0
+V
+iron-alloy~
+$bulletmetal~
+God~
+God~
+#14002
+bar small six carat gold METAL money~
+a small bar of six-carat gold~
+A small bar of six-carat gold lies here.~
+This is a bar of six-carat gold, one foot long and two inches wide. 
+~
+12 4096 1
+0 0 0 0
+200 0.000000
+0 0 0 0 0 0 0 1
+2.000000 0 0 0 0 0 0
+V
+six-carat~
+$bulletmetal~
+God~
+God~
+#14003
+bar small twelve carat gold METAL money~
+a small bar of twelve-carat gold~
+A small bar of twelve-carat gold lies here.~
+This is a bar of twelve-carat gold, one foot long and two inches wide. 
+~
+12 4096 1
+0 0 0 0
+300 0.000000
+0 0 0 0 0 0 0 1
+3.000000 0 0 0 0 0 0
+V
+twelve-carat~
+$bulletmetal~
+God~
+God~
+#14004
+bar small eighteen carat gold METAL money~
+a small bar of eighteen-carat gold~
+A small bar of eighteen-carat gold lies here.~
+This is a bar of eighteen-carat gold, one foot long and two inches wide. 
+~
+12 4096 1
+0 0 0 0
+400 0.000000
+0 0 0 0 0 0 0 1
+4.000000 0 0 0 0 0 0
+V
+eighteen-carat~
+$bulletmetal~
+God~
+God~
+#14005
+bar small twenty-four carat gold METAL money~
+a small bar of twenty-four-carat gold~
+A small bar of twenty-four-carat gold lies here.~
+This is a bar of twenty-four-carat gold, one foot long and two inches wide. 
+~
+12 4096 1
+0 0 0 0
+500 0.000000
+0 0 0 0 0 0 0 1
+5.000000 0 0 0 0 0 0
+V
+twenty-four-carat~
+$bulletmetal~
+God~
+God~
+#14006
+block iron alloy METAL money~
+a block of iron alloy~
+A block of iron alloy lies here.~
+   This is a heavy, rectangular block of iron alloyed with 
+another metal besides gold. It is a foot long and four inches 
+wide, and as thick as several metal bars. 
+~
+20 4096 1
+0 0 0 0
+1000 0.000000
+0 0 0 0 0 0 0 1
+10.000000 0 0 0 0 0 0
+V
+iron-alloy~
+$bulletmetal~
+God~
+God~
+#14007
+block six carat gold money METAL~
+a block of six-carat gold~
+A block of six-carat gold lies here.~
+   This is a heavy, rectangular block of six-carat gold. It is a 
+foot long and four inches wide, and as thick as several metal 
+bars. 
+~
+20 4096 1
+0 0 0 0
+2000 0.000000
+0 0 0 0 0 0 0 1
+20.000000 0 0 0 0 0 0
+V
+six-carat~
+$bulletmetal~
+God~
+God~
+#14008
+block twelve carat gold money METAL~
+a block of twelve-carat gold~
+A block of twelve-carat gold lies here.~
+   This is a heavy, rectangular block of twelve-carat gold. It 
+is a foot long and four inches wide, and as thick as several 
+metal bars. 
+~
+20 4096 1
+0 0 0 0
+3000 0.000000
+0 0 0 0 0 0 0 1
+30.000000 0 0 0 0 0 0
+V
+twelve-carat~
+$bulletmetal~
+God~
+God~
+#14009
+block eighteen carat gold money METAL~
+a block of eighteen-carat gold~
+A block of eighteen-carat gold sits here.~
+   This is a heavy, rectangular block of eighteen-carat gold. It 
+is a foot long and four inches wide, and as thick as several 
+metal bars. 
+~
+20 4096 1
+0 0 0 0
+4000 0.000000
+0 0 0 0 0 0 0 1
+40.000000 0 0 0 0 0 0
+V
+eighteen-carat~
+$bulletmetal~
+God~
+God~
+#14010
+block twenty four carat gold money METAL~
+a block of twenty-four-carat gold~
+A block of twenty-four carat gold lies here.~
+   This is a heavy, rectangular block of pure, twenty-four-carat 
+gold. It is a foot long and four inches wide, and as thick as 
+several metal bars. 
+~
+20 4096 1
+0 0 0 0
+5000 0.000000
+0 0 0 0 0 0 0 1
+50.000000 0 0 0 0 0 0
+V
+twenty-four-carat~
+$bulletmetal~
+God~
+God~
+#14011
+chip white circular plastic chips PLASTIC~
+a white, circular chip~
+A white, circular chip sits here.~
+   This object is small, plastic, no bigger than a centimeter in 
+width, and about an inch across. White in color, the number one 
+has been stamped clearly onto its surface, in black ink. 
+~
+20 4198400 1
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#14012
+chip red circular PLASTIC money chips~
+a red, circular chip~
+A red, circular chip lies here.~
+   This object is small, plastic, no bigger than a centimeter in 
+width, and about an inch across. Red in color, the number five 
+has been stamped clearly onto its surface, in black ink. 
+~
+20 4198400 1
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+5.000000 0 0 0 0 0 0
+God~
+God~
+#14013
+chip blue circular PLASTIC money chips~
+a blue, circular chip~
+A blue, circular chip lies here.~
+   This object is small, plastic, no bigger than a centimeter in 
+width, and about an inch across. Blue in color, the number ten 
+has been stamped clearly onto its surface, in black ink. 
+~
+20 4198400 1
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+10.000000 0 0 0 0 0 0
+God~
+God~
+#14014
+chip yellow circular PLASTIC money chips~
+a yellow, circular chip~
+A yellow, circular chip lies here.~
+   This object is small, plastic, no bigger than a centimeter in 
+width, and about an inch across. Yellow in color, the number 
+twenty has been stamped clearly onto its surface, in black ink. 
+~
+20 4198400 1
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+20.000000 0 0 0 0 0 0
+God~
+God~
+#14015
+chip green circular PLASTIC money chips~
+a green, circular chip~
+A green, circular chip lies here.~
+   This object is small, plastic, no bigger than a centimeter in width, and 
+about an inch across. Green in color, the number fifty has been stamped 
+clearly onto its surface, in black ink. 
+~
+20 4198400 1
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+50.000000 0 0 0 0 0 0
+God~
+God~
+#14016
+chip black circular PLASTIC money~
+a black circular chip~
+A black, circular chip lies here.~
+   This object is small, plastic, no bigger than a centimeter in 
+width, and about an inch across. Black in color, the number one 
+hundred has been stamped clearly onto its surface, in white ink. 
+~
+20 4198400 1
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+100.000000 0 0 0 0 0 0
+God~
+God~
+#14017
+chip gold circular PLASTIC money~
+a gold-flecked circular chip~
+A gold-flecked, circular chip lies here.~
+   This object is small, plastic, no bigger than a centimeter in 
+width, and about an inch across. Black in color but flecked with 
+streaks of golden color, the number one thousand has been stamped 
+clearly onto its surface, in white ink. 
+~
+20 4194304 1
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+1000.000000 0 0 0 0 0 0
+God~
+God~
+#14018
+earring $gemsolitary1 $ironalloy0 $gemcut2 $earringstyle3 xJEWELRYx METAL~
+a $metalcolor2 $earringstyle1 earring inset with $gemsolitary3~
+A $metalcolor2 $earringstyle1 earring inset with $gemsolitary3 lies here.~
+   Simple earrings made of $ironalloy metal, they are 
+$earringstyle. The metal has a finish that is $metalcolor. Held 
+delicately in a multi-prong setting is a $gemsolitary cut in 
+$gemcut. 
+~
+11 37752832 4194305
+0 0 0 0
+150 0.000000
+0 0 0 0 110 131072 0 1
+50.000000 0 0 0 0 0 0
+God~
+God~
+#14021
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#14019
+pendant $pendantstyle0 $ironalloy1 $gemsolitary2 $gemcut3 $ironalloy4 $chaintype5 xJEWELRYx METAL~
+a $pendantstyle0 pendant hung on a $chaintype5 chain~
+A $pendantstyle0 $gemsolitary2 pendant hung on a $chaintype5 chain lies here.~
+   This $pendantstyle pendant is made out of $ironalloy, and 
+inset with many of $gemsolitary cut carefully as to be $gemcut. 
+It is hung on a $ironalloy chain, wound in $chaintype fashion, 
+and able to be worn around the neck. 
+~
+11 33624064 2097157
+0 0 0 0
+100 0.000000
+0 0 0 0 0 131072 0 1
+1500.000000 0 0 0 0 0 0
+God~
+God~
+#14022
+spool wire $ironalloy0 xJEWELRYx METAL~
+a spool of $ironalloy0 wire~
+A spool of $ironalloy0 wire is here.~
+   This is a small plastic spool, wound with $ironalloy alloy. 
+~
+30 33558528 1
+50 12424 1 1
+500 0.000000
+0 0 0 0 0 131072 0 1
+20.000000 0 0 0 0 0 0
+God~
+God~
+#14023
+monocle circular $chaintype1 $ironalloy0 $metalcolor2 JEWELRY METAL~
+a $metalcolor2 circular monocle hung from a $chaintype0 $ironalloy1 chain~
+A $metalcolor2 circular monocle hanging from a $chaintype0 $ironalloy1 lies here.~
+   Hung from a $chaintype0 $ironalloy1 chain, this circular monocle 
+is intended to be worn over one eye. Further embellished for 
+flair, $metalcolor2. 
+~
+11 33554432 536870913
+0 0 0 0
+100 0.000000
+0 0 0 0 0 131072 0 1
+1500.000000 0 0 0 0 0 0
+God~
+God~
+#14024
+ring $ironalloy0 $gemcut2 $gemsolitary1 xJEWELRYx METAL~
+a $ironalloy0 ring lavished with a $gemcut2 $gemsolitary1~
+A $ironalloy0 $gemsolitary1 ring lies here.~
+   This is a ring made out of $ironalloy alloy, designed to be 
+looped around a finger. Lavished with $gemsolitary, cut into 
+$gemcut, it is stylish and beautiful. 
+~
+11 33554432 3
+0 0 0 0
+100 0.000000
+0 0 0 0 0 131072 0 1
+1500.000000 0 0 0 0 0 0
+God~
+God~
+#14025
+bracelet $ironalloy0 $gemsolitary1 $gemcut2 $chaintype3 studded xJEWELRYx METAL~
+a $chaintype3 $ironalloy0 bracelet studded with $gemsolitary1~
+A $chaintype3 $ironalloy0 bracelet studded with $gemsolitary1 lies here.~
+   This bracelet made out of $ironalloy metal. Studded with many 
+of $gemsolitary, all cut to be $gemcut, the bracelet has been 
+embellished all along its perimeter. The metal has been wound 
+together in $chaintype fashion. It has been clearly crafted for 
+aesthetic purposes, and is sleek, and elegant in design. There 
+is a white metal latch to fasten the bracelet to its wearer's 
+wrist or ankle. 
+~
+11 33554432 16781313
+0 0 0 0
+100 0.000000
+0 0 0 0 0 131072 0 1
+1500.000000 0 0 0 0 0 0
+God~
+God~
+#14026
+tiara $gemsolitary1 $ironalloy0 xJEWELRYx METAL~
+a $ironalloy0 tiara encrusted with $gemsolitary1~
+A $ironalloy0 tiara encrusted with $gemsolitary1 lies here.~
+   This tiara is essentially a polished $ironalloy ring, designed 
+to be worn on one's head. A skilled craftsman has taken great 
+care to encrust the entire perimeter of the tiara, at regular 
+intervals, with $gemsolitary cut in $gemcut. It has been lightly 
+padded on the inside with a thin soft leather ring for comfort. 
+~
+11 33554432 17
+0 0 0 0
+100 0.000000
+0 0 0 0 0 131072 0 1
+1500.000000 0 0 0 0 0 0
+God~
+God~
+#14027
+hairclip $ironalloy0 $gemsolitary1 $metalcolor2 JEWELRY METAL~
+a $metalcolor2 $ironalloy0 hairclip decorated with $gemsolitary1~
+A $metalcolor2 $ironalloy0 hairclip lies here, its inlayed $gemsolitary1 glinting.~
+This ornately decorated hairclip is made from the finest $ironalloy. Along its edges $gemsolitary is inlayed to combine functionality with elegance and style. Embellished for flair, $metalcolor.
+~
+11 33554432 33554433
+0 0 0 0
+100 0.000000
+0 0 0 0 0 131072 0 1
+1500.000000 0 0 0 0 0 0
+God~
+God~
+#14028
+necklace $ironalloy0 $chaintype1 xJEWELRYx METAL~
+a $chaintype1 $ironalloy0 necklace~
+A $chaintype1 $ironalloy0 necklace has been left here.~
+   This $ironalloy necklace is carefully crafted and polished to 
+a glimmer. The chain is linked in $chaintype fashion. A small 
+metal latch secures the necklace around the wearer's neck. 
+~
+11 33619968 2097157
+0 0 0 0
+50 0.000000
+0 0 0 0 0 131072 0 1
+35.000000 0 0 0 0 0 0
+God~
+God~
+#14020
+gemstone gem unpolished $gemsolitary0 xJEWELRYx GLASS~
+an unpolished $gemsolitary0 gemstone~
+An unpolished $gemsolitary0 gemstone lies here, glinting dully in light.~
+   This is a handful of $gemsolitary, unpolished and rough. Each 
+gemstone is no bigger than a fingernail. Bits of rock and grit 
+obscure their surfaces. 
+~
+12 33554432 1
+5 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+10.000000 0 0 0 0 0 0
+God~
+God~
+#14029
+gemstone unfinished $gemsolitary0 $gemcut1 GLASS~
+an unfinished, $gemsolitary0 $gemcut1 gemstone~
+An unfinished $gemsolitary0 $gemcut1 gemstone lies here.~
+   This is $gemsolitary that has been marked to be cut into 
+$gemcut. It is unfinished and still rough in texture and shape. 
+~
+39 33554432 1
+0 10 11034 1
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#14030
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+11 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#14031
+bracelet $ironalloy0 $chaintype1 simple xJEWELRYx METAL~
+a $chaintype1 $ironalloy0 bracelet~
+A $chaintype1 $ironalloy0 bracelet lies in the dust.~
+   This bracelet is made out of $ironalloy alloy. It has been 
+wound together in $chaintype fashion. A metal latch on both ends 
+secures it against the wearer's wrist, or ankle. Simple in make, 
+it serves as modest ornamentation. 
+~
+11 33619968 16781313
+0 0 0 0
+20 0.000000
+0 0 0 0 0 131072 0 1
+15.000000 0 0 0 0 0 0
+God~
+God~
+#14032
+strand $ironalloy0 $chaintype1 xJEWELRYx METAL~
+a short $ironalloy0 strand in $chaintype1 fashion~
+A short $ironalloy0 strand lies here, wound in $chaintype1 fashion.~
+   This is a short $ironalloy strand, its length no more than an 
+arm's length. It is wound in $chaintype1 fashion. 
+~
+12 33554432 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 131072 0 1
+1500.000000 0 0 0 0 0 0
+God~
+God~
+#14033
+pattern $chaintype xJEWELRYx METAL~
+a jewelry pattern for $chaintype0 fashion~
+A jewelry pattern for $chaintype0 fashion lies here.~
+   This pattern is made out of filmy, plastic translucent 
+material that is designed to be reusable. It details how to wind 
+chain into a $chaintype0 fashion. 
+~
+12 33558528 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+5.000000 0 0 0 0 0 0
+God~
+God~
+#14034
+ring $ironalloy0 plain xJEWELRYx METAL~
+a $ironalloy $metalcolor2 $ringstyle1 ring~
+A $ironalloy $metalcolor2 $ringstyle1 ring lies here.~
+   Cast out of $ironalloy this is a ring that is $ringstyle. The surface is 
+$metalcolor. 
+~
+11 33624064 3
+0 0 0 0
+33 0.000000
+0 0 0 0 0 131072 0 1
+15.000000 0 0 0 0 0 0
+God~
+God~
+#14035
+earring $ironalloy0 $earringstyle1 xJEWELRYx METAL~
+a $earringstyle1 $metalcolor2 earring~
+A $earringstyle1 $metalcolor2 earring lies here.~
+This earring is $ironalloy. Fashioned to be $earringstyle, it is plain and simple as ornamentation with a finish that is $metalcolor.
+~
+11 37752832 4194305
+0 0 0 0
+10 0.000000
+0 0 0 0 0 131072 0 1
+15.000000 0 0 0 0 0 0
+God~
+God~
+#14036
+mold earring metal $earringstyle0 xJEWELRYx METAL~
+a metal $earringstyle earring mold~
+A metal $earringstyle earring mold lies here.~
+   This is a metal mold designed to cast earrings, specifically 
+in the shape of $earringstyle. 
+~
+12 33558528 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+10.000000 0 0 0 0 0 0
+God~
+God~
+#14037
+mold metal ring $ringstyle xJEWELRYx PLASTIC~
+a metal mold for rings~
+A metal mold for rings lies here.~
+   This is a simple fire-proof mold of hardened plastic, hollowed 
+in the shape of a $ringstyle finger ring. It is designed to be 
+used in metal casting. 
+~
+12 33558528 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+10.000000 0 0 0 0 0 0
+God~
+God~
+#14038
+mold metal $pendantstyle0 pendant xJEWELRYx METAL~
+a metal mold for a $pendantstyle0 pendant~
+A metal $pendantstyle0 pendant mold sits here.~
+   This metal mold has been hollowed out in the shape of a 
+$pendantstyle pendant. It is used in metal casting. 
+~
+12 33558528 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+10.000000 0 0 0 0 0 0
+God~
+God~
+#14039
+pendant $ironalloy $pendantstyle $metalcolor xJEWELRYx METAL~
+a $pendantysyle1 $metalcolor2 pendant~
+A $pendantysyle1 $metalcolor2 pendant lies here.~
+   Made of $ironalloy, this pendant is simple and $pendantstyle. 
+The finish of the metal is $metalcolor. 
+~
+12 33554432 1
+0 0 0 0
+33 0.000000
+0 0 0 0 0 131072 0 1
+4.000000 0 0 0 0 0 0
+God~
+God~
+#14040
+pendant $ironalloy0 $pendantstyle1 $gemsolitary2 $gemcut3 xJEWELRYx METAL~
+a $ironalloy0 $pendantstyle1 pendant inserted with $gemsolitary2~
+A $ironalloy0 $pendantstyle1 pendant lies here, inserted with $gemsolitary2.~
+   This $ironalloy pendant is forged in $pendantstyle style. 
+Polished and twinkling in light, many of $gemsolitary have been 
+inserted into the pendant. The gems have been cut to be $gemcut, 
+beautifully complementing the shape and color. 
+~
+12 33554432 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 131072 0 1
+1500.000000 0 0 0 0 0 0
+God~
+God~
+#14041
+pendant  $ironalloy $pendantstyle $metalcolor $ironalloy $chaintype xJEWELRYx METAL~
+a $pendantstyle1 $metalcolor2 pendant on a $chaintype4 chain~
+A $pendantstyle1 $metalcolor2 pendant on a $chaintype4 chain lies on the ground.~
+This $ironalloy pendant is made to be $pendantstyle. The metal has a finish which is $metalcolor.  It hangs from a $ironalloy chain which is $chaintype. Simply made, it is designed to be modest ornamentation around the neck. 
+~
+11 33624064 2097157
+0 0 0 0
+83 0.000000
+0 0 0 0 0 131072 0 1
+50.000000 0 0 0 0 0 0
+God~
+God~
+#14042
+pendant $ironalloy0 $pendantstyle1 $gemsolitary2 xJEWELRYx METAL~
+a $ironalloy0 $pendantstyle1 pendant inset with $gemsolitary2~
+A $gemsolitary2 $ironalloy0 pendant lies here.~
+   This is a $ironalloy pendant, shaped and refined as to be 
+$pendantstyle. Additionally, it has been inset with a few of 
+$gemsolitary0, all cut to be $gemcut. 
+~
+12 33554432 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 131072 0 1
+1500.000000 0 0 0 0 0 0
+God~
+God~
+#14043
+band raven mark METAL xgang-markx~
+a black band marked with a raven~
+A black band marked with a raven lies here.~
+   This is a simple elastic black band with a screeching raven 
+marked on it, indicating its affiliation. 
+~
+11 0 4097
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#14044
+altar bloody OTHER~
+a bloody altar~
+A bloody altar hunkers ominously in the back of the chamber.~
+   Constructed of various materials ranging from melted plastic 
+to metal, stone and even a few skulls and bones which have been 
+sunken into it, this macabre altar carries a rigid, squat shape. 
+Carvings and corroded paint decorate it, giving testament to its 
+age and which depict various, wildly formed figures and symbols. 
+Atop its flat surface, this shrine-like structure carries a wide 
+offering bowl, more often than not filled with with pieces of 
+organic matter and crusted with dried blood. More blood annoints 
+the thing in dribbles and splotches, in some places left to dry, 
+in others, painted with the sweep of hands into patterns that 
+obscure the natural lines underneath. Other objects litter its 
+surface as well: bits of wire and shiny pieces of metal, stones, 
+and a shallow dish bearing a pierced, dome lid that acts as an 
+incense burner. Lightening the doom and gloom of its appearance, 
+a couple of dried flowers and some leaves also sit on its 
+surface, along with a number of eerily shaped statuettes. 
+~
+12 0 0
+0 0 0 0
+2500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#14200
+picture frame small artistry $plasticcolor $polyprop PLASTIC~
+a $plasticcolor picture frame~
+A $plasticcolor picture frame rests here.~
+   Only a handspan in width and height, this frame is rounded and 
+smooth, composed of $plasticcolor plastic that is $polyprop. 
+Stretched within is a white 'canvas' made of thin plastic 
+sheeting, suitable for painting or printing. 
+~
+90 33619968 1
+25 0 -1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#14201
+canvas painting stretched PLASTIC~
+a plain stretched canvas~
+A plain stretched canvas lies in the dust.~
+   This 'canvas' is made of textured, thin plastic stretched and 
+taut over a sturdy $plasticcolor frame which is $polyprop. It is 
+rectangular with squared corners, unadorned by frame and able to 
+be decorated to each edge. It is large, standing roughly two 
+feet by four feet, and suitable for hanging. 
+~
+90 33619968 1
+0 0 0 0
+300 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#14202
+spray-tag paint $color mark CERAMIC~
+a $drabcolor spray-tag~
+A $drabcolor spray-tag, primed for continue work, marks the wall.~
+   A spot is primed here on a vertical surface, base-coated with 
+$drabcolor paint in a simple design. It is a suitable canvas for 
+additional painted renderings. 
+~
+90 33619968 0
+0 0 0 0
+0 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#14045
+$sextoy OTHER~
+a $sextoy~
+A $sextoy has been left here.~
+$sextoy
+~
+12 33554432 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+15.000000 0 0 0 0 0 0
+God~
+God~
+#14046
+microphone stand METAL~
+a tall stand with a microphone~
+A microphone-stand stands tall here.~
+   This is a standard metal pole, supporting a studio microphone. 
+~
+12 0 0
+0 0 0 0
+1500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#14047
+choker pendant $pendantstyle $polymesh $ironalloy METAL~
+a $pendantstyle2 pendant on a $color0, $polymesh1 choker~
+Laying here in a small pile is a $color, $polymesh choker with a $pendantstyle pendant.~
+   This is a $color strip of $polymesh made to be worn around the 
+throat, with metal bonding and a clasp in the back. At the front 
+has been carefully strung a single $pendantstyle pendant. It is 
+made out of $ironalloy; $metalcolor. 
+~
+11 33624064 2097157
+0 0 0 0
+40 0.000000
+0 0 0 0 0 0 0 1
+1000.000000 0 0 0 0 0 0
+God~
+God~
+#14048
+tin powder $metalcolor finishing OTHER~
+a small tin of powder for $metalcolor finishing~
+Here sits a small tin of powder for $metalcolor finishing.~
+   This is a small metal tin, about the size of a man's palm. 
+Inside is some musty-smelling powder, while the outside has a 
+sticker with a drawing of a metal piece; $metalcolor. 
+~
+30 33558528 1
+100 0 1 0
+50 0.000000
+0 0 0 0 0 0 0 1
+45.000000 0 0 0 0 0 0
+God~
+God~
+#14049
+$hairacc $ironalloy $metalcolor hair accessory METAL~
+a $metalcolor2, $hairacc1~
+left here is a $metalcolor2, $hairacc1.~
+   This has been cast out of $ironalloy to be $hairacc, the 
+surface $metalcolor. 
+~
+11 33624064 33554433
+0 0 0 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+50.000000 0 0 0 0 0 0
+God~
+God~
+#14050
+$hairacc $gemsolitary $ironalloy hair accessory METAL~
+a $metalcolor3, $hairacc1 set with a $gemsolitary0~
+Left here is a $metalcolor3, $hairacc1 set with a $gemsolitary0.~
+   Into a single setting has been put $gemsolitary, positioned at 
+the most striking point on the bauble. The trinket itself is 
+$hairacc. It is cast out of $ironalloy and $metalcolor. 
+~
+11 33558528 33554433
+0 0 0 0
+50 0.000000
+0 0 0 0 160 0 0 1
+1500.000000 0 0 0 0 0 0
+God~
+God~
+#14051
+pendant $pendantstyle carved bone ORGANIC~
+a $pendantstyle pendant of carved bone~
+Here sits a $pendantstyle pendant that has been carved out of bone.~
+   This is a pendant about half the size of a palm, which has been carved out 
+of a lightweight, porous off-white material that some would identify as bone. 
+It is $pendantstyle, with a small hoop of wire attached to the upper part to 
+allow it to be strung onto something. 
+~
+11 33558528 1
+0 0 0 0
+35 0.000000
+0 0 0 0 200 131072 0 1
+2.000000 0 0 0 0 0 0
+God~
+God~
+#14052
+cane $canestyle $ironalloy cast $metalcolor METAL~
+a $canestyle cane cast out of $metalcolor2 $ironalloy1~
+Forgotten laying here is a $canestyle cane cast of $metalcolor2 $ironalloy1.~
+   This is $canestyle. It has been cast out of $ironalloy, $metalcolor. 
+~
+11 33558528 524289
+0 0 0 0
+200 0.000000
+0 0 0 0 0 131072 0 1
+35.000000 0 0 0 0 0 0
+God~
+God~
+#14053
+statuette lump of $ironalloy sculpture METAL~
+a lump of $ironalloy~
+Left here is a lump of $ironalloy.~
+This is a lump of $ironalloy-alloy, cut from a bar.
+~
+90 33624064 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#14054
+slag-sculpture slag sculpture grey-black heap STONE CERAMIC~
+a large heap of mounded slag~
+A large heap of mounded slag rests here.~
+   This mining slag has been cut, fitted, and stacked into a large, man-sized 
+shape. Melted and recongealed, this moon-rock slag is grey-black, with varied 
+crystalline formations pocking its brittle rock slabs. 
+~
+90 69632 1
+0 0 0 0
+25000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#14055
+simple metal rod logo METAL~
+a simple metal rod with a W logo~
+A simple metal rod with a W logo at its end sits here, collecting dust.~
+   This metal rod is simple in design. Having a poly-textile handle to reduce 
+heat on one end and a 'W' logo on the other, its purpose is just short of 
+obvious in its intent as a brand. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
 $~

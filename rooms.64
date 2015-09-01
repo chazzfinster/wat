@@ -1,1 +1,4667 @@
+#64000
+Base Room - Ruin SubZones / Interiors~
+   This zone is for sub-zones in the moon ruins as well as the 
+building interiors found there. Each ruin subzone should begin 
+on its own base-100 mark. So, zones could potentially be at 1, 
+100, 200, 300, etc. 
+~
+64 65536 0
+0
+S
+#64001
+A New Phoenix Radio Station~
+Yep.  It's a radio station room.
+#
+~
+64 67174408 0
+0
+K
+105 0 40 999 0P
+setradio~
+(null)~
+setval room -1 obj 6134 oval3 100
+~
+S
+#64004
+A No-Mans Town Radio Station~
+I think this is a rock station, man.
+~
+64 67174408 0
+0
+P
+setradio~
+(null)~
+setval room -1 obj 6134 oval3 74
+~
+S
+#64003
+Religious Manildra Channel.~
+It is a radio station.
+~
+64 67174408 0
+0
+P
+setradio~
+(null)~
+setval room -1 obj 6134 oval3 300
+~
+S
+#64002
+A Wasteland Bandit Radio Station~
+It is a radio station.
+~
+64 67174408 0
+0
+P
+setradio~
+(null)~
+setval room -1 obj 6134 oval3 200
+~
+S
+#64100
+A Eeerie Apartment~
+   A technology-saavy occupant once lived here with plenty of 
+spare time - this room is filled with entertainment consoles, 
+gaming systems, and computer equipment amidst the other evidence 
+of daily life. Posters of long-forgotten musical bands line the 
+walls, now peeling and curling at the edges. This room is eerily 
+untouched by the ages. Used dishes still rest in place on the 
+tables, no wall fixtures have been damaged or torn off, and even 
+the carpet looks like it might have once been vacuumed, though 
+now covered in a century of dust. 
+~
+64 33619968 9
+0
+D2
+~
+~
+0 -1  0 64110
+S
+#64101
+A Heaped Apartment~
+   A technology-saavy occupant once lived here with plenty of 
+spare time - this room is filled with entertainment consoles, 
+gaming systems, and computer equipment amidst the other evidence 
+of daily life. Posters of long-forgotten musical bands line the 
+walls, now peeling and curling at the edges. This space has been 
+re-used as a dumping ground for the cast-offs of other spaces 
+since it fulfilled its original purpose. Torn-out appliances, 
+electronics, bedding, clothes, and more are piled in massive 
+moldering heaps upon the floor making it more of a climb to move 
+about than a walk of any sort. 
+~
+64 589832 9
+0
+D2
+~
+door~
+1 -1  0 64111
+S
+#64102
+A Eeerie Apartment~
+   This apartment flourishes with the evidence of young children. 
+Toys, advertisements, and brightly-colored wall paint stand as 
+testament to the fact that the child wanted for little. This 
+room is eerily untouched by the ages. Used dishes still rest in 
+place on the tables, no wall fixtures have been damaged or torn 
+off, and even the carpet looks like it might have once been 
+vacuumed, though now covered in a century of dust. 
+~
+64 65544 9
+0
+D2
+~
+door~
+1 -1  0 64112
+S
+#64103
+A Heaped Apartment~
+   The occupant of this unit was clearly obsessed flowers and 
+kittens; images from Old-Earth reprinted and plastered to all 
+walls, goods, and surfaces. This space has been re-used as a 
+dumping ground for the cast-offs of other spaces since it 
+fulfilled its original purpose. Torn-out appliances, 
+electronics, bedding, clothes, and more are piled in massive 
+moldering heaps upon the floor making it more of a climb to move 
+about than a walk of any sort. 
+~
+64 589832 9
+0
+D2
+~
+door~
+1 -1  0 64113
+S
+#64104
+A Bunkered Apartment~
+   This apartment flourishes with the evidence of young children. 
+Toys, advertisements, and brightly-colored wall paint stand as 
+testament to the fact that the child wanted for little. This 
+room was repurposed into an armed bunker meant to withstand 
+forces that the occupants had cause to fear. Furnishings and 
+torn wall-board have been stacked and wired together to provide 
+crude cover to those hiding here, storage areas hollowed out 
+within the gun nests to withstand a siege. A battle seems to 
+have never taken place, though, the occupants eventually just 
+moving on. 
+~
+64 589832 9
+0
+D2
+~
+door~
+1 -1  0 64114
+S
+#64105
+A Overgrown Apartment~
+   A technology-saavy occupant once lived here with plenty of 
+spare time - this room is filled with entertainment consoles, 
+gaming systems, and computer equipment amidst the other evidence 
+of daily life. Posters of long-forgotten musical bands line the 
+walls, now peeling and curling at the edges. The moon ecology 
+has reclaimed this space, vinelings and plant life sprawling 
+across the floor and climbing the walls, their roots infesting 
+the goods that may still lie beneath their unfurling leaves. It 
+has an unsettling feel to it, clearly implying that human bodies 
+once lay here, left forgotten or piled purposefully, and left to 
+rot. 
+~
+64 33619976 9
+0
+D2
+~
+door~
+1 -1  0 64115
+S
+#64106
+A Trashed Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+sage-green, the furniture utilitarian. Whatever it once was, 
+however, the room is not thoroughly trashed. Whether scavengers 
+or soldiers performing a sweep and clear, everything here has 
+been overturned, smashed, dumped, and emptied. The floor is a 
+chaotic mess of goods that is difficult to discern the contents 
+of, all the items that once composed a civilized life now 
+mingled. 
+~
+64 327688 9
+0
+D2
+~
+door~
+1 -1  0 64116
+S
+#64107
+A Exploded Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+sage-green, the furniture utilitarian. The floor here is 
+splintered and blackened by the blast crater of a 
+military-quality grenade or incendiary device, the charred 
+evidence of once peaceful lives scattered violently outwards from 
+this central point. 
+~
+64 65544 9
+0
+D2
+~
+door~
+1 -1  0 64117
+S
+#64108
+A Bunkered Apartment~
+   This once appears to have belonged to an elderly Utopian 
+couple, evidence of a long life abounding. Pictures of children 
+and grandchildren appear everywhere while shelves of knick-nacks 
+and mementos fill the space not covered by furnishings This room 
+was repurposed into an armed bunker meant to withstand forces 
+that the occupants had cause to fear. Furnishings and torn 
+wall-board have been stacked and wired together to provide crude 
+cover to those hiding here, storage areas hollowed out within the 
+gun nests to withstand a siege. A battle seems to have never 
+taken place, though, the occupants eventually just moving on. 
+~
+64 589832 9
+0
+D2
+~
+door~
+1 -1  0 64118
+S
+#64109
+A Heaped Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+sunshine-yellow, the furniture utilitarian. This space has been 
+re-used as a dumping ground for the cast-offs of other spaces 
+since it fulfilled its original purpose. Torn-out appliances, 
+electronics, bedding, clothes, and more are piled in massive 
+moldering heaps upon the floor making it more of a climb to move 
+about than a walk of any sort. 
+~
+64 589832 9
+0
+D2
+~
+~
+0 -1  0 64119
+S
+#64110
+A Blood-Smeared Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+sage-green, the furniture utilitarian. What once happened here 
+could only be described as stomach-churning carnage. There is no 
+order or reason to the mess that now lies within, blood and 
+ichors smeared and splattered over all surfaces violently. 
+~
+64 65536 9
+0
+D0
+~
+~
+0 -1  0 64100
+D1
+~
+door~
+1 -1  0 64111
+S
+#64111
+A Blood-Smeared Hallway~
+   This hallway once was rather ornate, floral wallpaper and 
+plush carpeting covering all surfaces and ornate light fixtures 
+hanging above the heads of those that pass along its way. What 
+once happened here could only be described as stomach-churning 
+carnage. There is no order or reason to the mess that now lies 
+within, blood and ichors smeared and splattered over all surfaces 
+violently. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64101
+D1
+~
+~
+0 -1  0 64112
+D2
+~
+door~
+1 -1  0 64121
+D3
+~
+door~
+1 -1  0 64110
+S
+#64112
+A Exploded Hallway~
+   This hallway once was rather ornate, floral wallpaper and 
+plush carpeting covering all surfaces and ornate light fixtures 
+hanging above the heads of those that pass along its way. The 
+floor here is splintered and blackened by the blast crater of a 
+military-quality grenade or incendiary device, the charred 
+evidence of once peaceful lives scattered violently outwards from 
+this central point. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64102
+D1
+~
+~
+0 -1  0 64113
+D2
+~
+door~
+1 -1  0 64122
+D3
+~
+~
+0 -1  0 64111
+S
+#64113
+A Exploded Hallway~
+   This hallway once was rather ornate, floral wallpaper and 
+plush carpeting covering all surfaces and ornate light fixtures 
+hanging above the heads of those that pass along its way. The 
+floor here is splintered and blackened by the blast crater of a 
+military-quality grenade or incendiary device, the charred 
+evidence of once peaceful lives scattered violently outwards from 
+this central point. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64103
+D1
+~
+~
+0 -1  0 64114
+D2
+~
+door~
+1 -1  0 64123
+D3
+~
+~
+0 -1  0 64112
+S
+#64114
+A Bullet-Riddled Hallway~
+   This hallway once was rather ornate, floral wallpaper and 
+plush carpeting covering all surfaces and ornate light fixtures 
+hanging above the heads of those that pass along its way. Now it 
+is marred by the evidence of past violence. Hundreds of bullet 
+holes pock the walls, leaving a mess for those who come after. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64104
+D1
+~
+~
+0 -1  0 64115
+D2
+~
+door~
+1 -1  0 64124
+D3
+~
+~
+0 -1  0 64113
+S
+#64115
+A Blood-Smeared Hallway~
+   This hallway once was rather ornate, floral wallpaper and 
+plush carpeting covering all surfaces and ornate light fixtures 
+hanging above the heads of those that pass along its way. What 
+once happened here could only be described as stomach-churning 
+carnage. There is no order or reason to the mess that now lies 
+within, blood and ichors smeared and splattered over all surfaces 
+violently. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64105
+D1
+~
+~
+0 -1  0 64116
+D2
+~
+elevator-doors~
+1 -1  0 64125
+D3
+~
+~
+0 -1  0 64114
+S
+#64116
+A Faded Hallway~
+   Dried and faded with age and lack of mantainance, the 
+floral-print wallpaper of this hallway is now faded beyond 
+recognition of its former colors. The carpet is stained and 
+bleached to an odd orangish spectrum of hues, ornate wall 
+fixtures bolted overhead. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64106
+D1
+~
+~
+0 -1  0 64117
+D2
+~
+door~
+1 -1  0 64126
+D3
+~
+~
+0 -1  0 64115
+S
+#64117
+A Gutted Hallway~
+   Scavengers have already hit this hallway hard - everything of 
+value stripped and hauled off long ago. Carpet nails protrude 
+near the edges of the walls, left behind when the carpet was torn 
+up for its fabric content. Much of the wallpaper has been 
+stripped off and holes have been broken into the wallboard 
+behind, dangling wires protruding as evidence that even being 
+encased within the wall was not a form of safety for what was 
+once there. Stains on the ceiling of old wear and dust are the 
+only sign that ornate light fixtures once shone down onto this 
+space. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64107
+D1
+~
+~
+0 -1  0 64118
+D2
+~
+door~
+1 -1  0 64127
+D3
+~
+~
+0 -1  0 64116
+S
+#64118
+A Faded Hallway~
+   Dried and faded with age and lack of mantainance, the 
+floral-print wallpaper of this hallway is now faded beyond 
+recognition of its former colors. The carpet is stained and 
+bleached to an odd orangish spectrum of hues, ornate wall 
+fixtures bolted overhead. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64108
+D1
+~
+door~
+1 -1  0 64119
+D2
+~
+door~
+1 -1  0 64128
+D3
+~
+~
+0 -1  0 64117
+S
+#64119
+A Bunkered Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+sunshine-yellow, the furniture utilitarian. This room was 
+repurposed into an armed bunker meant to withstand forces that 
+the occupants had cause to fear. Furnishings and torn wall-board 
+have been stacked and wired together to provide crude cover to 
+those hiding here, storage areas hollowed out within the gun 
+nests to withstand a siege. A battle seems to have never taken 
+place, though, the occupants eventually just moving on. 
+~
+64 65544 9
+0
+D0
+~
+~
+0 -1  0 64109
+D3
+~
+door~
+1 -1  0 64118
+S
+#64120
+A Blood-Smeared Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+sage-green, the furniture utilitarian. What once happened here 
+could only be described as stomach-churning carnage. There is no 
+order or reason to the mess that now lies within, blood and 
+ichors smeared and splattered over all surfaces violently. 
+~
+64 65536 9
+0
+D1
+~
+~
+0 -1  0 64121
+S
+#64121
+A Eeerie Apartment~
+   A technology-saavy occupant once lived here with plenty of 
+spare time - this room is filled with entertainment consoles, 
+gaming systems, and computer equipment amidst the other evidence 
+of daily life. Posters of long-forgotten musical bands line the 
+walls, now peeling and curling at the edges. This room is eerily 
+untouched by the ages. Used dishes still rest in place on the 
+tables, no wall fixtures have been damaged or torn off, and even 
+the carpet looks like it might have once been vacuumed, though 
+now covered in a century of dust. 
+~
+64 65544 9
+0
+D0
+~
+door~
+1 -1  0 64111
+D3
+~
+~
+0 -1  0 64120
+S
+#64122
+A Heaped Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+flat-white, the furniture utilitarian. This space has been 
+re-used as a dumping ground for the cast-offs of other spaces 
+since it fulfilled its original purpose. Torn-out appliances, 
+electronics, bedding, clothes, and more are piled in massive 
+moldering heaps upon the floor making it more of a climb to move 
+about than a walk of any sort. 
+~
+64 589832 9
+0
+D0
+~
+door~
+1 -1  0 64112
+S
+#64123
+A Eeerie Apartment~
+   This apartment is cramped and utilitarian, clearly shared by 
+numerous adults with little personal space. Multiple beds are 
+bolted to the walls with plastic cupboards filled with personal 
+belongings that were tucked away. This room is eerily untouched 
+by the ages. Used dishes still rest in place on the tables, no 
+wall fixtures have been damaged or torn off, and even the carpet 
+looks like it might have once been vacuumed, though now covered 
+in a century of dust. 
+~
+64 65544 9
+0
+D0
+~
+door~
+1 -1  0 64113
+S
+#64124
+A Cramped Utility Room~
+   Cramped and utilitarian, this utility closet is packed with 
+wires, piping, and network cabling, complex workings providing 
+the necessary connectivity to the rest of the floor. It is 
+clearly long-neglected, many of the pieces of equipment beyond 
+repair. 
+~
+64 65544 28
+0
+D0
+~
+door~
+1 -1  0 64114
+S
+#64125
+A Concrete Elevator Shaft~
+   Nothing more than a breezy vertical shaft, this elevator 
+passage provides no comfort, or relief, from the empty space 
+above or the long fall to below. Magnon handrails are embedded 
+into the side wall, slick with dust and unknown dripped fluids, 
+making it a tretcherous ascent or descent to above or below. 
+~
+64 65544 0
+0
+D0
+~
+elevator-doors~
+1 -1  0 64115
+D4
+~
+~
+0 -1  0 64155
+D5
+~
+~
+0 -1  0 64215
+S
+#64126
+A Eeerie Apartment~
+   This apartment flourishes with the evidence of young children. 
+Toys, advertisements, and brightly-colored wall paint stand as 
+testament to the fact that the child wanted for little. This 
+room is eerily untouched by the ages. Used dishes still rest in 
+place on the tables, no wall fixtures have been damaged or torn 
+off, and even the carpet looks like it might have once been 
+vacuumed, though now covered in a century of dust. 
+~
+64 65544 9
+0
+D0
+~
+door~
+1 -1  0 64116
+S
+#64127
+A Trashed Apartment~
+   A technology-saavy occupant once lived here with plenty of 
+spare time - this room is filled with entertainment consoles, 
+gaming systems, and computer equipment amidst the other evidence 
+of daily life. Posters of long-forgotten musical bands line the 
+walls, now peeling and curling at the edges. Whatever it once 
+was, however, the room is not thoroughly trashed. Whether 
+scavengers or soldiers performing a sweep and clear, everything 
+here has been overturned, smashed, dumped, and emptied. The 
+floor is a chaotic mess of goods that is difficult to discern the 
+contents of, all the items that once composed a civilized life 
+now mingled. 
+~
+64 327688 9
+0
+D0
+~
+door~
+1 -1  0 64117
+S
+#64128
+A Bunkered Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+sunshine-yellow, the furniture utilitarian. This room was 
+repurposed into an armed bunker meant to withstand forces that 
+the occupants had cause to fear. Furnishings and torn wall-board 
+have been stacked and wired together to provide crude cover to 
+those hiding here, storage areas hollowed out within the gun 
+nests to withstand a siege. A battle seems to have never taken 
+place, though, the occupants eventually just moving on. 
+~
+64 589832 9
+0
+D0
+~
+door~
+1 -1  0 64118
+D1
+~
+~
+0 -1  0 64129
+S
+#64129
+A Bunkered Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+sunshine-yellow, the furniture utilitarian. This room was 
+repurposed into an armed bunker meant to withstand forces that 
+the occupants had cause to fear. Furnishings and torn wall-board 
+have been stacked and wired together to provide crude cover to 
+those hiding here, storage areas hollowed out within the gun 
+nests to withstand a siege. A battle seems to have never taken 
+place, though, the occupants eventually just moving on. 
+~
+64 589832 9
+0
+D3
+~
+~
+0 -1  0 64128
+S
+#64130
+A Exploded Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+flat-white, the furniture utilitarian. The floor here is 
+splintered and blackened by the blast crater of a 
+military-quality grenade or incendiary device, the charred 
+evidence of once peaceful lives scattered violently outwards from 
+this central point. 
+~
+64 65544 9
+0
+D1
+~
+~
+0 -1  0 64131
+S
+#64131
+A Quarantined Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+flat-white, the furniture utilitarian. It appears this room was 
+repurposed during the plague into a quarantine center for 
+treating those afflicted. Shelves molder with ancient medical 
+supplies and beds have been lined up to care for the sick. A 
+large red "X" has been painted on all the doors as a warning, the 
+room still containing a rank, rotten smell. 
+~
+64 65544 24
+0
+D2
+~
+door~
+1 -1  0 64141
+D3
+~
+~
+0 -1  0 64130
+S
+#64132
+A Blood-Smeared Apartment~
+   This apartment is cramped and utilitarian, clearly shared by 
+numerous adults with little personal space. Multiple beds are 
+bolted to the walls with plastic cupboards filled with personal 
+belongings that were tucked away. What once happened here could 
+only be described as stomach-churning carnage. There is no order 
+or reason to the mess that now lies within, blood and ichors 
+smeared and splattered over all surfaces violently. 
+~
+64 65544 9
+0
+D2
+~
+door~
+1 -1  0 64142
+S
+#64133
+A Trashed Apartment~
+   This apartment flourishes with the evidence of young children. 
+Toys, advertisements, and brightly-colored wall paint stand as 
+testament to the fact that the child wanted for little. Whatever 
+it once was, however, the room is not thoroughly trashed. 
+Whether scavengers or soldiers performing a sweep and clear, 
+everything here has been overturned, smashed, dumped, and 
+emptied. The floor is a chaotic mess of goods that is difficult 
+to discern the contents of, all the items that once composed a 
+civilized life now mingled. 
+~
+64 327688 9
+0
+D2
+~
+door~
+1 -1  0 64143
+S
+#64134
+A Heaped Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+sage-green, the furniture utilitarian. This space has been 
+re-used as a dumping ground for the cast-offs of other spaces 
+since it fulfilled its original purpose. Torn-out appliances, 
+electronics, bedding, clothes, and more are piled in massive 
+moldering heaps upon the floor making it more of a climb to move 
+about than a walk of any sort. 
+~
+64 589832 9
+0
+D2
+~
+door~
+1 -1  0 64144
+S
+#64135
+A Heaped Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+flat-white, the furniture utilitarian. This space has been 
+re-used as a dumping ground for the cast-offs of other spaces 
+since it fulfilled its original purpose. Torn-out appliances, 
+electronics, bedding, clothes, and more are piled in massive 
+moldering heaps upon the floor making it more of a climb to move 
+about than a walk of any sort. 
+~
+64 589832 9
+0
+D2
+~
+door~
+1 -1  0 64145
+S
+#64136
+A Bunkered Apartment~
+   This apartment flourishes with the evidence of young children. 
+Toys, advertisements, and brightly-colored wall paint stand as 
+testament to the fact that the child wanted for little. This 
+room was repurposed into an armed bunker meant to withstand 
+forces that the occupants had cause to fear. Furnishings and 
+torn wall-board have been stacked and wired together to provide 
+crude cover to those hiding here, storage areas hollowed out 
+within the gun nests to withstand a siege. A battle seems to 
+have never taken place, though, the occupants eventually just 
+moving on. 
+~
+64 589832 9
+0
+D2
+~
+door~
+1 -1  0 64146
+S
+#64137
+A Bullet-Riddled Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+sunshine-yellow, the furniture utilitarian. This otherwise 
+peaceful room is marred by the evidence of past violence. 
+Hundreds of bullet holes pock the walls, concentrated on the 
+surfaces facing the front door. The goods within were riddled 
+and exploded as well, leaving a mess for those who come after. 
+~
+64 65544 9
+0
+D2
+~
+door~
+1 -1  0 64147
+S
+#64138
+A Bullet-Riddled Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+sage-green, the furniture utilitarian. This otherwise peaceful 
+room is marred by the evidence of past violence. Hundreds of 
+bullet holes pock the walls, concentrated on the surfaces facing 
+the front door. The goods within were riddled and exploded as 
+well, leaving a mess for those who come after. 
+~
+64 65544 9
+0
+D1
+~
+~
+0 -1  0 64139
+D2
+~
+door~
+1 -1  0 64148
+S
+#64139
+A Exploded Apartment~
+   A technology-saavy occupant once lived here with plenty of 
+spare time - this room is filled with entertainment consoles, 
+gaming systems, and computer equipment amidst the other evidence 
+of daily life. Posters of long-forgotten musical bands line the 
+walls, now peeling and curling at the edges. The floor here is 
+splintered and blackened by the blast crater of a 
+military-quality grenade or incendiary device, the charred 
+evidence of once peaceful lives scattered violently outwards from 
+this central point. 
+~
+64 65544 9
+0
+D3
+~
+~
+0 -1  0 64138
+S
+#64140
+A Bullet-Riddled Apartment~
+   This apartment flourishes with the evidence of young children. 
+Toys, advertisements, and brightly-colored wall paint stand as 
+testament to the fact that the child wanted for little. This 
+otherwise peaceful room is marred by the evidence of past 
+violence. Hundreds of bullet holes pock the walls, concentrated 
+on the surfaces facing the front door. The goods within were 
+riddled and exploded as well, leaving a mess for those who come 
+after. 
+~
+64 65544 9
+0
+D1
+~
+door~
+1 -1  0 64141
+S
+#64141
+A Gutted Hallway~
+   Scavengers have already hit this hallway hard - everything of 
+value stripped and hauled off long ago. Carpet nails protrude 
+near the edges of the walls, left behind when the carpet was torn 
+up for its fabric content. Much of the wallpaper has been 
+stripped off and holes have been broken into the wallboard 
+behind, dangling wires protruding as evidence that even being 
+encased within the wall was not a form of safety for what was 
+once there. Stains on the ceiling of old wear and dust are the 
+only sign that ornate light fixtures once shone down onto this 
+space. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64131
+D1
+~
+~
+0 -1  0 64142
+D2
+~
+door~
+1 -1  0 64151
+D3
+~
+~
+0 -1  0 64140
+S
+#64142
+A Exploded Hallway~
+   This hallway once was rather ornate, floral wallpaper and 
+plush carpeting covering all surfaces and ornate light fixtures 
+hanging above the heads of those that pass along its way. The 
+floor here is splintered and blackened by the blast crater of a 
+military-quality grenade or incendiary device, the charred 
+evidence of once peaceful lives scattered violently outwards from 
+this central point. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64132
+D1
+~
+~
+0 -1  0 64143
+D2
+~
+door~
+1 -1  0 64152
+D3
+~
+~
+0 -1  0 64141
+S
+#64143
+A Exploded Hallway~
+   This hallway once was rather ornate, floral wallpaper and 
+plush carpeting covering all surfaces and ornate light fixtures 
+hanging above the heads of those that pass along its way. The 
+floor here is splintered and blackened by the blast crater of a 
+military-quality grenade or incendiary device, the charred 
+evidence of once peaceful lives scattered violently outwards from 
+this central point. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64133
+D1
+~
+~
+0 -1  0 64144
+D2
+~
+door~
+1 -1  0 64153
+D3
+~
+~
+0 -1  0 64142
+S
+#64144
+A Bullet-Riddled Hallway~
+   This hallway once was rather ornate, floral wallpaper and 
+plush carpeting covering all surfaces and ornate light fixtures 
+hanging above the heads of those that pass along its way. Now it 
+is marred by the evidence of past violence. Hundreds of bullet 
+holes pock the walls, leaving a mess for those who come after. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64134
+D1
+~
+~
+0 -1  0 64145
+D2
+~
+door~
+1 -1  0 64154
+D3
+~
+~
+0 -1  0 64143
+S
+#64145
+A Exploded Hallway~
+   This hallway once was rather ornate, floral wallpaper and 
+plush carpeting covering all surfaces and ornate light fixtures 
+hanging above the heads of those that pass along its way. The 
+floor here is splintered and blackened by the blast crater of a 
+military-quality grenade or incendiary device, the charred 
+evidence of once peaceful lives scattered violently outwards from 
+this central point. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64135
+D1
+~
+~
+0 -1  0 64146
+D2
+~
+elevator-doors~
+1 -1  0 64155
+D3
+~
+~
+0 -1  0 64144
+S
+#64146
+A Faded Hallway~
+   Dried and faded with age and lack of mantainance, the 
+floral-print wallpaper of this hallway is now faded beyond 
+recognition of its former colors. The carpet is stained and 
+bleached to an odd orangish spectrum of hues, ornate wall 
+fixtures bolted overhead. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64136
+D1
+~
+~
+0 -1  0 64147
+D2
+~
+door~
+1 -1  0 64156
+D3
+~
+~
+0 -1  0 64145
+S
+#64147
+A Exploded Hallway~
+   This hallway once was rather ornate, floral wallpaper and 
+plush carpeting covering all surfaces and ornate light fixtures 
+hanging above the heads of those that pass along its way. The 
+floor here is splintered and blackened by the blast crater of a 
+military-quality grenade or incendiary device, the charred 
+evidence of once peaceful lives scattered violently outwards from 
+this central point. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64137
+D1
+~
+~
+0 -1  0 64148
+D2
+~
+door~
+1 -1  0 64157
+D3
+~
+~
+0 -1  0 64146
+S
+#64148
+A Bullet-Riddled Hallway~
+   This hallway once was rather ornate, floral wallpaper and 
+plush carpeting covering all surfaces and ornate light fixtures 
+hanging above the heads of those that pass along its way. Now it 
+is marred by the evidence of past violence. Hundreds of bullet 
+holes pock the walls, leaving a mess for those who come after. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64138
+D1
+~
+door~
+1 -1  0 64149
+D2
+~
+door~
+1 -1  0 64158
+D3
+~
+~
+0 -1  0 64147
+S
+#64149
+A Bullet-Riddled Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+flat-white, the furniture utilitarian. This otherwise peaceful 
+room is marred by the evidence of past violence. Hundreds of 
+bullet holes pock the walls, concentrated on the surfaces facing 
+the front door. The goods within were riddled and exploded as 
+well, leaving a mess for those who come after. 
+~
+64 65544 9
+0
+D3
+~
+door~
+1 -1  0 64148
+S
+#64150
+A Bullet-Riddled Apartment~
+   This apartment flourishes with the evidence of young children. 
+Toys, advertisements, and brightly-colored wall paint stand as 
+testament to the fact that the child wanted for little. This 
+otherwise peaceful room is marred by the evidence of past 
+violence. Hundreds of bullet holes pock the walls, concentrated 
+on the surfaces facing the front door. The goods within were 
+riddled and exploded as well, leaving a mess for those who come 
+after. 
+~
+64 65544 9
+0
+D1
+~
+~
+0 -1  0 64151
+S
+#64151
+A Quarantined Apartment~
+   This apartment flourishes with the evidence of young children. 
+Toys, advertisements, and brightly-colored wall paint stand as 
+testament to the fact that the child wanted for little. It 
+appears this room was repurposed during the plague into a 
+quarantine center for treating those afflicted. Shelves molder 
+with ancient medical supplies and beds have been lined up to care 
+for the sick. A large red "X" has been painted on all the doors 
+as a warning, the room still containing a rank, rotten smell. 
+~
+64 65544 24
+0
+D0
+~
+door~
+1 -1  0 64141
+D3
+~
+~
+0 -1  0 64150
+S
+#64152
+A Blood-Smeared Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+sage-green, the furniture utilitarian. What once happened here 
+could only be described as stomach-churning carnage. There is no 
+order or reason to the mess that now lies within, blood and 
+ichors smeared and splattered over all surfaces violently. 
+~
+64 65544 9
+0
+D0
+~
+door~
+1 -1  0 64142
+S
+#64153
+A Eeerie Apartment~
+   A technology-saavy occupant once lived here with plenty of 
+spare time - this room is filled with entertainment consoles, 
+gaming systems, and computer equipment amidst the other evidence 
+of daily life. Posters of long-forgotten musical bands line the 
+walls, now peeling and curling at the edges. This room is eerily 
+untouched by the ages. Used dishes still rest in place on the 
+tables, no wall fixtures have been damaged or torn off, and even 
+the carpet looks like it might have once been vacuumed, though 
+now covered in a century of dust. 
+~
+64 65544 9
+0
+D0
+~
+door~
+1 -1  0 64143
+S
+#64154
+A Cramped Utility Room~
+   Cramped and utilitarian, this utility closet is packed with 
+wires, piping, and network cabling, complex workings providing 
+the necessary connectivity to the rest of the floor. It is 
+clearly long-neglected, many of the pieces of equipment beyond 
+repair. 
+~
+64 65544 28
+0
+D0
+~
+door~
+1 -1  0 64144
+S
+#64155
+A Concrete Elevator Shaft~
+   Nothing more than a breezy vertical shaft, this elevator 
+passage provides no comfort, or relief, from the empty space 
+above or the long fall to below. Magnon handrails are embedded 
+into the side wall, slick with dust and unknown dripped fluids, 
+making it a tretcherous ascent or descent to above or below. 
+~
+64 98312 0
+0
+D0
+~
+elevator-doors~
+1 -1  0 64145
+D4
+~
+~
+0 -1  0 64185
+D5
+~
+~
+0 -1  0 64125
+S
+#64156
+A Overgrown Apartment~
+   This apartment is cramped and utilitarian, clearly shared by 
+numerous adults with little personal space. Multiple beds are 
+bolted to the walls with plastic cupboards filled with personal 
+belongings that were tucked away. The moon ecology has reclaimed 
+this space, vinelings and plant life sprawling across the floor 
+and climbing the walls, their roots infesting the goods that may 
+still lie beneath their unfurling leaves. It has an unsettling 
+feel to it, clearly implying that human bodies once lay here, 
+left forgotten or piled purposefully, and left to rot. 
+~
+64 33619976 9
+0
+D0
+~
+door~
+1 -1  0 64146
+S
+#64157
+A Heaped Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+flat-white, the furniture utilitarian. This space has been 
+re-used as a dumping ground for the cast-offs of other spaces 
+since it fulfilled its original purpose. Torn-out appliances, 
+electronics, bedding, clothes, and more are piled in massive 
+moldering heaps upon the floor making it more of a climb to move 
+about than a walk of any sort. 
+~
+64 589832 9
+0
+D0
+~
+door~
+1 -1  0 64147
+S
+#64158
+A Blood-Smeared Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+flat-white, the furniture utilitarian. What once happened here 
+could only be described as stomach-churning carnage. There is no 
+order or reason to the mess that now lies within, blood and 
+ichors smeared and splattered over all surfaces violently. 
+~
+64 65544 9
+0
+D0
+~
+door~
+1 -1  0 64148
+D1
+~
+~
+0 -1  0 64159
+S
+#64159
+A Bullet-Riddled Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+flat-white, the furniture utilitarian. This otherwise peaceful 
+room is marred by the evidence of past violence. Hundreds of 
+bullet holes pock the walls, concentrated on the surfaces facing 
+the front door. The goods within were riddled and exploded as 
+well, leaving a mess for those who come after. 
+~
+64 65544 9
+0
+D3
+~
+~
+0 -1  0 64158
+S
+#64160
+A Yeasted Apartment~
+   The occupant of this unit was clearly obsessed flowers and 
+kittens; images from Old-Earth reprinted and plastered to all 
+walls, goods, and surfaces. The walls here are stained and 
+textured by uncontrolled yeast-growth, the spores heavy on the 
+air. What once was a wall-oven is now corroded and appears the 
+center of the bread-like explosion, untended baked goods likely 
+left therein ages ago. 
+~
+64 33619976 9
+0
+D2
+~
+~
+0 -1  0 64170
+S
+#64161
+A Eeerie Apartment~
+   A technology-saavy occupant once lived here with plenty of 
+spare time - this room is filled with entertainment consoles, 
+gaming systems, and computer equipment amidst the other evidence 
+of daily life. Posters of long-forgotten musical bands line the 
+walls, now peeling and curling at the edges. This room is eerily 
+untouched by the ages. Used dishes still rest in place on the 
+tables, no wall fixtures have been damaged or torn off, and even 
+the carpet looks like it might have once been vacuumed, though 
+now covered in a century of dust. 
+~
+64 65544 9
+0
+D2
+~
+door~
+1 -1  0 64171
+S
+#64162
+A Heaped Apartment~
+   This apartment is cramped and utilitarian, clearly shared by 
+numerous adults with little personal space. Multiple beds are 
+bolted to the walls with plastic cupboards filled with personal 
+belongings that were tucked away. This space has been re-used as 
+a dumping ground for the cast-offs of other spaces since it 
+fulfilled its original purpose. Torn-out appliances, 
+electronics, bedding, clothes, and more are piled in massive 
+moldering heaps upon the floor making it more of a climb to move 
+about than a walk of any sort. 
+~
+64 589832 9
+0
+D2
+~
+door~
+1 -1  0 64172
+S
+#64163
+A Bunkered Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+sunshine-yellow, the furniture utilitarian. This room was 
+repurposed into an armed bunker meant to withstand forces that 
+the occupants had cause to fear. Furnishings and torn wall-board 
+have been stacked and wired together to provide crude cover to 
+those hiding here, storage areas hollowed out within the gun 
+nests to withstand a siege. A battle seems to have never taken 
+place, though, the occupants eventually just moving on. 
+~
+64 589832 9
+0
+D2
+~
+door~
+1 -1  0 64173
+S
+#64164
+A Trashed Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+sage-green, the furniture utilitarian. Whatever it once was, 
+however, the room is not thoroughly trashed. Whether scavengers 
+or soldiers performing a sweep and clear, everything here has 
+been overturned, smashed, dumped, and emptied. The floor is a 
+chaotic mess of goods that is difficult to discern the contents 
+of, all the items that once composed a civilized life now 
+mingled. 
+~
+64 327688 9
+0
+D2
+~
+door~
+1 -1  0 64174
+S
+#64165
+A Trashed Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+flat-white, the furniture utilitarian. Whatever it once was, 
+however, the room is not thoroughly trashed. Whether scavengers 
+or soldiers performing a sweep and clear, everything here has 
+been overturned, smashed, dumped, and emptied. The floor is a 
+chaotic mess of goods that is difficult to discern the contents 
+of, all the items that once composed a civilized life now 
+mingled. 
+~
+64 327688 9
+0
+D2
+~
+door~
+1 -1  0 64175
+S
+#64166
+A Bullet-Riddled Apartment~
+   A technology-saavy occupant once lived here with plenty of 
+spare time - this room is filled with entertainment consoles, 
+gaming systems, and computer equipment amidst the other evidence 
+of daily life. Posters of long-forgotten musical bands line the 
+walls, now peeling and curling at the edges. This otherwise 
+peaceful room is marred by the evidence of past violence. 
+Hundreds of bullet holes pock the walls, concentrated on the 
+surfaces facing the front door. The goods within were riddled 
+and exploded as well, leaving a mess for those who come after. 
+~
+64 65544 9
+0
+D2
+~
+door~
+1 -1  0 64176
+S
+#64167
+A Quarantined Apartment~
+   The occupant of this unit was clearly obsessed flowers and 
+kittens; images from Old-Earth reprinted and plastered to all 
+walls, goods, and surfaces. It appears this room was repurposed 
+during the plague into a quarantine center for treating those 
+afflicted. Shelves molder with ancient medical supplies and beds 
+have been lined up to care for the sick. A large red "X" has 
+been painted on all the doors as a warning, the room still 
+containing a rank, rotten smell. 
+~
+64 65544 24
+0
+D2
+~
+door~
+1 -1  0 64177
+S
+#64168
+A Bunkered Apartment~
+   The occupant of this unit was clearly obsessed flowers and 
+kittens; images from Old-Earth reprinted and plastered to all 
+walls, goods, and surfaces. This room was repurposed into an 
+armed bunker meant to withstand forces that the occupants had 
+cause to fear. Furnishings and torn wall-board have been stacked 
+and wired together to provide crude cover to those hiding here, 
+storage areas hollowed out within the gun nests to withstand a 
+siege. A battle seems to have never taken place, though, the 
+occupants eventually just moving on. 
+~
+64 589832 9
+0
+D1
+~
+door~
+1 -1  0 64169
+D2
+~
+door~
+1 -1  0 64178
+S
+#64169
+A Eeerie Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+flat-white, the furniture utilitarian. This room is eerily 
+untouched by the ages. Used dishes still rest in place on the 
+tables, no wall fixtures have been damaged or torn off, and even 
+the carpet looks like it might have once been vacuumed, though 
+now covered in a century of dust. 
+~
+64 65544 9
+0
+D2
+~
+~
+0 -1  0 64179
+D3
+~
+door~
+1 -1  0 64168
+S
+#64170
+A Heaped Apartment~
+   The occupant of this unit was clearly obsessed flowers and 
+kittens; images from Old-Earth reprinted and plastered to all 
+walls, goods, and surfaces. This space has been re-used as a 
+dumping ground for the cast-offs of other spaces since it 
+fulfilled its original purpose. Torn-out appliances, 
+electronics, bedding, clothes, and more are piled in massive 
+moldering heaps upon the floor making it more of a climb to move 
+about than a walk of any sort. 
+~
+64 65544 9
+0
+D0
+~
+~
+0 -1  0 64160
+D1
+~
+door~
+1 -1  0 64171
+D2
+~
+~
+0 -1  0 64180
+S
+#64171
+A Blood-Smeared Hallway~
+   This hallway once was rather ornate, floral wallpaper and 
+plush carpeting covering all surfaces and ornate light fixtures 
+hanging above the heads of those that pass along its way. What 
+once happened here could only be described as stomach-churning 
+carnage. There is no order or reason to the mess that now lies 
+within, blood and ichors smeared and splattered over all surfaces 
+violently. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64161
+D1
+~
+~
+0 -1  0 64172
+D2
+~
+door~
+1 -1  0 64181
+D3
+~
+door~
+1 -1  0 64170
+S
+#64172
+A Gutted Hallway~
+   Scavengers have already hit this hallway hard - everything of 
+value stripped and hauled off long ago. Carpet nails protrude 
+near the edges of the walls, left behind when the carpet was torn 
+up for its fabric content. Much of the wallpaper has been 
+stripped off and holes have been broken into the wallboard 
+behind, dangling wires protruding as evidence that even being 
+encased within the wall was not a form of safety for what was 
+once there. Stains on the ceiling of old wear and dust are the 
+only sign that ornate light fixtures once shone down onto this 
+space. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64162
+D1
+~
+~
+0 -1  0 64173
+D2
+~
+door~
+1 -1  0 64182
+D3
+~
+~
+0 -1  0 64171
+S
+#64173
+A Blood-Smeared Hallway~
+   This hallway once was rather ornate, floral wallpaper and 
+plush carpeting covering all surfaces and ornate light fixtures 
+hanging above the heads of those that pass along its way. What 
+once happened here could only be described as stomach-churning 
+carnage. There is no order or reason to the mess that now lies 
+within, blood and ichors smeared and splattered over all surfaces 
+violently. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64163
+D1
+~
+~
+0 -1  0 64174
+D2
+~
+door~
+1 -1  0 64183
+D3
+~
+~
+0 -1  0 64172
+S
+#64174
+A Faded Hallway~
+   Dried and faded with age and lack of mantainance, the 
+floral-print wallpaper of this hallway is now faded beyond 
+recognition of its former colors. The carpet is stained and 
+bleached to an odd orangish spectrum of hues, ornate wall 
+fixtures bolted overhead. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64164
+D1
+~
+~
+0 -1  0 64175
+D2
+~
+door~
+1 -1  0 64184
+D3
+~
+~
+0 -1  0 64173
+S
+#64175
+A Faded Hallway~
+   Dried and faded with age and lack of mantainance, the 
+floral-print wallpaper of this hallway is now faded beyond 
+recognition of its former colors. The carpet is stained and 
+bleached to an odd orangish spectrum of hues, ornate wall 
+fixtures bolted overhead. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64165
+D1
+~
+~
+0 -1  0 64176
+D2
+~
+elevator-doors~
+1 -1  0 64185
+D3
+~
+~
+0 -1  0 64174
+S
+#64176
+A Gutted Hallway~
+   Scavengers have already hit this hallway hard - everything of 
+value stripped and hauled off long ago. Carpet nails protrude 
+near the edges of the walls, left behind when the carpet was torn 
+up for its fabric content. Much of the wallpaper has been 
+stripped off and holes have been broken into the wallboard 
+behind, dangling wires protruding as evidence that even being 
+encased within the wall was not a form of safety for what was 
+once there. Stains on the ceiling of old wear and dust are the 
+only sign that ornate light fixtures once shone down onto this 
+space. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64166
+D1
+~
+~
+0 -1  0 64177
+D2
+~
+door~
+1 -1  0 64186
+D3
+~
+~
+0 -1  0 64175
+S
+#64177
+A Faded Hallway~
+   Dried and faded with age and lack of mantainance, the 
+floral-print wallpaper of this hallway is now faded beyond 
+recognition of its former colors. The carpet is stained and 
+bleached to an odd orangish spectrum of hues, ornate wall 
+fixtures bolted overhead. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64167
+D1
+~
+~
+0 -1  0 64178
+D2
+~
+door~
+1 -1  0 64187
+D3
+~
+~
+0 -1  0 64176
+S
+#64178
+A Bullet-Riddled Hallway~
+   This hallway once was rather ornate, floral wallpaper and 
+plush carpeting covering all surfaces and ornate light fixtures 
+hanging above the heads of those that pass along its way. Now it 
+is marred by the evidence of past violence. Hundreds of bullet 
+holes pock the walls, leaving a mess for those who come after. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64168
+D1
+~
+door~
+1 -1  0 64179
+D2
+~
+door~
+1 -1  0 64188
+D3
+~
+~
+0 -1  0 64177
+S
+#64179
+A Quarantined Apartment~
+   This apartment is cramped and utilitarian, clearly shared by 
+numerous adults with little personal space. Multiple beds are 
+bolted to the walls with plastic cupboards filled with personal 
+belongings that were tucked away. It appears this room was 
+repurposed during the plague into a quarantine center for 
+treating those afflicted. Shelves molder with ancient medical 
+supplies and beds have been lined up to care for the sick. A 
+large red "X" has been painted on all the doors as a warning, the 
+room still containing a rank, rotten smell. 
+~
+64 65544 24
+0
+D0
+~
+~
+0 -1  0 64169
+D3
+~
+door~
+1 -1  0 64178
+S
+#64180
+A Heaped Apartment~
+   The occupant of this unit was clearly obsessed flowers and 
+kittens; images from Old-Earth reprinted and plastered to all 
+walls, goods, and surfaces. This space has been re-used as a 
+dumping ground for the cast-offs of other spaces since it 
+fulfilled its original purpose. Torn-out appliances, 
+electronics, bedding, clothes, and more are piled in massive 
+moldering heaps upon the floor making it more of a climb to move 
+about than a walk of any sort. 
+~
+64 589832 9
+0
+D0
+~
+~
+0 -1  0 64170
+D1
+~
+~
+0 -1  0 64181
+S
+#64181
+A Overgrown Apartment~
+   A technology-saavy occupant once lived here with plenty of 
+spare time - this room is filled with entertainment consoles, 
+gaming systems, and computer equipment amidst the other evidence 
+of daily life. Posters of long-forgotten musical bands line the 
+walls, now peeling and curling at the edges. The moon ecology 
+has reclaimed this space, vinelings and plant life sprawling 
+across the floor and climbing the walls, their roots infesting 
+the goods that may still lie beneath their unfurling leaves. It 
+has an unsettling feel to it, clearly implying that human bodies 
+once lay here, left forgotten or piled purposefully, and left to 
+rot. 
+~
+64 33619976 9
+0
+D0
+~
+door~
+1 -1  0 64171
+D3
+~
+~
+0 -1  0 64180
+S
+#64182
+A Heaped Apartment~
+   This once appears to have belonged to an elderly Utopian 
+couple, evidence of a long life abounding. Pictures of children 
+and grandchildren appear everywhere while shelves of knick-nacks 
+and mementos fill the space not covered by furnishings This space 
+has been re-used as a dumping ground for the cast-offs of other 
+spaces since it fulfilled its original purpose. Torn-out 
+appliances, electronics, bedding, clothes, and more are piled in 
+massive moldering heaps upon the floor making it more of a climb 
+to move about than a walk of any sort. 
+~
+64 589832 9
+0
+D0
+~
+~
+0 -1  0 64172
+S
+#64183
+A Bullet-Riddled Apartment~
+   This apartment flourishes with the evidence of young children. 
+Toys, advertisements, and brightly-colored wall paint stand as 
+testament to the fact that the child wanted for little. This 
+otherwise peaceful room is marred by the evidence of past 
+violence. Hundreds of bullet holes pock the walls, concentrated 
+on the surfaces facing the front door. The goods within were 
+riddled and exploded as well, leaving a mess for those who come 
+after. 
+~
+64 65544 9
+0
+D0
+~
+door~
+1 -1  0 64173
+S
+#64184
+A Cramped Utility Room~
+   Cramped and utilitarian, this utility closet is packed with 
+wires, piping, and network cabling, complex workings providing 
+the necessary connectivity to the rest of the floor. It is 
+clearly long-neglected, many of the pieces of equipment beyond 
+repair. 
+~
+64 65544 28
+0
+D0
+~
+door~
+1 -1  0 64174
+S
+#64185
+A Concrete Elevator Shaft~
+   Nothing more than a breezy vertical shaft, this elevator 
+passage provides no comfort, or relief, from the empty space 
+above or the long fall to below. Magnon handrails are embedded 
+into the side wall, slick with dust and unknown dripped fluids, 
+making it a tretcherous ascent or descent to above or below. 
+~
+64 98312 0
+0
+D0
+~
+elevator-doors~
+1 -1  0 64175
+D5
+~
+~
+0 -1  0 64155
+S
+#64186
+A Bunkered Apartment~
+   This apartment is cramped and utilitarian, clearly shared by 
+numerous adults with little personal space. Multiple beds are 
+bolted to the walls with plastic cupboards filled with personal 
+belongings that were tucked away. This room was repurposed into 
+an armed bunker meant to withstand forces that the occupants had 
+cause to fear. Furnishings and torn wall-board have been stacked 
+and wired together to provide crude cover to those hiding here, 
+storage areas hollowed out within the gun nests to withstand a 
+siege. A battle seems to have never taken place, though, the 
+occupants eventually just moving on. 
+~
+64 589832 9
+0
+D0
+~
+door~
+1 -1  0 64176
+S
+#64187
+A Bunkered Apartment~
+   This apartment flourishes with the evidence of young children. 
+Toys, advertisements, and brightly-colored wall paint stand as 
+testament to the fact that the child wanted for little. This 
+room was repurposed into an armed bunker meant to withstand 
+forces that the occupants had cause to fear. Furnishings and 
+torn wall-board have been stacked and wired together to provide 
+crude cover to those hiding here, storage areas hollowed out 
+within the gun nests to withstand a siege. A battle seems to 
+have never taken place, though, the occupants eventually just 
+moving on. 
+~
+64 589832 9
+0
+D0
+~
+door~
+1 -1  0 64177
+S
+#64188
+A Overgrown Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+sage-green, the furniture utilitarian. The moon ecology has 
+reclaimed this space, vinelings and plant life sprawling across 
+the floor and climbing the walls, their roots infesting the goods 
+that may still lie beneath their unfurling leaves. It has an 
+unsettling feel to it, clearly implying that human bodies once 
+lay here, left forgotten or piled purposefully, and left to rot. 
+~
+64 33619976 9
+0
+D0
+~
+door~
+1 -1  0 64178
+D1
+~
+~
+0 -1  0 64189
+S
+#64189
+A Quarantined Apartment~
+   This apartment is cramped and utilitarian, clearly shared by 
+numerous adults with little personal space. Multiple beds are 
+bolted to the walls with plastic cupboards filled with personal 
+belongings that were tucked away. It appears this room was 
+repurposed during the plague into a quarantine center for 
+treating those afflicted. Shelves molder with ancient medical 
+supplies and beds have been lined up to care for the sick. A 
+large red "X" has been painted on all the doors as a warning, the 
+room still containing a rank, rotten smell. 
+~
+64 65544 24
+0
+D3
+~
+~
+0 -1  0 64188
+S
+#64190
+A Gilded Lobby~
+   This lobby was built to be deliberately impressive. Tall 
+columns of simulated white marble stretch to a vaulted ceiling, 
+now dingy and stained, while tarnished metallic chandeliers 
+handing far up above, slowly turning in the breeze that wafts 
+through the door. The floor is cleared and spacious, shiny 
+dark-colored marble clicking below the feet. The entire space is 
+grimy now, dirt blown in from the doorway, moondust coating all 
+the surfaces. The odd stray bullethole mars the walls and 
+evidence of nesting appears in the corners. 
+~
+64 134283272 0
+0
+D1
+~
+~
+0 -1  0 64191
+D2
+~
+~
+0 -1  0 64200
+S
+#64191
+A Gilded Lobby~
+   This lobby was built to be deliberately impressive. Tall 
+columns of simulated white marble stretch to a vaulted ceiling, 
+now dingy and stained, while tarnished metallic chandeliers 
+handing far up above, slowly turning in the breeze that wafts 
+through the door. The floor is cleared and spacious, shiny 
+dark-colored marble clicking below the feet. The entire space is 
+grimy now, dirt blown in from the doorway, moondust coating all 
+the surfaces. The odd stray bullethole mars the walls and 
+evidence of nesting appears in the corners. 
+~
+64 134283272 0
+0
+D2
+~
+~
+0 -1  0 64201
+D3
+~
+~
+0 -1  0 64190
+S
+#64192
+An Overgrown Executive Suite~
+   This room was once an executive suite, fading on the walls 
+once indicating that it hung with framed documents or pictures of 
+some sort. The shelves are inset into the walls and all made of 
+faux-wood, mahogany in shade. The moon ecology has reclaimed 
+this space, vinelings and plant life sprawling across the floor 
+and climbing the walls, their roots infesting the goods that may 
+still lie beneath their unfurling leaves. It has an unsettling 
+feel to it, clearly implying that human bodies once lay here, 
+left forgotten or piled purposefully, and left to rot. 
+~
+64 327688 8
+0
+D2
+~
+door~
+1 -1  0 64202
+S
+#64193
+A Bullet-Riddled Apartment~
+   A technology-saavy occupant once lived here with plenty of 
+spare time - this room is filled with entertainment consoles, 
+gaming systems, and computer equipment amidst the other evidence 
+of daily life. Posters of long-forgotten musical bands line the 
+walls, now peeling and curling at the edges. This otherwise 
+peaceful room is marred by the evidence of past violence. 
+Hundreds of bullet holes pock the walls, concentrated on the 
+surfaces facing the front door. The goods within were riddled 
+and exploded as well, leaving a mess for those who come after. 
+~
+64 65544 9
+0
+D2
+~
+door~
+1 -1  0 64203
+S
+#64194
+A Overgrown Apartment~
+   A technology-saavy occupant once lived here with plenty of 
+spare time - this room is filled with entertainment consoles, 
+gaming systems, and computer equipment amidst the other evidence 
+of daily life. Posters of long-forgotten musical bands line the 
+walls, now peeling and curling at the edges. The moon ecology 
+has reclaimed this space, vinelings and plant life sprawling 
+across the floor and climbing the walls, their roots infesting 
+the goods that may still lie beneath their unfurling leaves. It 
+has an unsettling feel to it, clearly implying that human bodies 
+once lay here, left forgotten or piled purposefully, and left to 
+rot. 
+~
+64 33619976 9
+0
+D2
+~
+door~
+1 -1  0 64204
+S
+#64195
+A Trashed Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+sage-green, the furniture utilitarian. Whatever it once was, 
+however, the room is not thoroughly trashed. Whether scavengers 
+or soldiers performing a sweep and clear, everything here has 
+been overturned, smashed, dumped, and emptied. The floor is a 
+chaotic mess of goods that is difficult to discern the contents 
+of, all the items that once composed a civilized life now 
+mingled. 
+~
+64 65544 9
+0
+D2
+~
+door~
+1 -1  0 64205
+S
+#64196
+A Ransacked Workout Room~
+   White walls with broken television mounts surround this 
+spartan space, once filled with weight machines and workout 
+equipment for the fitness-minded building resident. The room is 
+now ransacked; equipment half-rendered to pieces and piled on the 
+floor with the contents of the surrounding closets and storage 
+rooms. 
+~
+64 327688 27
+0
+D1
+~
+~
+0 -1  0 64197
+D2
+~
+glass-doors~
+1 -1  0 64206
+S
+#64197
+A Padded Workout Room~
+   The white walls of this workout room still have brackets 
+mounted with functioning pull-up bars and climbing ladders. The 
+floor is padded with some form of ancient foam; holes dug in it 
+where others have tried unsuccessfully to tear it up. The 
+rubbish has been pushed back along the walls here, leaving the 
+center of the padded floor clear. 
+~
+64 65544 27
+0
+D2
+~
+glass-doors~
+1 -1  0 64207
+D3
+~
+~
+0 -1  0 64196
+S
+#64198
+A Grimy Utility Plant~
+   Likely never clean nor organized during its heyday, this 
+massive area provides the dirty work for the entire building's 
+functioning. Electronics equipment lines the walls, wired in to 
+industrial-style power grids and water processing and 
+purification equipment. Pipes and thick electrical cables cover 
+the entire ceiling, hung from overhead brackets. 
+~
+64 65544 0
+0
+D1
+~
+~
+0 -1  0 64199
+S
+#64199
+A Grimy Utility Plant~
+   Likely never clean nor organized during its heyday, this 
+massive area provides the dirty work for the entire building's 
+functioning. Electronics equipment lines the walls, wired in to 
+industrial-style power grids and water processing and 
+purification equipment. Pipes and thick electrical cables cover 
+the entire ceiling, hung from overhead brackets. 
+~
+64 65544 0
+0
+D2
+~
+~
+0 -1  0 64209
+D3
+~
+~
+0 -1  0 64198
+S
+#64200
+A Gilded Lobby~
+   This lobby was built to be deliberately impressive. Tall 
+columns of simulated white marble stretch to a vaulted ceiling, 
+now dingy and stained, while tarnished metallic chandeliers 
+handing far up above, slowly turning in the breeze that wafts 
+through the door. The floor is cleared and spacious, shiny 
+dark-colored marble clicking below the feet. The entire space is 
+grimy now, dirt blown in from the doorway, moondust coating all 
+the surfaces. The odd stray bullethole mars the walls and 
+evidence of nesting appears in the corners. 
+~
+64 134283272 0
+0
+D0
+~
+~
+0 -1  0 64190
+D1
+~
+~
+0 -1  0 64201
+D2
+~
+~
+0 -1  0 64210
+D3
+~
+double-doors~
+1 -1  0 53430
+S
+#64201
+A Gilded Lobby~
+   This lobby was built to be deliberately impressive. Tall 
+columns of simulated white marble stretch to a vaulted ceiling, 
+now dingy and stained, while tarnished metallic chandeliers 
+handing far up above, slowly turning in the breeze that wafts 
+through the door. The floor is cleared and spacious, shiny 
+dark-colored marble clicking below the feet. The entire space is 
+grimy now, dirt blown in from the doorway, moondust coating all 
+the surfaces. The odd stray bullethole mars the walls and 
+evidence of nesting appears in the corners. 
+~
+64 134283272 0
+0
+D0
+~
+~
+0 -1  0 64191
+D1
+~
+~
+0 -1  0 64202
+D2
+~
+~
+0 -1  0 64211
+D3
+~
+~
+0 -1  0 64200
+S
+#64202
+A Faded Hallway~
+   Dried and faded with age and lack of mantainance, the 
+floral-print wallpaper of this hallway is now faded beyond 
+recognition of its former colors. The carpet is stained and 
+bleached to an odd orangish spectrum of hues, ornate wall 
+fixtures bolted overhead. 
+~
+64 134283272 0
+0
+D0
+~
+door~
+1 -1  0 64192
+D1
+~
+~
+0 -1  0 64203
+D3
+~
+~
+0 -1  0 64201
+S
+#64203
+A Gutted Hallway~
+   Scavengers have already hit this hallway hard - everything of 
+value stripped and hauled off long ago. Carpet nails protrude 
+near the edges of the walls, left behind when the carpet was torn 
+up for its fabric content. Much of the wallpaper has been 
+stripped off and holes have been broken into the wallboard 
+behind, dangling wires protruding as evidence that even being 
+encased within the wall was not a form of safety for what was 
+once there. Stains on the ceiling of old wear and dust are the 
+only sign that ornate light fixtures once shone down onto this 
+space. 
+~
+64 134283272 0
+0
+D0
+~
+door~
+1 -1  0 64193
+D1
+~
+~
+0 -1  0 64204
+D2
+~
+door~
+1 -1  0 64213
+D3
+~
+~
+0 -1  0 64202
+S
+#64204
+A Faded Hallway~
+   Dried and faded with age and lack of mantainance, the 
+floral-print wallpaper of this hallway is now faded beyond 
+recognition of its former colors. The carpet is stained and 
+bleached to an odd orangish spectrum of hues, ornate wall 
+fixtures bolted overhead. 
+~
+64 134283272 0
+0
+D0
+~
+door~
+1 -1  0 64194
+D1
+~
+~
+0 -1  0 64205
+D2
+~
+door~
+1 -1  0 64214
+D3
+~
+~
+0 -1  0 64203
+S
+#64205
+A Faded Hallway~
+   Dried and faded with age and lack of mantainance, the 
+floral-print wallpaper of this hallway is now faded beyond 
+recognition of its former colors. The carpet is stained and 
+bleached to an odd orangish spectrum of hues, ornate wall 
+fixtures bolted overhead. 
+~
+64 134283272 0
+0
+D0
+~
+door~
+1 -1  0 64195
+D1
+~
+~
+0 -1  0 64206
+D2
+~
+elevator-doors~
+1 -1  0 64215
+D3
+~
+~
+0 -1  0 64204
+S
+#64206
+A Gutted Hallway~
+   Scavengers have already hit this hallway hard - everything of 
+value stripped and hauled off long ago. Carpet nails protrude 
+near the edges of the walls, left behind when the carpet was torn 
+up for its fabric content. Much of the wallpaper has been 
+stripped off and holes have been broken into the wallboard 
+behind, dangling wires protruding as evidence that even being 
+encased within the wall was not a form of safety for what was 
+once there. Stains on the ceiling of old wear and dust are the 
+only sign that ornate light fixtures once shone down onto this 
+space. 
+~
+64 134283272 0
+0
+D0
+~
+glass-doors~
+1 -1  0 64196
+D1
+~
+~
+0 -1  0 64207
+D3
+~
+~
+0 -1  0 64205
+S
+#64207
+A Gutted Hallway~
+   Scavengers have already hit this hallway hard - everything of 
+value stripped and hauled off long ago. Carpet nails protrude 
+near the edges of the walls, left behind when the carpet was torn 
+up for its fabric content. Much of the wallpaper has been 
+stripped off and holes have been broken into the wallboard 
+behind, dangling wires protruding as evidence that even being 
+encased within the wall was not a form of safety for what was 
+once there. Stains on the ceiling of old wear and dust are the 
+only sign that ornate light fixtures once shone down onto this 
+space. 
+~
+64 134283272 0
+0
+D0
+~
+glass-doors~
+1 -1  0 64197
+D1
+~
+~
+0 -1  0 64208
+D2
+~
+door~
+1 -1  0 64217
+D3
+~
+~
+0 -1  0 64206
+S
+#64208
+A Gutted Hallway~
+   Scavengers have already hit this hallway hard - everything of 
+value stripped and hauled off long ago. Carpet nails protrude 
+near the edges of the walls, left behind when the carpet was torn 
+up for its fabric content. Much of the wallpaper has been 
+stripped off and holes have been broken into the wallboard 
+behind, dangling wires protruding as evidence that even being 
+encased within the wall was not a form of safety for what was 
+once there. Stains on the ceiling of old wear and dust are the 
+only sign that ornate light fixtures once shone down onto this 
+space. 
+~
+64 134283272 0
+0
+D1
+~
+door~
+1 -1  0 64209
+D3
+~
+~
+0 -1  0 64207
+S
+#64209
+A Grimy Utility Plant~
+   Likely never clean nor organized during its heyday, this 
+massive area provides the dirty work for the entire building's 
+functioning. Electronics equipment lines the walls, wired in to 
+industrial-style power grids and water processing and 
+purification equipment. Pipes and thick electrical cables cover 
+the entire ceiling, hung from overhead brackets. 
+~
+64 65544 0
+0
+D0
+~
+~
+0 -1  0 64199
+D2
+~
+~
+0 -1  0 64219
+D3
+~
+door~
+1 -1  0 64208
+S
+#64210
+A Gilded Lobby~
+   This lobby was built to be deliberately impressive. Tall 
+columns of simulated white marble stretch to a vaulted ceiling, 
+now dingy and stained, while tarnished metallic chandeliers 
+handing far up above, slowly turning in the breeze that wafts 
+through the door. The floor is cleared and spacious, shiny 
+dark-colored marble clicking below the feet. The entire space is 
+grimy now, dirt blown in from the doorway, moondust coating all 
+the surfaces. The odd stray bullethole mars the walls and 
+evidence of nesting appears in the corners. 
+~
+64 134283272 0
+0
+D0
+~
+~
+0 -1  0 64200
+D1
+~
+~
+0 -1  0 64211
+S
+#64211
+A Gilded Lobby~
+   This lobby was built to be deliberately impressive. Tall 
+columns of simulated white marble stretch to a vaulted ceiling, 
+now dingy and stained, while tarnished metallic chandeliers 
+handing far up above, slowly turning in the breeze that wafts 
+through the door. The floor is cleared and spacious, shiny 
+dark-colored marble clicking below the feet. The entire space is 
+grimy now, dirt blown in from the doorway, moondust coating all 
+the surfaces. The odd stray bullethole mars the walls and 
+evidence of nesting appears in the corners. 
+~
+64 134283272 0
+0
+D0
+~
+~
+0 -1  0 64201
+D1
+~
+door~
+1 -1  0 64212
+D3
+~
+~
+0 -1  0 64210
+S
+#64212
+A Blood-Smeared Office~
+   Once a formal office servicing the clientele of the building, 
+this space is now wildly disheveled. Cabinets of paperfilm 
+records now lie on their sides, the floor swimming in their 
+contents. What once happened here could only be described as 
+stomach-churning carnage. There is no order or reason to the 
+mess that now lies within, blood and ichors smeared and 
+splattered over all surfaces violently. 
+~
+64 327688 8
+0
+D3
+~
+door~
+1 -1  0 64211
+S
+#64213
+An Eerie Apartment~
+   Little can be discerned about the occupant of this apartment, 
+as no discerable care was put into decoration. The walls are 
+sage-green, the furniture utilitarian. This room is eerily 
+untouched by the ages. Used dishes still rest in place on the 
+tables, no wall fixtures have been damaged or torn off, and even 
+the carpet looks like it might have once been vacuumed, though 
+now covered in a century of dust. 
+~
+64 65544 9
+0
+D0
+~
+door~
+1 -1  0 64203
+S
+#64214
+A Utility Relay Room~
+   This room is filled with massive pumping equipment and 
+electrical switches, routing power that comes from conduits in 
+the eastern wall and redirecting it upwards to the floors above. 
+It is filled with dust and grime, the equipment corroded and 
+dangerous-looking. 
+~
+64 589832 0
+0
+D0
+~
+door~
+1 -1  0 64204
+S
+#64215
+A Concrete Elevator Shaft~
+   Nothing more than a breezy vertical shaft, this elevator 
+passage provides no comfort, or relief, from the empty space 
+above or the long fall to below. Magnon handrails are embedded 
+into the side wall, slick with dust and unknown dripped fluids, 
+making it a tretcherous ascent or descent to above or below. 
+~
+64 65544 0
+0
+D0
+~
+elevator-doors~
+1 -1  0 64205
+D4
+~
+~
+0 -1  0 64125
+D5
+~
+~
+0 -1  0 64099
+S
+#64216
+An Area of Heaped Pews~
+   Facing the altar to the east, this area was simple and 
+spartan, consisting of multiple rows of fauxwood mahogany pews. 
+The pews now lie disheveled, mounds of trash scattered among them 
+as all of the cabinets in the room, and likely from other rooms 
+as well, have been dumped here. 
+~
+64 65544 29
+0
+D1
+~
+~
+0 -1  0 64217
+S
+#64217
+A Ransacked Devotional Chapel~
+   This was once a quiet place of respite for the residents of 
+the building. Mahogany fauxwood paneling covers all the walls, 
+alcoves embedded with wiring for screens. Directions printed on 
+wall panels next to them explain how to use the screens to access 
+various religious content from a variety of faiths. A plain 
+altar is mounted to the floor at the front of the room, all 
+ornamentation crudely torn off, nothing left but a kneeling pad 
+before it. 
+~
+64 65544 29
+0
+D0
+~
+door~
+1 -1  0 64207
+D3
+~
+~
+0 -1  0 64216
+S
+#64218
+A Grimy Utility Plant~
+   Likely never clean nor organized during its heyday, this 
+massive area provides the dirty work for the entire building's 
+functioning. Electronics equipment lines the walls, wired in to 
+industrial-style power grids and water processing and 
+purification equipment. Pipes and thick electrical cables cover 
+the entire ceiling, hung from overhead brackets. 
+~
+64 65544 0
+0
+D1
+~
+~
+0 -1  0 64219
+S
+#64219
+A Grimy Utility Plant~
+   Likely never clean nor organized during its heyday, this 
+massive area provides the dirty work for the entire building's 
+functioning. Electronics equipment lines the walls, wired in to 
+industrial-style power grids and water processing and 
+purification equipment. Pipes and thick electrical cables cover 
+the entire ceiling, hung from overhead brackets. 
+~
+64 65544 0
+0
+D0
+~
+~
+0 -1  0 64209
+D3
+~
+~
+0 -1  0 64218
+P
+test~
+(null)~
+if oexist(6059, 69218)
+~
+P
+(null)~
+(null)~
+(null)~
+S
+#64099
+A Shattered Elevator Car in a Cavernous Mechanical Room~
+   The remains of a shattered elevator car are here, splintered 
+into wreckage after plummeting from above. Chunks of plastic and 
+metal cable have already been stripped and removed, the mess that 
+remains providing little but treachery. Magnon handrails are 
+embedded into the side wall, slick with dust and unknown dripped 
+fluids, making it a tretcherous ascent or descent to the floors 
+above. 
+~
+64 327688 11
+0
+D4
+~
+~
+0 -1  0 64215
+S
+#64300
+A Blood-Smeared Patient Room~
+   Floral print wallpaper peels from the walls, once having made 
+this space homey, now only a bit more decrepit. The reminants of 
+life lingering in bits, broken on the floor. What once happened 
+here could only be described as stomach-churning carnage. There 
+is no order or reason to the mess that now lies within, blood and 
+ichors smeared and splattered over all surfaces violently as if 
+the violently-insane were fingerpainting. 
+~
+64 65544 9
+0
+D1
+~
+door~
+1 -1  0 64301
+D2
+~
+door~
+1 -1  0 64310
+S
+#64301
+A Trashed Patient Room~
+   Floral print wallpaper peels from the walls, once having made 
+this space homey, now only a bit more decrepit. The reminants of 
+life lingering in bits, broken on the floor. Whatever it once 
+was, however, the room is now thoroughly trashed. Like asylum 
+patients have had a tantrum, everything here has been overturned, 
+smashed, dumped, and emptied. The floor is a chaotic mess of 
+goods that is difficult to discern the contents of, all the items 
+that once composed a civilized life now mingled. 
+~
+64 65536 9
+0
+D2
+~
+door~
+1 -1  0 64311
+D3
+~
+door~
+1 -1  0 64300
+S
+#64302
+A Dilapidated Operating Room~
+   Various collapsed metal-framed shelves impede the movement of anything 
+attempting to enter this room from the southern doorway. The rest of the room 
+is utterly trashed, the northern most edge of the ceiling having collapsed some 
+years ago to reveal the the heavens. Set in the centre of the room is a fixed 
+table, the padding having been stripped away long ago, the nylon restrains 
+remaining for hands and feet. 
+~
+64 65536 0
+0
+D2
+~
+door~
+1 -1  0 64312
+S
+#64303
+A Bunkered Patient Room~
+   Floral print wallpaper peels from the walls, once having made 
+this space homey, now only a bit more decrepit. The reminants of 
+life lingering in bits, broken on the floor. This room was 
+repurposed into an armed bunker meant to withstand forces that 
+the occupants had cause to fear. Furnishings and torn wall-board 
+have been stacked and wired together to provide crude cover to 
+those hiding here, storage areas hollowed out within the gun 
+nests to withstand a siege. A battle seems to have never taken 
+place, though, the occupants eventually just moving on. 
+~
+64 589832 9
+0
+D2
+~
+door~
+1 -1  0 64313
+S
+#64304
+A Overgrown Birthing Room~
+   Half operating room and half patient room, this space has 
+pleasant pastel-yellow paint with light green accents. Stencils 
+of teddy bears and baby rattles decorate the walls. The moon 
+ecology has reclaimed this space, vinelings and plant life 
+sprawling across the floor and climbing the walls, their roots 
+infesting the goods that may still lie beneath their unfurling 
+leaves. It has an unsettling feel to it, clearly implying that 
+human bodies once lay here, left forgotten or piled purposefully, 
+and left to rot. 
+~
+64 33882120 24
+0
+D2
+~
+door~
+1 -1  0 64314
+S
+#64305
+A Exploded Birthing Room~
+   Half operating room and half patient room, this space has 
+pleasant pastel-yellow paint with light green accents. Stencils 
+of teddy bears and baby rattles decorate the walls. The floor 
+here is splintered and blackened by the blast crater of a 
+military-quality grenade or incendiary device, the charred 
+evidence of once peaceful lives scattered violently outwards from 
+this central point. 
+~
+64 65544 0
+0
+D2
+~
+door~
+1 -1  0 64315
+S
+#64306
+A Blood-Smeared Operating Room~
+   White walls and bright stainless steel lights impose upon this 
+space, a stainless steel table still bolted to the center of the 
+floor. Rolling carts, cabinets, and counters surround the walls, 
+plenty of room for work. The odd piece of electronic equipment 
+still blinks, error codes and malfunctions. What once happened 
+here could only be described as stomach-churning carnage. There 
+is no order or reason to the mess that now lies within, blood and 
+ichors smeared and splattered over all surfaces violently as if 
+the violently-insane were fingerpainting. 
+~
+64 65544 24
+0
+D2
+~
+door~
+1 -1  0 64316
+S
+#64307
+A Bunkered Operating Room~
+   White walls and bright stainless steel lights impose upon this 
+space, a stainless steel table still bolted to the center of the 
+floor. Rolling carts, cabinets, and counters surround the walls, 
+plenty of room for work. The odd piece of electronic equipment 
+still blinks, error codes and malfunctions. This room was 
+repurposed into an armed bunker meant to withstand forces that 
+the occupants had cause to fear. Furnishings and torn wall-board 
+have been stacked and wired together to provide crude cover to 
+those hiding here, storage areas hollowed out within the gun 
+nests to withstand a siege. A battle seems to have never taken 
+place, though, the occupants eventually just moving on. 
+~
+64 589832 24
+0
+D2
+~
+door~
+1 -1  0 64317
+S
+#64308
+A Eeerie Medical Lab~
+   Sterile and utilitarian, this workspace is filled with large, 
+immobile equipment such as centrifuges, cabinets, and processors. 
+This room is eerily untouched by the ages. Tools still rest on 
+trays, sheets upon the beds, equipment ready for its owner to 
+return any moment. 
+~
+64 65544 24
+0
+D1
+~
+door~
+1 -1  0 64309
+D2
+~
+door~
+1 -1  0 64318
+S
+#64309
+A Spacious Utility Plant~
+   A massive generator takes up the center of the room, heavy 
+wires and cables running off of it and down through floor panels. 
+Bare steel rafters crisscross overhead, the roof arched above. 
+The walls are a utilitarian grey, stained by time. The room is 
+otherwise spartan and bare, stripped and lonely. 
+~
+64 134283272 24
+0
+D2
+~
+~
+0 -1  0 64319
+D3
+~
+door~
+1 -1  0 64308
+S
+#64310
+A Faded Hallway~
+   Dried and faded with age and lack of mantainance, this hallway 
+has seen better days. The smooth stone floors are cracked and 
+pitted, the walls stained by age and misuse. The walls were once 
+a neutral color, now perhaps closer to toupe. It is eerie and 
+empty, completely exposed. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64300
+D1
+~
+~
+0 -1  0 64311
+D2
+~
+~
+0 -1  0 64320
+S
+#64311
+A Blood-Smeared Hallway~
+   This hallway once was pristine and white, with grey polished 
+stone floors, bright light-fixtures mounted overhead. What once 
+happened here could only be described as stomach-churning 
+carnage. There is no order or reason to the mess that now lies 
+within, blood and ichors smeared and splattered over all surfaces 
+violently. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64301
+D1
+~
+~
+0 -1  0 64312
+D2
+~
+door~
+1 -1  0 64321
+D3
+~
+~
+0 -1  0 64310
+S
+#64312
+A Gutted Hallway~
+   Scavengers have already hit this hallway hard - everything of 
+value stripped and hauled off long ago. Holes pock the walls 
+where metal bumper-rails have been ripped off. Gaping holes have 
+been knocked in, looking like sores on festering skin, the 
+electronic equipment that once was embedded there now hauled 
+away. Polished stone floors remain, scratched and scarred by the 
+dragging of heavy objects, the walls some shade of off-white. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64302
+D1
+~
+~
+0 -1  0 64313
+D2
+~
+door~
+1 -1  0 64322
+D3
+~
+~
+0 -1  0 64311
+S
+#64313
+A Blood-Smeared Hallway~
+   This hallway once was pristine and white, with grey polished 
+stone floors, bright light-fixtures mounted overhead. What once 
+happened here could only be described as stomach-churning 
+carnage. There is no order or reason to the mess that now lies 
+within, blood and ichors smeared and splattered over all surfaces 
+violently. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64303
+D1
+~
+~
+0 -1  0 64314
+D2
+~
+door~
+1 -1  0 64323
+D3
+~
+~
+0 -1  0 64312
+S
+#64314
+A Bullet-Riddled Hallway~
+   This hallway once was pristine and white, with grey polished 
+stone floors, bright light-fixtures mounted overhead. Now it is 
+marred by the evidence of past violence. Hundreds of bullet 
+holes pock the walls, leaving a mess for those who come after. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64304
+D1
+~
+~
+0 -1  0 64315
+D2
+~
+door~
+1 -1  0 64324
+D3
+~
+~
+0 -1  0 64313
+S
+#64315
+A Blood-Smeared Hallway~
+   This hallway once was pristine and white, with grey polished 
+stone floors, bright light-fixtures mounted overhead. What once 
+happened here could only be described as stomach-churning 
+carnage. There is no order or reason to the mess that now lies 
+within, blood and ichors smeared and splattered over all surfaces 
+violently. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64305
+D1
+~
+~
+0 -1  0 64316
+D2
+~
+door~
+1 -1  0 64325
+D3
+~
+~
+0 -1  0 64314
+S
+#64316
+A Gutted Hallway~
+   Scavengers have already hit this hallway hard - everything of 
+value stripped and hauled off long ago. Holes pock the walls 
+where metal bumper-rails have been ripped off. Gaping holes have 
+been knocked in, looking like sores on festering skin, the 
+electronic equipment that once was embedded there now hauled 
+away. Polished stone floors remain, scratched and scarred by the 
+dragging of heavy objects, the walls some shade of off-white. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64306
+D1
+~
+~
+0 -1  0 64317
+D2
+~
+door~
+1 -1  0 64326
+D3
+~
+~
+0 -1  0 64315
+S
+#64317
+A Bullet-Riddled Hallway~
+   This hallway once was pristine and white, with grey polished 
+stone floors, bright light-fixtures mounted overhead. Now it is 
+marred by the evidence of past violence. Hundreds of bullet 
+holes pock the walls, leaving a mess for those who come after. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64307
+D1
+~
+~
+0 -1  0 64318
+D2
+~
+door~
+1 -1  0 64327
+D3
+~
+~
+0 -1  0 64316
+H5
+~
+hatch~
+1 -1  0 64367
+Q5
+1
+A hatch is embedded in the floor, designed to blend in.
+~
+S
+#64318
+A Blood-Smeared Hallway~
+   This hallway once was pristine and white, with grey polished 
+stone floors, bright light-fixtures mounted overhead. What once 
+happened here could only be described as stomach-churning 
+carnage. There is no order or reason to the mess that now lies 
+within, blood and ichors smeared and splattered over all surfaces 
+violently. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64308
+D1
+~
+door~
+1 -1  0 64319
+D2
+~
+door~
+1 -1  0 64328
+D3
+~
+~
+0 -1  0 64317
+S
+#64319
+A Cramped Power Plant~
+   This is the center of a utility plant, spacious, with open 
+steel-beam rafters arching overhead. Tape marks out squares on 
+the floor where equipment has been ripped up and removed. The 
+floor is bare and empty, covered by dust and drifted grime. The 
+walls are painted a utilitarian grey, stained by time. 
+~
+64 134283264 0
+0
+D0
+~
+~
+0 -1  0 64309
+D2
+~
+~
+0 -1  0 64329
+D3
+~
+door~
+1 -1  0 64318
+S
+#64320
+A Compact Nurses Station~
+   The hallway runs past a nurse's station here, counters 
+surrounding it at waist height, desks, medical supplies, and 
+computer equipment all organized within. Wires dangle from one 
+wall where monitor screens have been torn free, another wall 
+covered in a white-writable surface, letters discussing the 
+current status of long-deceased patients still faintly 
+discernible. 
+~
+64 65544 8
+0
+D0
+~
+~
+0 -1  0 64310
+D1
+~
+door~
+1 -1  0 64321
+D2
+~
+~
+0 -1  0 64330
+S
+#64321
+A Overgrown Patient Room~
+   Floral print wallpaper peels from the walls, once having made 
+this space homey, now only a bit more decrepit. The reminants of 
+life lingering in bits, broken on the floor. The moon ecology 
+has reclaimed this space, vinelings and plant life sprawling 
+across the floor and climbing the walls, their roots infesting 
+the goods that may still lie beneath their unfurling leaves. It 
+has an unsettling feel to it, clearly implying that human bodies 
+once lay here, left forgotten or piled purposefully, and left to 
+rot. 
+~
+64 33619976 9
+0
+D0
+~
+door~
+1 -1  0 64311
+D3
+~
+door~
+1 -1  0 64320
+S
+#64322
+A Overgrown Patient Room~
+   Floral print wallpaper peels from the walls, once having made 
+this space homey, now only a bit more decrepit. The reminants of 
+life lingering in bits, broken on the floor. The moon ecology 
+has reclaimed this space, vinelings and plant life sprawling 
+across the floor and climbing the walls, their roots infesting 
+the goods that may still lie beneath their unfurling leaves. It 
+has an unsettling feel to it, clearly implying that human bodies 
+once lay here, left forgotten or piled purposefully, and left to 
+rot. 
+~
+64 33619976 9
+0
+D0
+~
+door~
+1 -1  0 64312
+S
+#64323
+A Bullet-Riddled Patient Room~
+   Floral print wallpaper peels from the walls, once having made 
+this space homey, now only a bit more decrepit. The reminants of 
+life lingering in bits, broken on the floor. This otherwise 
+peaceful room is marred by the evidence of past violence. 
+Hundreds of bullet holes pock the walls, concentrated on the 
+surfaces facing the front door. The goods within were riddled 
+and exploded as well, leaving a mess for those who come after. 
+~
+64 65544 9
+0
+D0
+~
+door~
+1 -1  0 64313
+S
+#64324
+A Trashed Birthing Room~
+   Half operating room and half patient room, this space has 
+pleasant pastel-yellow paint with light green accents. Stencils 
+of teddy bears and baby rattles decorate the walls. Whatever it 
+once was, however, the room is now thoroughly trashed. Like 
+asylum patients have had a tantrum, everything here has been 
+overturned, smashed, dumped, and emptied. The floor is a chaotic 
+mess of goods that is difficult to discern the contents of, all 
+the items that once composed a civilized life now mingled. 
+~
+64 327688 24
+0
+D0
+~
+door~
+1 -1  0 64314
+S
+#64325
+An Eerie Birthing Room~
+   Half operating room and half patient room, this space has 
+pleasant pastel-yellow paint with light green accents. Stencils 
+of teddy bears and baby rattles decorate the walls. This room is 
+eerily untouched by the ages. Tools still rest on trays, sheets 
+upon the beds, equipment ready for its owner to return any 
+moment. 
+~
+64 65544 24
+0
+D0
+~
+door~
+1 -1  0 64315
+S
+#64326
+A Blood-Smeared Operating Room~
+   White walls and bright stainless steel lights impose upon this 
+space, a stainless steel table still bolted to the center of the 
+floor. Rolling carts, cabinets, and counters surround the walls, 
+plenty of room for work. The odd piece of electronic equipment 
+still blinks, error codes and malfunctions. What once happened 
+here could only be described as stomach-churning carnage. There 
+is no order or reason to the mess that now lies within, blood and 
+ichors smeared and splattered over all surfaces violently as if 
+the violently-insane were fingerpainting. 
+~
+64 65544 24
+0
+D0
+~
+door~
+1 -1  0 64316
+S
+#64327
+A Exploded Operating Room~
+   White walls and bright stainless steel lights impose upon this 
+space, a stainless steel table still bolted to the center of the 
+floor. Rolling carts, cabinets, and counters surround the walls, 
+plenty of room for work. The odd piece of electronic equipment 
+still blinks, error codes and malfunctions. The floor here is 
+splintered and blackened by the blast crater of a 
+military-quality grenade or incendiary device, the charred 
+evidence of once peaceful lives scattered violently outwards from 
+this central point. 
+~
+64 65544 24
+0
+D0
+~
+door~
+1 -1  0 64317
+S
+#64328
+A Bunkered Medical Lab~
+   Sterile and utilitarian, this workspace is filled with large, 
+immobile equipment such as centrifuges, cabinets, and processors. 
+This room was repurposed into an armed bunker meant to withstand 
+forces that the occupants had cause to fear. Furnishings and 
+torn wall-board have been stacked and wired together to provide 
+crude cover to those hiding here, storage areas hollowed out 
+within the gun nests to withstand a siege. A battle seems to 
+have never taken place, though, the occupants eventually just 
+moving on. 
+~
+64 589824 24
+0
+D0
+~
+door~
+1 -1  0 64318
+D1
+~
+door~
+1 -1  0 64329
+S
+#64329
+A Spacious Utility Plant~
+   A massive water plant takes up the center of the room, heavy 
+pipes and drains running off of it and down through floor panels. 
+Bare steel rafters crisscross overhead, the roof arched above. 
+The walls are a utilitarian grey, stained by time. The room is 
+otherwise spartan and bare, stripped and lonely. 
+~
+64 134283264 0
+0
+D0
+~
+~
+0 -1  0 64319
+D3
+~
+door~
+1 -1  0 64328
+S
+#64330
+A High-Cielinged Lobby~
+   The ceiling here is high and vaulted, skylights above allowing 
+this area to be constantly bright and cheerful. The skylights 
+are now shattered and broken, rain-spattered thin layers of mud 
+caked upon the polished stone floor. A long mahogany-colored 
+desk frames a welcome center near one side, with directional 
+arrows pointing to #6NORTH WING#0 and #6SOUTH WING#0 
+respectively. 
+~
+64 65536 11
+0
+D0
+~
+~
+0 -1  0 64320
+D2
+~
+~
+0 -1  0 64340
+D3
+~
+broken-glass-doors~
+3 -1  0 53566
+S
+#64331
+An Executive Suite~
+   Faux-mahogany covers the walls here, a sitting area separated 
+from a desk by a set of glass doors. Shelves line the walls, 
+prepared to hold knicknacks and awards, drawers beneath for 
+office supplies. An immensely-heavy desk rests in the office 
+portion, imposing to those who stand before it. This room is 
+eerily untouched by the ages, equipment ready for its owner to 
+return any moment. 
+~
+64 327688 8
+0
+D2
+~
+door~
+1 -1  0 64341
+D3
+~
+door~
+1 -1  0 64330
+S
+#64332
+A Bullet-Riddled Patient Room~
+   Floral print wallpaper peels from the walls, once having made 
+this space homey, now only a bit more decrepit. The reminants of 
+life lingering in bits, broken on the floor. This otherwise 
+peaceful room is marred by the evidence of past violence. 
+Hundreds of bullet holes pock the walls, concentrated on the 
+surfaces facing the front door. The goods within were riddled 
+and exploded as well, leaving a mess for those who come after. 
+~
+64 65544 9
+0
+D2
+~
+door~
+1 -1  0 64342
+S
+#64333
+A Yeasted Patient Room~
+   Floral print wallpaper peels from the walls, once having made 
+this space homey, now only a bit more decrepit. The reminants of 
+life lingering in bits, broken on the floor. The walls here are 
+stained and textured by uncontrolled yeast-growth, the spores 
+heavy on the air. What once was a hospital food cart is now 
+corroded to the floor and appears the center of the bread-like 
+explosion, untended baked goods likely left therein ages ago. 
+~
+64 33619976 9
+0
+D2
+~
+door~
+1 -1  0 64343
+S
+#64334
+A Overgrown Birthing Room~
+   Half operating room and half patient room, this space has 
+pleasant pastel-yellow paint with light green accents. Stencils 
+of teddy bears and baby rattles decorate the walls. The moon 
+ecology has reclaimed this space, vinelings and plant life 
+sprawling across the floor and climbing the walls, their roots 
+infesting the goods that may still lie beneath their unfurling 
+leaves. It has an unsettling feel to it, clearly implying that 
+human bodies once lay here, left forgotten or piled purposefully, 
+and left to rot. 
+~
+64 33619976 24
+0
+D2
+~
+door~
+1 -1  0 64344
+S
+#64335
+A Bunkered Birthing Room~
+   Half operating room and half patient room, this space has 
+pleasant pastel-yellow paint with light green accents. Stencils 
+of teddy bears and baby rattles decorate the walls. This room 
+was repurposed into an armed bunker meant to withstand forces 
+that the occupants had cause to fear. Furnishings and torn 
+wall-board have been stacked and wired together to provide crude 
+cover to those hiding here, storage areas hollowed out within the 
+gun nests to withstand a siege. A battle seems to have never 
+taken place, though, the occupants eventually just moving on. 
+~
+64 589832 24
+0
+D2
+~
+door~
+1 -1  0 64345
+S
+#64336
+A Bunkered Operating Room~
+   White walls and bright stainless steel lights impose upon this 
+space, a stainless steel table still bolted to the center of the 
+floor. Rolling carts, cabinets, and counters surround the walls, 
+plenty of room for work. The odd piece of electronic equipment 
+still blinks, error codes and malfunctions. This room was 
+repurposed into an armed bunker meant to withstand forces that 
+the occupants had cause to fear. Furnishings and torn wall-board 
+have been stacked and wired together to provide crude cover to 
+those hiding here, storage areas hollowed out within the gun 
+nests to withstand a siege. It appears their worst fears were 
+realized as well - bullet holes mar all surfaces of this space 
+and dried brown bloodstains pool behind the barricades, smears on 
+the floor where bodies were long ago dragged and none cared to 
+clean afterward, the occupants all disposed of. 
+~
+64 589832 24
+0
+D2
+~
+door~
+1 -1  0 64346
+S
+#64337
+A Bullet-Riddled Operating Room~
+   White walls and bright stainless steel lights impose upon this 
+space, a stainless steel table still bolted to the center of the 
+floor. Rolling carts, cabinets, and counters surround the walls, 
+plenty of room for work. The odd piece of electronic equipment 
+still blinks, error codes and malfunctions. This otherwise 
+peaceful room is marred by the evidence of past violence. 
+Hundreds of bullet holes pock the walls, concentrated on the 
+surfaces facing the front door. The goods within were riddled 
+and exploded as well, leaving a mess for those who come after. 
+~
+64 65544 24
+0
+D2
+~
+door~
+1 -1  0 64347
+S
+#64338
+A Heaped Medical Lab~
+   Sterile and utilitarian, this workspace is filled with large, 
+immobile equipment such as centrifuges, cabinets, and processors. 
+This space has been re-used as a dumping ground for the cast-offs 
+of other spaces since it fulfilled its original purpose. 
+Torn-out appliances, electronics, bedding, clothes, and more are 
+piled in massive moldering heaps upon the floor making it more of 
+a climb to move about than a walk of any sort. 
+~
+64 589832 24
+0
+D1
+~
+door~
+1 -1  0 64339
+D2
+~
+door~
+1 -1  0 64348
+S
+#64339
+A Utility Workshop~
+   This is the north end of a utility workshop, spacious, with 
+open steel-beam rafters arching overhead. Large pieces of 
+equipment rest in marked-out squares on the floor, pieces 
+stripped from them over time. Cabinets line the walls, still 
+stuffed with various goods, this space the mechanical repair shop 
+for the equipment of the hospital. This space has been re-used 
+as a dumping ground for the cast-offs of other spaces since it 
+fulfilled its original purpose. Torn-out appliances, 
+electronics, bedding, clothes, and more are piled in massive 
+moldering heaps upon the floor making it more of a climb to move 
+about than a walk of any sort. 
+~
+64 589824 7
+0
+D2
+~
+~
+0 -1  0 64349
+D3
+~
+door~
+1 -1  0 64338
+S
+#64340
+A Blood-Smeared Hallway~
+   This hallway once was pristine and white, with grey polished 
+stone floors, bright light-fixtures mounted overhead. What once 
+happened here could only be described as stomach-churning 
+carnage. There is no order or reason to the mess that now lies 
+within, blood and ichors smeared and splattered over all surfaces 
+violently. 
+~
+64 65544 11
+0
+D0
+~
+~
+0 -1  0 64330
+D1
+~
+~
+0 -1  0 64341
+D2
+~
+door~
+1 -1  0 64350
+S
+#64341
+A Faded Hallway~
+   Dried and faded with age and lack of mantainance, this hallway 
+has seen better days. The smooth stone floors are cracked and 
+pitted, the walls stained by age and misuse. The walls were once 
+a neutral color, now perhaps closer to toupe. It is eerie and 
+empty, completely exposed. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64331
+D1
+~
+~
+0 -1  0 64342
+D2
+~
+door~
+1 -1  0 64351
+D3
+~
+~
+0 -1  0 64340
+S
+#64342
+A Gutted Hallway~
+   Scavengers have already hit this hallway hard - everything of 
+value stripped and hauled off long ago. Holes pock the walls 
+where metal bumper-rails have been ripped off. Gaping holes have 
+been knocked in, looking like sores on festering skin, the 
+electronic equipment that once was embedded there now hauled 
+away. Polished stone floors remain, scratched and scarred by the 
+dragging of heavy objects, the walls some shade of off-white. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64332
+D1
+~
+~
+0 -1  0 64343
+D2
+~
+door~
+1 -1  0 64352
+D3
+~
+~
+0 -1  0 64341
+S
+#64343
+A Blood-Smeared Hallway~
+   This hallway once was pristine and white, with grey polished 
+stone floors, bright light-fixtures mounted overhead. What once 
+happened here could only be described as stomach-churning 
+carnage. There is no order or reason to the mess that now lies 
+within, blood and ichors smeared and splattered over all surfaces 
+violently. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64333
+D1
+~
+~
+0 -1  0 64344
+D2
+~
+door~
+1 -1  0 64353
+D3
+~
+~
+0 -1  0 64342
+S
+#64344
+A Blood-Smeared Hallway~
+   This hallway once was pristine and white, with grey polished 
+stone floors, bright light-fixtures mounted overhead. What once 
+happened here could only be described as stomach-churning 
+carnage. There is no order or reason to the mess that now lies 
+within, blood and ichors smeared and splattered over all surfaces 
+violently. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64334
+D1
+~
+~
+0 -1  0 64345
+D2
+~
+door~
+1 -1  0 64354
+D3
+~
+~
+0 -1  0 64343
+S
+#64345
+A Blood-Smeared Hallway~
+   This hallway once was pristine and white, with grey polished 
+stone floors, bright light-fixtures mounted overhead. What once 
+happened here could only be described as stomach-churning 
+carnage. There is no order or reason to the mess that now lies 
+within, blood and ichors smeared and splattered over all surfaces 
+violently. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64335
+D1
+~
+~
+0 -1  0 64346
+D2
+~
+door~
+1 -1  0 64355
+D3
+~
+~
+0 -1  0 64344
+S
+#64346
+A Faded Hallway~
+   Dried and faded with age and lack of mantainance, this hallway 
+has seen better days. The smooth stone floors are cracked and 
+pitted, the walls stained by age and misuse. The walls were once 
+a neutral color, now perhaps closer to toupe. It is eerie and 
+empty, completely exposed. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64336
+D1
+~
+~
+0 -1  0 64347
+D2
+~
+door~
+1 -1  0 64356
+D3
+~
+~
+0 -1  0 64345
+S
+#64347
+A Blood-Smeared Hallway~
+   This hallway once was pristine and white, with grey polished 
+stone floors, bright light-fixtures mounted overhead. What once 
+happened here could only be described as stomach-churning 
+carnage. There is no order or reason to the mess that now lies 
+within, blood and ichors smeared and splattered over all surfaces 
+violently. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64337
+D1
+~
+~
+0 -1  0 64348
+D2
+~
+door~
+1 -1  0 64357
+D3
+~
+~
+0 -1  0 64346
+H5
+~
+hatch~
+1 -1  0 64387
+Q5
+1
+A hatch is embedded in the floor, designed to blend in.
+~
+S
+#64348
+A Blood-Smeared Hallway~
+   This hallway once was pristine and white, with grey polished 
+stone floors, bright light-fixtures mounted overhead. What once 
+happened here could only be described as stomach-churning 
+carnage. There is no order or reason to the mess that now lies 
+within, blood and ichors smeared and splattered over all surfaces 
+violently. 
+~
+64 65544 11
+0
+D0
+~
+door~
+1 -1  0 64338
+D1
+~
+door~
+1 -1  0 64349
+D2
+~
+door~
+1 -1  0 64358
+D3
+~
+~
+0 -1  0 64347
+S
+#64349
+A Utility Workshop~
+   This is the center of a utility workshop, spacious, with open 
+steel-beam rafters arching overhead. Large pieces of equipment 
+rest in marked-out squares on the floor, pieces stripped from 
+them over time. Cabinets line the walls, still stuffed with 
+various goods, this space the mechanical repair shop for the 
+equipment of the hospital. Wide isleways lead the the spaces at 
+either ends. A massive computer terminal and laser welders, 
+broken and stripped, takes up the center of the area. This room 
+was repurposed into an armed bunker meant to withstand forces 
+that the occupants had cause to fear. Furnishings and torn 
+wall-board have been stacked and wired together to provide crude 
+cover to those hiding here, storage areas hollowed out within the 
+gun nests to withstand a siege. A battle seems to have never 
+taken place, though, the occupants eventually just moving on. 
+~
+64 327680 7
+0
+D0
+~
+~
+0 -1  0 64339
+D2
+~
+~
+0 -1  0 64359
+D3
+~
+door~
+1 -1  0 64348
+S
+#64350
+A Quarantined Patient Room~
+   Floral print wallpaper peels from the walls, once having made 
+this space homey, now only a bit more decrepit. The reminants of 
+life lingering in bits, broken on the floor. It appears this 
+room was repurposed during the plague into a quarantine center 
+for treating those afflicted. Plastic sheeting drapes from the 
+ceiling, sealed in place with thick tape. Stains on the floor 
+show not all was sanitary, though it is difficult to tell what 
+bodily fluids may have oozed there so long ago. A large red "X" 
+has been painted on all the doors as a warning, the room still 
+containing a rank, rotten smell. 
+~
+64 65544 24
+0
+D0
+~
+door~
+1 -1  0 64340
+D1
+~
+door~
+1 -1  0 64351
+S
+#64351
+A Quarantined Patient Room~
+   Floral print wallpaper peels from the walls, once having made 
+this space homey, now only a bit more decrepit. The reminants of 
+life lingering in bits, broken on the floor. It appears this 
+room was repurposed during the plague into a quarantine center 
+for treating those afflicted. Plastic sheeting drapes from the 
+ceiling, sealed in place with thick tape. Stains on the floor 
+show not all was sanitary, though it is difficult to tell what 
+bodily fluids may have oozed there so long ago. A large red "X" 
+has been painted on all the doors as a warning, the room still 
+containing a rank, rotten smell. 
+~
+64 65544 24
+0
+D0
+~
+door~
+1 -1  0 64341
+D3
+~
+door~
+1 -1  0 64350
+S
+#64352
+A Heaped Patient Room~
+   Floral print wallpaper peels from the walls, once having made 
+this space homey, now only a bit more decrepit. The reminants of 
+life lingering in bits, broken on the floor. This space has been 
+re-used as a dumping ground for the cast-offs of other spaces 
+since it fulfilled its original purpose. Torn-out appliances, 
+electronics, bedding, clothes, and more are piled in massive 
+moldering heaps upon the floor making it more of a climb to move 
+about than a walk of any sort. 
+~
+64 327688 9
+0
+D0
+~
+door~
+1 -1  0 64342
+S
+#64353
+A Bunkered Patient Room~
+   Floral print wallpaper peels from the walls, once having made 
+this space homey, now only a bit more decrepit. The reminants of 
+life lingering in bits, broken on the floor. This room was 
+repurposed into an armed bunker meant to withstand forces that 
+the occupants had cause to fear. Furnishings and torn wall-board 
+have been stacked and wired together to provide crude cover to 
+those hiding here, storage areas hollowed out within the gun 
+nests to withstand a siege. A battle seems to have never taken 
+place, though, the occupants eventually just moving on. 
+~
+64 589832 9
+0
+D0
+~
+door~
+1 -1  0 64343
+S
+#64354
+A Yeasted Birthing Room~
+   Half operating room and half patient room, this space has 
+pleasant pastel-yellow paint with light green accents. Stencils 
+of teddy bears and baby rattles decorate the walls. The walls 
+here are stained and textured by uncontrolled yeast-growth, the 
+spores heavy on the air. What once was a hospital food cart is 
+now corroded to the floor and appears the center of the 
+bread-like explosion, untended baked goods likely left therein 
+ages ago. 
+~
+64 33619976 24
+0
+D0
+~
+door~
+1 -1  0 64344
+S
+#64355
+A Heaped Birthing Room~
+   Half operating room and half patient room, this space has 
+pleasant pastel-yellow paint with light green accents. Stencils 
+of teddy bears and baby rattles decorate the walls. This space 
+has been re-used as a dumping ground for the cast-offs of other 
+spaces since it fulfilled its original purpose. Torn-out 
+appliances, electronics, bedding, clothes, and more are piled in 
+massive moldering heaps upon the floor making it more of a climb 
+to move about than a walk of any sort. 
+~
+64 327688 24
+0
+D0
+~
+door~
+1 -1  0 64345
+S
+#64356
+A Heaped Operating Room~
+   White walls and bright stainless steel lights impose upon this 
+space, a stainless steel table still bolted to the center of the 
+floor. Rolling carts, cabinets, and counters surround the walls, 
+plenty of room for work. The odd piece of electronic equipment 
+still blinks, error codes and malfunctions. This space has been 
+re-used as a dumping ground for the cast-offs of other spaces 
+since it fulfilled its original purpose. Torn-out appliances, 
+electronics, bedding, clothes, and more are piled in massive 
+moldering heaps upon the floor making it more of a climb to move 
+about than a walk of any sort. 
+~
+64 589832 24
+0
+D0
+~
+door~
+1 -1  0 64346
+S
+#64357
+A Bunkered Operating Room~
+   White walls and bright stainless steel lights impose upon this 
+space, a stainless steel table still bolted to the center of the 
+floor. Rolling carts, cabinets, and counters surround the walls, 
+plenty of room for work. The odd piece of electronic equipment 
+still blinks, error codes and malfunctions. This room was 
+repurposed into an armed bunker meant to withstand forces that 
+the occupants had cause to fear. Furnishings and torn wall-board 
+have been stacked and wired together to provide crude cover to 
+those hiding here, storage areas hollowed out within the gun 
+nests to withstand a siege. It appears their worst fears were 
+realized as well - bullet holes mar all surfaces of this space 
+and dried brown bloodstains pool behind the barricades, smears on 
+the floor where bodies were long ago dragged and none cared to 
+clean afterward, the occupants all disposed of. 
+~
+64 589832 24
+0
+D0
+~
+door~
+1 -1  0 64347
+S
+#64358
+A Overgrown Medical Lab~
+   Sterile and utilitarian, this workspace is filled with large, 
+immobile equipment such as centrifuges, cabinets, and processors. 
+The moon ecology has reclaimed this space, vinelings and plant 
+life sprawling across the floor and climbing the walls, their 
+roots infesting the goods that may still lie beneath their 
+unfurling leaves. It has an unsettling feel to it, clearly 
+implying that human bodies once lay here, left forgotten or piled 
+purposefully, and left to rot. 
+~
+64 33619976 24
+0
+D0
+~
+door~
+1 -1  0 64348
+D1
+~
+door~
+1 -1  0 64359
+S
+#64359
+A Utility Workshop~
+   This is the south end of a utility workshop, spacious, with 
+open steel-beam rafters arching overhead. Large pieces of 
+equipment rest in marked-out squares on the floor, pieces 
+stripped from them over time. Cabinets line the walls, still 
+stuffed with various goods, this space the mechanical repair shop 
+for the equipment of the hospital. Steel tables are bolted to 
+the floor, workspaces arranged in each corner. Whatever it once 
+was, however, the room is not thoroughly trashed. Whether 
+scavengers or soldiers performing a sweep and clear, everything 
+here has been overturned, smashed, dumped, and emptied. The 
+floor is a chaotic mess of goods that is difficult to discern the 
+contents of, all the items that once composed a civilized life 
+now mingled. 
+~
+64 327680 7
+0
+D0
+~
+~
+0 -1  0 64349
+D3
+~
+door~
+1 -1  0 64358
+S
+#64360
+A Gore-Splattered Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. The walls and floor here 
+are splattered with chunks of gore, disturbingly human. It looks 
+like it was torn apart by a feral creature with little concern 
+for waste or food, the bits just strewn about. 
+~
+64 65544 28
+0
+D1
+~
+~
+0 -1  0 64361
+D2
+~
+~
+0 -1  0 64371
+S
+#64370
+A Slimed Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. The walls here are covered 
+by an oozy slime of unknown origin, slick to the touch and 
+unpleasant with a greenish color. 
+~
+64 65544 28
+0
+D0
+~
+~
+0 -1  0 64371
+D2
+~
+~
+0 -1  0 64380
+S
+#64380
+A Overgrown Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. The moon ecology has 
+reclaimed this space, vinelings and plant life sprawling across 
+the floor and climbing the walls, their roots infesting the goods 
+that may still lie beneath their unfurling leaves. It has an 
+unsettling feel to it, clearly implying that human bodies once 
+lay here, left forgotten or piled purposefully, and left to rot. 
+~
+64 65544 28
+0
+D0
+~
+~
+0 -1  0 64370
+D1
+~
+~
+0 -1  0 64381
+S
+#64361
+A Fouled Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. This space is mounded with 
+feces and puddled with urine, both splashed and splattered about 
+with little concern. 
+~
+64 65544 28
+0
+D1
+~
+~
+0 -1  0 64362
+D3
+~
+~
+0 -1  0 64360
+S
+#64381
+A Overgrown Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. The moon ecology has 
+reclaimed this space, vinelings and plant life sprawling across 
+the floor and climbing the walls, their roots infesting the goods 
+that may still lie beneath their unfurling leaves. It has an 
+unsettling feel to it, clearly implying that human bodies once 
+lay here, left forgotten or piled purposefully, and left to rot. 
+~
+64 65544 28
+0
+D1
+~
+~
+0 -1  0 64382
+D3
+~
+~
+0 -1  0 64380
+S
+#64362
+A Gore-Splattered Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. The walls and floor here 
+are splattered with chunks of gore, disturbingly human. It looks 
+like it was torn apart by a feral creature with little concern 
+for waste or food, the bits just strewn about. 
+~
+64 65544 28
+0
+D1
+~
+~
+0 -1  0 64363
+D3
+~
+~
+0 -1  0 64361
+S
+#64382
+A Gore-Splattered Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. The walls and floor here 
+are splattered with chunks of gore, disturbingly human. It looks 
+like it was torn apart by a feral creature with little concern 
+for waste or food, the bits just strewn about. 
+~
+64 65544 28
+0
+D1
+~
+~
+0 -1  0 64383
+D3
+~
+~
+0 -1  0 64381
+S
+#64363
+A Fouled Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. This space is mounded with 
+feces and puddled with urine, both splashed and splattered about 
+with little concern. 
+~
+64 65544 28
+0
+D1
+~
+~
+0 -1  0 64364
+D3
+~
+~
+0 -1  0 64362
+S
+#64383
+A Overgrown Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. The moon ecology has 
+reclaimed this space, vinelings and plant life sprawling across 
+the floor and climbing the walls, their roots infesting the goods 
+that may still lie beneath their unfurling leaves. It has an 
+unsettling feel to it, clearly implying that human bodies once 
+lay here, left forgotten or piled purposefully, and left to rot. 
+~
+64 65544 28
+0
+D1
+~
+~
+0 -1  0 64384
+D3
+~
+~
+0 -1  0 64382
+S
+#64364
+A Slimed Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. The walls here are covered 
+by an oozy slime of unknown origin, slick to the touch and 
+unpleasant with a greenish color. 
+~
+64 65544 28
+0
+D1
+~
+~
+0 -1  0 64365
+D3
+~
+~
+0 -1  0 64363
+S
+#64384
+A Fouled Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. This space is mounded with 
+feces and puddled with urine, both splashed and splattered about 
+with little concern. 
+~
+64 65544 28
+0
+D1
+~
+~
+0 -1  0 64385
+D3
+~
+~
+0 -1  0 64383
+S
+#64365
+A Blood-Painted Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. The walls here are smeared 
+in layer upon layer of dried blood, now a discordant array of 
+browns and russets. It is almost mesmerizingly artistic, as if 
+this were an artistic endeavor by an intelligent, perhaps insane, 
+mind. 
+~
+64 65544 28
+0
+D1
+~
+~
+0 -1  0 64366
+D2
+~
+~
+0 -1  0 64373
+D3
+~
+~
+0 -1  0 64364
+S
+#64385
+A Gore-Splattered Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. The walls and floor here 
+are splattered with chunks of gore, disturbingly human. It looks 
+like it was torn apart by a feral creature with little concern 
+for waste or food, the bits just strewn about. 
+~
+64 65544 28
+0
+D0
+~
+~
+0 -1  0 64372
+D1
+~
+~
+0 -1  0 64386
+D3
+~
+~
+0 -1  0 64384
+S
+#64366
+A Slimed Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. The walls here are covered 
+by an oozy slime of unknown origin, slick to the touch and 
+unpleasant with a greenish color. 
+~
+64 65544 28
+0
+D1
+~
+~
+0 -1  0 64367
+D3
+~
+~
+0 -1  0 64365
+S
+#64386
+A Slimed Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. The walls here are covered 
+by an oozy slime of unknown origin, slick to the touch and 
+unpleasant with a greenish color. 
+~
+64 65544 28
+0
+D1
+~
+~
+0 -1  0 64387
+D3
+~
+~
+0 -1  0 64385
+S
+#64367
+A Fouled Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. This space is mounded with 
+feces and puddled with urine, both splashed and splattered about 
+with little concern. 
+~
+64 65544 28
+0
+D1
+~
+~
+0 -1  0 64368
+D3
+~
+~
+0 -1  0 64366
+D4
+~
+hatch~
+1 -1  0 64317
+S
+#64387
+A Eeerie Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. This space is noticably 
+colder than the tunnel around it, with an eerie feeling that 
+makes the hairs stand up on the neck. 
+~
+64 65544 28
+0
+D1
+~
+~
+0 -1  0 64388
+D3
+~
+~
+0 -1  0 64386
+D4
+~
+hatch~
+1 -1  0 64347
+S
+#64368
+A Eeerie Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. This space is noticably 
+colder than the tunnel around it, with an eerie feeling that 
+makes the hairs stand up on the neck. 
+~
+64 65544 28
+0
+D1
+~
+~
+0 -1  0 64369
+D3
+~
+~
+0 -1  0 64367
+S
+#64388
+A Fouled Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. This space is mounded with 
+feces and puddled with urine, both splashed and splattered about 
+with little concern. 
+~
+64 65544 28
+0
+D1
+~
+~
+0 -1  0 64389
+D3
+~
+~
+0 -1  0 64387
+S
+#64369
+A Gore-Splattered Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. The walls and floor here 
+are splattered with chunks of gore, disturbingly human. It looks 
+like it was torn apart by a feral creature with little concern 
+for waste or food, the bits just strewn about. 
+~
+64 65544 28
+0
+D3
+~
+~
+0 -1  0 64368
+S
+#64389
+A Blood-Painted Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. The walls here are smeared 
+in layer upon layer of dried blood, now a discordant array of 
+browns and russets. It is almost mesmerizingly artistic, as if 
+this were an artistic endeavor by an intelligent, perhaps insane, 
+mind. 
+~
+64 65544 28
+0
+D3
+~
+~
+0 -1  0 64388
+S
+#64371
+A Slimed Tunnel~
+   Plain, utilitarian concrete walls run both directions here, 
+low-headroom providing a challenge, but making it easy to reach 
+and repair the wires and pipes. Pipes and wires run along the 
+top of the tunnel, thick and cluttered, passing up through panels 
+to the rooms above on either side. Lights are mounted on the 
+walls on either side, providing illumination downward for foot 
+traffic and upwards for maintenance. The walls here are covered 
+by an oozy slime of unknown origin, slick to the touch and 
+unpleasant with a greenish color. 
+~
+64 65544 28
+0
+D0
+~
+~
+0 -1  0 64360
+D2
+~
+~
+0 -1  0 64370
+S
+#64372
+A Narrow Crawlspace~
+   This crawlspace is only half as tall as the adjacent tunnels, 
+the bottom area enclosed with symbols marking it and the 
+equipment within. Metal walls enclose the four-foot space, 
+rattling and banging with every movement. 
+~
+64 65576 0
+0
+D0
+~
+~
+0 -1  0 64373
+D2
+~
+~
+0 -1  0 64385
+S
+#64373
+A Narrow Crawlspace~
+   This crawlspace is only half as tall as the adjacent tunnels, 
+the bottom area enclosed with symbols marking it and the 
+equipment within. Metal walls enclose the four-foot space, 
+rattling and banging with every movement. 
+~
+64 65576 0
+0
+D0
+~
+~
+0 -1  0 64365
+D2
+~
+~
+0 -1  0 64372
+S
 $~

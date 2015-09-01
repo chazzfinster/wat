@@ -1,1 +1,3568 @@
+#31000
+Baseroom for the PRE-BETA RPT Zone~
+This is the starting room of the RPT, I suppose. Dunno if I should
+link it with the first room of the RPT or not, but whatever.
+~
+31 65536 0
+0
+S
+#31001
+A Barren Holding Bay~
+   The holding bay expands out from the aft to the fore of the 
+ship, and is easily the largest room on this deck. It stands 
+about a story and a half high, and measures to be approximately 
+seventy or so yards in width and lengh. A large, air-locked door 
+is set in the port wall with a faded label warning others to 
+avoid opening the door at all costs. To the starboard, a small 
+set of stairs leads the way to a rounded door with a small wheel 
+mounted in it's center. Aside from the odd cargo box and other 
+piece of heavy machinery bolted down to the floor, the bay is 
+rather empty and dull. 
+
+  While there's nothing wrong with staying aboard the ship,
+it would probably be best if you went ahead and boarded 
+the space station to #6ENTER#0 the #6ADVENTURE#0. 
+~
+31 67174408 26
+0
+D0
+~
+~
+0 -1  0 31081
+P
+enter ente ent en~
+adventure adventur adventu advent adven adve adv ad a ~
+force -1 -1 emote enters the adventure.
+atecho 31002 A $n arrives from the space ship, immediately joining the rest of the team.
+trans 31002
+force -1 -1 look 
+fi done
+~
+S
+#31002
+Port End of a Hangar~
+   The massive hangar halts here at a pair of behemoth sliding 
+doors, opening like an eyelid might. A series of massive 
+tendrils, gear-like protrusions and form a complicated system 
+necessary for opening the doors. The architecture is undeniably 
+foreign, the material that comprises the hangar being of a 
+strange orange metallic material that glistens, as though the 
+very walls sweat. Spiraling catwalks surround and enclose the 
+area, and the floor itself is strangely barren of anything - no 
+equipment at all. 
+~
+31 67174408 26
+0
+D0
+~
+~
+0 -1  0 31003
+S
+#31003
+Starboard End of a Hangar~
+   This hangar is massive compared to the rest of the rooms on 
+this deck it stands a full two and a half stories in height and 
+over two hundred yards in width and length, conforming to the 
+hexagonal shape of the deck. A massive door is set in the aft 
+wall, strange white glyphs skittering across the surface of it, 
+flashing with their own light. Spiraling catwalks surround and 
+enclose the area, and orange tendril-like cables - are attached 
+to a series of complicated block-and-tackle systems. Aside from 
+the thick layers of dust covering many of the hoses and cables 
+that clutter the area, they all seem to be in a fair state of 
+repair. 
+~
+31 67174408 26
+0
+D1
+~
+massive door~
+1 5000  35 31004
+D2
+~
+~
+0 -1  0 31002
+P
+door~
+initiate~
+With no rolls or anything, so long as the puller holds object 31008 and types INITIATE DOOR, the door will open. 
+l
+~
+S
+#31004
+Portward End of the Passageway~
+   This low and wide hallway appears completely wrought of a 
+uniform filmy orange material, in the shape of small ridges that 
+extend outward toward the ceiling, much like a rib cage. The 
+material is metallic and warm to the touch, and the very floor 
+seems to pulsate with an eerie red light, ambient and diffused. 
+A massive door of the same material is set to the west, markings 
+resembling that of white glyphs running along its entirety. 
+~
+31 65544 26
+0
+D0
+~
+~
+0 -1  0 31005
+D3
+~
+massive door~
+1 5000  35 31003
+S
+#31005
+A Pulsating Passageway~
+   This low and wide hallway appears completely wrought of a 
+uniform filmy orange material, in the shape of small ridges that 
+extend outward toward the ceiling, much like a rib cage. The 
+material is metallic and warm to the touch, and the very floor 
+seems to pulsate with an eerie red light, ambient and diffused. 
+The strange metallic substance muffles the sounds of travel, 
+reducing it to a muted, squelching pad. 
+~
+31 67174408 26
+0
+D0
+~
+~
+0 -1  0 31006
+D2
+~
+~
+0 -1  0 31004
+S
+#31006
+A Pulsating Passageway, Before An Oblong Door~
+   The low and wide passageway comes to an end here by a tall 
+oblong door - or rather a light discoloration of orange in the 
+shape of an oblong. Markings glitter across the surface of the 
+door, appearing to faintly glow with their own light. The 
+strange metallic substance that comprises the entire way muffles 
+the sounds of travel, reducing it to a muted, squelching pad. 
+~
+31 67174412 26
+0
+D0
+~
+oblong-discoloration~
+1 5000  30 31007
+D2
+~
+~
+0 -1  0 31005
+P
+(null)~
+symbol~
+Another hacking rprog. If they have the limb, it should open up easily. If not, they'll need to hack the door with "HACK BOX".
+~
+S
+#31007
+Inside a Circular Shaft~
+   This circular shaft is a vertical drop, apparently made of yet 
+more of the same orange metallic material. Thick ridges run up 
+all along the shaft, interrupted only by two beams on opposite 
+ends. Fine little indents, upon closer inspection, are seen on 
+the beams - reminiscent of gears. An oblong light discoloration 
+of orange is set on the side of the shaft. A strange symbol 
+resembling a claw is etched on the oblong discoloration. The air 
+becomes thick and moist in here, as though the air itself was 
+sweating. 
+~
+31 65548 26
+0
+D2
+~
+oblong-discoloration~
+1 5000  30 31006
+S
+#31008
+Inside a Circular Shaft~
+   This circular shaft is a vertical drop, apparently made of yet 
+more of the same orange metallic material. Thick ridges run up 
+all along the shaft, interrupted only by two beams on opposite 
+ends. Fine little indents, upon closer inspection, are seen on 
+the beams - reminiscent of gears. An oblong light discoloration 
+of orange is set on the side of the shaft. There is no etching 
+or marking on the discoloration. The air becomes thick and moist 
+in here, as though the air itself was sweating. 
+~
+31 65548 26
+0
+D0
+~
+oblong-discoloration~
+1 5000  50 31033
+S
+#31009
+Inside a Circular Shaft~
+   This circular shaft is a vertical drop, apparently made of yet 
+more of the same orange metallic material. Thick ridges run up 
+all along the shaft, interrupted only by two beams on opposite 
+ends. Fine little indents, upon closer inspection, are seen on 
+the beams - reminiscent of gears. An oblong light discoloration 
+of orange is set on the side of the shaft. There is no etching 
+or marking on the discoloration. The air becomes thick and moist 
+in here, as though the air itself was sweating. 
+~
+31 65548 26
+0
+D1
+~
+oblong-discoloration~
+1 5000  50 31031
+S
+#31010
+Inside a Circular Shaft~
+   This circular shaft is a vertical drop, apparently made of yet 
+more of the same orange metallic material. Thick ridges run up 
+all along the shaft, interrupted only by two beams on opposite 
+ends. Fine little indents, upon closer inspection, are seen on 
+the beams - reminiscent of gears. An oblong light discoloration 
+of orange is set on the side of the shaft. There is no etching 
+or marking on the discoloration. The air becomes thick and moist 
+in here, as though the air itself was sweating. 
+~
+31 65548 26
+0
+D3
+~
+oblong-discoloration~
+1 5000  50 31013
+P
+hack~
+box~
+Using object 31008, the puller should be able to open the discoloration with little difficulty. It should open the discoloration permanently. OR, should they not, they can choose to HACK BOX with obj 31016 for a moderately difficult electronics roll.
+~
+S
+#31011
+Inside a Circular Shaft, Below a Vessel~
+   This circular shaft is suddenly stopped by some sort of 
+cylindrical vessel - or rather the translucent bottom of it. The 
+metallic vessel appears to perfectly fit within the shaft and is 
+set within the shaft-beams, leaving no empty space in the 
+perimeter. Should one carefully look, beyond the dusky glassy 
+bottom of the vessel, it appears the complete orange inside of 
+the vessel is completely etched in more white markings, but they 
+glow not at all - dull and lusterless. 
+~
+31 65548 26
+0
+Q4
+5
+The bottom of the cylindrical vessel is made from a glassy dusky material, similar in appearance to plexiglass. It is hard and resilient to the touch. Though, perhaps with enough explosive force ...
+~
+P
+o op ope open~
+f fl flo floo floor~
+info vnum room -1 vnum
+if oexist(50113,&(vnum))
+vstr There's no way you're going to get through that floor.
+else do
+doitanyway -1
+fi done
+~
+P
+c cl cli clim climb~
+h ho hol hole~
+force -1 -1 emote climbs up into the hole in the translucent bottom of the vessel above, taking care not to cut themseleves on the sharp edges of the hardened glass-like material with a dusky hue.
+atecho 31012 You noticed in $n climbing up into the elevator from the massive hole in the floor.
+trans 31012
+atlook 31012
+fi done
+~
+P
+xxxdoorhackxxx~
+(null)~
+info curroom room -1 vnum
+get 50113 &(curroom)
+atecho &(curroom) A massive hole is blown into the bottom of the cyndrical vessel above, sending shards of dusky hued shrapnel flying in all directions.
+unlink u 31011
+Info olddesc room -1 desc 
+Setval room -1 desc &(olddesc) A massive hole has been blown into the bottom of the cylindrical vessel above, the wrought, dusky-hued metal twisted up at odd angles, making the #6CLIMB#0 up into the #6HOLE#0 a treacharous task to accomplish.
+Setval room -1 desc reformat
+fi done
+~
+S
+#31012
+Inside an Etched, Cylindrical Vessel~
+   This cylindrical vessel is made of yet more of the same orange 
+metallic material that appears to comprise the entire place. 
+However, it is darker in coloration and the walls glisten with a 
+sweaty sheen. Thousands of etched markings dot the wall. The 
+only areas the markings do not touch are the floor and ceiling, 
+for they are made out of a dusky glassy material. The air is 
+almost unbearably thick and moist in here. An oblong 
+discoloration is set on one of the walls, marked with a symbol 
+resembling a claw. The marking glows faintly with its own white 
+ghostly light. 
+   A massive hole has been blown into the bottom of the 
+cyndrical vessel above, the wrought, dusky-hued metal 
+twisted upwards at odd angles, making the #6CLIMB DOWN#0
+into the vessel above a treacherous task to accomplish.
+~
+31 65544 26
+0
+D3
+~
+oblong-discoloration~
+1 -1  0 31036
+P
+c cl cli clim climb e en ent enter~
+d do dow down h ho hol hole~
+force -1 -1 emote climbs down into the hole in the translucent bottom of the vessel, taking care not to cut themseleves on the sharp edges of the hardened glass-like material with a dusky hue.
+atecho 31011 You noticed in $n climbing down into the shaft from the massive hole in the bottom of the elevator above.
+trans 31011
+atlook 31011
+fi done
+~
+S
+#31013
+Before a Circular Shaft~
+   This short passageway comes to an abrupt halt before an 
+oblong-shaped discoloration set in the aft wall, between two of 
+the many massive pillars that arc upwards towards the low ceiling 
+from the floor like the claws of an animal reaching upwards 
+towards the sky. The faint etchings of strange, incomprehensible 
+markings adorn the surface of each spire, in greater fervor and 
+frequency than those further along this dark corridor. 
+~
+31 65544 26
+0
+D1
+~
+oblong-discoloration~
+1 -1  0 31010
+D3
+~
+~
+0 -1  0 31014
+S
+#31014
+A Sharp Turn In the Corridor~
+   The short passageway running from the aft continues on to the 
+fore, though the caved in ceiling prevents one from traveling in 
+that direction. Massive pillars arc upwards towards the low 
+ceiling from the floor like the claws of an animal reaching 
+upwards towards the sky. The faint etchings of strange, 
+incomprehensible markings adorn the surface of each spire, in 
+greater fervor and frequency than those further along this dark 
+corridor. 
+~
+31 65544 26
+0
+D1
+~
+~
+0 -1  0 31013
+D2
+~
+~
+0 -1  0 31015
+S
+#31015
+A Long Corridor~
+   The dark passageway runs from the starboard and on to the 
+port, a three-way intersection visible in the distance. Massive 
+pillars arc upwards towards the low ceiling from the floor like 
+the claws of an animal reaching upwards towards the sky. The 
+faint etchings of strange, incomprehensible markings adorn the 
+surface of each spire, in increasingly greater fevor and 
+frequency the further one travels down the corridor, each one 
+glimmering dimly in the darkness. 
+~
+31 65544 26
+0
+D0
+~
+~
+0 -1  0 31014
+D2
+~
+~
+0 -1  0 31018
+S
+#31016
+A Massive, Dimly-Lit Room~
+   Rows upon rows of stained experimentation tables and tools 
+crowd this massive room all the way up to the aft wall. One wall 
+is lined with desks, some completely flipped over while others 
+are riddled with dents of various sizes. Bodies of animals in 
+different stages of decay and pieces of bodies litter the ground 
+- separated in literally every way imaginable. Old flesh the 
+consistency of cottage cheese and the colour of bad meat muddles 
+in mushy piles, some bodies shredded into unrecognizable masses 
+and others dissolving slowly, more naturally, under tables and 
+chairs. 
+~
+31 67174408 24
+0
+S
+#31017
+A Round, Stark-White Room~
+   This circular room contains a dull yellow light shining from 
+the ceiling and walls. A soft droning mechanical sound is 
+noticeable, as is a stream of quickly flowing air circulating 
+through vents in the ceiling. 
+~
+31 67174408 24
+0
+S
+#31018
+A Long Corridor, Before An Intersection~
+   The dark passageway runs from the starboard and on to the 
+port, a three-way intersection visible just up ahead. Massive 
+pillars arc upwards towards the low ceiling from the floor like 
+the claws of an animal reaching upwards towards the sky. The 
+faint etchings of strange, incomprehensible markings adorn the 
+surface of each spire, in increasingly greater fevor and 
+frequency the further one travels down the corridor, each one 
+glimmering dully in the darkness. 
+~
+31 65544 26
+0
+D0
+~
+~
+0 -1  0 31015
+D2
+~
+~
+0 -1  0 31019
+D3
+~
+oblong-discoloration~
+1 5000  40 31077
+P
+hack~
+box~
+With obj 31004 present in the room (the lifeless claw symbol), and obj 31016 (a set of tools) in their hands, the puller can attempt to hack the object. This is a moderately difficult roll. Puller should be able to get it within 1-2 tries.
+~
+S
+#31019
+Three Intersecting Passageways~
+   The starboard passageway comes to an abrupt halt here, then 
+branches off into two smaller corridors to the fore and aft. 
+Massive pillars arc upwards towards the low ceiling from the 
+floor like the claws of a beast reaching upwards towards the sky. 
+Faint etchings of strange, incomprehensible markings adorn the 
+surface of each wrought spire, each one giving off a dull light 
+of a reddish-orange hue. 
+~
+31 65544 26
+0
+D0
+~
+~
+0 -1  0 31018
+D1
+~
+~
+0 -1  0 31022
+D3
+~
+~
+0 -1  0 31020
+S
+#31020
+A Short, Dimly-Lit Corridor, Nearing a Dead End~
+   The narrow passageway branches off from a three-way 
+intersection to the aft, and continues on to the fore. Massive 
+pillars arc upwards from the floor like the claws of a beast 
+reaching upwards towards the sky to a low ceiling. Faint 
+etchings of strange, incomprehensible markings adorn the surface 
+of each wrought spire, each one giving off a dull light of a 
+reddish-orange hue, though they become dimmer the further one 
+moves from the intersection. 
+~
+31 65544 26
+0
+D1
+~
+~
+0 -1  0 31019
+D3
+~
+~
+0 -1  0 31021
+S
+#31021
+A Blocked Hallway Dead-Ending at a Massive Spider's Web~
+   The further one moves down the corridor, the fainter the glow 
+of the glow of the etchings adorning the wrought spires that arch 
+towards the low ceiling becomes until nothing but darkness 
+surrounds them, and the rank stench of rotten and rapidly 
+decaying corpses nearly overwhelm the senses. The unleveled 
+floor is slick with old blood, new blood, and unknown bodily 
+fluids. The skeletal remains of animals of all sizes have been 
+strewn about the area, separated in literally every way 
+imaginable. Not a single corpse retains all of it's body parts - 
+or even its flesh. 
+
+   Countless layers of spiderwebs to create a massive network 
+that blocks the stretch of near pitch-black corridor to the fore, 
+dust filling the gaps between the talons, beaks, feathers, 
+intestines and various fleshy appendages of questionable origins 
+entangled within it's webbing. 
+~
+31 65544 26
+0
+A
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+D1
+~
+~
+0 -1  0 31020
+S
+#31022
+A Sharp Turn in the Dark Corridor~
+   The narrow passageway branches off from a three-way 
+intersection to the fore, and continues on to the aft before 
+veering sharply to the aft. Massive pillars arc upwards from the 
+floor like the claws of a beast reaching upwards towards the low 
+ceiling above. Faint etchings of strange, incomprehensible 
+markings adorn the surface of each wrought spire, each one giving 
+off a dull light of a reddish-orange hue, though they become 
+fainter the further one moves from the intersection. 
+~
+31 65544 26
+0
+D2
+~
+~
+0 -1  0 31023
+D3
+~
+~
+0 -1  0 31019
+S
+#31023
+A Long, Dark, Narrow Corridor~
+   The dark passageway runs from the starboard and seems to go on 
+for an eternity down the port. Massive pillars extend out from 
+the sides of the level floor and arc upwards towards the low 
+ceiling up above like the claws of an animal reaching up for the 
+sky. Faint etchings of strange, incomprehensible markings adorn 
+the surface of each spire, though the frequency and fevor of them 
+decreases rapidly further along port-end of the corridor until 
+only a few are left glowing in the darkness. 
+~
+31 65544 26
+0
+D0
+~
+~
+0 -1  0 31022
+D2
+~
+~
+0 -1  0 31038
+S
+#31024
+A Cavern-like Tunnel~
+   The passageway here resembles a cavern tunnel than any 
+hallway; while the floor is level, it winds roughly as a 
+naturally formed path might, and tall orange-red spires run from 
+floor to ceiling like pillars. More markings are etched all over 
+the spires, in greater fervor and frequency, with no apparent 
+pattern or order. They glow not at all, a lifeless black against 
+the red-orange. In the likeness of a rib cage, or the claws of 
+an animal reaching skyward, pronounced ridges form the walls and 
+shoot upward toward the ceiling. 
+~
+31 65544 26
+0
+D0
+~
+~
+0 -1  0 31032
+D3
+~
+~
+0 -1  0 31025
+S
+#31025
+At A Dead-End~
+   The passageway here resembles a cavern tunnel than any 
+hallway; while the floor is level, it winds roughly as a 
+naturally formed path might, and tall orange-red spires run from 
+floor to ceiling like pillars. More markings are etched all over 
+the spires, in greater fervor and frequency, with no apparent 
+pattern or order. They glow not at all, a lifeless black against 
+the red-orange. In the likeness of a rib cage, or the claws of 
+an animal reaching skyward, pronounced ridges form the walls and 
+shoot upward toward the ceiling. 
+   The tunnel seemingly comes to a dead end. To the north and 
+south stand oblong discolorations - save that the southern 
+discoloration appears to have been torn through. The edges of it 
+are bent inward, as though something crumpled it. The northern 
+discoloration bears a claw-like symbol that does not glow. 
+~
+31 65544 26
+0
+D0
+~
+oblong-discoloration~
+1 5000  40 31026
+D1
+~
+~
+0 -1  0 31024
+D2
+~
+torn-oblong-discoloration~
+1 -1  0 31027
+P
+hack~
+box~
+Same deal. Hack the box with obj 31016. Moderately difficult roll, will open up the northern door permanently.
+~
+S
+#31026
+A Cavern-like Tunnel~
+   The passageway here resembles a cavern tunnel than any 
+hallway; while the floor is level, it winds roughly as a 
+naturally formed path might, and tall orange-red spires run from 
+floor to ceiling like pillars. More markings are etched all over 
+the spires, in greater fervor and frequency, with no apparent 
+pattern or order. In contrast, these glow a deep red, an almost 
+angry red. In the likeness of a rib cage, or the claws of an 
+animal reaching skyward, pronounced ridges form the walls and 
+shoot upward toward the ceiling. 
+~
+31 67174408 26
+0
+D0
+~
+~
+0 -1  0 31039
+D2
+~
+oblong-discoloration~
+1 5000  40 31025
+S
+#31027
+A Gutted Cavern-like Tunnel~
+   The passageway here resembles a cavern tunnel than any 
+hallway; while the floor is level, it winds roughly as a 
+naturally formed path might, and tall orange-red spires run from 
+floor to ceiling like pillars. More markings are etched all over 
+the spires, in greater fervor and frequency, with no apparent 
+pattern or order. They glow not at all, a lifeless black against 
+the red-orange. In the likeness of a rib cage, or the claws of 
+an animal reaching skyward, pronounced ridges form the walls and 
+shoot upward toward the ceiling. 
+   Visibly there is a large hole in the ceiling, the orange metal 
+around it bent outward, as though something or someone forced its 
+way through. 
+~
+31 65544 26
+0
+D0
+~
+torn-oblong-discoloration~
+1 -1  0 31025
+D2
+~
+~
+0 -1  0 31028
+S
+#31028
+A Cavern-like Tunnel~
+   The passageway here resembles a cavern tunnel than any 
+hallway; while the floor is level, it winds roughly as a 
+naturally formed path might, and tall orange-red spires run from 
+floor to ceiling like pillars. More markings are etched all over 
+the spires, in greater fervor and frequency, with no apparent 
+pattern or order. They glow not at all, a lifeless black against 
+the red-orange. In the likeness of a rib cage, or the claws of 
+an animal reaching skyward, pronounced ridges form the walls and 
+shoot upward toward the ceiling. 
+~
+31 65544 26
+0
+D0
+~
+~
+0 -1  0 31027
+D1
+~
+~
+0 -1  0 31029
+S
+#31029
+A Gutted Cavern-like Tunnel~
+   The passageway here resembles a cavern tunnel than any 
+hallway; while the floor is level, it winds roughly as a 
+naturally formed path might, and tall orange-red spires run from 
+floor to ceiling like pillars. More markings are etched all over 
+the spires, in greater fervor and frequency, with no apparent 
+pattern or order. They glow not at all, a lifeless black against 
+the red-orange. In the likeness of a rib cage, or the claws of 
+an animal reaching skyward, pronounced ridges form the walls and 
+shoot upward toward the ceiling. 
+   To the south stands another oblong discoloration, though it 
+appears to stand taller than all others, and countless symbols 
+dot its surface. Additionally there is a massive hole in the 
+ceiling, the orange metallic metal around it jagged and bent, as 
+though someone or something forced its way through. 
+~
+31 65544 26
+0
+D2
+~
+tall-oblong-discoloration~
+1 5000  35 31037
+D3
+~
+~
+0 -1  0 31028
+P
+xcheck~
+x~
+xcheck x
+set random 1d2
+if (random=1)
+vstr 
+vstr You fall with some of the others, and drop down into a slime-encrusted metallic tank. Your fall is broken by a mound of animal skeletons; amidst you are what appear to be the aquatic corpses of dolphins, sharks and various fish. Sitting atop the pile is a lonely turtle shell, covering the tiny bony remains of its once inhabitant.
+trans 31030
+delay 10 look
+else do
+fi done
+~
+S
+#31030
+Inside a Massive, Putrid Tank~
+   This glass tank is enormous in size, enough to fit a whale if 
+need be. It is at least twenty feet in height, and fifty feet in 
+length. What must have been a marine tank has long been left 
+unattended, and the water level has evaporated to about a human's 
+height. Whatever it once held appears to have long decayed; 
+skeletons of sea turtles, fish, sharks and all manner of marine 
+organisms float in the scummy, fetid water. Long rusted 
+tendril-like cables hang overhead, fallen in disrepair, and 
+dangle close to the tank. The rank smell of death and decay is 
+overwhelming and nauseating. 
+~
+31 65544 26
+0
+P
+xcheck~
+x~
+vstr
+~
+S
+#31032
+A Cavern-like Tunnel~
+   The passageway here resembles a cavern tunnel than any 
+hallway; while the floor is level, it winds roughly as a 
+naturally formed path might, and tall orange-red spires run from 
+floor to ceiling like pillars. More markings are etched all over 
+the spires, in greater fervor and frequency, with no apparent 
+pattern or order. They glow not at all, a lifeless black against 
+the red-orange. In the likeness of a rib cage, or the claws of 
+an animal reaching skyward, pronounced ridges form the walls and 
+shoot upward toward the ceiling. 
+~
+31 65544 26
+0
+D0
+~
+~
+0 -1  0 31034
+D2
+~
+~
+0 -1  0 31024
+S
+#31034
+A Cavern-like Tunnel~
+   The passageway here resembles a cavern tunnel than any 
+hallway; while the floor is level, it winds roughly as a 
+naturally formed path might, and tall orange-red spires run from 
+floor to ceiling like pillars. More markings are etched all over 
+the spires, in greater fervor and frequency, with no apparent 
+pattern or order. They glow not at all, a lifeless black against 
+the red-orange. In the likeness of a rib cage, or the claws of 
+an animal reaching skyward, pronounced ridges form the walls and 
+shoot upward toward the ceiling. 
+~
+31 65544 26
+0
+D1
+~
+~
+0 -1  0 31035
+D2
+~
+~
+0 -1  0 31032
+S
+#31035
+A Cavern-like Tunnel~
+   The passageway here resembles a cavern tunnel than any 
+hallway; while the floor is level, it winds roughly as a 
+naturally formed path might, and tall orange-red spires run from 
+floor to ceiling like pillars. More markings are etched all over 
+the spires, in greater fervor and frequency, with no apparent 
+pattern or order. They glow not at all, a lifeless black against 
+the red-orange. In the likeness of a rib cage, or the claws of 
+an animal reaching skyward, pronounced ridges form the walls and 
+shoot upward toward the ceiling. The air is thick and moist as 
+ever. 
+~
+31 65544 26
+0
+D0
+~
+~
+0 -1  0 31036
+D3
+~
+~
+0 -1  0 31034
+S
+#31036
+An Abrupt End of a Cavern-like Tunnel~
+   The passageway here resembles a cavern tunnel than any 
+hallway; while the floor is level, it winds roughly as a 
+naturally formed path might, and tall orange-red spires run from 
+floor to ceiling like pillars. More markings are etched all over 
+the spires, in greater fervor and frequency, with no apparent 
+pattern or order. They glow not at all, a lifeless black against 
+the red-orange. In the likeness of a rib cage, or the claws of 
+an animal reaching skyward, pronounced ridges form the walls and 
+shoot upward toward the ceiling. 
+   A notable oblong discoloration is set to the east, a claw-like 
+symbol marked on it, glowing faintly. 
+~
+31 65544 26
+0
+D1
+~
+oblong-discoloration~
+1 -1  0 31012
+D2
+~
+~
+0 -1  0 31035
+S
+#31037
+A Circular, Complex Wired Dome~
+   This room is a circular dome with a complex network, much like 
+a spider web, of tendril-wires that criss-cross every which way 
+through the ceiling. The floor itself is flat and orange metal 
+bare. An array of spires surround the perimeter of the room, 
+glowing with white symbols and flickering screens made out of a 
+dusky glass. Notably a half of the dome is completely 
+transparent, as though it were laid bare to the black void of 
+space - if it weren't that should one attempt to reach beyond, it 
+is stopped by a glassy material. 
+~
+31 67174408 26
+0
+D0
+~
+tall-oblong-discoloration~
+1 5000  35 31029
+S
+#31039
+A Cavern-like Tunnel~
+   The passageway here resembles a cavern tunnel than any 
+hallway; while the floor is level, it winds roughly as a 
+naturally formed path might, and tall orange-red spires run from 
+floor to ceiling like pillars. More markings are etched all over 
+the spires, in greater fervor and frequency, with no apparent 
+pattern or order. In contrast, these glow a deep red, an almost 
+angry red. In the likeness of a rib cage, or the claws of an 
+animal reaching skyward, pronounced ridges form the walls and 
+shoot upward toward the ceiling. 
+~
+31 67174408 26
+0
+D2
+~
+~
+0 -1  0 31026
+D3
+~
+~
+0 -1  0 31040
+S
+#31040
+A Gutted Tunnel, Before an Immense Spiral~
+   Here the passageway comes to an utter halt by an immense 
+spiraling track, winding down down down in a dizzying display of 
+architecture. The patterns of the ridges are different, snaking 
+along with the spiral as to coil like a snake, wrapping its way 
+ever downward to no visible end. A flat circular platform of 
+orange metal sits at the base of the spiral, set into the grooves 
+of the spiral. There are no glowing symbols save one right above 
+the platform, a glowing eye-like marking. The ceiling has been 
+gutted, a large hole evident, as though someone or something 
+ripped its way through. 
+~
+31 67174408 26
+0
+D1
+~
+~
+0 -1  0 31039
+P
+activate~
+platform~
+if haso(-1,31008)
+info vnum room -1 vnum
+delay 0 emote holds *organic up to *marking
+delay 7 emote watches on as *mark begins to glow a faint blue
+delay 20 emote takes an instinctive step backwards as *mark's glow brightens and *plat begins to whir, indicating that it has been activated
+else do
+vstr It is obvious that this technology requires something very specific to use properly. What could it be?
+fi done
+~
+P
+initiate~
+platform~
+When the puller uses the keyword INITIATE PLATFORM, the rpprg should drop them into room 31070. There should be a considerable delay while they're in 31070, before it drops them into 31042. Reason being, we want nasty spiders following them down the spiral and attacking them as they make their escape. When they're dropped into 31042, there should be a rprog that tells them the platform has slowed down, malfunctioned, stopped.
+~
+S
+#31031
+New Room~
+No Description Set.
+~
+31 65536 0
+0
+D3
+~
+~
+0 -1  0 31009
+S
+#31033
+New Room~
+No Description Set.
+~
+31 65536 0
+0
+D2
+~
+~
+0 -1  0 31008
+S
+#31038
+A Long, Dark, Narrow Corridor~
+   The dark passageway runs from the starboard and seems to go on 
+for an eternity down the port. Massive pillars extend out from 
+the sides of the level floor and arc upwards towards the low 
+ceiling up above like the claws of an animal reaching up for the 
+sky. Faint etchings of strange, incomprehensible markings adorn 
+the surface of each spire, though the frequency and fevor of them 
+decreases rapidly further along port-end of the corridor until 
+only a few are left glowing in the darkness. 
+~
+31 65544 26
+0
+D0
+~
+~
+0 -1  0 31023
+D2
+~
+~
+0 -1  0 31041
+S
+#31041
+The Corner of a Dark Corridor~
+   The dark passageway ends here at yet another oblong 
+discoloration flanking it on the aftside, and a new cavernous 
+corridor branches off to the fore. Massive pillars extend out 
+from the sides of the level floor and arc upwards towards the low 
+ceiling up above like the claws of an animal reaching up for the 
+sky. Faint etchings of strange, incomprehensible markings adorn 
+the surface of each spire, though the frequency and fevor of them 
+decreases rapidly further along port-end of the corridor until 
+only a few are left glowing in the darkness. 
+~
+31 65544 26
+0
+D0
+~
+~
+0 -1  0 31038
+D3
+~
+~
+0 -1  0 31043
+S
+#31042
+A Platform, Before an Immense Spiral~
+   Here the passageway comes to an utter halt by an immense 
+spiraling track, winding down down down in a dizzying display of 
+architecture. The patterns of the ridges are different, snaking 
+along with the spiral as to coil like a snake, wrapping its way 
+ever downward to no visible end. Another large oblong 
+discoloration has been set just before the spiraling track, an 
+equally huge dot, only its outline etched, upon it. It does not 
+glow. 
+
+~
+31 67174408 26
+0
+D1
+~
+~
+0 -1  0 31080
+P
+hack~
+box~
+This is a somewhat difficult electronics check to see if the emergency hatch will open. Maybe say, three failed electronics checks will open it anyway. Puller should take moderate damage each time they fail - they get electrocuted or some such. Once the hatch opens, obj 31014 (the oblong discloration) should be replaced by obj 31015 (an opened oblong discoloration).
+~
+P
+exit~
+hatch~
+Players should be able to type EXIT HATCH to get abroad the Flying Mary and make their grand escape. I'm thinking there should be some delay, IE, "You struggle and gasp for breath as your equipment barely sustains you in the cold vacuum of space." - "You fight for every inch, scrambling to pull yourself abroad the Flying Mary." etc. Maybe make them roll CON to see if they get abroad, or die in space. Once the previous rprog has triggered, animals should totally start flying into the cold depth of space and die. (Mobs get flushed out of the room or something.)
+~
+P
+space~
+walk~
+info tar room -1 char -1 name
+trans 31084
+vstr In the vast lonely ocean of space, no one can hear you scream.
+delay 5 look
+~
+S
+#31043
+A Dark Corridor~
+   This darkened stretch of corridor continues on from the bend 
+in passageways to the aft to the fore, though the collapsed 
+ceiling prevents further progress in that direction; a 
+reddish-orange hued, oblong-shaped discoloration in the starboard 
+wall is barely discernible in the starboard wall. Massive 
+pillars extend out from the sides of the level floor and arc 
+upwards towards the low ceiling up above like the claws of an 
+animal reaching up for the sky. Faint etchings of strange, 
+incomprehensible markings adorn the surface of each spire, though 
+the frequency and fevor of them decreases rapidly further along 
+aft end of the corridor. 
+~
+31 65544 26
+0
+D0
+~
+torn-oblong-discoloration~
+1 -1  0 31044
+D1
+~
+~
+0 -1  0 31041
+S
+#31044
+A Massive, Fetid Researching Facility~
+   Rows upon rows of stained experimentation tables and tools 
+crowd this massive room all the way up to the aft wall. One wall 
+is lined with desks, some completely flipped over while others 
+are riddled with dents of various sizes. The north and east are 
+flanked by long windows, this facility overlooking two domes. 
+The northern glass window has been cracked, only half of it still 
+relatively intact. 
+~
+31 65544 24
+0
+D0
+~
+shattered-glass-window~
+3 -1  0 31059
+D1
+~
+glass-pane~
+3 -1  0 31076
+D2
+~
+torn-oblong-discoloration~
+1 -1  0 31043
+D3
+~
+~
+0 -1  0 31061
+P
+look~
+window~
+force -1 -1 emote stalks to the window on the north end of the room and cups their hands, peering through to the other side
+atecho 31059 A humanoid figure appears in silhouette through the window to the south.
+atlook 31059
+~
+P
+look~
+pane~
+force -1 -1 emote stalks to the pane on the east end of the room and cups their hands, peering through to the other side
+atecho 31076 A humanoid figure appears in silhouette through the glass pane to the west.
+atlook 31076
+~
+S
+#31045
+At the Bottom of the Marine Tank~
+No Description Set.
+~
+31 65544 20
+0
+D2
+~
+~
+0 -1  0 31073
+D3
+~
+~
+0 -1  0 31046
+S
+#31046
+New Room~
+No Description Set.
+~
+31 65536 20
+0
+D1
+~
+~
+0 -1  0 31045
+S
+#31047
+Inside a Circular Shaft~
+   This circular shaft is a vertical drop, apparently made of yet 
+more of the same orange metallic material. Thick ridges run up 
+all along the shaft, interrupted only by two beams on opposite 
+ends. Fine little indents, upon closer inspection, are seen on 
+the beams - reminiscent of gears. An oblong light discoloration 
+of orange is set on the side of the shaft. Strangely, there is 
+not a single symbol to be found on the discoloration. The air 
+becomes thick and moist in here, as though the air itself was 
+sweating. 
+   Notably there is a torn opening on the side of the wall, 
+seemingly leading into a vent. 
+~
+31 65544 26
+0
+D1
+~
+torn-opening~
+1 -1  0 31048
+S
+#31048
+Inside a Slick Vent~
+   This vent, if it is one, is incredibly narrow. It would 
+barely manage to fit one man abreadst, let alone two. It is a 
+winding small tunnel that is slick and slimy, and with light, it 
+glistens like sweat. Apparently the tunnel is wrought from the 
+same orange metallic material as everything else, save that it 
+appears to breathe; a lukewarm moist draft blowing through every 
+so often. 
+~
+31 65544 26
+0
+D2
+~
+~
+0 -1  0 31049
+D3
+~
+torn-opening~
+1 -1  0 31047
+S
+#31049
+Inside a Slick Vent~
+   This vent, if it is one, is incredibly narrow. It would 
+barely manage to fit one man abreadst, let alone two. It is a 
+winding small tunnel that is slick and slimy, and with light, it 
+glistens like sweat. Apparently the tunnel is wrought from the 
+same orange metallic material as everything else, save that it 
+appears to breathe; a lukewarm moist draft blowing through every 
+so often. 
+~
+31 65544 26
+0
+D0
+~
+~
+0 -1  0 31048
+D2
+~
+~
+0 -1  0 31050
+S
+#31050
+Inside a Slick Vent~
+   This vent, if it is one, is incredibly narrow. It would 
+barely manage to fit one man abreadst, let alone two. It is a 
+winding small tunnel that is slick and slimy, and with light, it 
+glistens like sweat. Apparently the tunnel is wrought from the 
+same orange metallic material as everything else, save that it 
+appears to breathe; a lukewarm moist draft blowing through every 
+so often. 
+~
+31 65544 26
+0
+D0
+~
+~
+0 -1  0 31049
+D1
+~
+~
+0 -1  0 31051
+S
+#31051
+Inside a Slick Vent~
+   This vent, if it is one, is incredibly narrow. It would 
+barely manage to fit one man abreadst, let alone two. It is a 
+winding small tunnel that is slick and slimy, and with light, it 
+glistens like sweat. Apparently the tunnel is wrought from the 
+same orange metallic material as everything else, save that it 
+appears to breathe; a lukewarm moist draft blowing through every 
+so often. To the north, a sealed grate blocks off any access. 
+~
+31 65544 26
+0
+D0
+~
+sealed-grate~
+1 -1  0 31060
+D1
+~
+~
+0 -1  0 31052
+D3
+~
+~
+0 -1  0 31050
+S
+#31052
+Inside a Slick Vent~
+   This vent, if it is one, is incredibly narrow. It would 
+barely manage to fit one man abreadst, let alone two. It is a 
+winding small tunnel that is slick and slimy, and with light, it 
+glistens like sweat. Apparently the tunnel is wrought from the 
+same orange metallic material as everything else, save that it 
+appears to breathe; a lukewarm moist draft blowing through every 
+so often. 
+~
+31 65544 26
+0
+D0
+~
+~
+0 -1  0 31053
+D3
+~
+~
+0 -1  0 31051
+S
+#31053
+Inside a Slick Vent~
+   This vent, if it is one, is incredibly narrow. It would 
+barely manage to fit one man abreadst, let alone two. It is a 
+winding small tunnel that is slick and slimy, and with light, it 
+glistens like sweat. Apparently the tunnel is wrought from the 
+same orange metallic material as everything else, save that it 
+appears to breathe; a lukewarm moist draft blowing through every 
+so often. 
+~
+31 65544 26
+0
+D1
+~
+~
+0 -1  0 31054
+D2
+~
+~
+0 -1  0 31052
+S
+#31054
+Inside a Slick Vent~
+   This vent, if it is one, is incredibly narrow. It would 
+barely manage to fit one man abreadst, let alone two. It is a 
+winding small tunnel that is slick and slimy, and with light, it 
+glistens like sweat. Apparently the tunnel is wrought from the 
+same orange metallic material as everything else, save that it 
+appears to breathe; a lukewarm moist draft blowing through every 
+so often. 
+~
+31 65544 26
+0
+D0
+~
+~
+0 -1  0 31055
+D3
+~
+~
+0 -1  0 31053
+S
+#31055
+Inside a Slick Vent~
+   This vent, if it is one, is incredibly narrow. It would 
+barely manage to fit one man abreadst, let alone two. It is a 
+winding small tunnel that is slick and slimy, and with light, it 
+glistens like sweat. Apparently the tunnel is wrought from the 
+same orange metallic material as everything else, save that it 
+appears to breathe; a lukewarm moist draft blowing through every 
+so often. To the north, a sealed grate blocks off any access. A 
+grate has been torn open by claws or some razor-sharp object at 
+the end, leading into further darkness. 
+~
+31 65544 26
+0
+D2
+~
+~
+0 -1  0 31054
+D5
+~
+torn-grate~
+1 -1  0 31056
+S
+#31056
+A Blocked Corridor~
+   Unusually, unlike any part of this place, this corridor - 
+though blocked off by twisted metal and rubble now as it is - is 
+simply orange steel. There are no winding tunnels, nor glyphs, 
+or any kind of ornamentation. It appears to be a utility tunnel, 
+if anything. The air is unbearably thick and hot. 
+~
+31 65544 26
+0
+D0
+~
+~
+0 -1  0 31057
+D4
+~
+torn-grate~
+3 -1  0 31055
+S
+#31057
+A Bare Corridor~
+   Unusually, unlike any part of this place, this corridor - 
+though blocked off by twisted metal and rubble now as it is - is 
+simply orange steel. There are no winding tunnels, nor glyphs, 
+or any kind of ornamentation. It appears to be a utility tunnel, 
+if anything. The tunnel opens up into a wide chamber to the 
+east. The air is unbearably thick and hot. 
+~
+31 65544 26
+0
+D1
+~
+~
+0 -1  0 31058
+D2
+~
+~
+0 -1  0 31056
+S
+#31058
+A Wide, Machine-Riddled Chamber~
+   This is a wide dome riddled with strange tendril-like wires 
+and tubes, hooked up to pulsating machines that surround the 
+perimeter. A ring of white markings, lifeless and not glowing, 
+are etched on the ceiling. In the center is a large pillar that 
+all the wires connect to, glowing and crackling with blue energy 
+when functioning. 
+~
+31 65544 26
+0
+D3
+~
+~
+0 -1  0 31057
+S
+#31060
+New Room~
+No Description Set.
+~
+31 65536 0
+0
+D2
+~
+~
+0 -1  0 31051
+S
+#31059
+A Rot-Filled, Animal-Holding Dome~
+   This dome is a collection of cornered sections each with its 
+own artificially maintained environment - or was. All manners of 
+environments are present, from jungles to arid deserts. Now the 
+sections, previously quarantined by their own small glass domes, 
+appear to have been shattered through and breached. Bits and 
+pieces of bones, dung, and filth are scattered all over. 
+~
+31 67174400 26
+0
+D2
+~
+shattered-glass-window~
+1 -1  0 31044
+S
+#31061
+A Long, Dimly-Lit Marine Tunnel~
+   This long circular tunnel appears to be completely made of 
+glass. Though the outside of the tunnel was once filled with 
+water, the water level has now receded to a low. The glass panes 
+are scummy and clumped with indistinguishable rot. The tunnel 
+winds like a snake, lit only by glowing white symbols on the 
+metallic floor. 
+~
+31 67174408 26
+0
+D1
+~
+~
+0 -1  0 31044
+D3
+~
+~
+0 -1  0 31066
+S
+#31062
+A Large Platform~
+No Description Set.
+~
+31 65544 24
+0
+D0
+~
+~
+0 -1  0 31063
+D1
+~
+~
+0 -1  0 31061
+D2
+~
+~
+0 -1  0 31064
+S
+#31063
+The Starboard End of the Platform~
+No Description Set.
+~
+31 65544 24
+0
+D2
+~
+~
+0 -1  0 31062
+D5
+~
+~
+0 -1  0 31067
+S
+#31064
+The Port End of the Platform~
+No Description Set.
+~
+31 65536 24
+0
+D0
+~
+~
+0 -1  0 31062
+S
+#31065
+A Catwalk Over a Marine Tank~
+No Description Set.
+~
+31 65544 24
+0
+D1
+~
+~
+0 -1  0 31061
+S
+#31066
+A Circular Platform, Overlooking a Massive Tank~
+   This disc-like platform hangs overhead by sturdy metallic 
+beams, overlooking dozens of glass tanks of varying size. The 
+room itself is bare and resembles an orange metallic dome. A few 
+black symbols are etched above each glass tank, each unique as 
+though to label something over each individual tank. A narrow 
+flat walkway branches out from the platform into a dimly-lit 
+tunnel. 
+~
+31 65544 24
+0
+D1
+~
+~
+0 -1  0 31061
+S
+#31067
+Inside An Isolated Marine Tank~
+No Description Set.
+~
+31 65544 18
+0
+D4
+~
+~
+0 -1  0 31063
+S
+#31068
+Inside the Marine Tank~
+   The deafening roar of rushing water consumes nearly all other 
+sound as a massive, two-story waterfall comes crashing down from 
+an opening in the complex system of filtering pumps that help to 
+keep the tank clean. A thick veil of mist blankets the area, 
+greatly impairing one's ability to see anything more than a few 
+meters around themselves. The salty water is cool, but not 
+chilly, and a deep shade of blue. 
+~
+31 65544 18
+0
+D5
+~
+~
+0 -1  0 31069
+S
+#31069
+New Room~
+No Description Set.
+~
+31 65536 20
+0
+D2
+~
+~
+0 -1  0 31071
+D4
+~
+~
+0 -1  0 31068
+S
+#31070
+Circling a Massive Spiral, On a Circular Platform~
+   The view is absolutely dizzying. The platform whirls at a 
+languid pace around the ribbed spiral, ever downward. Lit only 
+by glowing markings, this shaft is dimly illuminated. It 
+resembles something like a blood vessel more than anything else, 
+its sides ribbed and bulging with tumor-like protrusions. 
+~
+31 65544 26
+0
+D2
+~
+~
+0 -1  0 31040
+P
+x~
+switch~
+get 31019 31040
+put 31006 31040
+atecho 31070 The platform rumbles and jolts, rapidly whirring, and begins to move. Afterward the whirring dies down to a low hum, and you begin to descend down the spiral, winding around it.
+unlink s 31070
+~
+S
+#31071
+New Room~
+No Description Set.
+~
+31 65536 20
+0
+D0
+~
+~
+0 -1  0 31069
+D3
+~
+~
+0 -1  0 31073
+S
+#31072
+New Room~
+No Description Set.
+~
+31 65544 18
+0
+D5
+~
+~
+0 -1  0 31073
+S
+#31073
+New Room~
+No Description Set.
+~
+31 65536 20
+0
+D0
+~
+~
+0 -1  0 31045
+D1
+~
+~
+0 -1  0 31071
+D4
+~
+~
+0 -1  0 31072
+S
+#31074
+New Room~
+No Description Set.
+~
+31 65544 18
+0
+D5
+~
+~
+0 -1  0 31075
+S
+#31075
+New Room~
+No Description Set.
+~
+31 65544 20
+0
+D4
+~
+~
+0 -1  0 31074
+S
+#31076
+A Decaying, Tube-Cluttered Dome~
+   This dome is comprised of a numerous array of long tubes, many 
+of them cracked or toppled over. It is apparent these once held 
+animals, for mummified bodies of every kind of animal are held in 
+them. Some hold nothing at all, the glass tubing shattered and 
+cracked. Parts and pieces of skeletons are strewn everywhere, 
+like a bone graveyard, the flesh rotting and decaying. 
+~
+31 67174400 26
+0
+D3
+~
+glass-pane~
+1 -1  0 31044
+S
+#31077
+A Glowing, Pillared Passageway~
+   Massive pillars arc upwards towards the low ceiling from the 
+floor like the claws of an animal reaching upwards towards the 
+sky. The faint etchings of strange, incomprehensible markings 
+adorn the surface of each spire, in increasingly greater fevor 
+and frequency the further one travels down the corridor, each one 
+glimmering dully in the darkness. Unlike any others, these glow 
+an almost angry red, flashing in regular intervals. 
+~
+31 67174408 26
+0
+D1
+~
+oblong-discoloration~
+1 5000  40 31018
+D3
+~
+~
+0 -1  0 31078
+S
+#31078
+A Glowing, Pillared Passageway~
+   Massive pillars arc upwards towards the low ceiling from the 
+floor like the claws of an animal reaching upwards towards the 
+sky. The faint etchings of strange, incomprehensible markings 
+adorn the surface of each spire, in increasingly greater fevor 
+and frequency the further one travels down the corridor, each one 
+glimmering dully in the darkness. Unlike any others, these glow 
+an almost angry red, flashing in regular intervals. 
+~
+31 67174408 26
+0
+D0
+~
+~
+0 -1  0 31079
+D1
+~
+~
+0 -1  0 31077
+S
+#31079
+A Glowing, Pillared Passageway~
+   Massive pillars arc upwards towards the low ceiling from the 
+floor like the claws of an animal reaching upwards towards the 
+sky. The faint etchings of strange, incomprehensible markings 
+adorn the surface of each spire, in increasingly greater fevor 
+and frequency the further one travels down the corridor, each one 
+glimmering dully in the darkness. Unlike any others, these glow 
+an almost angry red, flashing in regular intervals. 
+~
+31 67174408 26
+0
+D2
+~
+~
+0 -1  0 31078
+D3
+~
+~
+0 -1  0 31080
+S
+#31080
+A Glowing, Pillared Passageway~
+   Massive pillars arc upwards towards the low ceiling from the 
+floor like the claws of an animal reaching upwards towards the 
+sky. The faint etchings of strange, incomprehensible markings 
+adorn the surface of each spire, in increasingly greater fevor 
+and frequency the further one travels down the corridor, each one 
+glimmering dully in the darkness. Unlike any others, these glow 
+an almost angry red, flashing in regular intervals. 
+~
+31 67174408 26
+0
+D1
+~
+~
+0 -1  0 31079
+D3
+~
+~
+0 -1  0 31042
+S
+#31081
+A Cramped Mess Room~
+   The mess hall is quite literally -- a mess. Many metallic 
+surfaces about the room are cluttered with a wide variety of 
+equipment and non-descript items; magazines, the remains of 
+rations, dismantled firearms, and even a couple of pornography 
+magazines with "mysterious" stains coating the cover. A couple 
+sets of bunk beds have been pushed off to the side of the massive 
+room, leaving plenty of room for the benches and couches set up 
+at the center. 
+~
+31 67174408 26
+0
+D1
+~
+~
+0 -1  0 31082
+D2
+~
+~
+0 -1  0 31001
+D3
+~
+reinforced-door~
+1 -1  0 31083
+S
+#31082
+The Cockpit~
+   With a slightly vaulted ceiling with several large, 
+darkly-colored ventilation vents placed in strategic areas, the 
+cockpit has a surprisingly spacious feel to it despite it's 
+compact size. Three separate consoles dot the area, each one's 
+surface filled with hundreds of different colored controls, 
+gauges and panels. A small set of stairs nestled between two of 
+the stations leads down to the expansive floor below where the 
+port walls and ceiling meet the massive panels of tinted glass 
+that provide a stunning view of outter space. 
+~
+31 67174408 26
+0
+D3
+~
+~
+0 -1  0 31081
+S
+#31083
+New Room~
+No Description Set.
+~
+31 65536 0
+0
+D1
+~
+~
+0 -1  0 31081
+S
+#31084
+The Black Void of Space~
+   It would be easy to say that space is cold, mind-numbingly, 
+icy cold - and dark. It is cold and it is dark. It is 
+absolutely frigid. Chunks of debris, pieces of hull, even the 
+jagged breach itself - these are also cold, achingly cold. But 
+they would not feel cold if touched, and anyone in space would 
+not feel that deep, bone-shattering freeze. Anyone in a 
+pressurized spacesuit would not feel the chill at all, and anyone 
+not so dressed would have more pressing issues at hand: the water 
+on their skin would evaporate first, their eyes would shrivel, 
+and they would prune like a raisin left too long in the sun. 
+Ninety seconds without oxygen and their lungs would shred. With 
+oxygen, unsuited, it's a slow death: blood loss and organ 
+failure. 
+   Still, the view is nice. 
+~
+31 65536 13
+0
+S
+#31085
+Northwestern Corner of a Concrete Roof~
+   The bland gray plains of the Moon have never seemed so endless 
+from this square concrete roof. They roll on and on and on. The 
+roof is barricaded by a thick concrete wall, and reinforced by a 
+barbed wire fence. 
+~
+31 67174400 25
+0
+D1
+~
+~
+0 -1  0 31086
+D2
+~
+~
+0 -1  0 31087
+S
+#31088
+Atop a Reinforced Concrete Roof, By a Stairwell~
+   The bland gray plains of the Moon have never seemed so endless 
+from this square concrete roof. They roll on and on and on. The 
+roof is barricaded by a thick concrete wall, and reinforced by a 
+barbed wire fence. A simple stairwell descends downward deeper 
+into the facility. 
+~
+31 67174400 25
+0
+D2
+~
+~
+0 -1  0 31090
+D3
+~
+~
+0 -1  0 31086
+S
+#31089
+Atop a Reinforced Concrete Roof~
+   The bland gray plains of the Moon have never seemed so endless 
+from this square concrete roof. They roll on and on and on. The 
+roof is barricaded by a thick concrete wall, and reinforced by a 
+barbed wire fence. 
+~
+31 67174400 25
+0
+D0
+~
+~
+0 -1  0 31086
+D1
+~
+~
+0 -1  0 31090
+D2
+~
+~
+0 -1  0 31092
+D3
+~
+~
+0 -1  0 31087
+S
+#31090
+Atop a Reinforced Concrete Roof, North-East Corner~
+   The bland gray plains of the Moon have never seemed so endless 
+from this square concrete roof. They roll on and on and on. The 
+roof is barricaded by a thick concrete wall, and reinforced by a 
+barbed wire fence. 
+~
+31 67174400 25
+0
+D0
+~
+~
+0 -1  0 31088
+D2
+~
+~
+0 -1  0 31091
+D3
+~
+~
+0 -1  0 31089
+S
+#31091
+Atop a Reinforced Concrete Roof, Eastern Perimeter~
+   The bland gray plains of the Moon have never seemed so endless 
+from this square concrete roof. They roll on and on and on. The 
+roof is barricaded by a thick concrete wall, and reinforced by a 
+barbed wire fence. 
+~
+31 67174400 25
+0
+D0
+~
+~
+0 -1  0 31090
+D2
+~
+~
+0 -1  0 31096
+D3
+~
+~
+0 -1  0 31092
+S
+#31092
+Atop a Reinforced Concrete Roof~
+   The bland gray plains of the Moon have never seemed so endless 
+from this square concrete roof. They roll on and on and on. In 
+the distance, the roof is visibly barricaded by a thick concrete 
+wall all around, and reinforced by a barbed wire fence. 
+~
+31 67174400 25
+0
+D0
+~
+~
+0 -1  0 31089
+D1
+~
+~
+0 -1  0 31091
+D2
+~
+~
+0 -1  0 31095
+D3
+~
+~
+0 -1  0 31093
+S
+#31093
+A Reinforced Concrete Roof, Underneath a Watchtower~
+   The bland gray plains of the Moon have never seemed so endless 
+from this square concrete roof. They roll on and on and on. The 
+roof is barricaded by a thick concrete wall, and reinforced by a 
+barbed wire fence. A tall concrete watchtower rises up from this 
+corner of the wall, accessible by a metal ladder. 
+~
+31 67174400 25
+0
+D0
+~
+~
+0 -1  0 31087
+D1
+~
+~
+0 -1  0 31092
+D2
+~
+~
+0 -1  0 31094
+D4
+~
+~
+0 -1  0 31097
+S
+#31086
+Atop a Reinforced Concrete Roof, Northern Perimeter~
+   The bland gray plains of the Moon have never seemed so endless 
+from this square concrete roof. They roll on and on and on. The 
+roof is barricaded by a thick concrete wall, and reinforced by a 
+barbed wire fence. 
+~
+31 67174400 0
+0
+D1
+~
+~
+0 -1  0 31088
+D2
+~
+~
+0 -1  0 31089
+D3
+~
+~
+0 -1  0 31085
+S
+#31087
+Atop a Reinforced Concrete Roof, Western Perimeter~
+   The bland gray plains of the Moon have never seemed so endless 
+from this square concrete roof. They roll on and on and on. The 
+roof is barricaded by a thick concrete wall, and reinforced by a 
+barbed wire fence. 
+~
+31 67174400 25
+0
+D0
+~
+~
+0 -1  0 31085
+D1
+~
+~
+0 -1  0 31089
+D2
+~
+~
+0 -1  0 31093
+S
+#31094
+A Reinforced Concrete Roof, South-East Corner~
+   The bland gray plains of the Moon have never seemed so endless 
+from this square concrete roof. They roll on and on and on. The 
+roof is barricaded by a thick concrete wall, and reinforced by a 
+barbed wire fence. 
+~
+31 67174400 25
+0
+D0
+~
+~
+0 -1  0 31093
+D1
+~
+~
+0 -1  0 31095
+S
+#31095
+Atop a Reinforced Concrete Roof, Southern Perimeter~
+   The bland gray plains of the Moon have never seemed so endless 
+from this square concrete roof. They roll on and on and on. The 
+roof is barricaded by a thick concrete wall, and reinforced by a 
+barbed wire fence. 
+~
+31 67174400 25
+0
+D0
+~
+~
+0 -1  0 31092
+D1
+~
+~
+0 -1  0 31096
+D3
+~
+~
+0 -1  0 31094
+S
+#31096
+Atop a Reinforced Concrete Roof, South-East Corner~
+   The bland gray plains of the Moon have never seemed so endless 
+from this square concrete roof. They roll on and on and on. The 
+roof is barricaded by a thick concrete wall, and reinforced by a 
+barbed wire fence. 
+~
+31 67174400 25
+0
+D0
+~
+~
+0 -1  0 31091
+D3
+~
+~
+0 -1  0 31095
+S
+#31097
+A Circular Watchtower~
+   This circular watchtower can comfortably fit two men abreast, 
+about seven feet in diameter. It is protected by a steel roof 
+and encircling railing, giving some relief to the harsh elements. 
+Serving its purpose, the watchtower provides a clear view of the 
+endless Moon plains below, and the dark pools of Crater Lake to 
+the south. 
+~
+31 67174400 0
+0
+D5
+~
+~
+0 -1  0 31093
+S
+#31098
+By a Concrete Stairwell~
+   This facility is reminiscent of a very old cave, a concrete 
+one at that. It smells musty and old, like eons-old chemicals 
+and water, unmasked by anything but the passage of time. The 
+walls are just utilitarian concrete: bare and cold and damp. A 
+murmuring of water pervades the air of the hallway, echoing off 
+the stone walls from deeper within the facility. This circular 
+hallway bends, leading west to south, while to the northeast 
+corner a slippery concrete stairwell leads up to a bent and 
+ancient-looking hatchway. 
+~
+31 65544 11
+0
+D2
+~
+~
+0 -1  0 31099
+D3
+~
+~
+0 -1  0 31100
+D4
+~
+ancient-hatchway~
+1 -1  0 66907
+S
+#31099
+A Circular Hallway~
+   This facility is reminiscent of a very old cave, a concrete 
+one at that. It smells musty and old, like eons-old chemicals 
+and water, unmasked by anything but the passage of time. The 
+walls are just utilitarian concrete: bare and cold and damp. A 
+murmuring of water pervades the air of the hallway, echoing off 
+the stone walls from deeper within the facility. This circular 
+hallway leads from north to south. 
+~
+31 65544 11
+0
+D0
+~
+~
+0 -1  0 31098
+D2
+~
+~
+0 -1  0 31101
+S
+#31100
+A Circular Hallway, North of a Run-Down Lounge~
+   This facility is reminiscent of a very old cave, a concrete 
+one at that. It smells musty and old, like eons-old chemicals 
+and water, unmasked by anything but the passage of time. The 
+walls are just utilitarian concrete: bare and cold and damp. A 
+murmuring of water pervades the air of the hallway, echoing off 
+the stone walls from deeper within the facility. This circular 
+hallway leads from east to west, and in the southern wall a door 
+sits, barely hanging onto its hinges. 
+~
+31 65544 11
+0
+D1
+~
+~
+0 -1  0 31098
+D2
+~
+rickety door~
+1 -1  0 31113
+D3
+~
+~
+0 -1  0 31114
+S
+#31101
+A Circular Hallway, West of a Dingy Hall~
+   This facility is reminiscent of a very old cave, a concrete 
+one at that. It smells musty and old, like eons-old chemicals 
+and water, unmasked by anything but the passage of time. The 
+walls are just utilitarian concrete: bare and cold and damp. A 
+murmuring of water pervades the air of the hallway, echoing off 
+the stone walls from deeper within the facility. This circular 
+hallway leads from north to south, and a wide room lies to the 
+west. 
+~
+31 65544 11
+0
+D0
+~
+~
+0 -1  0 31099
+D2
+~
+~
+0 -1  0 31103
+D3
+~
+cafeteria-door~
+1 -1  0 31102
+S
+#31102
+A Dingy Dining Hall~
+   This long hall, like most of everything in this facility, is 
+simple but damp; it is devoid of any ornamentation, leaving the 
+cold concrete walls bare, save for waterstains and mold near the 
+corners. Sectioned out by a long metal counter, the remnants of 
+a scavenged kitchen lie at the wester end. The rest of the room 
+is lined with long, rusted metal tables and benches. 
+~
+31 65544 11
+0
+D1
+~
+cafeteria-door~
+1 -1  0 31101
+S
+#31103
+A Circular Hallway~
+   This facility is reminiscent of a very old cave, a concrete 
+one at that. It smells musty and old, like eons-old chemicals 
+and water, unmasked by anything but the passage of time. The 
+walls are just utilitarian concrete: bare and cold and damp. A 
+murmuring of water pervades the air of the hallway, echoing off 
+the stone walls from deeper within the facility. This circular 
+hallway opens up here into a three-way intersection. 
+~
+31 65544 11
+0
+D0
+~
+~
+0 -1  0 31101
+D2
+~
+~
+0 -1  0 31105
+D3
+~
+~
+0 -1  0 31104
+S
+#31104
+A Circular Hallway~
+   This facility is reminiscent of a very old cave, a concrete 
+one at that. It smells musty and old, like eons-old chemicals 
+and water, unmasked by anything but the passage of time. The 
+walls are just utilitarian concrete: bare and cold and damp. A 
+murmuring of water pervades the air of the hallway, echoing off 
+the stone walls from deeper within the facility. This circular 
+hallway leads from east to west. 
+~
+31 65544 11
+0
+D1
+~
+~
+0 -1  0 31103
+D3
+~
+~
+0 -1  0 31121
+S
+#31105
+A Circular Hallway~
+   This facility is reminiscent of a very old cave, a concrete 
+one at that. It smells musty and old, like eons-old chemicals 
+and water, unmasked by anything but the passage of time. The 
+walls are just utilitarian concrete: bare and cold and damp. A 
+murmuring of water pervades the air of the hallway, echoing off 
+the stone walls from deeper within the facility. This circular 
+hallway leads from north to south, and further down to the south, 
+a large pile of concrete rubble can be seen. 
+~
+31 65544 11
+0
+D0
+~
+~
+0 -1  0 31103
+D2
+~
+~
+0 -1  0 31106
+S
+#31106
+A Collapsed End of the Hallway~
+   The walls here have given in and collapsed, rendering any 
+further movement to the south impossible. The musty old smell of 
+mold and water is strong here, and the source is likely the damp, 
+squishy green growth on the collapsed rubble of the walls and 
+roof. On one wall, dull red letters spell "EXIT" with an arrow 
+point in the direction of the blocked-off tunnel. 
+~
+31 65544 11
+0
+D0
+~
+~
+0 -1  0 31105
+D3
+~
+~
+0 -1  0 31107
+S
+#31107
+A Circular Hallway~
+   This facility is reminiscent of a very old cave, a concrete 
+one at that. It smells musty and old, like eons-old chemicals 
+and water, unmasked by anything but the passage of time. The 
+walls are just utilitarian concrete: bare and cold and damp. A 
+murmuring of water pervades the air of the hallway, echoing off 
+the stone walls from deeper within the facility. This hallway 
+leads from east to west. A doorway sits in the northern wall, 
+with faded, unreadable letters stenciled above it. 
+~
+31 65544 11
+0
+D0
+~
+security-door~
+0 55228  0 31134
+D1
+~
+~
+0 -1  0 31106
+D3
+~
+~
+0 -1  0 31108
+S
+#31108
+A Circular Hallway~
+   This facility is reminiscent of a very old cave, a concrete 
+one at that. It smells musty and old, like eons-old chemicals 
+and water, unmasked by anything but the passage of time. The 
+walls are just utilitarian concrete: bare and cold and damp. A 
+murmuring of water pervades the air of the hallway, echoing off 
+the stone walls from deeper within the facility. This hallway 
+opens to a three-way intersection, with a doorway to an old 
+bathroom to the south; the door itself has long since been ripped 
+from its hinges. 
+~
+31 65544 11
+0
+D0
+~
+~
+0 -1  0 31121
+D1
+~
+~
+0 -1  0 31107
+D2
+~
+remove~
+0 -1  0 31110
+D3
+~
+~
+0 -1  0 31109
+S
+#31109
+The End of a Hallway~
+   This facility is reminiscent of a very old cave, a concrete 
+one at that. It smells musty and old, like eons-old chemicals 
+and water, unmasked by anything but the passage of time. The 
+walls are just utilitarian concrete: bare and cold and damp. A 
+murmuring of water pervades the air of the hallway, echoing off 
+the stone walls from deeper within the facility. Here the 
+hallway ends, with two doorways at either end. Above either door 
+are patches of the concrete less worn than the rest, in the vague 
+shape of letters, now unreadable. Scattered about the walls here 
+are pockmarks and bulletholes, the tell-tale remnants of a 
+long-ago gunfight. Here and there are stains of dull red, 
+perhaps blood. 
+   The door to the door to the southern room is missing, stripped 
+from its frame and hauled away. 
+~
+31 65544 11
+0
+D0
+~
+door~
+1 -1  0 31112
+D1
+~
+~
+0 -1  0 31108
+D2
+~
+security-door~
+0 55228  0 31111
+K
+105 0 90 999 0S
+#31110
+A Small, Cramped Bathroom~
+   Few of the tiles remain from what used to make up the flooring 
+of this tiny bathroom, but those that do are shattered and strewn 
+about the concrete floor. Pipes jut awkwardly out from the floor 
+and walls in some places: where the toilet and sink once stood. 
+To one side there is a raised platform, surrounded by panels of 
+cracked, cloudy glass: the shower room, yet the showerhead is 
+missing. 
+~
+31 65544 11
+0
+D0
+~
+off-white-door~
+0 -1  0 31108
+S
+#31111
+A Bullet-Ridden Little Room~
+   This room is small, cramped, and square, and almost completely 
+bare and it is clear there was heavy fighting here. The back 
+side of the wall is positively riddled with holes. It is also 
+pockmarked, mostly around around a deep black blastmark near the 
+door. 
+~
+31 65544 11
+0
+D0
+~
+security-door~
+0 55228  0 31109
+S
+#31112
+A Dreary, Utilitarian Barracks~
+   This walls of this room are just like all the others: that 
+cold, unfeeling concrete, yet in here they were, at one point no 
+doubt long ago, better kept in terms of cleanliness. Bunk beds 
+are bolted to the floor at random increments, and holes in the 
+floor suggest at one point they dominated the room. Bullet holes 
+are present here as well, as well as the odd casing or two left 
+forgotten in the corner. 
+~
+31 65544 11
+0
+D2
+~
+door~
+1 -1  0 31109
+S
+#31113
+A Run-Down, Cannibalized Lounge~
+   This square lounge looks designed to fit only ten people 
+comfortably at any one time. It has been completely 
+cannibalized, and poorly refurbished. The white polyprop that 
+were padded on the walls for some semblance of decoration has 
+been all but torn down, and only small strips here and there 
+remain stuck on the walls. Now, preserved heads of wildlife - 
+even a gray small horned lizard - litter the walls like an 
+afterthought. The red carpeted flooring, more of a puke-brown, 
+is torn and nonexistent at some portions and spotted with mold, 
+even. 
+~
+31 65544 11
+0
+D0
+~
+lounge-door~
+1 -1  0 31100
+S
+#31114
+Before a T-Intersection~
+   This facility is reminiscent of a very old cave, a concrete 
+one at that. It smells musty and old, like eons-old chemicals 
+and water, unmasked by anything but the passage of time. The 
+walls are just utilitarian concrete: bare and cold and damp. A 
+murmuring of water pervades the air of the hallway, echoing off 
+the stone walls from deeper within the facility. This circular 
+hallway opens to T-intersection: one way heading west, the other 
+heading east. 
+~
+31 65544 11
+0
+D1
+~
+~
+0 -1  0 31100
+D2
+~
+~
+0 -1  0 31116
+D3
+~
+~
+0 -1  0 31115
+S
+#31115
+The End of a Circular Hallway~
+   This facility is reminiscent of a very old cave, a concrete 
+one at that. It smells musty and old, like eons-old chemicals 
+and water, unmasked by anything but the passage of time. The 
+walls are just utilitarian concrete: bare and cold and damp. A 
+murmuring of water pervades the air of the hallway, echoing off 
+the stone walls from deeper within the facility. This circular 
+hallway ends at an old door, with faded, unreadable red lettering 
+above it. 
+~
+31 65544 11
+0
+D1
+~
+~
+0 -1  0 31114
+D2
+~
+faded-black door~
+1 55228  0 31117
+S
+#31116
+A Circular Hallway~
+   This facility is reminiscent of a very old cave, a concrete 
+one at that. It smells musty and old, like eons-old chemicals 
+and water, unmasked by anything but the passage of time. The 
+walls are just utilitarian concrete: bare and cold and damp. A 
+murmuring of water pervades the air of the hallway, echoing off 
+the stone walls from deeper within the facility. This circular 
+hallway leads from north to south. 
+~
+31 65544 11
+0
+D0
+~
+~
+0 -1  0 31114
+D2
+~
+~
+0 -1  0 31121
+S
+#31117
+A Wide and Damp Metal Room~
+   This room, unlike the others of the facility, is forged of 
+metal, now long rusted and, in some places, warped. A thin 
+coating of a slime-like substance coats the floor. Many pipes 
+and tubes, most rusted beyond repair and usefulness, run this way 
+and that, from wall to wall and floor to ceiling. The air is 
+heavy with humidity and a trickling of liquid can be heard 
+nearby, just audible over the constant murmur of water from 
+below. 
+~
+31 65544 11
+0
+D0
+~
+faded-black door~
+1 55228  0 31115
+D1
+~
+~
+0 -1  0 31119
+D2
+~
+~
+0 -1  0 31118
+S
+#31118
+A Wide and Damp Metal Room~
+   This room, unlike the others of the facility, is forged of 
+metal, now long rusted and, in some places, warped. A thin 
+coating of a slime-like substance coats the floor. Many pipes 
+and tubes, most rusted beyond repair and usefulness, run this way 
+and that, from wall to wall and floor to ceiling. The air is 
+heavy with humidity and a trickling of liquid can be heard 
+nearby, just audible over the constant murmur of water from 
+below. 
+~
+31 65544 11
+0
+D0
+~
+~
+0 -1  0 31117
+D1
+~
+~
+0 -1  0 31120
+S
+#31119
+A Wide and Damp Metal Room~
+   This room, unlike the others of the facility, is forged of 
+metal, now long rusted and, in some places, warped. A thin 
+coating of a slime-like substance coats the floor. Many pipes 
+and tubes, most rusted beyond repair and usefulness, run this way 
+and that, from wall to wall and floor to ceiling. The air is 
+heavy with humidity and a trickling of liquid can be heard 
+nearby, just audible over the constant murmur of water from 
+below. 
+~
+31 65544 11
+0
+D2
+~
+~
+0 -1  0 31120
+D3
+~
+~
+0 -1  0 31117
+S
+#31120
+A Wide and Damp Metal Room Before a Massive, Canabalized Generator~
+   This room, unlike the others of the facility, is forged of 
+metal, now long rusted and, in some places, warped. A thin 
+coating of a slime-like substance coats the floor. This portion 
+of the room is dominated by a huge cylindrical hunk of metal, 
+like a massive soda-can. It is now but a shell of iron-alloy, 
+rusted like everything else here, with but a few handfuls of 
+discarded, useless wiring or gears dropped in the puddle formed 
+in the base. A wire-mesh fence encircles the hulking thing, but 
+one side has collapsed, rendering it useless as far as blocking 
+any passage. Around it, dull red letters read "DANGER: HIGH 
+VOLTAGE" and a crimson control booth is stationed nearby. 
+~
+31 65544 28
+0
+D0
+~
+~
+0 -1  0 31119
+D3
+~
+~
+0 -1  0 31118
+S
+#31121
+At a Four-Way Intersection~
+   This facility is reminiscent of a very old cave, a concrete 
+one at that. It smells musty and old, like eons-old chemicals 
+and water, unmasked by anything but the passage of time. The 
+walls are just utilitarian concrete: bare and cold and damp. A 
+murmuring of water pervades the air of the hallway, echoing off 
+the stone walls from deeper within the facility. Here the 
+hallway opens to a four-way intersection. 
+~
+31 65544 11
+0
+D0
+~
+~
+0 -1  0 31116
+D1
+~
+~
+0 -1  0 31104
+D2
+~
+~
+0 -1  0 31108
+D3
+~
+~
+0 -1  0 31122
+S
+#31122
+A Circular, Drab Hallway~
+   This facility is reminiscent of a very old cave, a concrete 
+one at that. It smells musty and old, like eons-old chemicals 
+and water, unmasked by anything but the passage of time. The 
+walls are just utilitarian concrete: bare and cold and damp. A 
+murmuring of water pervades the air of the hallway, echoing off 
+the stone walls from deeper within the facility. This circular 
+hallway leads from east to west, with a door way set in the north 
+wall. 
+~
+31 65544 11
+0
+D0
+~
+faded-black door~
+1 55228  0 31123
+D1
+~
+~
+0 -1  0 31121
+D3
+~
+~
+0 -1  0 31124
+S
+#31123
+A Side Room with a Hatch to the Pipes Below~
+   This is a bare square side room, devoid of anything save for a 
+few rust-ridden pipes and ruined wiring scattered about the 
+floor. The word "MAITENANCE" is painted in faded red letters on 
+one wall. From the circular hatchway leading to the pipes below, 
+the loud murmur of running water issues forth, echoing loudly off 
+the walls. Mold and slime are patched here and there, though the 
+rungs of the rusted ladder to below are pratically coated with 
+the gunk. 
+~
+31 65544 28
+0
+D2
+~
+faded-black door~
+1 55228  0 31122
+D5
+~
+none~
+0 -1  0 31125
+K
+106 1 600 400 60S
+#31124
+Before an Archway and Ruined Blast-Doors~
+   This is a wide, open concrete room, and for good reason; a 
+huge archway looms to the east, where once two smooth, massively 
+thick blast doors, made of heavy iron-alloys, stood. Now but one 
+of the doors is swung open and mostly intact save for rust, but 
+the other has been blown down; the tell-tale black blastmarks of 
+explosive charges run up the side of both the door and the frame 
+where hinges used to hold the door in place. The entrance was at 
+one point armed and protected to the teeth, but now the catwalks 
+above have been cast to the ground, rust and strain having 
+damaged their supports too greatly, and only the base of what 
+were once gun turrets remain. 
+~
+31 65544 11
+0
+D1
+~
+~
+0 -1  0 31122
+D3
+~
+~
+0 -1  0 68135
+S
+#31125
+A Flooded Utility Pipe~
+   The rickety ladder descends into black, murky water, cold and 
+reeking of a foul odor -- not just excrement and mold, but a 
+stuffy, chemical-like smell. A questionable film of sludge coats 
+the surface of the water, only getting thicker on the walls. 
+~
+31 65544 20
+0
+D1
+~
+~
+0 -1  0 31126
+D4
+~
+metal-hatch~
+0 -1  0 31123
+K
+106 1 600 400 60S
+#31126
+A T-Intersection in a Flooded Utility Pipe~
+   Only about an inch or two at the very top of this tunnel is 
+clear of the black, murky water, cold and reeking of a foul odor 
+-- not just excrement and mold, but a stuffy, chemical-like 
+smell. A questionable film of sludge coats the surface of the 
+water, only getting thicker on the walls. Another pipe adjoins 
+to the main line here. 
+~
+31 65544 20
+0
+D1
+~
+~
+0 -1  0 31128
+D2
+~
+~
+0 -1  0 31127
+D3
+~
+~
+0 -1  0 31125
+K
+106 1 600 400 60S
+#31127
+The Main Outlet~
+   Only about an inch or two at the very top of this tunnel is 
+clear of the black, murky water, cold and reeking of a foul odor 
+-- not just excrement and mold, but a stuffy, chemical-like 
+smell. A questionable film of sludge coats the surface of the 
+water, only getting thicker on the walls. In the murky water, a 
+multitude of pipes seem to snake about here. 
+~
+31 65544 20
+0
+D0
+~
+~
+0 -1  0 31126
+K
+106 1 600 400 60S
+#31128
+A Curve in the Flooded Pipe~
+   The sewage pipe curves around in a lazy "L" shape here, 
+leading westward as the sewage beneath seems to almost clot as an 
+effect of it's slowing. 
+~
+31 65544 20
+0
+D0
+~
+~
+0 -1  0 31129
+D3
+~
+~
+0 -1  0 31126
+K
+106 1 600 400 60S
+#31129
+A Sludge-Flooded Sewage Pipe~
+   Only about an inch or two at the very top of this tunnel is 
+clear of the black, murky water, cold and reeking of a foul odor, 
+which downright assaults the nostrils here -- that is, if one 
+could raise their head into the inch or so of breathing room. A 
+questionable film of sludge coats the surface of the water, only 
+getting thicker on the walls. The floor is coated with a thick, 
+semi-solid layer of muck. 
+~
+31 65544 20
+0
+D0
+~
+~
+0 -1  0 31130
+D2
+~
+~
+0 -1  0 31128
+K
+106 1 600 400 60S
+#31130
+An Intersection in the Sewers~
+   Only about an inch or two at the very top of this tunnel is 
+clear of the black, murky water, cold and reeking of a foul odor, 
+which downright assaults the nostrils here -- that is, if one 
+could raise their head into the inch or so of breathing room. A 
+questionable film of sludge coats the surface of the water, only 
+getting thicker on the walls. The floor is coated with a thick, 
+semi-solid layer of muck, and in places this muck rises to the 
+point where a swimmer would need to be careful to avoid the 
+mounds. The pipe meets another running east and west here. 
+~
+31 65544 20
+0
+D1
+~
+~
+0 -1  0 31131
+D2
+~
+~
+0 -1  0 31129
+D3
+~
+~
+0 -1  0 31132
+K
+106 1 600 400 60K
+106 1 600 400 60S
+#31131
+A Destroyed Sewer Grate~
+   Raw sewage runs with the water, mold and abnormal growths all 
+along the walls on either side. The resulting density is 
+sludge-like, and swimming through this patch of the tunnel would 
+be quite a task, even for the most accomplished swimmers. A 
+ruined sewer grate sits to the east, blocking any passage that 
+way, but allowing a tiny trickle of light and fresh air inside. 
+The pipe continues on to the west, growing ever-darker. 
+~
+31 65544 20
+0
+D3
+~
+~
+0 -1  0 31130
+K
+106 1 600 400 60S
+#31132
+A Narrowing Section of Sewer Pipe~
+   The main sewage line begins to grow narrower hear as secondary 
+pipes suck away some of the waste to places unseen. Black water 
+streams swiftly, tugging everything every which way in the 
+current. 
+~
+31 65544 20
+0
+D1
+~
+~
+0 -1  0 31130
+D3
+~
+~
+0 -1  0 31133
+K
+106 1 600 400 60S
+#31133
+A Dead-End in the Sewers~
+   The pipe continues to grow narrower here before it ends, 
+connecting to an pipe above from which it would seem the majority 
+of the waste underfoot has fallen, allowing no passage further 
+into it's stinky depths. The ceiling raises here, and if one 
+were to climb the heap of sewage and garbage beneath the pipe, a 
+bit of air could be taken. Not fresh by any means, but air 
+nonetheless. The smell here is horrific. 
+~
+31 65544 0
+0
+D1
+~
+~
+0 -1  0 31132
+K
+106 1 600 400 60S
+#31134
+A Picked-apart Monitor Room~
+   This room is wide, and its walls are filled with black, 
+plastic shells of what used to be monitors, now that most, if not 
+all, of the electronic components have been torn away. A 
+circular metal desk sits in the middle of the room, with a few 
+more of the plastic husks arrayed around it. The concrete walls 
+are damp and musty, and the smell of mold here is overwhelming. 
+~
+31 65544 11
+0
+D2
+~
+security-door~
+0 55228  0 31107
+S
+#31135
+The Briefing Room~
+   The #9flashing red arrows#0 come to an immediate stop in this 
+room, replaced instead by a metallic floor coated with some sort 
+of light adhesive. Monitors and workstations adorn the walls all 
+around, flashing topographic imagery and photographic portraits. 
+In the center of the room sits #6an oval-shaped holographic 
+projector#0, a myriad of controls adorning it's side while an 
+image of #Ea large, rectangular facility sitting upon a 
+lakeshore#0 bursts forth from it's center with stark clarity. 
+~
+31 67174400 0
+0
+D1
+~
+Heavy-Security-Door~
+1 -1  0 31136
+P
+l loo lo look~
+proj project projector~
+vstr Green text flashes upon a touch-panel jutting out from the projector, displaying three options for selection: #AView Roof - View Main - View Sewers#0
+~
+P
+view~
+roof~
+atecho 31135 #6An oval-shaped holographic projector#0 whirs to life, displaying a diagram:
+atecho 31135
+atecho 31135 W = Watchtower
+atecho 31135 S = Stairwell to Main Floor
+atecho 31135 _____________________________
+atecho 31135 |------------------------#9S#0--|
+atecho 31135 |---------------------------|
+atecho 31135 |---------------------------|
+atecho 31135 |#9W#0--------------------------|
+atecho 31135 |___________________________|
+~
+P
+view~
+main~
+atecho 31135 #6An oval-shaped holographic projector#0 whirs to life, displaying a diagram:
+atecho 31135
+atecho 31135 #9Note: Intelligence Quality Questionable - Proceed with Caution#0
+atecho 31135 - = Hallway
+atecho 31135 S = Stairwell to Roof
+atecho 31135 M = Main Blast Door
+atecho 31135 W = Water Processing Facility/Power Generator
+atecho 31135 X = Security Mainframe
+atecho 31135 D = Dining Hall
+atecho 31135 E = Southeast Corner Perimeter Entrance
+atecho 31135 B = Barracks
+atecho 31135 L = Lounge
+atecho 31135 F = Facility Control/Access to Sewers
+atecho 31135 T = Suspected Target's Office (Estimate - Two Possibilities)
+atecho 31135 _______________________________________
+atecho 31135 --------------------------------------#9S#0
+atecho 31135 WWWWWWWWWWWWWWWWWWWW#0--LLLLLL--TTTTTTT--
+atecho 31135 WWWWWWWWWWWWWWWWWWWW#0--LLLLLL--TTTTTTT--
+atecho 31135 WWWWWWWWWWWWWWWWWWWW--LLLLLL--TTTTTTT--
+atecho 31135 FFFFFFFFFFFFFFFFFFFF--DDDDDDDDDDDDDDD--
+atecho 31135 FFFFFFFFFFFFFFFFFFFF--DDDDDDDDDDDDDDD--
+atecho 31135 #9M#0--------------------------------------
+atecho 31135 #9M#0--------------------------------------
+atecho 31135 BBBBBBBBBBBBBBBBBBBB--XXXXXXXXXXXXXXX--
+atecho 31135 BBBBBBBBBBBBBBBBBBBB--XXXXXXXXXXXXXXX--
+atecho 31135 BBBBBBBBBBBBBBBBBBBB--XXXXXXXXXXXXXXX--
+atecho 31135 BBBBBBBBBBBBBBBBBBBB--XXXXXXXXXXXXXXX--
+atecho 31135 ---------------------------------------
+atecho 31135 TTTTTTTTTTTTTTTTTTTT--BBBBBBBBBBBBBBB--
+atecho 31135 TTTTTTTTTTTTTTTTTTTT--BBBBBBBBBBBBBBB--
+atecho 31135 TTTTTTTTTTTTTTTTTTTT--BBBBBBBBBBBBBBB--
+atecho 31135 TTTTTTTTTTTTTTTTTTTT--BBBBBBBBBBBBBBB--
+atecho 31135 --------------------------------------#9E#0
+~
+P
+View~
+Sewers~
+atecho 31135 #6An oval-shaped holographic projector#0 whirs to life, displaying a diagram:
+atecho 31135
+atecho 31135 #9Note: Intelligence Quality Questionable - Proceed with Caution#0
+atecho 31135 
+atecho 31135 G = Sewer Grate Leading to the Lake
+atecho 31135 L = Ladder Up to Main Floor
+atecho 31135 - = Main Sewer Line
+atecho 31135  
+atecho 31135 #9L#0--------------------#9G#0
+~
+P
+select~
+air~
+force -1 -1 emote presses an option upon the oval-shaped holographic projector's control panel.  Suddenly a loud pop can be heard somewhere deep within the overhead ventilations shafts and a thick cloudy gas begins to fill the room.  Your senses whirl, confusion and deep slumber setting in...
+atecho 31135
+atecho 31135 After what seems like just the blink of an eye you come to your senses, awakening with surprising clarity.
+trans_group -1 31135 31140
+~
+P
+select~
+water~
+force -1 -1 emote presses an option upon the oval-shaped holographic projector's control panel.  Suddenly a loud pop can be heard somewhere deep within the overhead ventilations shafts and a thick cloudy gas begins to fill the room.  Your senses whirl, confusion and deep slumber setting in...
+atecho 31135
+atecho 31135 After what seems like just the blink of an eye you come to your senses, awakening with surprising clarity.
+trans_group -1 31135 31139
+~
+P
+select~
+land~
+force -1 -1 emote presses an option upon the oval-shaped holographic projector's control panel.  Suddenly a loud pop can be heard somewhere deep within the overhead ventilations shafts and a thick cloudy gas begins to fill the room.  Your senses whirl, confusion and deep slumber setting in...
+atecho 31135
+atecho 31135 After what seems like just the blink of an eye you come to your senses, awakening with surprising clarity.
+trans_group -1 31135 31157
+~
+S
+#31136
+A Wide Passageway~
+   Computer monitors are mounted in the corners of this hallway, 
+flashing images of vaguely recognizable figures in quick 
+succession. A low-humming noise fills the room from a source 
+unknown, tickling the senses akin to the annoying flitter of a 
+tiny insect landing upon an ear. The eastern wall is taken up by 
+a large dented mirror, a bloodstain smeared prominently across 
+it's front. Heavy pipes run along the length of the ceiling 
+before disappearing to the north and south. #9Red lights#0 
+underfoot flash arrows pointing westward. 
+~
+31 67174400 0
+0
+D0
+~
+Heavy-Security-Door~
+1 55228  0 31138
+D2
+~
+Cell-Door~
+1 55228  0 31137
+D3
+~
+Heavy-Security-Door~
+1 -1  0 31135
+S
+#31137
+A Celled Bunkroom~
+   Thick metal bars surround this barren room, harsh fluorescent 
+lighting beaming down from overhead casting flitting shadows 
+about the walls. A thinly-holed grate acts as a floor below, 
+leaving what lies beneath a mystery aside from the occasional 
+yelp or distant thud. A set of cots are bolted to the edges of 
+the room, their surfaces acknowleding little in the way of 
+comfort. #9Red lights#0 underfoot flash arrows pointing 
+northward. 
+~
+31 67174400 0
+0
+D0
+~
+Cell-Door~
+1 -1  0 31136
+S
+#31138
+New Room~
+   TEST TEST TEST 
+~
+31 65536 0
+0
+D2
+~
+Heavy-Security-Door~
+1 -1  0 31136
+S
+#31139
+A Gritty Shoreline~
+   A gritty shoreline casts itself from the north to the south 
+and far into the distance, beyond what is clearly visible in the 
+dim lighting of the night. Small shrubs and jagged rocks burst 
+forth seemingly at random from the ground beneath, repelling any 
+thoughts of peaceful respit on this hazardous shore. A large 
+matte-black rubber #6dinghy#0 bearing twin outboard motors sits 
+nearby, waiting to be #6launch#0ed into the vast lake. 
+~
+31 67174400 25
+0
+P
+launch drive~
+boat dinghy ship~
+atecho 31139 $n presses a small button upon the dinghy's rear control panel, a small puff of air bumping the vessel from beneath and sending it out to sea as the twin outboard motors purr to life.  A small message beeps to life on the dim LCD display, thin lines of green text reading, #A"Autopilot Engaged"#0.
+setval room 31139 name Aboard a Large Dinghy
+setval room 31139 desc Thick black hand-ropes line the rubberized edges of this vessel, polluted sludge washing over the rim every so often as errant waves collide. Twin outboard motors churn the waters behind the boat, a small LCD panel set directly to their left.
+setval room 31139 rdesc reformat
+delay 10 xdrive forward
+~
+P
+xdrive~
+forward~
+atecho 31139 The dinghy pushes out further out into the dark lake's waters, slime and sludge splashing on board as the motors slowly increase speed...
+setval room 31139 name Cruising Across the Lake Upon a Dinghy
+setval room 31139 desc Thick black hand-ropes line the rubberized edges of this vessel, polluted sludge washing over the rim every so often as errant waves collide. Twin outboard motors churn the waters behind the boat, a small LCD panel set directly to their left.  Black water covered by a seemingly endless layer of frothy film is all that is visible in dim night light, the occassional splash in the water hinting that you are not alone.
+setval room 31139 rdesc reformat
+delay 180 xxdrive forward
+~
+P
+xxdrive~
+forward~
+atecho 31139 Upon the western horizon the silhouette of a large factory-like building begins to take shape, a spotlight casting itself over the ground along it's perimeter.  The boat begins to slow, it's engines quieting to a mere whisper as it creeps forward.
+setval room 31139 name Nearing a Factory on the Horizon
+setval room 31139 desc Thick black hand-ropes line the rubberized edges of this vessel, polluted sludge washing over the rim every so often as errant waves collide. Twin outboard motors churn the waters behind the boat, a small LCD panel set directly to their left.The silhouette of a large factory sits upon the western horizon, growing ever closer as the waters beneath grow choppier.  A distant humming akin to a generator grows louder, the noise of distant movements accompanying it. 
+setval room 31139 rdesc reformat
+delay 60 xxxdrive forward
+~
+P
+xxxdrive~
+forward~
+atecho 31139 The dinghy slowly creeps up upon the factory, a sewage grate jutting out from the building's innards becoming visible just above the surface of the lake.  The motors come to a stand still, gently gliding the dinghy alongside the #6thick metal grate#0 leading into the pipes beyond.  The small LCD panel next to the outboard motors flashes, #A"Arrived at Destination"#0.
+setval room 31139 name Alongside a Sewer Grate
+setval room 31139 desc Thick black hand-ropes line the rubberized edges of this vessel, polluted sludge washing over the rim every so often as errant waves collide. Twin outboard motors are set in silence behind the boat, a small LCD panel set directly to their left.  To the west, a #6thick metal grate#0 blocks access to the sewers beyond.
+setval room 31139 rdesc reformat
+~
+P
+l lo loo look~
+grate grat~
+vstr The sewage grate is made of thick steel bars, chunky sludge pouring out from within.  Strong and sturdy, it would seem like only using demolitions charges would help you #6blast#0 the #6grate#0 away.
+~
+P
+blast~
+grate~
+info rvnum room -1 vnum 
+force -1 -1 emote plants *charge upon the barrier, looking over it's wires and inspecting the blasting cap before nodding and stepping aside.  After a few moments pass they press the trigger mechanism and the charge explodes, allowing entry within.
+if haso(-1,31047)
+take 31047 1
+link 31139 west 31131
+else do
+vstr You don't seem to have what is required to perform this action.
+fi done
+~
+S
+#31140
+Aboard an Anti-Grav Craft~
+   Heavy web cargo-netting lines the interior walls of this 
+aircraft, small metal seats poking out from the floor beneath. A 
+#6small computer monitor#0 sits tucked away near a heavy door 
+leading into the cockpit above. Air whips in through an open 
+port on the starboard side of the beneath, allowing a distant 
+view of the cloudy night-sky below. 
+~
+31 67174400 0
+0
+D0
+~
+Cockpit-Door~
+1 55228  0 31141
+P
+l lo loo look peer~
+computer monitor~
+vstr The computer monitor shows real-time scans of a factory-like building somewhere in the distance below, infrared readouts showing a human-like figure standing in a watchtower set on the roof.  Parachute flight paths are highlighted as the view becomes horizontal, displaying one option for the #6watchtower#0 set on the roof and one for a straight landing upon #6the factory roof#0 itself.
+~
+P
+link~
+chute parachute backpack~
+atecho 31140 $n presses a small button set upon the side of their tactical parachute, green text flashing upon #6a small computer monitor#0 set near the cockpit door, "#AParachute Linked - Flightpaths Programmed#0 - #6Parachute#0 to #6roof#0 or #6watchtower#0".
+~
+P
+launch aim jump parachute~
+roof rof roo~
+set random 1d50
+if (random=1)
+trans 31152
+vstr As you throw yourself from the safety of the plane a #9Red Emergency Light#0 flashes, the readout on a small lcd sewn into your parachute reading, "#AEquipment Malfunction - Abandon Hope#0, as you plummet into the darkness below.
+ostr $n jumps out of the launch door on the side of the aircraft, bright red text flashing on #6a small computer monitor#0, "#9Equipment Malfunction on Last Parachute Drop - Continue Mission#0".
+atlook 31152
+else do
+vstr As you plummet to the ground below, it becomes apparent that you should #APull Chute#0 if you have one.
+atlook 31151
+trans 31151
+atecho 31140 $n jumps out of the launch-door upon the side of the aircraft, plummeting to the ground below.
+fi done
+~
+P
+jump launch aim parachute~
+tower watchtower watch~
+set random 1d50
+if (random=1)
+trans 31152
+vstr As you throw yourself from the safety of the plane a #9Red Emergency Light#0 flashes, the readout on a small lcd sewn into your parachute reading, "#AEquipment Malfunction - Abandon Hope#0, as you plummet into the darkness below.
+ostr $n jumps out of the launch door on the side of the aircraft, bright red text flashing on #6a small computer monitor#0, "#9Equipment Malfunction on Last Parachute Drop - Continue Mission#0".
+atlook 31152
+else do
+vstr As you plummet to the ground below, it becomes apparent that you should #APull Chute#0 if you have one.
+atlook 31150
+trans 31150
+atecho 31140 $n jumps out of the launch-door upon the side of the aircraft, plummeting to the ground below.
+fi done
+~
+S
+#31141
+The Cockpit~
+No Description Set.
+~
+31 65536 0
+0
+D2
+~
+Cockpit-Door~
+1 -1  0 31140
+S
+#31142
+Along the Southern Perimeter~
+   This strip of moon plain is barricaded by a three feet thick 
+concrete wall and wire-mesh fencing. To the direct stands a 
+blocky concrete building, dwarfing everything around it and 
+rising to two stories tall. A low hum can be faintly heard from 
+within. The ground below is hard, like packed dirt. A small 
+staircase and a gray reinforced door leads inside the building. 
+~
+31 65536 25
+0
+D3
+~
+~
+0 -1  0 31143
+S
+#31143
+Along the Southern Perimeter~
+   This strip of moon plain is barricaded by a three feet thick 
+concrete wall and wire-mesh fencing. To the north stands a 
+blocky concrete building, rising to at least two stories tall. A 
+low hum can be faintly heard from within. The ground below is 
+hard, like packed dirt. 
+~
+31 65536 25
+0
+D1
+~
+~
+0 -1  0 31142
+D3
+~
+~
+0 -1  0 31144
+S
+#31144
+Along the Southern Perimeter~
+   This strip of moon plain is barricaded by a three feet thick 
+concrete wall and wire-mesh fencing. To the north stands a 
+blocky concrete building, rising to at least two stories tall. A 
+low hum can be faintly heard from within. The ground below is 
+hard, like packed dirt. 
+~
+31 65536 25
+0
+D1
+~
+~
+0 -1  0 31143
+D2
+~
+~
+0 -1  0 31145
+S
+#31145
+Along the Southern Perimeter~
+   This strip of moon plain is barricaded by a three feet thick 
+concrete wall and wire-mesh fencing. To the north stands a 
+blocky concrete building, rising to at least two stories tall. A 
+low hum can be faintly heard from within. The ground below is 
+hard, like packed dirt. 
+~
+31 65536 25
+0
+D0
+~
+~
+0 -1  0 31144
+D3
+~
+~
+0 -1  0 31146
+S
+#31146
+Along the Southern Perimeter~
+   This strip of moon plain is barricaded by a three feet thick 
+concrete wall and wire-mesh fencing. To the north stands a 
+blocky concrete building, rising to at least two stories tall. A 
+low hum can be faintly heard from within. The ground below is 
+hard, like packed dirt. 
+~
+31 65536 25
+0
+D1
+~
+~
+0 -1  0 31145
+D3
+~
+~
+0 -1  0 31147
+S
+#31147
+Along the Southern Perimeter~
+   This strip of moon plain is barricaded by a three feet thick 
+concrete wall and wire-mesh fencing. To the north stands a 
+blocky concrete building, rising to at least two stories tall. A 
+low hum can be faintly heard from within. The ground below is 
+hard, like packed dirt. 
+~
+31 65536 25
+0
+D0
+~
+~
+0 -1  0 31148
+D1
+~
+~
+0 -1  0 31146
+S
+#31148
+Along the Southern Perimeter~
+   This strip of moon plain is barricaded by a three feet thick 
+concrete wall and wire-mesh fencing. To the north stands a 
+blocky concrete building, rising to at least two stories tall. A 
+low hum can be faintly heard from within. The ground below is 
+hard, like packed dirt. An opening can be seen directly to the 
+north, and the vague shape of massive double doors. 
+~
+31 65536 25
+0
+D0
+~
+~
+0 -1  0 31149
+D2
+~
+~
+0 -1  0 31147
+S
+#31149
+Before Massive Double-Doors~
+   The concrete wall abates slightly, allowing more room for what 
+seems to be the main entrance. Smooth gray double doors bar 
+entrance into the building to the east, and it is not without 
+protection - huge klaxons and swiveling gun turrets are stationed 
+around it. There is a tall black security booth to the left of 
+the double blast doors. 
+~
+31 65536 25
+0
+D2
+~
+~
+0 -1  0 31148
+S
+#31150
+Plummeting Towards the Ground Below~
+   Darkness casts itself into a blur as air whips by you, the 
+fruits of your speedy descent towards the ground below. The 
+occassional burst of wind shifts your flight path here and there, 
+the stifling cold wrought by the high-altitude chilling you to 
+your bones. It would seem the only way to stop your speedy fall 
+would be to #6pull#0 a #6parachute#0 cord. 
+~
+31 67174400 25
+0
+P
+use pull~
+chute parachute ring cord~
+info rvnum room -1 vnum 
+if haso(-1,31046)
+vstr Your tactical parachute bursts forth from within it's pressure casing, slowing your descent as you glide swiftly towards #6a watchtower#0 set upon the factory roof below.  As you land a low humming sound is emitted from within your backpack, the parachute coiling and wrapping itself up within it's casing.
+atlook 31097
+atecho 31097 As $n lands, their parachute emits a low humming soun, the chute itself coiling back up before sealing itself within it's casing.
+trans 31097
+atecho 31150 $n 's tactical parachute bursts open, slowing their descent as they glide towards #6a watchtower#0 set upon the factory rooftop below.
+else do
+vstr You don't seem to have a parachute.  Now that's a bad day.
+atlook 31152
+trans 31152
+fi done
+~
+S
+#31151
+Plummeting Towards the Ground Below~
+   Darkness casts itself into a blur as air whips by you, the 
+fruits of your speedy descent towards the ground below. The 
+occassional burst of wind shifts your flight path here and there, 
+the stifling cold wrought by the high-altitude chilling you to 
+your bones. It would seem the only way to stop your speedy fall 
+would be to #6pull#0 a #6parachute#0 cord. 
+~
+31 67174400 25
+0
+P
+pull use~
+chute parachute ring cord~
+info rvnum room -1 vnum 
+if haso(-1,31046)
+vstr Your tactical parachute bursts forth from within it's pressure casing, slowing your descent as you glide swiftly towards #6a watchtower#0 set upon the factory roof below.  As you land a low humming sound is emitted from within your backpack, the parachute coiling and wrapping itself up within it's casing.
+atlook 31092
+atecho 31092 As $n lands, their parachute emits a low humming soun, the chute itself coiling back up before sealing itself within it's casing.
+trans 31092
+atecho 31151 $n 's tactical parachute bursts open, slowing their descent as they glide towards #6a watchtower#0 set upon the factory rooftop below.
+else do
+vstr You don't seem to have a parachute.  Now that's a bad day.
+atlook 31152
+trans 31152
+fi done
+~
+S
+#31152
+Plummeting Towards the Ground Below~
+   Darkness casts itself into a blur as air whips by you, the 
+fruits of your speedy descent towards the lake below. The 
+occassional burst of wind shifts your flight path here and there, 
+the stifling cold wrought by the high altitude chilling you to 
+your bones. It would seem the only way to stop your speedy fall 
+would be to #6pull#0 a #6parachute#0 cord. 
+~
+31 67175424 25
+0
+D5
+~
+~
+0 -1  0 31154
+P
+pu pul pull~
+chute parachute backpack~
+vstr Bright red text flashes on an LCD panel sewn into your right shoulder strap, "#9Equipment Malfunction - Abandon All Hope#0".
+~
+S
+#31153
+In the Frigid Waters of a Sludge-Infused Lake~
+   Icy water surrounds you, a layer of film and sludge bubbling 
+to the surface and unleashing all manner of unspeakable odors. 
+The water is thick, and the darkness is unbreakable - there is no 
+land or safety in sight... 
+~
+31 67174400 20
+0
+S
+#31154
+Plummeting Towards the Ground Below~
+   Darkness casts itself into a blur as air whips by you, the 
+fruits of your speedy descent towards the lake below. The 
+occassional burst of wind shifts your flight path here and there, 
+the stifling cold wrought by the high altitude chilling you to 
+your bones. It would seem the only way to stop your speedy fall 
+would be to #6pull#0 a #6parachute#0 cord. 
+~
+31 67175424 25
+0
+D4
+~
+~
+0 -1  0 31152
+D5
+~
+~
+0 -1  0 31155
+P
+pull use~
+parachute chute ring cord~
+vstr Bright red text flashes on an LCD panel sewn into your right shoulder strap, "#9Equipment Malfunction - Abandon All Hope#0".
+~
+S
+#31155
+Plummeting Towards the Ground Below~
+   Darkness casts itself into a blur as air whips by you, the 
+fruits of your speedy descent towards the lake below. The 
+occassional burst of wind shifts your flight path here and there, 
+the stifling cold wrought by the high altitude chilling you to 
+your bones. It would seem the only way to stop your speedy fall 
+would be to #6pull#0 a #6parachute#0 cord. 
+~
+31 67175424 25
+0
+D4
+~
+~
+0 -1  0 31154
+D5
+~
+~
+0 -1  0 31156
+P
+pull use~
+parachute chute ring cord~
+vstr Bright red text flashes on an LCD panel sewn into your right shoulder strap, "#9Equipment Malfunction - Abandon All Hope#0".
+~
+S
+#31156
+Plummeting Towards the Ground Below~
+   Darkness casts itself into a blur as air whips by you, the 
+fruits of your speedy descent towards the lake below. The 
+occassional burst of wind shifts your flight path here and there, 
+the stifling cold wrought by the high altitude chilling you to 
+your bones. It would seem the only way to stop your speedy fall 
+would be to #6pull#0 a #6parachute#0 cord. 
+~
+31 67175424 25
+0
+D5
+~
+~
+0 -1  0 31092
+P
+pull use~
+parachute chute ring cord~
+vstr Bright red text flashes on an LCD panel sewn into your right shoulder strap, "#9Equipment Malfunction - Abandon All Hope#0".
+~
+S
+#31157
+Grappling Over the Wall~
+   Just before a thick concrete wall, about ten feet high, a 
+looming facility can be seen to the north. 
+~
+31 65536 25
+0
+P
+fire use~
+grappling hook gas-powered gas~
+if haso(-1,31042)
+force -1 -1 emote hefts *grappling in their hands, aiming it in an arch over the wall and gently squeezing the trigger.  The hook shoots out and over the wall and, after a few tugs back, the hook snags on something unseen.
+atecho 31157
+force -1 -1 emote allows *grappling to hang freely upon the wall, allowing access up and over.
+take 31042 1
+exit 31157 up 31146
+else do
+vstr You don't seem to have the right object for this action.
+~
+S
+#31158
+NP Merc Prep Room~
+Prepping New Phoenix Mercs.
+~
+31 65536 0
+0
+D1
+~
+~
+0 -1  0 31124
+S
 $~

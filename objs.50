@@ -1,1 +1,4456 @@
+#50900
+prog dust token DECKTHREE OTHER~
+an invisible dust token~
+An invisible dust token is here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50901
+prog nodust token DECKTHREE OTHER~
+an invisible nodust token~
+An invisible nodust token is here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 24 50900 0 0 0 0
+God~
+God~
+#50902
+prog doorpipe token DECKTHREE OTHER~
+a bent steel pipe jutting through a door~
+A bent steel pipe juts through the southern door, preventing passage.~
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50322
+keycard black photo identification xChiefOfSurgeryx OTHER~
+a black keycard with photo identification~
+A black keycard with photo identification lies here, forlorn.~
+   This small, black photo-identification keycard is rectangular 
+in shape and made entirely out of a plastic alloy. In the upper 
+lefthand corner is a small photo of an attractive middle-aged man 
+with a confident smile and neatly-groomed gray hair. Beneath the 
+photo are the words, "Zager Evans, M.D., Chief of Surgery". 
+There is a crest in the background of the keycard, when it is 
+turned a certain way in the light, showing a giant bird wrapping 
+its wings around a gray sphere. On the back of the card is a 
+magnetic strip, to be utilized with a scanner. 
+~
+18 4096 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50500
+bathtub clawfoot white xCAPTAINx CERAMIC~
+a white, clawfoot bathtub~
+A white, clawfoot bathtub stands in the center of the room.~
+   This grand bathtub has been crafted of enameled steel and sits 
+on four claw feet, gold and bronze. It is clean and its faucet 
+shows no sign of corrosion or wear. Two handles, one marked H 
+and the other C, sit to either side of its tap. 
+~
+17 2101248 0
+50 0 0 0
+10000 0.000000
+0 0 1 0 90 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50501
+counter white long xCAPTAINx CERAMIC~
+a long, white counter against the wall~
+A long, white-topped counter runs along the portside wall.~
+   This long, elegant counter sits back against the portside wall 
+of the bathroom and rises just short of chest-high. A steel 
+washbasin has been set centered in it, and pipes run from it 
+(hidden away within the counter itself) to the floor. It has a 
+flaring, graceful steel faucet, two handles for adjusting water 
+temperature, and two drawers at either end of it. 
+~
+15 4096 0
+1000 0 -1 0
+9000 0.000000
+0 0 0 0 90 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50502
+bed king-sized downy white comforter xCAPTAINx TEXTILE~
+a king-sized bed with a downy, white comforter~
+A king-sized bed with a white comforter stands in the center of the room.~
+   A rarity in space, this king-sized bed has been placed center 
+in the as equally excessive room, and made up with fine linen and 
+a downy-stuffed comforter. Curiously enough, the fabric appears 
+to be attached to the bed in some way as to render it impossible 
+to remove from the bed without ripping, or cutting: it is as much 
+a part of the bed as the mattress is, and it has all been 
+soldered to the floor in some fashion, preventing it from moving. 
+~
+15 4096 0
+2000 0 -1 0
+50000 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50503
+desk hardwood stained squat xCAPTAINOFFICEx WOOD~
+a squat, stained plastic desk~
+A squat, stained plastic desk dominates this small office.~
+   This sturdy desk is squat and large, almost frog-like, and 
+takes up most of the space in the small room. It is made 
+entirely of darkly stained plastic, looks to have been elegantly 
+constructed, and has brass trim and drawer knobs. A chair has 
+been drawn up to either side of it, the more expensive of the two 
+similar in many ways to an old, leather wingback. 
+~
+15 2101248 0
+4000 0 -1 0
+300 0.000000
+0 0 2 0 90 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50504
+spacesuit discoloured hanging corpse xAnaisx xSOUP_IN_A_SUITx OTHER~
+a hanging, discoloured spacesuit, heavy with something~
+A discoloured spacesuit dangles from a rope tied about its collared neck.~
+   At first glance, this spacesuit looks merely old and ill-used. 
+It has been completely assembled, all parts clasped and clipped 
+into place and its helmet fastened, bolted to its collared neck. 
+It resembles in many ways a human suicide: hanging from a noose 
+tied to the showerhead in the ceiling, dangling obscenely inches 
+off the floor. On closer examination, however, it becomes 
+macabrely obvious that, far from just resembling a suicide, it is 
+in fact one - pressed up against the faceplate of its helmet are 
+the remains of a mummifying human face, its teeth jutting and 
+yellow. Most tissue, with exception of parts of the face and 
+forehead, has sluiced away and pools in a congealed mass in the 
+boots and legs of the spacesuit. Most of the smell, however, is 
+contained within the sealed spacesuit. 
+~
+12 4096 0
+0 0 0 0
+25000 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50505
+table square $color0 PLASTIC~
+a square table of shiny $color0 plastic~
+A small square table of shiny $color0 plastic sits here.~
+This square $color table is made of hard plastic, and stands to the height of an average man's waist. Supported by black metal bars that expand into wide bell-like feet, it is stable and utilitarian. It is not particularly large, and seats only one person per side. The only source of ornamentation are lifted edge-frames, etched with ivory-white vines. Four plastic black chairs flank each side of the table.
+~
+15 35655680 0
+15000 0 -1 0
+1500 0.000000
+0 0 4 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50506
+chair battered warped xNOGRAVITYx METAL~
+a battered, metal chair floating past~
+A battered, warped metal chair drifts past here.~
+   Without gravity to hold it in place, or screws, this metal 
+chair floats serenely by. In stark contrast to its gentle glide, 
+much of the chair has been battered or warped and it is, as a 
+chair, barely recognizable. 
+~
+12 4096 1
+0 0 0 0
+1500 0.000000
+0 0 0 0 5 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50507
+finished deep mahogany wardrobe TEXTILE~
+a finished, deep mahogany wardrobe~
+A finished, deep mahogany wardrobe stands here near the fore window.~
+   This expensive wardrobe has been made entirely out of a 
+dark-coloured hardwood and finished with a thin coat of polish. 
+It has many drawers and two large doors, the space within 
+suitable for storing clothes. All knobs and handles on this 
+piece of furniture are made of some kind of shiny metal. 
+~
+15 4096 0
+10000 1 -1 0
+10000 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50200
+keycard black photo identification xTECHNICIAN_DECK2x OTHER~
+a black keycard with photo identification~
+A black keycard with photo identification lies here, forlorn.~
+   This small, black photo-identification keycard is rectangular 
+in shape and made entirely out of a plastic alloy. In the upper 
+lefthand corner is a small photo of a lanky young man with an 
+uneasy, awkward smile. Beneath the photo are the words, "George 
+Freeman, Technician Fifth Grade". There is a crest in the 
+background of the keycard, when it is turned a certain way in the 
+light, showing a giant bird wrapping its wings around a gray 
+sphere. On the back of the card is a magnetic strip, to be 
+utilized with a scanner. 
+~
+18 4096 1
+0 0 0 0
+10 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50508
+shirt linen white pressed stiff collar TEXTILE~
+a pressed, white linen shirt with a stiff collar~
+A white linen shirt lies here, starched and pressed.~
+   This white linen shirt has been starched and pressed, is 
+absolutely free from wrinkles, and has a high, stiff collar. It 
+is sleeved, the sleeves extending to mid upper arm, and has a 
+breast pocket and button-up front. 
+~
+11 4096 9
+0 0 0 0
+80 0.000000
+0 0 0 0 100 0 0 1
+180.000000 0 0 0 0 0 0
+God~
+God~
+#50509
+pants dress black tailored TEXTILE~
+a tailored pair of black dress pants~
+A pair of black, tailored dress pants is piled here.~
+   This pair of black dress pants has been tailored and made from 
+a woolen twill, the diagonal weave accentuating the straight legs 
+and cuffed bottoms of the piece. There are two buttons closing 
+the front, and a plain, brass-coloured zipper. 
+~
+11 4096 33
+0 0 0 0
+100 0.000000
+0 0 0 0 100 0 0 1
+280.000000 0 0 0 0 0 0
+God~
+God~
+#50510
+belt patent leather tooled LEATHER~
+a tooled, patent leather belt~
+A tooled, patent leather belt lies here.~
+   This faux leather belt has been darkly stained and tooled 
+elaborately. It has a polished bronze buckle attached to it, 
+with silver accents. 
+~
+11 4096 2049
+0 0 0 0
+100 0.000000
+0 0 0 0 100 0 0 1
+15.000000 0 0 0 0 0 0
+God~
+God~
+#50511
+these used to be boots OTHER~
+officer boots~
+officer boots are hur~
+   This pair of black leather parade boots have been made for 
+show, and not practicality - they are clearly part of a dress 
+uniform and have a decidedly military feel to them. They are 
+well polished and glossy, made of real, black leather and end 
+just below the knee. They lace up; the laces are also black. 
+~
+11 4096 64
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+45.000000 0 0 0 0 0 0
+God~
+God~
+#50512
+keycard black photo identification xCAPTAINONLYx OTHER~
+a black keycard with photo identification~
+A black keycard with photo identification lies here, forlorn.~
+   This small, black photo-identification keycard is rectangular 
+in shape and made entirely out of a plastic alloy. In the upper 
+lefthand corner is a small photo of a grizzled old man with 
+shining black eyes. Beneath the photo are the words, "Vladimir 
+Rasputin, Captain". There is a crest in the background of the 
+keycard, when it is turned a certain way in the light, showing a 
+giant bird wrapping its wings around a gray sphere. On the back 
+of the card is a magnetic strip, to be utilized with a scanner. 
+~
+18 4096 1
+0 0 0 0
+10 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50513
+overcoat snug dark-brown leather LEATHER~
+a snug, dark-brown leather overcoat~
+A snug, dark-brown leather overcoat lies here in a heap.~
+   This leather overcoat is a deep, rich brown and supple, and 
+falls to about mid-thigh. It may be buttoned up along the front 
+and has wide, flaring lapels. A small phoenix, its fiery wings 
+encircling a gray sphere, has been emblazoned on the left breast. 
+It is long-sleeved. 
+~
+11 4096 1025
+0 0 0 0
+200 0.000000
+0 0 0 0 100 0 0 1
+220.000000 0 0 0 0 0 0
+God~
+God~
+#50000
+crate large rations PLASTIC~
+a large crate filled with rations~
+A large crate filled with rations is here.~
+   This crate is made of some sort of plastic-like material that 
+is a slightly-translucent blue in color. Within, many bags can 
+be seen. It is bolted shut with plastic bolts and requires tools 
+to be opened. 
+~
+20 0 1
+0 0 0 0
+15000 0.000000
+0 0 0 0 100 0 0 1
+500.000000 0 0 0 0 0 0
+God~
+God~
+#50001
+crate rations PLASTIC~
+a crate filled with rations~
+A crate filled with rations is here.~
+   This crate is made of some sort of plastic-like material that 
+is a slightly-translucent blue in color. Within, a few bags can 
+be seen. It is bolted shut with plastic bolts and requires tools 
+to be opened. 
+~
+20 0 1
+0 0 0 0
+7500 0.000000
+0 0 0 0 100 2 0 1
+250.000000 0 0 0 0 0 0
+God~
+God~
+#50002
+crate small rations OTHER~
+a small crate filled with rations~
+A small crate filled with rations is here, unopened.~
+   This crate is made of some sort of plastic-like material that 
+is a slightly-translucent blue in color. Within, a few bags can 
+be seen. It is bolted shut with plastic bolts and requires tools 
+to be opened. 
+~
+20 0 1
+0 0 0 0
+3750 0.000000
+0 0 0 0 100 2 0 1
+100.000000 0 0 0 0 0 0
+God~
+God~
+#50003
+bag rations cloth OTHER~
+a cloth bag full of rations~
+A cloth bag full of rations lies here, a few cans spilling out.~
+   This cloth bag is made from a synthetic fabric that seems to 
+be stain-resistance and very hardy, stretching somewhat to 
+accomodate things within. It clanks with the sound of metal when 
+moved. 
+~
+20 0 1
+0 0 0 0
+375 0.000000
+0 0 0 0 100 2 0 1
+10.000000 0 0 0 0 0 0
+God~
+God~
+#50004
+cube food maleable small SHIPFOOD OTHER~
+a small, maleable food cube~
+A small, maleable food cube has been left here.~
+   This cube is small and a dull grey in color. It is easily 
+squished out of shape between one's fingers and has no distinct 
+smell. 
+~
+19 4096 1
+1 3 0 0
+10 0.000000
+0 0 
+dense~
+0 100 258 0 1
+0.500000 0 0 0 0 0 0
+God~
+God~
+#50005
+packet mashed potatoes gravy paper small SHIPFOOD OTHER~
+a paper packet labeled 'Mashed Potatoes and Gravy'~
+A small, paper packet lies on the ground labeled 'Mashed Potatoes and Gravy.'~
+   This flavor packet is encased in paper. It is white with 
+large, red lettering that reads "Mashed Potatoes and Gravy" and 
+when opened, it contains a brown and white, powdered substance 
+within. 
+~
+12 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 100 2 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50006
+packet eggs scrambled bacon  paper SHIPFOOD OTHER~
+a paper packet labeled 'Scrambled Eggs and Bacon'~
+A small, paper packet lies on the ground labeled 'Scrambled Eggs and Bacon.'~
+   This flavor packet is encased in paper. It is white with 
+large, red lettering that reads "Scrambled Eggs and Bacon," and 
+when opened, it contains a yellow, powdered substance within with 
+specks of reddish-brown. 
+~
+12 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 100 2 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50007
+packet roasted turkey cranberry sauce paper SHIPFOOD OTHER~
+a paper packet labeled 'Roasted Turkey with Cranberry Sauce'~
+A small, paper packet lies on the ground labeled 'Roasted Turkey with Cranberry Sauce.'~
+   This flavor packet is encased in paper. It is white with 
+large, red lettering that reads "Roasted Turkey with Cranberry 
+Sauce" and when opened, it contains off-white and dark-red powder 
+within, mixed together. 
+~
+12 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 100 2 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50008
+packet steak well done paper SHIPFOOD OTHER~
+a paper packet labeled 'Steak (Well-Done)'~
+A small, paper packet lies on the ground labeled 'Steak (Well-Done).'~
+   This flavor packet is encased in paper. It is white with 
+large, red lettering that reads "Steak (Well-Done) and when 
+opened, it contains a dark-brown powder substance. 
+~
+12 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 100 2 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50009
+packet garden salad paper SHIPFOOD OTHER~
+a paper packet labeled 'Garden Salad'~
+A small, paper packet lies on the ground labeled 'Garden Salad.'~
+   This flavor packet is encased in paper. It is white with 
+large, red lettering that reads "Garden Salad" and when opened, 
+it contains a greenish powder. 
+~
+12 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 100 2 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50010
+packet spaghetti meatballs paper SHIPFOOD OTHER~
+a paper packet labeled 'Spaghetti and Meatballs'~
+A small, paper packet lies on the ground labeled 'Spaghetti and Meatballs.'~
+   This flavor packet is encased in paper. It is white with 
+large, red lettering that reads "Spaghetti and Meatballs" and 
+when opened, it contains a mixture of off-white and red powder. 
+~
+12 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 100 2 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50011
+packet cheeseburger and fries paper SHIPFOOD OTHER~
+a paper packet labeled 'Cheeseburger and Fries'~
+A small, paper packet lies on the ground labeled 'Cheeseburger and Fries.'~
+   This flavor packet is encased in paper. It is white with 
+large, red lettering that reads "Cheeseburger and Fries" and when 
+opened, it contains a powdery substance of brown and yellowish 
+tones. 
+~
+12 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 100 2 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50013
+packet steamed vegetables paper SHIPFOOD OTHER~
+a paper packet labeled 'Steamed Vegetables'~
+A small, paper packet lies on the ground labeled 'Steamed Vegetables.'~
+   This flavor packet is encased in paper. It is white with 
+large, red lettering that reads "Steamed Vegetables" and when 
+opened, it contains a mixture of greenish, powdery substances. 
+~
+12 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 100 2 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50014
+packet broiled fish paper SHIPFOOD OTHER~
+a paper packet labeled 'Broiled Fish'~
+A small, paper packet lies on the ground labeled 'Broiled Fish.'~
+   This flavor packet is encased in paper. It is white with 
+large, red lettering that reads "Broiled Fish" and when opened, 
+it contains an pink, powdery substance. 
+~
+12 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 100 2 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50015
+packet rotisserie style chicken paper SHIPFOOD OTHER~
+a paper packet labeled 'Rotisserie-Style Chicken'~
+A small, paper packet lies on the ground labeled 'Rotisserie-Style Chicken.'~
+   This flavor packet is encased in paper. It is white with 
+large, red lettering that reads "Rotisserie-Style Chicken" and 
+when opened, it contains a powdery substance in a variety of 
+colors from off-white to reds, greens, and browns. 
+~
+12 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 100 2 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50012
+can ration mashed potatoes gravy ribbed labelled METAL~
+a ribbed can labeled 'Mashed Potatoes and Gravy'~
+A ribbed can labeled 'Mashed Potatoes and Gravy' lies here.~
+   This can is made of some thin, metal alloy that is quite 
+lightweight but easily dented. The lid can be popped off just by 
+squeezing around the can lightly and a sticker has been applied 
+to the top that reads "Mashed Potatoes and Gravy." 
+~
+20 0 1
+0 0 0 0
+30 0.000000
+0 0 0 0 100 2 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#50016
+can ration roasted turkey cranberry sauce ribbed labelled METAL~
+a ribbed can labeled 'Roasted Turkey with Cranberry Sauce'~
+A ribbed can labeled 'Roasted Turkey with Cranberry Sauce' lies here.~
+   This can is made of some thin, metal alloy that is quite 
+lightweight but easily dented. The lid can be popped off just by 
+squeezing around the can lightly and a sticker has been applied 
+to the top that reads "Roasted Turkey with Cranberry Sauce." 
+~
+20 0 1
+0 0 0 0
+30 0.000000
+0 0 0 0 100 2 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#50017
+can ration steak well done ribbed labelled METAL~
+a ribbed can labeled 'Steak (Well-Done)'~
+A ribbed can labeled 'Steak (Well-Done)' lies here.~
+   This can is made of some thin, metal alloy that is quite 
+lightweight but easily dented. The lid can be popped off just by 
+squeezing around the can lightly and a sticker has been applied 
+to the top that reads "Steak (Well-Done)." 
+~
+20 0 1
+0 0 0 0
+30 0.000000
+0 0 0 0 100 2 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#50018
+can ration garden salad ribbed labelled METAL~
+a ribbed can labeled 'Garden Salad'~
+A ribbed can labeled 'Garden Salad' lies here.~
+   This can is made of some thin, metal alloy that is quite 
+lightweight but easily dented. The lid can be popped off just by 
+squeezing around the can lightly and a sticker has been applied 
+to the top that reads "Garden Salad." 
+~
+20 0 1
+0 0 0 0
+30 0.000000
+0 0 0 0 100 2 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#50019
+can ration spaghetti meatballs ribbed labelled METAL~
+a ribbed can labeled 'Spaghetti and Meatballs'~
+A ribbed can labeled 'Spaghetti and Meatballs' lies here.~
+   This can is made of some thin, metal alloy that is quite 
+lightweight but easily dented. The lid can be popped off just by 
+squeezing around the can lightly and a sticker has been applied 
+to the top that reads "Spaghetti and Meatballs." 
+~
+20 0 1
+0 0 0 0
+30 0.000000
+0 0 0 0 100 2 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#50020
+can ration cheeseburger and fries ribbed labelled METAL~
+a ribbed can labeled 'Cheeseburger and Fries'~
+A ribbed can labeled 'Cheeseburger and Fries' lies here.~
+   This can is made of some thin, metal alloy that is quite 
+lightweight but easily dented. The lid can be popped off just by 
+squeezing around the can lightly and a sticker has been applied 
+to the top that reads "Cheeseburger and Fries." 
+~
+20 0 1
+0 0 0 0
+30 0.000000
+0 0 0 0 100 2 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#50021
+can ration steamed vegetables ribbed labelled METAL~
+a ribbed can labeled 'Steamed Vegetables'~
+A ribbed can labeled 'Steamed Vegetables' lies here.~
+   This can is made of some thin, metal alloy that is quite 
+lightweight but easily dented. The lid can be popped off just by 
+squeezing around the can lightly and a sticker has been applied 
+to the top that reads "Steamed Vegetables." 
+~
+20 0 1
+0 0 0 0
+30 0.000000
+0 0 0 0 100 2 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#50022
+can ration broiled fish ribbed labelled METAL~
+a ribbed can labeled 'Broiled Fish'~
+A ribbed can labeled 'Broiled Fish' lies here.~
+   This can is made of some thin, metal alloy that is quite 
+lightweight but easily dented. The lid can be popped off just by 
+squeezing around the can lightly and a sticker has been applied 
+to the top that reads "Broiled Fish." 
+~
+20 0 1
+0 0 0 0
+30 0.000000
+0 0 0 0 100 2 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#50023
+can ration rotisserie style chicken ribbed labelled METAL~
+a ribbed can labeled 'Rotisserie-Style Chicken'~
+A ribbed can labeled 'Rotisserie-Style Chicken' lies here.~
+   This can is made of some thin, metal alloy that is quite 
+lightweight but easily dented. The lid can be popped off just by 
+squeezing around the can lightly and a sticker has been applied 
+to the top that reads "Rotisserie-Syle Chicken." 
+~
+20 0 1
+0 0 0 0
+30 0.000000
+0 0 0 0 100 2 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#50024
+can ration eggs scrambled bacon ribbed labelled METAL~
+a ribbed can labeled 'Scrambled Eggs and Bacon'~
+A ribbed can labeled 'Scrambled Eggs and Bacon' lies here.~
+   This can is made of some thin, metal alloy that is quite 
+lightweight but easily dented. The lid can be popped off just by 
+squeezing around the can lightly and a sticker has been applied 
+to the top that reads "Scrambled Eggs and Bacon." 
+~
+20 0 1
+0 0 0 0
+30 0.000000
+0 0 0 0 100 2 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#50025
+food lump ivory brown SHIPFOOD OTHER~
+a lump of ivory and brown food~
+A lump of ivory and brown food has been left here.~
+   This ration of food is colored in patches of brown and ivory. 
+It has been freshly-made and has a bread-like texture. 
+~
+19 4096 1
+6 3 0 0
+10 0.000000
+0 0 
+dense~
+0 100 514 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50026
+food lump white red SHIPFOOD OTHER~
+a lump of white and red food~
+A lump of white and red food has been left here.~
+   This ration of food is colored in patches of red and white. 
+It has been freshly-made and has a bread-like texture. 
+~
+19 4096 1
+6 3 0 0
+10 0.000000
+0 0 
+dense~
+0 100 514 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50027
+food lump dark brown SHIPFOOD OTHER~
+a lump of dark brown food~
+A lump of dark brown food has been left here.~
+   This ration of food is colored in patches of brown and ivory. 
+It has been freshly-made and has a bread-like texture. 
+~
+19 4096 1
+6 3 0 0
+10 0.000000
+0 0 
+dense~
+0 100 514 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50028
+food lump cold greenish SHIPFOOD OTHER~
+a cold lump of greenish food~
+A cold lump of greenish food has been left here.~
+   This ration of food is colored in shades of green. It has 
+been freshly-made but is cold, rather than hot, and has a 
+bread-like texure. 
+~
+19 4096 1
+6 3 0 0
+10 0.000000
+0 0 
+dense~
+0 100 514 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50029
+food lump off-white red SHIPFOOD OTHER~
+a lump of off-white and red food~
+A lump of off-white and red food has been left here.~
+   This ration of food is colored in in patches of off-white and 
+red color. It has been freshly-made and has a bread-like 
+texture. 
+~
+19 4096 1
+6 3 0 0
+10 0.000000
+0 0 
+dense~
+0 100 514 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50030
+food lump dull yellow SHIPFOOD OTHER~
+a lump of dull-yellow food~
+A lump of dull-yellow food has been left here.~
+   This ration of food is colored in odd swirls of varying shades 
+of yellow, all of them dull. It has been freshly-made and has a 
+bread-like texture. 
+~
+19 4096 1
+6 3 0 0
+10 0.000000
+0 0 
+dense~
+0 100 514 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50031
+food lump hot greenish SHIPFOOD OTHER~
+a hot lump of greenish food~
+A hot lump of greenish has been left here.~
+   This ration of food is colored in varying shades of green. It 
+has been freshly-made and has a bread-like texture. 
+~
+19 4096 1
+6 3 0 0
+10 0.000000
+0 0 
+dense~
+0 100 514 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50032
+food lump pinkish SHIPFOOD OTHER~
+a lump of pinkish food~
+A lump of pinkish food has been left here.~
+   This ration of food is colored a reddish-pink. It has been 
+freshly-made and has a bread-like texture. 
+~
+19 4096 1
+6 3 0 0
+10 0.000000
+0 0 
+dense~
+0 100 514 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50033
+food lump multi-colored SHIPFOOD OTHER~
+a lump of multi-colored food~
+A lump of multi-colored food has been left here.~
+   This ration of food is mottled in color from off-white to 
+reds, browns, and greens. It has been freshly-made and has a 
+bread-like texture. 
+~
+19 4096 1
+6 3 0 0
+10 0.000000
+0 0 
+dense~
+0 100 514 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50034
+food lump yellow brown SHIPFOOD OTHER~
+a lump of yellow and brown food~
+A lump of yellow and brown food has been left here.~
+   This ration of food is a splotchy, unappealing yellow and 
+brown. It has been freshly-made and has a bread-like texture. 
+~
+19 4096 1
+6 3 0 0
+10 0.000000
+0 0 
+dense~
+0 100 514 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50035
+can ration $flavbrand ribbed labelled METAL~
+a ribbed can labeled '$flavbrand'~
+A ribbed can labeled '$flavbrand' lies here.~
+   This can is made of some thin, metal alloy that is quite 
+lightweight and easily dented. The lid can be popped off just by 
+squeezing around the can lightly and a sticker has been applied 
+to the top that reads "$flavbrand". 
+~
+20 33554432 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 2 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#50036
+terminal computer ByRag_PRECOM METAL~
+a computer terminal~
+A computer terminal is fixed on the wall.~
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50037
+slacks black snug-fitting pair TEXTILE~
+a pair of snug-fitting, black slacks~
+A pair of snug-fitting, black slacks lies here in a heap.~
+   These slacks are straight-cut and worn rather snugly, fitting 
+the wearer through the hips and thighs and falling just past the 
+wearer's ankled. They are made of a stretchy material so as to 
+be comfortable with a pocket on each hip. They have been dyed a 
+jet black in color with no other stitching or pattern on the 
+fabric. 
+~
+11 0 33
+0 0 0 0
+3 0.000000
+0 0 0 0 0 2 0 1
+30.000000 0 0 0 0 0 0
+God~
+God~
+#50038
+shirt crisp button-down white cotton TEXTILE~
+a crisp, button-down shirt~
+A crisp, button-down shirt of white cotton lies here.~
+   This shirt is is made of a cotton-blend leaving it soft yet 
+crisp and professional-looking. It has been dyed a gleaming 
+white and has small, white buttons all the way down the front. 
+The shirt bears long sleeves with medium-sized cuffs that end at 
+the wearer's wrist. 
+~
+11 0 9
+0 0 0 0
+30 0.000000
+0 0 0 0 0 1 0 1
+50.000000 0 0 0 0 0 0
+God~
+God~
+#50039
+jacket black lambskin OTHER~
+a black, lambskin jacket~
+A black, lambskin jacket lies here.~
+   This jacket is made of plush lambskin that has been 
+evenly-dyed a jet black in color. It gathers at the waist and 
+just under the bust, clearly marking this as feminine wear. It 
+has a stand-up collar with side-entry pockets on either side and 
+one, zipped chest pocket. 
+~
+11 0 1025
+0 0 0 0
+100 0.000000
+0 0 0 0 0 1 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50100
+button xelevator xwhite OTHER~
+#2a solid #0white#2 elevator button~
+#2An elevator button is set into the wall. It is solid #0white#2.~
+   It is a solid white elevator button. 
+
+
+   You can #6PRESS#0 this #6BUTTON#0 to open the elevator doors. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50101
+token xdeck xelevator OTHER~
+a deck tracking token~
+A token is here, storing elevator/deck information.~
+~
+12 4 0
+1 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50102
+token xoutoforder elevator OTHER~
+an out-of-order elevator token~
+An out-of-order elevator token is here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50040
+VR virtual reality interface computers machines center METAL~
+a pair of computers hooked up to a virtual reality interface~
+Machines hooked up to a VR-Interface are mounted on the aft wall.~
+   Mounted on the wall above a sturdy, plastic desk are two large 
+computers. A knotted series of cables extend from hookups on the 
+front of the machines, and stretch down to two helmets; each 
+helmet is placed before a pair of chairs at the table. The 
+headgear has a mini-screen placed over the eyes and a series of 
+blinking lights. A plaque on the desk reads: "Virtual Reality 
+Interface for Melee Combat Re-Training." 
+
+
+   You realize that you could #6HOOKUP#0 to the #6INTERFACE#0, if 
+one of the helmets is available. 
+~
+15 2097152 0
+10000 0 -1 0
+30000 0.000000
+0 0 2 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50041
+token xPC xxxvirtualxreality OTHER~
+a PC token for the VR system~
+A PC token for the VR system is here.~
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50042
+data collector VR token sparring OTHER~
+a data collector for the VR-Sparring system~
+A data collector for the VR-Sparring system is here.~
+~
+12 4 0
+2 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50043
+crate plastic heavy-duty PLASTIC~
+a heavy-duty, plastic crate~
+A heavy-duty plastic crate has been left here.~
+   This crate is slightly transparent and made of blue plastic. 
+The top is missing but the sides are marked with faded serial 
+numbers. 
+~
+71 2101248 1
+10000 0 -1 0
+500 0.000000
+0 0 0 0 0 2 0 1
+5.000000 0 0 0 0 0 0
+God~
+God~
+#50044
+square large blue plastic lid PLASTIC~
+a large square of blue plastic~
+A large square of blue plastic lies here.~
+   This square scrap is made of slightly-transparent plastic in a 
+blue color. The top is inked with faded serial numbers and it is 
+obvious that this used to be the lid of a rations crate. 
+~
+12 0 1
+0 0 0 0
+300 0.000000
+0 0 0 0 0 2 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#50090
+ration atlas certificate money PLASTIC~
+a small, plastic certificate~
+A small ration certificate has been abandoned here.~
+   This is a newbie ration, designed to help new players buy 
+clothes buy trading something useful - in this case food - with 
+the ever-hungry shopkeepers of the new player equipment stores. 
+~
+20 4194304 1
+0 0 0 0
+4000 0.000000
+0 0 0 0 0 0 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#50080
+bar food $flavbrand ORGANIC~
+a $flavbrand food bar~
+A $flavbrand food bar lies on the ground gathering dirt.~
+   This food bar is enough for a small snack, composed of a solid 
+mass of various nutrients, minerals and vitamins and designed to 
+smell and taste like one patented meal: judging from the 
+particular patterns and lumps, this bar is meant to taste like 
+$flavbrand (TM). 
+~
+19 33558528 1
+4 1 0 0
+10 0.000000
+0 0 
+dense~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50091
+ration large packaged food money METAL~
+a packaged food ration~
+A packaged food ration lies here.~
+   Aluminized cellophane has been wrapped about a small 
+bar-shaped object, the packaging tightly joined and a dull grey 
+in color. The various faded stamps imprinted on the wrapping 
+indicate some sort of food lies within, various listings of 
+nutritional content and contained vitamins running down the 
+length of the package. The package is fairly light weight, and 
+fits in two hands. 
+
+
+To open the food ration, type #6unwrap ration. 
+~
+20 4194304 1
+0 0 0 0
+4000 0.000000
+0 0 0 0 0 0 0 1
+5.000000 0 0 0 0 0 0
+God~
+God~
+#50081
+tin food $flavbrand METAL~
+a tin of $flavbrand~
+A tin labeled '$flavbrand' rests on the ground.~
+It is a $flavbrand tin.
+~
+19 33558528 1
+12 3 50082 0
+40 0.000000
+0 0 
+dense~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50082
+tin empty $flavbrand METAL~
+an empty tin marked '$flavbrand'~
+An empty tin labeled '$flavbrand' is discarded here.~
+It is an empty $flavbrand tin.
+~
+17 33554432 1
+2 0 0 0
+20 0.000000
+0 0 0 0 0 128 0 1
+0.300000 0 0 0 0 0 0
+God~
+God~
+#50092
+ration weighty food money METAL~
+a weighty food ration~
+A weighty food ration is here.~
+   Aluminized cellophane has been wrapped about a large 
+brick-shaped object, the packaging tightly joined and a dull grey 
+in color. The various faded stamps imprinted on the wrapping 
+indicate some sort of food lies within, various listings of 
+nutritional content and contained vitamins running down the 
+length of the package. The package is rather heavy but can be 
+held in two hands. 
+
+
+To open the food ration, type #6unwrap ration.#0 
+~
+20 4194304 1
+0 0 0 0
+300 0.000000
+0 0 0 0 0 0 0 1
+25.000000 0 0 0 0 0 0
+God~
+God~
+#50093
+ration food condensed money METAL~
+a condensed food ration~
+A condensed food ration lies here.~
+   Aluminized cellophane has been wrapped about a large 
+brick-shaped object, the packaging tightly joined and a dull grey 
+in color. The various faded stamps imprinted on the wrapping 
+indicate some sort of food lies within, various listings of 
+nutritional content and contained vitamins running down the 
+length of the package. The package is heavy but can be held in 
+two hands. 
+
+To open the food ration, type #6unwrap ration.#0 
+~
+20 4194304 1
+0 0 0 0
+1000 0.000000
+0 0 0 0 0 0 0 1
+240.000000 0 0 0 0 0 0
+God~
+God~
+#50083
+tube condensed $flavbrand METAL~
+a tube of condensed '$flavbrand' meal~
+A plastic tube labeled '$flavbrand' lies here.~
+   It is a tube of condensed '$flavbrand' meal. 
+~
+19 33558528 1
+36 9 50084 0
+20 0.000000
+0 0 
+dense~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50084
+tube empty $flavbrand METAL~
+an empty tube marked '$flavbrand'~
+An empty plastic tube labeled '$flavbrand' lies discarded here.~
+It is an empty tube marked '$flavbrand'.
+~
+12 33554432 1
+0 0 0 0
+5 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50103
+grid xDeckOneProgGrid OTHER~
+Deck One Grid~
+A Deck One Program Grid is laid out here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50045
+deckoneboard group ragged-looking survivors OTHER~
+#5a group of ragged-looking survivors#0~
+#5A group of ragged-looking survivors#0 gathers, gossiping in hushed tones.~
+~
+22 4096 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50046
+contraption whiskered tubular xKIDSHIT OTHER~
+a whiskered, tubular contraption~
+A whiskered, tubular contraption lays here on a string.~
+   This tubular contraption is attached to a piece of sturdy 
+string. It is covered with fur that has been made from cut mop 
+hair thats not quite even in length, small screws on the bottom 
+acting as legs. A thick wire tail sprouts one end of its body, 
+curling lightly over itself. Distinctly cat-like features have 
+been roughly depicted upon its frontend with with small, 
+triangular pieces of cloth serving as the ears and a tiny piece 
+of orange plastic that is rounded and serves as its nose. Most 
+certaintly, the crowning glory of the little creation is the full 
+set of wire whiskers that glorifies its head. 
+~
+12 4096 2097157
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50047
+token hack immersion OTHER~
+an immersion hack token~
+An immersion hack token is here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50048
+skin~
+a plastic, $msnow mop bucket~
+A plastic, $msnow mop bucket sits here.~
+~
+17 4108 1
+10 0 0 0
+200 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50049
+console communications intercom METAL~
+a communications console~
+A small communications console is set into the starboard wall.~
+   This console stands about five feet tall and three feet wide. 
+Its edges are rounded and nicked, as though someone had been 
+using it to keep track of numbers. The shell of the machine is 
+made of a very sturdy metal alloy, decorated on top by a few 
+blinking lights of red and green colors, a three inch tall switch 
+and a metal half-sphere speaker box. 
+
+
+   You realize that you can #6SPEAK#0 into the #6INTERCOM#0 to 
+send a #6<MESSAGE>#0 to the rest of the ship. 
+~
+12 0 0
+232 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50050
+shipauctionboard survivors group trading xAuction OTHER~
+#5a group of survivors trading#0~
+#5A group of survivors loiter about, trading with one another.#0~
+~
+22 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50051
+stove stainless steel electric METAL~
+a stainless steel electric stove~
+A stainless steel stove is mounted to the wall here.~
+   This stove is mounted to the wall approximately four feet off 
+the ground. It is a simple metal platform, about six inches 
+thick, bearing four metal burners. Four knobs are located on the 
+front of the stove, with little diagrams beside each to show 
+which knob leads to which burner. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50052
+token carving cannabalism OTHER~
+a cannabalism carving token~
+A cannabalism carving token is here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50053
+token xVirtualRealityxPCxClone OTHER~
+a virtual reality clone token~
+#5An unknown person is hooked up into the VR-Interface here.#0~
+~
+12 0 0
+0 0 0 0
+8000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50054
+token xVirtualRealityxPCxClone xTWO OTHER~
+a virtual reality clone token (two)~
+#5An unknown person is hooked up into the VR-Interface here.#0~
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50055
+guitar scrap small handmade OTHER~
+a small handmade scrap guitar~
+A small handmade scrap guitar rests here.~
+   This makeshift instrument seems to be composed of a small, 
+plastic computer shell that serves as a body attached to a curved 
+metal fan blade that acts as a neck. Dull metal wire has been 
+firmly attached to the body and at various places long the neck 
+as strings. A small piece of scrap metal, held in place by the 
+tension of the strings, serves as a bridge holding the strings a 
+short distance above the body and neck. The effect of plucking 
+the strings is twangy and loud, but pressing along the neck does 
+allow for the manipulation of the sound it can produce. 
+
+If your character knows how to play guitar, you may type #6PLAY 
+STYLE#0 for further syntax. 
+~
+12 4096 8912897
+0 0 0 0
+400 0.000000
+0 0 0 0 20 0 0 1
+20.000000 0 0 0 0 0 0
+God~
+God~
+#50110
+monitor security xconsole xlarge METAL~
+a large security monitor and console~
+Set into the starboard wall is a large security monitor and console.~
+   This widescreen monitor is split into six different sections, 
+each meant to show a security point-of-view on a different 
+section of the ship. The console attached to the monitor has 
+many flickering lights and buttons, and a section on its right 
+side with a label that suggests that it is meant to be used in 
+remotely controlling some sort of probe droid. 
+~
+12 0 0
+6000 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50201
+xFoodMachineOfflinex massive boxy apparatus device tubing METAL xStaphx~
+a massive, boxy apparatus crawling with tubing~
+A massive, boxy apparatus crawling with tubing sits here, offline.~
+   Composed primarily of a large, rectangular box made of some 
+alloy with an almost whitish sheen to it, this massive piece of 
+machinery has an evident directional flow to its parts. From the 
+front, its left hand side reveals a thick blastdoor roughly three 
+feet in height and width, frozen in mid-closure. The cavity 
+behind the blastdoor extends roughly six feet into the machine, 
+barely a quarter of its entire length. The rest of the 
+rectangular device is riddled with tubes that snake along the 
+exterior of the machine, their translucent interiors exposing 
+liquids of various colours and homogeneities that seem to be 
+suspended due to some blockage in the flow. 
+
+
+   From the right hand side of the machine protrude roughly forty 
+tiny translucent tubes that then run down the side of the main 
+rectangular mass of the apparatus. The fluids contained within 
+these tubes employ a varied palette of colours and seem to feed 
+into one centralized box at the base of the machine. From this 
+box, there are three different shaped flaps cut into the base 
+that seem to feed into a conveyor belt. At various points along 
+this belt are offshoots where the rations are stacked and 
+organized by several sets of tiny mechanical arms with flippers 
+that seem to attract the rations magnetically at very close 
+range. All of this associated conveying and stacking equipment 
+is, like the rest of the device, frozen in stasis. 
+
+
+   Out in front of the main box of the apparatus stands a small 
+panel with a broad touch screen, where red signals and 
+abbreviations for alarm codes flash incessantly on the screen. 
+~
+12 4096 0
+0 0 0 0
+100000000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50202
+xFoodMachineIdlex massive boxy apparatus device translucent lit tubing METAL xStaphx~
+a massive, boxy apparatus crawling with translucent tubing~
+A massive, boxy apparatus with brightly lit translucent tubing is here.~
+   Composed primarily of a large, rectangular box made of some 
+alloy with an almost whitish sheen to it, this massive piece of 
+machinery has an evident directional flow to its parts. From the 
+front, its left hand side reveals a thick blastdoor roughly three 
+feet in height and width, gaping open to expose metallic 
+drip-racks over a sieved funnel at the bottom of the cavity. 
+This hollow interior extends roughly six feet into the machine, 
+barely a quarter of its entire length. The rest of the 
+rectangular device is riddled with tubes that snake along the 
+exterior of the machine, their translucent interiors exposing 
+liquids of various colours and homogeneities. These liquids flow 
+forward and back in cycles that last several seconds, the process 
+instigating a light splashing from the turbulence. 
+
+
+   Out of the right hand side of the machine protrude roughly 
+forty tiny translucent tubes that then run down the side of the 
+main rectangular mass of the apparatus. The fluids contained 
+within these tubes employ a varied palette of colours and seem to 
+feed into one centralized box at the base of the machine, flow 
+cycling much like the other tubes. From this box, there are 
+three different shaped flaps cut into the base that seem to feed 
+into a conveyor belt. At various points along this belt are 
+offshoots where the rations are stacked and organized by several 
+sets of tiny mechanical arms with flippers that seem to attract 
+the rations magnetically at very close range. All of this 
+associated conveying and stacking equipment is also obviously 
+programmed on some cycle, with the flippers rotating spastically, 
+as if testing their own functionality. 
+
+
+   Extruding from the main box of the apparatus is a small panel 
+with a broad touch screen, where a series of fluxing green lines 
+that protrude from a circular symbol in the centre. 
+~
+12 4096 0
+0 0 0 0
+100000000 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50203
+xFoodMachineOnlinex massive boxy apparatus device translucent tubing METAL xStaphx~
+a massive, boxy apparatus churning out rations~
+A massive, boxy apparatus is here, churning out rations from its base.~
+   Composed primarily of a large, rectangular box made of some 
+alloy with an almost whitish sheen to it, this massive piece of 
+machinery has an evident directional flow to its parts. From the 
+front, its left hand side reveals a thick blastdoor roughly three 
+feet in height and width, frozen in mid-closure. The cavity 
+behind the blastdoor extends roughly six feet into the machine, 
+barely a quarter of its entire length. The rest of the 
+rectangular device is riddled with tubes that snake along the 
+exterior of the machine, their translucent interiors exposing 
+liquids of various colours and homogeneities that are flowing 
+rapidly against the faint lighting in the tubes. 
+
+
+   From the right hand side of the machine protrude roughly forty 
+tiny tubes that then run down the side of the main rectangular 
+mass of the apparatus. The fluids contained within these tubes 
+employ a varied palette of colours and seem to feed into one 
+centralized box at the base of the machine. From this box, 
+rations in bar, tube and tin form shoot from tiny cavities and 
+are carried along a conveyer belt at floor level. At various 
+points along this belt are offshoots where the rations are 
+stacked and organized by several sets of tiny mechanical arms 
+with flippers that seem to attract the rations magnetically at 
+very close range. All of this associated conveying and stacking 
+equipment moves busily, stacking rations at a surprising pace. 
+
+
+   Out in front of the main box of the apparatus stands a small 
+panel with a broad touch screen, where a circle at the centre of 
+the screen pulses rhythmically with wavelike projections 
+smoothing about its diameter. 
+~
+12 4096 0
+0 0 0 0
+100000000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 2 50202 0 0 0 0
+God~
+God~
+#50204
+foodfactory xtoken OTHER~
+a food factory token~
+A food factory token is here, waiting to turn into rations.~
+~
+12 4194308 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 2 50091 0 0 0 0
+God~
+God~
+#50214
+stronghold pile cocoons thriving xNEST xHUMAN xCORPSE OTHER~
+#3a stronghold of cocoons and macabre piles of thriving corpses#0~
+#3This room is a dark stronghold, littered with corpse piles and cocoons.#0~
+   A pungent smell of rot and something distinctively alien permeates the area, 
+virtually laying in an invisible curtain over the area. Greenish-brown sludge 
+and silk netting encompass anything nearby, stretching out to coccoon corpses 
+of various origins: humans, barkers, shredders, and other things that might be 
+found int he Lunar environment. More are heaped together in small, neat 
+pyramids as if systematically put there. Spreading out from the thicker areas 
+a semi-liquid, sticky slime spreads and clings to feet. 
+~
+30 4096 0
+100 0 0 0
+100 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50205
+light lighting fixture ceiling xROOMLIGHTx OTHER~
+a flickering light fixture in the ceiling~
+A flickering light fixture has been installed in the ceiling here.~
+   This lighting fixture is rectangular in shape and has been 
+installed directly, seamlessly, into the ceiling, and casts a 
+soft, steady, yellow glow to the area, lighting it amply. It 
+does, from time to time, flicker, but remains on. 
+~
+1 4096 0
+-1 -1 20 1
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50215
+eggsac slick camoflauged transparent NEST-TWO OTHER~
+#3some slick, camoflauged eggsacs#0~
+#3Some eggsacs hang from the wall here, semi-transparent.#0~
+   Positioned low on the ground, in some nook or cranny, there clings a sac 
+which oozes a thick, greenish slime. Nearly translucent, the sac seems to 
+blend in well with its surroundings. Inside are a number of small, fist-sized 
+eggs that all look much like their outer covering. Near the bottom of the 
+vesicle is a sphincter that would allow the eggs to drop through: this is where 
+the slime emerges from and pools underneath, sticking to nearby surfaces 
+slickly. 
+   You realize that you could #6SMASH#0 this #6NEST#0. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 1 50216 0 0 0 0
+God~
+God~
+#50206
+light fixture ceiling xROOMLIGHTx OTHER~
+a light fixture in the ceiling, turned off~
+A light fixture has been installed in the ceiling here, but is not on.~
+   This lighting fixture is rectangular in shape and has been 
+installed directly, seamlessly, into the ceiling, and would cast 
+a soft, steady, yellow glow to the area, if only it were on. It 
+is, however, not. It is completely dark. 
+~
+1 4096 0
+-1 -1 20 0
+50000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50216
+eggsac slick camoflauged transparent INVIS-NEST-TWO OTHER~
+#3a slick, partly-concealed eggsac#0~
+#3A slick, partly-concealed eggsac is here, dripping.#0~
+   Positioned low on the ground, in some nook or cranny, there clings a sac 
+which oozes a thick, greenish slime. Nearly translucent, the sac seems to 
+blend in well with its surroundings. Inside are a number of small, fist-sized 
+eggs that all look much like their outer covering. Near the bottom of the 
+vesicle is a sphincter that would allow the eggs to drop through: this is where 
+the slime emerges from and pools underneath, sticking to nearby surfaces 
+slickly. 
+   You realize that you could #6SMASH#0 this #6NEST#0. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50207
+lights several pale glowing wall xROOMLIGHTx OTHER~
+several pale, glowing lights set in the wall~
+Several pale, glowing lights have been installed in the wall here, high.~
+   Several circular lights have been installed high in the wall 
+here, above head-height for most, and cast a pale, glowing light 
+about the area. Curiously enough, there is no glare from these 
+lights, and little heat. 
+~
+1 4096 0
+-1 -1 20 1
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50208
+lights unlit several lighting fixtures wall xROOMLIGHTx OTHER~
+several unlit, lighting fixtures set in the wall~
+Several unlit, lighting fixtures have been installed in the wall here.~
+   Several circular, grapefruit-sized lighting fixtures have been 
+installed high in the wall here, above head-height for most, and 
+while they are currently off, look to be capable of providing 
+lighting to the majority of the room. Right now, however, these 
+lights are not functioning, and are completely dark. 
+~
+1 4096 0
+-1 -1 20 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50209
+light in-pool bluish green glowing xROOMLIGHTx OTHER~
+a glowing, bluish green in-pool light~
+A bluish green in-pool light casts a soft glow through the water.~
+   This circular light has been set into the sloped side of the 
+swimming pool, secured safely away behind thick, transparent 
+plastic. It casts a soft, bluish green glow through the 
+chlorinated water, lighting the area. 
+~
+1 4096 0
+-1 -1 20 1
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50211
+light ceiling globular dim xROOMLIGHTx OTHER~
+a dim, globular ceiling light~
+A globular light is fixed to the ceiling here, casting a dim light.~
+   This bulb is ball-shaped and has been attached to the ceiling 
+here. It casts a dim, flickering, unstable light that leaves 
+much of the surrounding area still in shadow. 
+~
+1 4096 0
+-1 -1 20 1
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50212
+light ceiling globular dark xROOMLIGHTx OTHER~
+a dark, globular ceiling light~
+A globular light is fixed to the ceiling here, casting no light at all.~
+   This bulb is ball-shaped and has been attached to the ceiling 
+here. It casts no light at all, leaving the surrounding area 
+cloaked in darkness. 
+~
+1 4096 0
+-1 -1 20 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50210
+light in-pool circular dark xROOMLIGHTx OTHER~
+a dark, circular, in-pool light~
+A circular, in-pool light is here, dark, shedding no light whatsoever.~
+   This circular light has been set into the sloped side of the 
+swimming pool, secured safely away behind thick, transparent 
+plastic. It casts no light whatsoever, leaving the chlorinated 
+water dark. 
+~
+1 4096 0
+-1 -1 20 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50213
+blood drops MUTANT-BLOOD OTHER~
+#1some drops of fresh blood#0~
+#1Some drops of fresh blood show a vague trail left here.#0~
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 86 0 0 0 0
+God~
+God~
+#50217
+pile charred mangled bones RUINED-NEST OTHER~
+a pile of charred, mangled bones~
+A pile of charred and mangled bones lie in a pile.~
+   This pile of bones is charred and blackened, treated to no 
+small amount of flames in the recent past. They lie 
+helter-skelter across the steel floor, threatening to crunch 
+loudly underfoot if stepped on. On the extreme radius of the 
+blackened circle old bloodstains can still be made out, the blood 
+dried brown long ago. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 720 86 0 0 0 0
+God~
+God~
+#50218
+puddle goo large OTHER~
+a large puddle of goo~
+A large amount of goo lies in a puddle here.~
+   The floor is covered in a large puddle of goo, almost 
+ankle-deep and sticky. It makes soft sucking noises as one plods 
+along through it, and gurgles and plops when left alone. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 100 0 0 1
+0.000000 24 86 0 0 0 0
+God~
+God~
+#50220
+counter EGT1 eggsac OTHER~
+an eggsac counter~
+An eggsac counter(EGT1) is here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50222
+deck two random grid token OTHER~
+a deck two random grid token~
+A deck two random grid token lies here.~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50223
+deck two elevator token OTHER~
+a deck two elevator token~
+A deck two elevator token lies here.~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50224
+deck two vent token OTHER~
+a deck two vent token~
+A deck two vent token lies here.~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50225
+deck two pool token OTHER~
+a deck two pool token~
+A deck two pool token lies here.~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50056
+token skorpios repair OTHER~
+a Skorpios repair token counting down~
+A Skorpios repair token is counting down here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 48 50057 0 0 0 0
+God~
+God~
+#50057
+token skorpios finishrepair OTHER~
+a skorpios repair token finished~
+A skorpios repair token just finished here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50058
+samples xEGT1 semi solid oozing specimen ORGANIC~
+some semi-solid oozing specimen samples~
+Some semi-solid oozing specimen samples pool upon the ground.~
+   This clump of greenish-brown goo appears to be the remains of 
+something organic. Its smell it putrid and overwhelming, and its 
+texture is odd; where sections of it are nearly a liquid goo, its 
+outer layers are semi-solid, allowing for it to be malleable and 
+still retain a holdable physical shape. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 48 86 0 0 0 0
+God~
+God~
+#50059
+alphasoldierboard latina girl young youth hardened OTHER~
+#5a hardened latina youth#0~
+#5A young latina girl relays orders here, her expression hardened.#0~
+~
+22 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50060
+alphaengineerboard greasy old man grease OTHER~
+#5an old man with grease stains on his face#0~
+#5A greasy old man lingers about, yapping away incessantly.#0~
+~
+22 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50061
+alphascientistboard scientist anxious male OTHER~
+#5a clearly anxious male scientist#0~
+#5A male scientist paces uneasily, spouting out nervous chatter.#0~
+~
+22 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50062
+panel door byChelicerae deck4 wall heavy metal METAL~
+a heavy metal wall panel~
+A heavy metal wall panel has been discarded here.~
+   The panel looks heavy. There are dogs in each of the four 
+corners to fasten it to a bulkhead. A sturdy metal wheel is 
+mounted in the center of the panel. 
+~
+12 4096 1
+0 0 0 0
+4000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50106
+keycard black photo identification xLockerWest OTHER~
+a black keycard with photo identification~
+A black keycard with photo identification lies here, forlorn.~
+   This small, black photo-identification keycard is rectangular 
+in shape and made entirely out of a plastic alloy. In the upper 
+lefthand corner is a small photo of an swash-buckling young man 
+with a cocky grin smile and floppy brown hair. Beneath the photo 
+are the words, "Hans Duo - Property Quartermaster". There is a 
+crest in the background of the keycard, when it is turned a 
+certain way in the light, showing a giant bird wrapping its wings 
+around a gray sphere. On the back of the card is a magnetic 
+strip, to be utilized with a scanner. 
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50107
+keycard black photo identification xLockerNorth OTHER~
+a black keycard with photo identification~
+A black keycard with photo identification lies here, forlorn.~
+   This small, black photo-identification keycard is rectangular 
+in shape and made entirely out of a plastic alloy. In the upper 
+lefthand corner is a small photo of an attractive older man with 
+a reserved smile and a shiny bald scalp. Beneath the photo are 
+the words, "Jean L. Picard, Property Quartermaster". There is a 
+crest in the background of the keycard, when it is turned a 
+certain way in the light, showing a giant bird wrapping its wings 
+around a gray sphere. On the back of the card is a magnetic 
+strip, to be utilized with a scanner. 
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50108
+keycard black photo identification xLockerEast OTHER~
+a black keycard with photo identification~
+A black keycard with photo identification lies here, forlorn.~
+   This small, black photo-identification keycard is rectangular 
+in shape and made entirely out of a plastic alloy. In the upper 
+lefthand corner is a small photo of an attractive older man with 
+harsh facial features and long, braided white hair. Beneath the 
+photo are the words, "Khan N. Singh - Property Quartermaster". 
+There is a crest in the background of the keycard, when it is 
+turned a certain way in the light, showing a giant bird wrapping 
+its wings around a gray sphere. On the back of the card is a 
+magnetic strip, to be utilized with a scanner. 
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50109
+keycard black photo identification xLockerSouth OTHER~
+a black keycard with photo identification~
+A black keycard with photo identification lies here, forlorn.~
+   This small, black photo-identification keycard is rectangular 
+in shape and made entirely out of a plastic alloy. In the upper 
+lefthand corner is a small photo of an attractive man with a thin 
+smile and clean brunette hair. Beneath the photo are the words, 
+"Mal Reynolds - Propery Quartermaster". There is a crest in the 
+background of the keycard, when it is turned a certain way in the 
+light, showing a giant bird wrapping its wings around a gray 
+sphere. On the back of the card is a magnetic strip, to be 
+utilized with a scanner. 
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50063
+token nocommand OTHER~
+an invisible nocommand token~
+An invisible nocommand token is here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50064
+secopsboard lanky sharp eyed young man board OTHER~
+#5a lanky, sharp-eyed young man#0~
+#5A lanky, sharp-eyed young man stands here, passing messages.#0~
+~
+22 4096 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50065
+ladder rickety steel access xELEVATORPROGx METAL~
+a rickety, steel access ladder~
+A rickety, steel access ladder has been bolted to the wall.~
+   This rickety access ladder has been bolted to the wall here, allowing access 
+up and down the elevator shaft. While at one time it was undoubtedly sturdy, 
+it has long since fallen into serious disrepair - several steps are missing, 
+others seem much too short to allow for solid footing, and several bolts appear 
+to be screwed loose. All in all, not a good place to linger. 
+
+You can use this to #6CLIMB UP#0 or #6CLIMB DOWN#0. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50066
+zerog xnogravity xtoken OTHER~
+#6an object floating in weightless space#0~
+#6Any items here not bolted to the floor are floating, weightlessly.#0~
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50067
+keypad terminal small xFAIL METAL~
+a small keypad terminal~
+Set into the blastdoor is a small keypad terminal, flashing #1red#0.~
+   Box-shaped, this metallic keypad is an even six inches along 
+each of its outer edges. The wiring seems to be on the fritz, 
+and the flicker LCD message indicates that the Deck Three 
+Elevator Door is on a security lockdown. The message #1Code 
+Red#0 flashes, every few seconds. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 24 33030 0 0 0 0
+God~
+God~
+#50300
+keycard black photo identification OTHER DECK-THREE-KEYCARD~
+a black keycard with photo identification~
+A black keycard with photo identification lies here, forlorn.~
+   This small, black photo-identification keycard is rectangular 
+in shape and made entirely out of a plastic alloy. In the upper 
+lefthand corner is a small photo of a bearded, hollow-cheeked 
+man. Beneath the photo are the words, "Saul Dagenham, Chemical 
+Research Assistant Grade 5." There is a crest in the background 
+of the keycard, when it is turned a certain way in the light, 
+showing a giant bird wrapping its wings around a gray sphere. On 
+the back of the card is a magnetic strip, to be utilized with a 
+scanner. 
+~
+18 4096 1
+0 0 0 0
+1 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50301
+grid xtoken xdeck3 OTHER~
+a deck three grid token~
+A deck three grid token is here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50302
+grid xtoken xelevatorxshaft OTHER~
+an elevator shaft grid token~
+An elevator shaft grid token is here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50068
+holoprojector boxy apparatus stainless steel grating-covered tube METAL~
+a boxy apparatus of stainless steel with a grating-covered tube~
+A boxy, steel apparatus with a grating-covered tube is clamped down here.~
+   The stainless steel of this boxy apparatus is interrupted on 
+the rear portion by a circular display. Just below the display, 
+sits a rectangular opening ringed in a light blue-green light. 
+The rest of the machine of is largely unexceptional, other than 
+the fattened tube that protrudes from the front side. Roughly 
+the size of one hand, the tube is filled with layer after layer 
+of metallic rods that bisect its interior. At the back of the 
+tube, the reflective surface of some kind of silicate glass is 
+visible. 
+~
+12 4608 0
+0 0 0 0
+4500 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50069
+holodisc coiled metallic object covered reflective black epoxy METAL~
+a coiled metallic object covered in reflective black epoxy~
+A coiled metallic object covered in reflective black epoxy is here.~
+   This object resembles a narrowing coil about half a metre long 
+that can easily be compressed down into a disc shape. Its 
+surface, covered in a reflective black epoxy, reveals a striated 
+arrangement of darker ebony lines that stretch from the 
+circumference to the centre of the coil. The flexible metal that 
+the coil is made of absorbs heat readily and has the inscription, 
+"HGM-994-B" etched into the surface, circling around the centre 
+of the disc. 
+
+
+   You realize that you might be able to #6SCAN#0 this 
+#6HOLODISC#0. 
+~
+12 4096 1
+0 0 0 0
+4 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50070
+token xholoscene xrunning OTHER~
+a running holoscene token~
+A holoscene token is here, currently running.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50094
+hat cat shimmering gray xKIDSHIT OTHER~
+a shimmering-gray, cat-eared hat~
+A cat-eared hat made from shimmering-gray fabric lays here.~
+   This floppy hat has been cut from a shimmering grey fabric, 
+being rather plush and soft, stuffed with a layer of a downy 
+substance inside. A stretchy black elastic band upon the bottom 
+serves to keep it upon the head of its wearer. Multiple small 
+scratches and tears cover it, but does little to affect the 
+presence of two great cat-like ears that have been worked onto 
+the top of it. 
+~
+12 4096 2097169
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50085
+block large condensed $flavbrand ORGANIC~
+a large condensed block of '$flavbrand' meal~
+A large condensed block of '$flavbrand' meal lies here.~
+   This heavy block is the size of a huge, old-world book, 
+wrapped in a silvery-foil package. Once stripped of its 
+packaging, the entire block is of super condensed 
+$flavbrand-flavoured meal, a small finger-sized sliver enough to 
+constitute a full meal. 
+~
+19 33558528 1
+160 40 0 0
+200 0.000000
+0 0 
+dense~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50071
+rfcoalitionboard jenkins weedy green eyed man OTHER~
+#5a weedy, green-eyed man#0~
+#5A weedy, green-eyed man is here, keeping inventory.#0~
+~
+22 4096 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50072
+roboticsboard gaunt older man one eye OTHER~
+#5a gaunt older man with one eye#0~
+#5A gaunt older man with one eye is keeping inventory, slightly hunched.#0~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50073
+board~
+a board~
+a bulletin board is standing here.~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50074
+viewport xdistance1 xalpha GLASS~
+a heavily-reinforced nanocomposite viewport into space~
+A heavily-reinforced, nanocomposite viewport provides a view of space.~
+   The infinite darkness of space spreads out beyond the 
+nanocomposite viewport, dotted with a panoply of differently 
+coloured points of light. The upper hemisphere of your vision is 
+filled with an array of stars shaded with the various hues that 
+sit between white and yellow, with a large cluster of bright red 
+stars conglomerated very closely together. Near the bottom 
+portion of the window, an expanse of yellow, blue and orange 
+stars that flash in and out of view are arrange in a long, arm 
+shape that fades toward the bottom right hand corner of the view. 
+Just barely visible in distance is a bright yellow ball of light 
+nearly two times the size of any other star in sight. 
+~
+12 4608 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 336 50075 0 0 0 0
+God~
+God~
+#50075
+viewport xdistance2 xalpha GLASS~
+a heavily-reinforced nanocomposite viewport into space~
+A heavily-reinforced nanocomposite viewport provides a view into space.~
+   The infinite darkness of space spreads out beyond the 
+nanocomposite viewport, dotted with a panoply of differently 
+coloured points of light. The upper hemisphere of your vision is 
+filled with an array of stars shaded with the various hues that 
+sit between white and yellow, with a large cluster of bright red 
+stars conglomerated very closely together. Lodged between two 
+clusters of faint blue stars is a pale dot that blares its 
+uniform blue-green colour more brightly than its twinkling 
+surroundings. Near the bottom portion of the window, an expanse 
+of yellow, blue and orange stars that flash in and out of view 
+are arrange in a long, arm shape that fades toward the bottom 
+right hand corner of the view. Just barely visible in distance 
+is a bright yellow ball of light nearly two times the size of any 
+other star in sight. 
+~
+12 4608 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 336 50076 0 0 0 0
+God~
+God~
+#50076
+viewport xdistance3 xalpha GLASS~
+a heavily-reinforced nanocomposite viewport into space~
+A heavily-reinforced nanocomposite viewport provides a view of space.~
+   The infinite darkness of space spreads out beyond the 
+nanocomposite viewport, dotted with a panoply of differently 
+coloured points of light. A massive planet looms immediate in 
+the left side of your vision, its pale blue-green surface 
+interrupted with several alabaster bands that wrap around its 
+circumference. Only barely visible against the black of the void 
+are several thin, white bands that form rings around the planet 
+and fade quickly nearest the planet. The upper hemisphere of 
+your vision is filled with an array of stars shaded with the 
+various hues that sit between white and yellow, with a large 
+cluster of bright red stars conglomerated very closely together. 
+Near the bottom portion of the window, an expanse of blue, orange 
+and red stars that flash in and out of view are arrange in a 
+long, arm shape that fades toward the bottom right hand corner of 
+the view. Just barely visible in distance is a bright yellow 
+ball of light nearly two times the size of any other star in 
+sight. A number of tiny spheres of rock and ice surround the 
+planet, only visible when backgrounded by the distinctive colour 
+of the planet. Although it is difficult to ascertain how many 
+there might be, since some are indistinguisble from weather 
+formations on the planet, they surely number more than twenty. 
+~
+12 4608 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 336 50077 0 0 0 0
+God~
+God~
+#50077
+viewport xdistance4 xalpha GLASS~
+a heavily-reinforced nanocomposite viewport into space~
+A heavily-reinforced nanocomposite viewport provides a view of space.~
+   The infinite darkness of space spreads out beyond the 
+nanocomposite viewport, dotted with a panoply of differently 
+coloured points of light. The upper hemisphere of your vision is 
+filled with an array of stars shaded with the various hues that 
+sit between white and yellow, with a large cluster of bright red 
+stars conglomerated very closely together. Trailing near the 
+edge of the viewport is a pale, blue-green dot nestled amongst 
+two clusters of faint blue stars. Near the bottom portion of the 
+window, an expanse of yellow, blue and orange stars that flash in 
+and out of view are arrange in a long, arm shape that fades 
+toward the bottom right hand corner of the view. Just barely 
+visible in distance is a bright yellow ball of light nearly two 
+times the size of any other star in sight. 
+~
+12 4608 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 336 50078 0 0 0 0
+God~
+God~
+#50078
+viewport xdistance5 xalpha GLASS~
+a heavily-reinforced nanocomposite viewport into space~
+A heavily-reinforced nanocomposite viewport provides a view of space.~
+   The infinite darkness of space spreads out beyond the 
+nanocomposite viewport, dotted with a panoply of differently 
+coloured points of light. The upper hemisphere of your vision is 
+filled with an array of stars shaded with the various hues that 
+sit between white and yellow, with a large cluster of bright red 
+stars conglomerated very closely together. Near the bottom 
+portion of the window, an expanse of yellow, blue and orange 
+stars that flash in and out of view are arrange in a long, arm 
+shape that fades toward the bottom right hand corner of the view. 
+Just barely visible in distance is a bright yellow ball of light 
+nearly two times the size of any other star in sight. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 336 50079 0 0 0 0
+God~
+God~
+#50079
+viewport xdistance6 xalpha GLASS~
+a heavily-reinforced nanocomposite viewport into space~
+A heavily-reinforced nanocomposite viewport provides a view of space.~
+   The infinite darkness of space spreads out beyond the 
+nanocomposite viewport, dotted with a panoply of differently 
+coloured points of light. The upper hemisphere of your vision is 
+filled with an array of stars shaded with the various hues that 
+sit between white and yellow, with a large cluster of bright red 
+stars conglomerated very closely together. Near the bottom 
+portion of the window, an expanse of yellow, blue and orange 
+stars that flash in and out of view are arrange in a long, arm 
+shape that fades toward the bottom right hand corner of the view. 
+Just barely visible in distance is a bright yellow ball of light 
+nearly two times the size of any other star in sight. 
+~
+12 4608 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 24 50114 0 0 0 0
+God~
+God~
+#50219
+light brightly lit floor OTHER~
+a brightly-lit floor light~
+A brightly-lit floor light is mounted here, droning dully.~
+   Set in dips in the walls, these floor lights cast out a bright 
+glow, enough to light the floor and a bit of the area around. A 
+dull drone emits from the wall around them, atesting to the 
+electricty that keeps the lights powered. 
+~
+1 4096 0
+-1 -1 0 1
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50221
+barricade crude metal xUNSET METAL~
+a crude metal barricade~
+A crude metal barricade is built here, nearly complete.~
+   Composed of mostly metal scrap, especially at the base, this 
+barricade stands well over head height. A variety of objects 
+have been wedged and unceremoniously piled onto the heap, fitting 
+together in a surprisingly sturdy fashion. The barricade still 
+has a section left open, not quite shutting off the area beyond 
+it. 
+   You can #6FINISH BARRICADE <North/East/South/West>#0 to set it 
+into place. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50226
+barricade crude metal xSET METAL~
+a crude metal barricade~
+A crude metal barricade is set here, cutting off an exit.~
+   Composed of mostly metal scrap, especially at the base, this barricade 
+stands well over head height. A variety of objects have been wedged and 
+unceremoniously piled onto the heap, fitting together in a surprisingly sturdy 
+fashion. The barricade is set firmly, and passing beyond it is not possible. 
+   You can #6ADDON <OBJECT KEYWORD>#0 to junk an object in your hand to help 
+re-enforce the barricade. 
+   You can also #6BREAK DOWN#0 this barricade to try and destroy it. 
+~
+12 4096 0
+5000 0 0 0
+100 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50360
+hydrofluoricacid glass chemical bottle GLASS~
+a small glass chemical bottle labelled with the letters "HF"~
+A small glass chemical bottle labelled with the letters "HF" is here~
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50227
+monitor rewired computer METAL~
+a rewired computer monitor~
+A computer monitor hangs on the wall above the blast door, lit.~
+   This computer monitor has been removed from its casing and 
+carefully rewired with a variety of wires, which now protrude 
+from all sides. It is mounted above the blast door, angled down 
+for ease of viewing, and secured to the wall with fasteners and a 
+harness of wide grey tape. 
+
+
+   You realize you could #6VIEW#0 the image on the #6SCREEN#0. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50303
+keypad alpha numerical keypad METAL~
+a small, alpha-numerical keypad~
+A small, alpha-numerical keypad is hidden beneath the central desk.~
+   A small, metallic hard-cover box with a black LCD contrasting 
+by a flickering red input bar is wired up into the desk that it 
+hides beneath. Written in tape next to the keypad is the 
+unfinished phrase, #3"All That Rises Must ---"#0.
+
+You may #1TYPE KEYPAD <PASSWORD>#0 into this device.
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50304
+token keypad invisible find OTHER~
+a find the keypad invisible token~
+A find the keypad invisible token is here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50305
+token weapon locker experimental raid OTHER~
+an experimental weapon locker raid token~
+An experimental weapon locker raid token is here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50086
+holodisc coiled disc-shaped reflective epoxy METAL~
+a coiled, disc-shaped object covered in reflective epoxy~
+A coiled, disc-shaped object covered in reflective epoxy is here.~
+   This object resembles a narrowing coil about half a metre long 
+that can easily be compressed down into a disc shape. Its 
+surface, covered in a reflective black epoxy, reveals a striated 
+arrangement of darker ebony lines that stretch from the 
+circumference to the centre of the coil. The flexible metal that 
+the coil is made of absorbs heat readily and has the inscription, 
+"HGZ-894-CEX" etched into the surface, circling around the centre 
+of the disc. 
+
+
+   You realize that you could #6SCAN#0 this #6HOLODISC#0. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50087
+Xchemdetexion rectangular aluminum-alloy device control panel METAL~
+a rectangular aluminum-alloy device with a small control panel~
+A rectangular aluminum-alloy device with a control panel is here.~
+This tabletop device has been designed with minimalist principles; its four-legged, rectangular aluminum-alloy frame is distinguished with nothing but a single control panel. On closer inspection, the control panel reveals a set of eight meters spaced two high and four wide on either side of a central injection funnel. Barely thicker than the average human finger, this funnel leads into a metal-plated tubing that leads into the nebulous inner workings of the instrument. A small set of double-slit speakers trace the upper vertices of the rectangular box labelled "#6CHEMTEXION MK5#0".
+
+
+You realize you might be able to #5PROCESS#0 any particular #5CHEMICAL#0 sample.
+~
+12 4608 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50088
+electrode cables pile knot PLASTIC~
+a pile of electrode cables tied in a knot~
+A pile of electrode cables tied in a knot has been discarded here.~
+   Long white cables covered in a plated white polymer that 
+vaguely resembles a scaled hide, have been tied together here 
+into a tight knot. At one end, small metallic copper leads are 
+covered in either black or red plastic guards, while another 
+section of copper wiring is visible disappearing into the centre 
+of a white circular electrode. The wires must be at least five 
+metres in length when fully unfolded. 
+~
+12 4096 1
+0 0 0 0
+200 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50089
+magnetrofuge ovoid metallic apparatus striated green glass METAL~
+an ovoid metallic apparatus striated with green glass~
+An ovoid metallic apparatus striated with green glass is here.~
+   Green lines of almost emerald-hued glass poke like ribs along 
+the width of this ovoid apparatus made of stainless steel. A 
+massive set of five gold-plated prongs extend from one end of the 
+egg-shaped object, coated in black plastic near the base. A 
+thin, hollowed disc can be seen resting through the green glass 
+against the bottom side of the ovoid, curving subtly near the 
+middle of the ovoid. 
+~
+12 4096 1
+0 0 0 0
+905 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50095
+T3TL red-tinged steel rod METAL~
+a red-tinged steel rod labelled "T3TL" in bold writing~
+A red-tinged steel rod labelled "T3TL" in bold writing is here.~
+   This rod, about a metre long and painted in a thick layer of 
+reflective red coating, has the letters "T3TL" emblazed on the 
+side. Extending from either conical tip of the rod are tiny sets 
+of metallic tubing that snake back along the same side of the 
+rod's length to meet near its middle, where they form a single 
+tube that extends perpendicular to the rod. 
+~
+12 4096 1
+0 0 0 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50096
+biognostics touch-panel panel severed tubing METAL~
+a touch-panel with severed tubing extending from the rear~
+A panel with severed tubing extending from the rear is here.~
+   The soft screen of this head-sized touch-panel device retains 
+a minimal background glow of faint, white light that seems to 
+respond to movement. The white-coated steel that makes up the 
+back of the panel has a single, rounded bump right at the centre, 
+from which several differently coloured, pliable plastic tubes 
+extend. All the tubes have been roughly severed, even hacked in 
+some places, just about half a metre from their protrusion at the 
+back of the panel. 
+~
+12 4096 1
+0 0 0 0
+200 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50097
+xegtnest xvisible small mound molten metal congealed algae METAL~
+a small mound of molten metal covered in congealed algae~
+A small mound of molten metal covered in congealed algae is here.~
+   This mound of metal looks like it has been moulded into a 
+bucket shape by small amounts of molten alloys being poured in 
+gradually building layers. Sitting in the top of the bucket 
+shape is a thin, greenish layer of almost plant-like filaments 
+that form an intermeshed network over a presumably hollow cavity 
+in the mound. The network of filaments, which vaguely resembles 
+algae, appears to be congealed and the tip of a corroding steel 
+rod tinged with red protrudes from this algal mass. The surface 
+of the congealed biological meshwork seems to be exuding streams 
+of vapour from its darkest, densest segments. Haphazardly 
+arranged around the nest itself are #2several red-tinged steel 
+rods#0, untouched by the biological material. 
+
+
+You realize you might be able to #6RECOVER#0 a red-tinged 
+#6ROD#0. 
+~
+12 4608 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50098
+xegtnest xinvisible small mound molten metal congealed algae METAL~
+a small mound of molten metal covered in congealed algae~
+A small mound of molten metal covered in congealed algae is here.~
+~
+12 4612 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50099
+alphaexperimentalboard rectangular control panel METAL~
+a rectangular aluminum-alloy device with a small control panel~
+A rectangular aluminum-alloy device with a control panel is here.~
+~
+22 4104 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50104
+token launch OTHER~
+a launch token~
+A launch token floats here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 1 86 0 0 0 0
+God~
+God~
+#50105
+token xdeck4 xfalltoken OTHER~
+a deck four ventilation shaft fall token~
+A deck four ventilation shaft fall token is here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50111
+mattress grimy OTHER~
+a grimy mattress~
+A grimy mattress is here.~
+~
+15 2097152 1
+100000 0 0 0
+300 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50112
+touchscreen series notes OTHER~
+a series of notes drawn out on a touchscreen~
+A touchscreen takes up the portside wall, covered in hasty notes.~
+~
+22 4096 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50400
+console bridge control METAL~
+the bridge-control console~
+A console is splayed out here, labeled 'Bridge Control.'~
+   This large console splays out across the bridge, waist-height 
+all the way around. Upon its surface is a montage of blinking 
+buttons and levers, multicolored, and very few of them labeled. 
+Small holograms are interspersed around the console, projecting 
+upwards near buttons and levers, detailing system statuses to any 
+who could read them. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50401
+console life scanning METAL~
+a life-scanning console~
+A small console stands here, clearly labeled 'Life-Scanning.'~
+   This tall, thin console stands at waist-height, constructed of 
+stainless-steel. It bears a single, red button directly at its 
+slanted top, and drawn out under that button, in duct tape, are 
+the words "LIFE SCAN."
+
+You realize that you can #6SCAN LIFE#0 on decks #6<1-5>#0.
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50113
+token locked door OTHER~
+a locked door token~
+A locked door token is here.~
+~
+12 4100 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 2 86 0 0 0 0
+God~
+God~
+#50316
+morphine small blue plastic bottle red scribblings PLASTIC~
+a small blue plastic bottle with red scribbling~
+A small blue plastic bottle with red scribblings has been left here.~
+   The murky blue plastic of this bottle reveals liquid contents 
+that slosh with the viscosity of water. The solid plastic cap 
+has four red pads around the lip of the bottle that have small 
+suction pads with tiny holes where syringes might be inserted. 
+The rest of the cap is a solid white plastic with the letters 
+"ASM" engraved into the topmost portion of the cap. A closer 
+examination of the red scribbling written on a white background 
+that is emblazoned the side of the bottle reveals the words, 
+"#6Acetyl-Sumoyltoluene Morphine#0". 
+~
+12 4096 1
+0 0 0 0
+3 0.000000
+0 0 0 0 100 0 0 1
+8.000000 0 0 0 0 0 0
+God~
+God~
+#50317
+injectpanel injection orifice mass tangled tubing METAL~
+an injection orifice on top of a mass of tangled tubing~
+A bulbous, tangled mass of tubing is clamped to the starboard wall.~
+   The great mass of this sculpted metallic shape appears to be a 
+single, continuous tube that has been wound about itself in a 
+bewildering manner. While the overall mass is mostly spherical, 
+the tube splits in some locations, twisting into small fibres 
+that reassemble elsewhere on the surface of the vessel. On the 
+top of the vessel, the final tube is attached to a white plastic 
+panel with a rubbery, inward-facing nipple-shaped opening that 
+thins down severely as it enters the panel. The rear of the 
+tangled mess of pipes is clamped to the wall, with a fat tube 
+protruding from the main mass to attach further near the bass of 
+the starboard wall. 
+~
+12 4608 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50318
+set four ellipsoidal monitors green glass METAL~
+a set of four ellipsoidal monitors plated with green glass~
+A set of ellipsoidal monitors are mounted at the top of the starboard wall.~
+   These four monitors, arranged in a diagonal striping pattern 
+directed towards the floor, are mounted on the left hand side of 
+the door on the starboard side of the wall. The black-epoxy 
+metal that composes the semi-spherical shape at the rear of the 
+monitor is covered on the flattened front with a thin layer of 
+translucent green glass. When examined closely it is clear that 
+the surface of the glass is randomly dimpled in several 
+concentrated areas across the screen face that appears to 
+correspond with important static images when the panels are 
+active. 
+~
+12 4608 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50319
+xControlPanel chrome-red red control panel tripod METAL~
+a chrome-red control panel mounted on a tripod of tubes~
+A red control panel is mounted on a tripod in the centre of the room.~
+   The surface of this control panel is coated in a shiny-red 
+alloy that bears four green-glass display panels distributed two 
+by two. The top panels, labelled "Sample Injection Rate" and 
+"H2O Vapour Saturation" are accompanied by small, squishy 
+circular finger pads that have hollow interiors that form around 
+the tip of the index finger for control. The bottom panels lack 
+any finger pads and are labelled, in the same bright yellow ink 
+as their upper counterparts, "Temperature," and "Pressure". 
+Three long metallic tubes, no thicker than a human finger and 
+coloured the same red as the panel itself, extend down to form a 
+tripod shape that has been soldered together and to the ground. 
+A small finger pad sits alone in the centre of the panel with the 
+word, "Vacuum" above. 
+~
+12 4608 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50114
+viewport xdistance7 xalpha GLASS~
+a heavily-reinforced nanocomposite viewport into space~
+A heavily-reinforced nanocomposite viewport provides a view of space.~
+   Black nothingness monopolizes the vacuum of space visible 
+through the nanocomposite viewport. A arrangement of red stars 
+filled with bright yellow stars lies in the upper hemisphere of 
+the view, almost like a malformed mouth with gold teeth. Several 
+white and blue stars compete for attention in the background, 
+thinning near the lower hemisphere where a prominent deep, navy 
+blue sphere dominates your attention. Although only slightly 
+larger than the largest star, it is clearly a much more profound 
+blue than the other specks of cerulean light in the sky. Off to 
+the right of your vision, you can catch the slightest glint off 
+the surface of what appears to be a rock of herculean proportions 
+that is evidently moving at a slightly faster speed than you. A 
+light trail of mist fades off behind the blue and red-tinged 
+asteroid, imprinting its path on the universe for a short moment 
+before it no longer catches the light. 
+~
+12 4608 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 336 50115 0 0 0 0
+God~
+God~
+#50115
+viewport xdistance8 xalpha GLASS~
+a heavily-reinforced nanocomposite viewport into space~
+A heavily-reinforced nanocomposite viewport provides a view of space.~
+   Black nothingness monopolizes the vacuum of space visible 
+through the nanocomposite viewport. A arrangement of red stars 
+filled with bright yellow stars lies in the upper hemisphere of 
+the view, almost like a malformed mouth with gold teeth. The 
+lower hemisphere of your vision is swamped by a planetary orb 
+that reflects warm, navy blue light from its surface. Several 
+bubble-shaped spots of even darker, nearly-violet shaded patches 
+mar the surface of this planet. The planet's colour is defined 
+by a colour gradient that is most intense near the poles and 
+palest near the equator. Thin lines that reflect the occasional 
+glancing ray of sunlight indicate a system of mostly crystalline 
+rings surrounding the planet. Off to the right of your vision, 
+you can catch the slightest glint off the surface of what appears 
+to be a rock of herculean proportions that is evidently moving at 
+a slightly faster speed than you. A light trail of mist fades 
+off behind the blue and red-tinged asteroid, imprinting its path 
+on the universe for a short moment before it no longer catches 
+the light. 
+~
+12 4608 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 336 50116 0 0 0 0
+God~
+God~
+#50116
+viewport xdistance9 xalpha GLASS~
+a heavily-reinforced nanocomposite viewport into space~
+A heavily-reinforced nanocomposite viewport provides a view of space.~
+   Black nothingness monopolizes the vacuum of space visible 
+through the nanocomposite viewport. A arrangement of red stars 
+filled with bright yellow stars lies in the upper hemisphere of 
+the view, almost like a malformed mouth with gold teeth. Several 
+white and blue stars compete for attention in the background, 
+thinning near the lower hemisphere where a prominent deep, navy 
+blue sphere dominates your attention. Although only slightly 
+larger than the largest star, it is clearly a much more profound 
+blue than the other specks of cerulean light in the sky. The 
+edge of a bold, yellow star that is significantly closer than any 
+other helium-fueled orb in view is now visible, its brilliant 
+yellow seeming muted, evidently dimmed by the viewport's 
+transparent and functional polymer. 
+~
+12 4608 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 336 50117 0 0 0 0
+God~
+God~
+#50117
+viewport xdistance10 xalpha GLASS~
+a heavily-reinforced nanocomposite viewport into space~
+A heavily-reinforced nanocomposite viewport provides a view of space.~
+   This empty stretch of space that you are looking at through 
+the nanocomposite viewport is mostly void of anything besides the 
+increasingly prominent ball of yellow gas in the western 
+hemisphere of your view. A stretch of purple and red stars coast 
+across the upper portion of your vision and the lower hemisphere 
+reveals a swirling white composites of galaxies and stars that 
+provided a white speckled background against the otherwise 
+unbroken space. 
+~
+12 4608 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 720 50120 0 0 0 0
+God~
+God~
+#50118
+xRememory machine chrome-covered headpiece seat fashioned ovoid METAL~
+a chrome-covered headpiece and seat fashioned around an ovoid device~
+A chrome-covered headpiece mounted to a seat on an ovoid device is here.~
+   A confusing entanglement of wires relates the tip of #2an 
+ovoid apparatus striped with greenish glass#0 to a tiny tube that 
+protrudes from #2a red-tinged rod#0. Between the two a dented, 
+rusty pipe protrudes vertically, welded to the floor. Atop this 
+pipe sits #2a small, cannibalized diagnostic panel#0 with severed 
+wires popping out the back. Nine of the wires are covered in a 
+thin sheeting of white-painted metal and end in puffy plastic 
+pads. 
+~
+12 4608 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50387
+Pandora device rotating cone platform METAL~
+a device with a rotating cone in the middle of a platform~
+A rotating platform that holds a smoothed cone-shape apparatus is here.~
+   A seasoned scientist would be able to use the Pandora RXN 
+Monitor for anything from simple dissolution of samples to 
+fine-tuning thousands of environmental parameters in a reaction 
+between two or many molecules. Essentially, it consists of a 
+massive vat that contains millions of microlitre-sized vessels 
+packed together. Systems of tubes feed and interconnect the 
+vessels, supplying them with solvents. The machine will 
+internally modify thousands of conditions using a complex system 
+of algorithms that are simplified on the control panel to provide 
+essential readouts and control of various factors. Laser-based 
+technology allows fine-tuned measurement of reactions between 
+individual molecules as large as proteins. The taxing nature of 
+this kind of experimentation leaves no sample to output, but will 
+give information about the types of interactions and how strong 
+they are between single molecules. 
+~
+12 4608 0
+0 0 0 0
+15000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50388
+Fist jackhammer-shaped piece equipment METAL~
+a jackhammer-shaped piece of equipment~
+A jackhammer-shaped piece of equipment with a touch panel.~
+   Known simply as 'The Fist', this complex piece of machinery 
+was built with the primary goal of reducing solids to less than 
+solid states. Whatever the substance, the synthetic 
+diamond-lattice spike within the machine can drive small amounts 
+of solid compounds at high speeds, with many tons of pummelling 
+strength that will reduce the solid to paste. From this design 
+point forward, the machine's major internal component is a 
+heating loop at the back of the chassis through which the crushed 
+sample can be relayed and melted down, then analyzed for its 
+atomic components using a variety of x-ray fluorescence beams and 
+molten densometric capillaries. 3D electron tomography 
+equipments blasts a variety of concentrated electron beams that 
+can map surface structure of solids and even predict the 
+arrangement of metal atoms in alloys. Most of the touch panel 
+that controls this apparatus consists of dials that control 
+various forces and temperatures, but the complex modeling 
+software occupies a quarter of the screen with 3D grid shapes and 
+maps of atomic arrangement. 
+~
+12 4608 0
+0 0 0 0
+10000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50389
+PuriHive honeycomb formation columns METAL~
+a honeycomb formation of vertical metal columns~
+A honeycomb formation of vertical metal columns of various colours is here.~
+   Built like a hive of vertically oriented columns arranged in 
+honeycomb formations, this device forms a complex, machinated 
+vasculature of coloured tubes carrying variety of 'vessel' tubes 
+accompanied by 'feeder' tubes, the latter providing a broad 
+variety of chemicals to fine-tune every variable that might 
+induce change in the contents of the former. This device has the 
+ability to concentrate specific components in a liquid solution, 
+selectively remove solvents from a solution and replace them with 
+others or separate the contents of an otherwise homogenous 
+solution. The endless intricacies of manipulating single 
+molecules require that much of the starting material be exhausted 
+during the process, yielding only limited sample-sized 
+quantities. This machine is controlled by a complex system of 
+eight sliders that encompass various shifting parameters that are 
+determined to be the most particularly influential to the 
+reaction at hand. The user can select the parameters using vocal 
+commands. The most frequently used parameters include column pH 
+(acid/base), elution composition, resin composition (for 
+separating components based on size or affinity for some 
+compound/molecule), temperature and then static meters for 
+pressure and flow rate are exhibited. The name of this device, 
+printed along one of the foremost columns in tiny lettering, is 
+the 'PuriHive'. 
+~
+12 4608 0
+0 0 0 0
+10000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50340
+BioBarrel silvery barrel-shaped object hydraulic METAL~
+a silvery barrel-shaped object mounted on a hydraulic arm~
+A silvery barrel-shaped object mounted on a hydraulic arm is here.~
+   The 'BioBarrel' is just that; a human-sized, barrel-shaped 
+metallic object with a rotating arm that allows it to be hung 
+sideways, terrarium style, or shaken vertically, like a liquid 
+bioreactor (or fermentor vessel). There is no direct viewport 
+into the barrel, since the actual biosphere vessel itself is not 
+much larger than a fist. Well over ninety-five percent of the 
+barrel's mass is made up of small vessels that control various 
+gas concentrations, the liquid media/solid media and their 
+composition, as well as systems of motors and manipulating arms 
+that control shaking, vibrating and sliding motions in the 
+biosphere barrel. This vessel can grow bacterial, fungal, 
+mammalian and even, using a host system, some simple viruses. It 
+should be noted that this machine functions over long spans of 
+time. Typical runs take several days to process while the 
+programming experiments with the most viable growing conditions 
+for the entity at hand. At even then, the machine does not 
+expend energy growing significant sums, but only small source 
+amounts that can be used for further study. The injection and 
+sample output nozzles are the only highly interactive parts of 
+this machine; although parameters for the vessel's functioning 
+can be modified manually, the programming is very well-equipped 
+to deal with this manually. The complex part of operating this 
+device comes in interpreting the results, known as biographs, 
+which are depictions of the parameters known to cycle in a 
+particular growth system. As a result, long graphs of sinusoidal 
+lines need to be reviewed for any deviation from the set pattern 
+for a particular meaning, if any. 
+~
+12 4608 0
+0 0 0 0
+10000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50341
+Bioleye alabaster sphere orifice METAL~
+an alabaster sphere with an orifice for a retractable padded board~
+An alabaster sphere with an orifice for a retractable padded board is here.~
+   Nearly reaching to the ceiling, this alabaster-painted 
+spherical device has a circular opening with a long, padded bed 
+protruding just beside a simple, milky white control panel. The 
+board that slides in and out of the spherical apparatus can be 
+rotated from the 'padding-up' side to a solid metallic side, 
+which has a small sample dish the size of a fist carved into the 
+metal. This device uses three methods to view samples; visible 
+light (microscopy), X-ray diffraction (X-ray spectroscopy) and 
+Magnetic Resonance Imaging (NMR or MRI). The first of these, 
+light microscopy can be applied to cells, surfaces that need to 
+be seen at high resolution or anything else that light can 
+penetrate and provide definition to. The second is primarily 
+used to detect the diffraction off repeating crystalline 
+structures (most pure crystals are repeating units of some common 
+shape within a defined 3D space) - this is for determining 
+protein structures or any other crystallisable substance. 
+Lastly, MRI can be used to verify brain patterns in a certain 
+subject against programmed norms within the machine. Please 
+note, this is not a full body scan and will not tell you the 
+state of every organ in a person's body - this will aid in the 
+detection of abnormal patterns of electrical activity in the 
+brain. The interpretation of the data can be very complex and a 
+seasoned scientist with a knowledge of the human biology along 
+with chemistry should be able to interpret the complexity of some 
+of the images, but most of the data interpretation is performed 
+by the ChemTexion Mk2 via its uplink with this machine, labelled 
+clearly as the "BiolEye" in blue lettering along the right hand 
+side of its spherical mass. 
+~
+12 4608 0
+0 0 0 0
+10000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50342
+PhysioDiagnostix examination table robotic METAL~
+an examination table underneath a flexible robotic arm~
+An examination table underneath a flexible robotic arm is here.~
+   This entire machine is shaped around a small table with 
+retracting full-body manacles of white that wrap across the 
+chest, waist and thigh. Within each manacle is a system of tiny 
+needles and probes that penetrate the immediate epidermal layer 
+around the forehead and scalp; lower abdominal; and the groin and 
+buttocks. Furthermore, a tiny tube extends from the main mass of 
+the machine - a giant arm that drapes over the patient. This 
+tube can be attached to a major vein in order to sample the 
+concentration of various components in the blood and inject minor 
+amounts of certain solutions. Contained within the flexible arm 
+are various sampling syringes and charge-dispensing electrodes 
+for testing reflexes. The name, "PhysioDiagnostix" is appended 
+to the side of the arm in bold purple lettering. A learned 
+doctor would be vital for operating this piece of machinery and 
+understanding the readout that appears on the stable base of the 
+arm. This machine can sequence the genetic code of certain 
+individuals and compare them against a present 'average human 
+genome', while also investigating their haematological state for 
+abnormalities. This machine is meant for investigating 
+long-standing medical issues that cannot immediately be resolved 
+by surgery. 
+~
+12 4608 0
+0 0 0 0
+10000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50119
+xKITTY pale short-red-haired woman red Kitty METAL~
+a pale, short-red-haired woman seated on an apparatus~
+A pale, short-red-haired woman is seated on an ovoid apparatus here.~
+   Most everything about this woman's body puts her squarely in 
+the terms of average. She is of medium build, and roughly that 
+of height, being neither well-endowed nor particularly slender. 
+Her light red hair has been cut short, roughly even with her jaw, 
+and it surrounds a round, freckled face with doe-like brown eyes. 
+She is seated, unconscious, with an electrode-laden cap attached 
+around her head. Below her is a complex, chrome-covered metallic 
+apparatus with its innards exposed; wiring and a head-sized ovoid 
+with tiny slits of green glass along the exterior. A control 
+panel stands, removed from the object. 
+~
+12 4608 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50310
+xhydraulics white-sheathed mechanized arm shaft wall METAL~
+a melted white plastic sheath around a mechanized arm~
+A giant mechanized arm stretches along the shaft wall; it is in disrepair.~
+   Lodged amidst a huge casing of metal struts and flimsy beams 
+that must encompass the total range of movement, this mechanized 
+arm has bits of silvery wire and plate metal that protrude 
+through a thick, white polymer sheeting. A great mass of plastic 
+along one side of the arm has been melted down from several 
+fist-sized holes, exposing the inner mechanical components of the 
+arm in stark disarray. It is clear that the innards have been 
+seared extensively and much of the wiring sparks perilously at 
+severed ends. 
+
+You realize that you could #6REPAIR#0 some of the #6HYDRAULICS#0 
+system here. 
+~
+12 512 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50311
+xvirtualblaster sleek glowing arrow-shaped tattoo PLASTIC~
+a sleek, glowing arrow-shaped tattoo on the back of the wrist~
+you should not be seeing this - arrow/computer/wrist/gun~
+The dim-blue glow of this arrow shape on the back of the wearer's wrist is 
+not so strong that it blinds the eyes, but does seem to sufficiently bright to 
+disturb the visible edge between skin and tattoo. Shaped like a very rigid 
+arrow with a point that comes up to the middle of the palm, the tattoo pulses 
+rhythmically and emits a faint humming sound when placed directly against the 
+ear. 
+
+ You realize you can #6BLAST <TARGET>#0 with this.
+~
+12 512 129
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50120
+viewport xdistance11 xalpha GLASS~
+a heavily-reinforced nanocomposite viewport into space~
+A heavily-reinforced nanocomposite viewport provides a view of space.~
+   Black nothingness monopolizes the majority of the vacuum that 
+is visible through the nanocomposite viewport. An arrangement of 
+red stars filled with bright yellow stars lies in the upper 
+hemisphere of the view, almost like a malformed mouth with gold 
+teeth. Several white and blue stars compete for attention in the 
+background, thinning near the lower hemisphere where a prominent 
+deep, navy blue sphere dominates your attention. Although only 
+slightly larger than the largest star, it is clearly a much more 
+profound blue than the other specks of cerulean light in the sky. 
+The edge of a bold, yellow star that is significantly closer than 
+any other helium-fueled orb in view is now visible, its brilliant 
+yellow seeming muted, evidently dimmed by the viewport's 
+transparent and functional polymer. Visible as a massive globe 
+near the corner of the viewport, obviously being targeted 
+directly by the bow of the ship, is a somewhat darkened auburn 
+and orange globe. The top portion, a slightly off-shade of 
+white, darkens in a carefully regimented system of rings that 
+colour-code the planet from top to bottom. Near the base, the 
+colour is a deep, reddish-auburn; almost orange. Only just 
+reflecting the light of the nearby star, you notice a system of 
+very thick bands surrounding the orb. 
+~
+12 512 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 1 50124 0 0 0 0
+God~
+God~
+#50121
+lift platform rectangular stark white METAL~
+a stark white, rectangular platform lift~
+A rectangular platform lift lies in the center of this room, painted white.~
+   This large platform is smooth, metallic and painted a stark 
+white. Four hydraulic columns rise up from its flooring and 
+connect upward into the ceiling above. 
+
+You realize that you could #6USE#0 this #6LIFT#0 to travel with 
+your group. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50122
+syringe xsupervirus slender syringe clear METAL~
+a slender syringe filled with clear liquid~
+A slender syringe filled with clear liquid has been discarded here.~
+   The glass length of this syringe is protected by ribbed 
+metallic architecture that gives only the faintest glances at the 
+clear liquid floating within. A slender needle with a tiny hook 
+at the tip exhibits a distinctive glistening, clearly some kind 
+of scratch-proof metal. The fingerhold at the end of the plunger 
+is an ergonomically-shaped foam rest for the thumb and index 
+finger. A tiny crystal display along the side of the ribbed 
+architecture of the syringe displays a tiny circle with 
+clusterings of symbols and letters, too complex to understand 
+from a distance. 
+
+You realize that you could #6INJECT#0 yourself with this 
+#6SYRINGE#0. 
+~
+12 0 1
+0 0 0 0
+43 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50123
+holodisc coiled round reflextive epoxy METAL~
+a coiled, round object covered in reflective epoxy~
+A coiled, round object covered in reflective epoxy sits here.~
+   This object resembles a narrowing coil about half a metre long 
+that can easily be compressed down into a disc shape. Its 
+surface, covered in a reflective black epoxy, reveals a striated 
+arrangement of darker ebony lines that stretch from the 
+circumference to the centre of the coil. The flexible metal that 
+the coil is made of absorbs heat readily and has the inscription, 
+"HPR-948-NMN" etched into the surface, circling around the centre 
+of the disc. 
+   You realize that you could #6SCAN#0 this #6HOLODISC#0. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50124
+viewport xdistance12 xalpha GLASS~
+a heavily-reinforced nanocomposite viewport into space~
+A heavily-reinforced nanocomposite viewport provides a view of space.~
+   The vast expanse of black space is speckled with groupings of 
+stars, with no particular theme or pattern in their positioning 
+or colouring. Blue stars cluster near fatter crimson orbs, like 
+a faint trail that scatter behind the largest, yellow orb that 
+has grown to such a size that it now hurts to stare at it 
+directly for too long. Like some kind of twinkling moss spread 
+about the bottom of the viewport, a row of yellow stars, 
+interrupted by white and blue dots, twinkle distantly. A small 
+red orb dangles in your view, about an eight of the size of the 
+large yellow orb, its darkened red shape a deeper crimson than 
+the reddest stars you can see. 
+~
+12 512 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50125
+toy $botshape springs plates xKIDSHIT OTHER~
+a $botshape toy of springs and plates~
+A $botshape toy of springs and plates lays here.~
+   Tiny springs and metal plates come together to form a toy with 
+a shape that $botshape. The body springs move easily, giving the 
+entire toy a range of motion, in which all the limbs swivel and 
+move with enough applied force. A small metal plate dangles from 
+the mouth and can be pressed shut and clicked into place between 
+the jaw. When left open, it flaps around, with a tiny 'click 
+click click.' Great care has gone into the creation of the 
+rudimentary toy, with every would-be sharp corner folded over and 
+left smooth. 
+~
+12 33558528 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50126
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50127
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50128
+viewport xdistance13 xalpha GLASS~
+a heavily-reinforced nanocomposite viewport into space~
+A heavily-reinforced nanocomposite viewport provides a view of space.~
+   A single bright star sits a little off-center from the 
+viewport, its yellow brilliance casting much of the other 
+background into darkness. The stars around it are still 
+noticeable, however - light-years away, burning solidly through 
+the blacknees of space. A couple of spacial bodies can be seen 
+close to the star, recognizeable only through the light that 
+flickers brightly off of their atmosphere, winking through the 
+viewport's glass. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50129
+viewport xdistance14 xalpha GLASS~
+a heavily-reinforced nanocomposite viewport into space~
+A heavily-reinforced nanocomposite viewport provides a view of space.~
+   Burning yellow near the center of the viewport, a massive star 
+dominates much of the shown space. Its brilliance casts much of 
+the rest of the view into darkness, the far away stars hardly 
+able to hold a bar to the behemoth shown. Of note, however, is a 
+small brown-red orb some distance away from the star - a planet - 
+the light of the star flickering brightly against its atmosphere. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50130
+monitor rewired computer METAL~
+a rewired computer monitor~
+A computer monitor hangs on the wall above the blast door, lit.~
+   This computer monitor has been removed from its casing and 
+carefully rewired with a variety of wires, which now protrude 
+from all sides. It is mounted above the blast door, angled down 
+for ease of viewing, and secured to the wall with fasteners and a 
+harness of wide grey tape. 
+   You realize you could #6VIEW#0 the image on the #6SCREEN#0. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50131
+panel cypherlock door xSHIP_DECK3_MACHINE_SHOP METAL~
+a cypherlock panel~
+A cypherlock panel blinks next to the blast door.~
+   This cypherlock panel is embedded in a solid case of remolded 
+plastic fused with the wall panel besides the blast door. It has 
+a numeric keypad rewired from a broken workstation and a screen 
+of LED diodes cut from a larger monitor and reclaimed at some 
+point. 
+
+You can #6VIEW#0 the #6LED#0 screen and #6ENTER#0 a #6CODE#0 
+to #6LOCK#0 or #6UNLOCK#0 the #6DOOR#0 before going #6WEST#0.
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50139
+switch fanblade electrical METAL~
+a fanblade electrical switch~
+A fanblade electrical switch is mounted beside the blastdoor.~
+   Upon closer examination a great deal of rewiring work has been 
+done to the blastdoor's locking mechanism. The work is neat and 
+economic, all loose ends tied off with electrical tape to prevent 
+shorts and electrical arcing. The locking mechanism is nothing 
+more than a fanblade, sawed and manufactured into a paddle 
+switch. Closing the flip-switch gives power to the panel and 
+allows use of the door. While the set up itself is rudimentary, 
+it does the job. 
+
+With this switch you can #2LOCK#0 or #2UNLOCK#0 the 
+#2BLASTDOOR#0. 
+~
+12 12288 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50132
+panel door computerized METAL~
+a computerized door panel~
+A computerized door panel is next to the massive hatch.~
+   This simple computer panel is built neatly into the wall, 
+controlling the locking mechanisms on the adjacent portal. 
+
+You could use this panel to #2LOCK#0 or #2UNLOCK#0 the #2HATCH#0. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50133
+keypad vidscreen small METAL~
+a keypad and vidscreen~
+A small keypad and vidscreen are recessed by the blastdoor.~
+   Carefully molded seamlessly with the ship walls, this is a 
+simple keypad and vidscreen adjacent to the blastdoors. A simple 
+panel slides closed, making it almost invisible, blending with 
+the ship construction. 
+
+You realize you could #2ENTER#0 a #2CODE#0 on the panel. 
+~
+12 12288 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50134
+mechanics blastdoor wiring METAL~
+some blastdoor wiring and mechanics~
+An opened section of wall panel reveals blastdoor wiring and mechanics.~
+   A whole section of wall panel has been laboriously removed and 
+detached, disabled security mechanisms designed to prevent this 
+now dangling freely overhead. In the open cavity, the mechanisms 
+and wiring of the blastdoor are visible, if extraordinarily 
+complex. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50135
+viewport xdistance15 xalpha GLASS~
+a heavily-reinforced nanocomposite viewport into space~
+A heavily-reinforced nanocomposite viewport provides a view of space.~
+   A burning yellow star fills the entirety of the viewport 
+ahead, its bright rays casting into the room through the 
+viewport's glass. Upon that background can be seen a large 
+red-brown planet, a yellowish haze of atmosphere surrounding it, 
+filled with roiling dark clouds, now prominent in the foreground. 
+Speckles of reflected light, like flecks of glitter, sparkle all 
+around the planet as millions of bits of metallic space debris 
+spin in orbit. A single grey moon of half-lit stone is prominent 
+at the left-edge of the viewport, rotating slowly closer as it 
+circles the nearby planet. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50800
+core energy glowing massive METAL~
+a massive, glowing energy core~
+An energy core looms, bathing this room in #4eerie blue light#0.~
+   Jutting out from the otherwise featureless steel around it, the energy core 
+is an enormous, bulbous thing. Coolant lines are other various apparati run 
+along its length, and from beneath it all, from the uncovered center of the 
+core, comes the brilliant blue glow that soaks the entire room. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50801
+toggle switch auto pilot simple METAL~
+a simple toggle-twitch sits upon a console, labeled #6'Auto-Pilot'#0~
+A simple toggle-twitch sits upon a console, labeled #6'Auto-Pilot'#0.~
+   This is a pretty simple metal toggle switch that can be 
+flipped one way or the other. Labeled, clearly, with blocky red 
+letters, are the words "#1AUTO-PILOT OVERRIDE#0." 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50802
+nanoshields toggle switch simple METAL~
+a simple toggle switch labeled #6'Nanoshields'#0~
+A toggle switch is set into a console, clearly labeled #6'Nanoshields'#0.~
+   This is a pretty simple metal toggle switch that can be 
+flipped one way or the other. Labeled, clearly, with blocky red 
+letters, are the words "#1NANOSHIELD OVERRIDE#0." 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50803
+blueprints engineering deck OTHER~
+blueprints for the Engineering Deck~
+A set of blueprints for the Engineering Deck sit here.~
+   This large sheet of paper-ish substance is, as can be 
+expected, blue. The general layout of Engineering is drawn out 
+upon it in great detail, along with dimensions and calculations 
+and all sorts of other scribblings. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50136
+core generator exposed blue METAL~
+an exposed generator core~
+An exposed generator core glows faintly blue from behind open panels.~
+   Behind some open access panels, a blue glow emits from an 
+exposed generator core. It pulses as the internal reactions spin 
+faster than the eye can track, coolant pipes and wiring visible. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50137
+insectoid dissected mostly-dissected splayed-open large OTHER~
+a splayed-open, mostly-dissected large insectoid~
+A splayed-open, mostly-dissected large insectoid lies on the table.~
+~
+12 0 1
+0 0 0 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50138
+dish deflector massive METAL~
+a massive deflector dish~
+A massive deflector dish rotates slowly.~
+~
+12 0 1
+0 0 0 0
+5000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50140
+Phoenix core computer glowing orb faintly frosty plastic shell backup xByBoo RPT_Object ArtificialIntelligence OTHER~
+a frosty, faintly glowing orb in a plastic shell~
+Sitting here is a frosty, faintly glowing orb in a plastic shell.~
+   This sturdy plastic sphere is capable of being palmed by 
+someone with a very large hand, but most would need two to hold 
+it. On closer look, there are wires and circuitry woven through 
+the outer shell, and there appears to be either a thick gas or 
+some sort of ephemeral liquid inside. It is cold to the touch, 
+and does not have any clear way of opening, made of interlocking 
+bands of translucent blue plastic. At the center, held in with 
+supports attached to the shell, is a second orb: this one appears 
+to be frosted over, a mass of circuitry, tissue, and some sort of 
+seemingly organic fluid. It is frozen, but emits a faint, pale 
+light. 
+~
+12 4096 1
+0 0 0 0
+1000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50141
+panel control backup safe reinforced xByBoo RPT_Object Phoenix OTHER~
+a reinforced electronic control panel~
+A reinforced electronic control panel is set into part of the security console, a faint power light still on.~
+   This control panel fits onto a portion of the control panel that has a 
+faint, but visible seam around it. It is tucked into a corner, under the rest 
+and not immediately in view. The panel itself has an imprint for a human hand, 
+capable of fitting even that of all but the largest of humans. A faint light 
+can be seen still lit. Off to the side of the hand imprint is a blackened 
+metal keypad, and a tiny screen. Though sturdy and reinforced, the outside is 
+charred and some of the keys are melted. Still, it seems to maintain a modicum 
+of power. Touching the outside would reveal it to be cooler than should be 
+expected. 
+   You realize that you could #6HACK#0 this #6PANEL#0. 
+~
+12 4096 0
+2000 1 -1 -30
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50142
+panel control backup safe reinforced xByBoo RPT_Object Phoenix OTHER~
+A reinforced electronic control panel~
+A reinforced electronic control panel is set into part of the security console, on the outside of a door that has swung open.~
+   This control panel fits onto a portion of the control panel 
+that has a faint, but visible seam around it. It is tucked into 
+a corner, under the rest and not immediately in view. The panel 
+itself has an imprint for a human hand, capable of fitting even 
+that of all but the largest of humans. A faint light can be seen 
+still lit. Off to the side of the hand imprint is a blackened 
+metal keypad, and a tiny screen. Though sturdy and reinforced, 
+the outside is charred and some of the keys are melted. The door 
+has swung out and open, revealing a reinforced inside with 
+circuitry and wires lining the walls of the safe-like box, and a 
+small pedestal in the middle. It is cool on the inside, seeming 
+to have some form of refridgeration. At the back is a covered, 
+slick chute of some sort. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50143
+#3NEST lagato disheveled housed eggs OTHER~
+#3a disheveled nest housed by large eggs#0~
+#3A nest made from various materials, housed by large eggs, is here.#0~
+This nest looks completely disheveled and almost renovated in a way. It is made from various materials of all types, right down to having small bits of cloth and other debris. It is filled with several cantalope sized eggs, colored dull-grey and matching the moonscape. Around the nest are multiple large, reptilian tracks.
+~
+30 4096 0
+100 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50144
+#3NEST writhing off-white larvae OTHER#0~
+#3a nest filled with writhing larvae#0~
+#3A nest filled with writhing, off-white larvae is here.#0~
+A concaved portion of ground (or indented crater) is here, filled by larvae. The worm-like creatures secrete a thic white-translucent ooze from their bodies, slathering the walls of their abode. The wriggling masses each have a notable black head, with gray speckles dotting their frames.
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50145
+#3NEST mound twitching purple flowered vines OTHER~
+#3a mound of twitching purple-flowered vines#0~
+#3 a mound of purple-flowered vines with a yellow-black striped pod is here.#0~
+Swaying lightly from side to side, the tentacle-like vines here bear purple flowers with white interiors. At the center of the mound encompasses a large yellow and black striped pod with feelers extended at it's base. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50146
+#3NEST spider funnel funnel-shaped web extensive translucent eggs OTHER~
+#3an extensive, funnel-shaped web of translucent eggs#0~
+#3An extensive funnel-shaped web with translucent eggs, black specks inside each, is implanted here.#0~
+   This collective mass of translucent white eggs clings to their funnel-shaped 
+web like a housing, each bearing a moving black speck inside its gooey shell. 
+Thick sticky cords enwrap each mottled oval, reinforced by sheer number. The 
+funnel has been dug into a small crevice or pitted into the moonscape, 
+shielding it from the light. 
+~
+30 4096 0
+100 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50147
+barricade hydraulic xUNSET METAL~
+a hydraulic barricade~
+a hydraulic barricade is here, ready to be deployed~
+   It's a freaggin barricade, what more do you want? 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50148
+#3NEST shallow mound white brown eggs OTHER#0~
+#3a shallow mound of white and brown eggs#0~
+#3A shallow mound of about a dozen white and brown eggs is here.#0~
+   This nest houses about a dozen white eggs, each speckled with brown. The 
+nest itself is covered with a shallow shroud of dirt, and is surrounded by 
+dozens of small tracks. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50149
+blood trail splatters OTHER~
+#1a gruesome trail of blood#0~
+#1A gruesome trail of blood from something heavy being dragged off is here.#0~
+Thick drag marks of blood of something being dragged off stain the roadway in sickening amounts.
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 6 86 0 0 0 0
+God~
+God~
+#50150
+sticky pools drying blood pool OTHER~
+#1a dark pool of drying blood#0~
+#1A dark pool of drying blood is here, sticky and mingled with grime.#0~
+A large, dark puddle of blood is set into its stages of drying, staining the ground red with its sticky fluid.
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 6 86 0 0 0 0
+God~
+God~
+#50151
+tortuous bastion enmeshed cocoons desecrated corpses monstrous xNEST xHUMAN xCORPSE zeta OTHER~
+#3A tortuous bastion of enmeshed cocoons and desecrated corpses#0~
+#3This room is congested with a monstrous bastion of slime-enmeshed cocoons and desecrated corpses, twitching disjointedly.#0~
+   The obscene number of translucent, slime green cocoons that have infested 
+the majority of the area is sickening, the malodorous stench of rot and 
+putrefied decay. The huge oval-shaped eggs are heaped one on top of the other 
+with some webbed with sticky strings to the ceiling, inhuman creatures twitch 
+and shudder within. An oozing liquid clings and grabs onto boots and objects, 
+coating the convoluted bastion in a protective layer. 
+~
+30 4096 0
+100 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50152
+dark splatters blood gore OTHER~
+#1some dark splatters of blood and gore#0~
+#1Dark splatters of blood and gore stain a stool and a significant portion of the bar.#0~
+   #1Dark splatters of blood and gore#0 stain a stool and a significant portion 
+of the bar. Small drips of the bodily fluid cling to the edge, pooling upon 
+the floor with small chunks of bone and flesh inbetween. It appears to already 
+have begun to dry, hasty wipe marks smearing it over the faux-wood. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 2 86 0 0 0 0
+God~
+God~
+#50153
+ladder rickety steel access xELEVATORPROGx xskepcopy METAL~
+a rickety, steel access ladder~
+A rickety, steel access ladder has been bolted to the wall.~
+   This rickety access ladder has been bolted to the wall here, allowing access 
+up and down the elevator shaft. While at one time it was undoubtedly sturdy, 
+it has long since fallen into serious disrepair - several steps are missing, 
+others seem much too short to allow for solid footing, and several bolts appear 
+to be screwed loose. All in all, not a good place to linger. 
+
+You can use this to #6CLIMB UP#0 or #6CLIMB DOWN#0. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50420
+flat-screened screened keycard card console xAWING OTHER~
+a flat-screened keycard console~
+A flat-screened keycard console has been installed into the wall.~
+   About the size of an average-sized monitor, this keycard console appears to 
+have recently been refurbished and installed into the polyplastic panels near 
+the door. Touch-screen buttons allow users to request a formatted copy of a 
+keycard with the monitor panel itself providing a small map as a visible 
+representation for the illiterate to choose the correct room keys. A retrieval 
+slot at the bottom releases the processed cards. An authorized user could 
+#6REQUEST#0 keys for the following A-Wing Rooms: #6OQ-A#0, #6A1#0, #6A2#0, 
+#6A3#0, #6A4#0, #6A5#0 and #6A6#0. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50421
+flat-screened screened keycard card console xBWING OTHER~
+a flat-screened keycard console~
+A flat-screened keycard console has been installed into the wall.~
+   About the size of an average-sized monitor, this keycard console appears to 
+have recently been refurbished and installed into the polyplastic panels near 
+the door. Touch-screen buttons allow users to request a formatted copy of a 
+keycard with the monitor panel itself providing a small map as a visible 
+representation for the illiterate to choose the correct room keys. A retrieval 
+slot at the bottom releases the processed cards. An authorized user could 
+#6REQUEST#0 keys for the following B-Wing Rooms: #6OQ-B#0, #6B1#0, #6B2#0, 
+#6B3#0, #6B4#0, #6B5#0 and #6B6#0. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50422
+flat-screened screened keycard card console XCWING OTHER~
+a flat-screened keycard console~
+A flat-screened keycard console has been installed into the wall.~
+   About the size of an average-sized monitor, this keycard console appears to 
+have recently been refurbished and installed into the polyplastic panels near 
+the door. Touch-screen buttons allow users to request a formatted copy of a 
+keycard with the monitor panel itself providing a small map as a visible 
+representation for the illiterate to choose the correct room keys. A retrieval 
+slot at the bottom releases the processed cards. An authorized user could 
+#6REQUEST#0 keys for the following C-Wing Rooms: #6OQ-C#0, #6C1#0, #6C2#0, 
+#6C3#0, #6C4#0, #6C5#0 and #6C6#0. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50166
+xsbsredsboardx voice-activated activated flat screen board OTHER~
+a voice-activated flat screen~
+A voice-activated flat screen is installed into the metal panelling, recording and relaying messages.~
+Installed to be flat with the metal paneling on the wall, this touch screened console appears to be equipped with voice-recognition software. A small camera would allow a snapshot view of the user leaving the message, without being able to view the entirity of the lounge.
+~
+22 4096 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50355
+table circular metal-plated plated METAL~
+a circular, metal-plated table~
+A circular, metal-plated table has been bolted to the floor in the center of the room, covered in a fine layer of dust.~
+   This circular table as been fitted with metal plates, lending it a robust 
+and sterile look. It has been bolted solidly to the floor, making it very 
+sturdy. The straight, squared legs end in escutcheon covers and flanges with 
+holes for where the bolts attach it to the floor anchors. 
+~
+15 2101248 0
+20000 0 -1 0
+2000 0.000000
+0 0 12 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50167
+xxsbsvulturesboardxx voice-activated activated flat screen board OTHER~
+a voice-activated flat screen~
+A voice-activated flat screen is flush against the metal panelling, recording and relaying messages.~
+~
+22 4096 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50154
+sink disconnected piping dry filthy OTHER~
+a dry, filthy sink~
+A dry, filthy sink with disconnected piping is secured to the wall.~
+   Made of stainless steel, the color of this metal sink is deeply tarnished 
+from a layer of residual grime. A thorough inspection would lend itself that 
+it is in itself function, but a disconnection of the piping and a clogged end 
+has left a dried brown puddle below it. Likely someone familiar with mechanics 
+would be able to fix it. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50423
+flat-screened screened keycard card console xDWING OTHER~
+a flat-screened keycard console~
+A flat-screened keycard console has been installed into the wall.~
+   About the size of an average-sized monitor, this keycard console appears to 
+have recently been refurbished and installed into the polyplastic panels near 
+the door. Touch-screen buttons allow users to request a formatted copy of a 
+keycard with the monitor panel itself providing a small map as a visible 
+representation for the illiterate to choose the correct room keys. A retrieval 
+slot at the bottom releases the processed cards. An authorized user could 
+#6REQUEST#0 keys for the following D-Wing Rooms: #6OQ-D#0, #6D1#0, #6D2#0, 
+#6D3#0, #6D4#0, #6D5#0 and #6D6#0. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50168
+xxsbsindiecommboardxx voice-activated activated flat screen board OTHER~
+a voice-activated flat screen~
+A voice-activated flat screen is installed into the metal walls, recording and relaying messages.~
+~
+22 4096 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50155
+small dark hole xinfectedsquick xnest OTHER~
+#3a small, dark hole littered with remains#0~
+#3A small, dark hole is tunneled deep inside the ground near a wall, littered with scavenged remains.~
+   Tunneled beneath the ground, this small, dark hole looks to have been 
+created of bloodied scraps of cloth. Small footprints and tiny claws seem to 
+have left their mark upon the sides. Half-eaten remains of small carcasses and 
+a few gnawed upon body parts of human origins all seem to be contained in the 
+sickly, greenish sludge that seems to pervade the opening of the nest. It's 
+impossible to see exactly how far the tunnel descends, but the size appears 
+relatively small. 
+~
+30 4096 0
+10 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50156
+console dented dingy-grey keycard console xBLOCKA OTHER~
+a dented, dingy-grey keycard console~
+A dingy-grey keycard console with dented metal panels is installed here.~
+   About the size of an average-sized monitor, this keycard console resembles 
+an old, electronic relic. The front of it has plenty of dings and scrapes 
+present on the flat grey metal and the polyplastic protective coating has 
+already begun to peel away. Six buttons are connected to a small map, a 
+visible representation for the illiterate to choose the correct cell keys 
+desired. A retrieval slot at the bottom releases the processed cards. An 
+authorized user could #6REQUEST#0 keys for the following Cell Block A rooms: 
+#6CBA1#0, #6CBA2#0, #6CBA3#0, #6CBA4#0, #6CBA5#0, #6CBA6#0, and the Senior 
+Corrections Officer Room, #6SCO-A#0. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50170
+xxsbsmisfitsboardxx voice-activated activated metal reporting station board OTHER~
+a metal, voice-activated reporting station~
+A metal, voice-activated reporting station is flush against the metal panels, recording and relaying information.~
+~
+22 4096 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50169
+xxsbswilmingtonsboardsxx voice-activated activated flat screen board OTHER~
+a voice-activated flat screen~
+A voice-activated flat screen is flush against the metal panneling, recording and relaying messages.~
+~
+22 4096 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50350
+xsbshandscan handscanner biometric hand scan scanner OTHER~
+a complex, biometric handscanner~
+A complex, biometric handscanner is installed here.~
+   The flat black pad of this handscanner is flush with the walls of the ship 
+itself and protected by a thin plate of clear polyplastic. A protected, 
+rectangular speaker is installed in the upper portion of the electronic device. 
+The updated technology allows the hand and subsequent fingerprints to be 
+scanned and processed despite the wearing of gloves or armor. With the proper 
+authorization, you could #6HANDSCAN#0 for access for yourself and whoever may 
+be following you. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50351
+encoded security panel OTHER~
+an encoded security panel~
+An encoded security panel is here, providing access in and out the door.~
+   This small rectangular security panel is installed beside the door, flush 
+with the walls of the ship. Made of matte black metal, a simple switch allows 
+any user to #6EXIT#0 the #6HALL#0 with the simple push of a luminescent blue 
+button. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50199
+firebreather doorlock token OTHER~
+a firebreather doorlock token~
+a firebreather doorlock token signifies the door is locked~
+~
+12 4100 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50157
+bar curving clear-plexiglass plexiglass OTHER~
+a curving clear-plexiglass bar~
+A curving bar of clear-plexiglass dominates the center of the room.~
+   A plate of thick plexiglass sits on top of stylized, curved chrion bars, the 
+bar itself shaped into a C-shape in the center of the room, with a space only 
+for employees to maneuver inside of. The edges are all rounded and dulled, 
+leaving a slightly safer, but still hardened surface if someone were to fall 
+into it. Numerous stools, manufactured in the same style encircle the 
+furnishing. Stains and a thick layer of grime have been unkind to the surface, 
+marring the otherwise smooth composite with a gritty look that clouds the 
+clarity. 
+~
+15 2101248 0
+10000 0 -1 0
+300 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50158
+booth cushioned semi-circular OTHER~
+a cushioned, semi-circular booth~
+A cushioned, semi-circular booth is recessed into one wall.~
+   Recessed into one of the golden-toned walls, this booth is shaped into a 
+semi-circle surrounding a rounded, plexiglass table supported on a chrion base. 
+Padded cushions are a faded, golden-tone, ripped up in a few places to reveal 
+the foam-batting beneath. The surface of the table itself has been blemished 
+by the stains of time and frequent use, leaving a dull, gritty feeling to the 
+touch. It could likely sit about six people, depending on their size. 
+~
+15 2101248 0
+10000 0 -1 0
+300 0.000000
+0 0 6 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50159
+labcoat chalk-white white labcoat TEXTILE~
+a crisp, chalk-white labcoat embroidered with a 'GC'~
+A crisp, chalk-white labcoat embroidered with a 'GC' is folded here.~
+~
+15 66048 1025
+500 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50160
+blouse $polymesh1 $finecolor0 TEXTILE~
+a $polymesh1, $finecolor0 blouse~
+A $polymesh1, $finecolor0 blouse has been left here.~
+   Dyed $finecolor0, this crisply pressed shirt is made of $polymesh1. 
+Tailored to fit a feminine torso using softened lines, the sleeves are made to 
+taper down the arms, buttoning with small manon clasps. 
+~
+11 33619968 9
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50180
+robot broken squarish arachnoid cleaning METAL~
+the broken remains of an arachnoid cleaning robot~
+The broken remains of an arachnoid cleaning robot are strewn about here.~
+   Once a functioning cleaning bot, time and violence has turned this once 
+useful piece of machinery into a pile of trash. Damaged beyond repair, there 
+is likely little hope for salvaging. 
+~
+13 4096 1
+0 0 0 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50171
+remnants humanoid blocky hauler robot METAL~
+the battered remnants of a blocky humanoid robot~
+Strewn across the floor lie the battered remnants of a blocky humanoid robot.~
+   Once a functioning robot, crude violence has brought this hauling machine 
+down to a sorry state. Most likely nothing can be salvaged of what remains, 
+with damaged wires, a battered shell, and the more delicate parts utterly 
+destroyed. 
+~
+13 4096 1
+0 0 0 0
+10000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50386
+xxxcommunitydormxxx voice-activated activated flat screen board OTHER~
+a voice-activated flat screen~
+A voice-activated flat screen is installed into the metal panelling, recordering and relaying messages.~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50161
+token barricade block OTHER~
+a barricade block token~
+A barricade block token is here, blocking people.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50228
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50162
+token barricade reverse block OTHER~
+a barricade block reverse token~
+A barricade block reverse token is here, blocking traffic from the other direction.~
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50163
+door translucent-white xxVRxx OTHER~
+a translucent-white door~
+A translucent-white door floats here a few inches off the ground.~
+   This is a nondescript white door, its contours flickering and shimmering, 
+looking to be made of some kind of translucent glass. It floats inexplicably 
+off the floor, hovering, waiting. 
+   You realize you can #6JACK OUT#0 using this door. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50164
+small clear cube pulsing blue light sized palm-sized xVR1 OTHER~
+a small clear cube bearing a pulsing blue light~
+A palm-sized clear cube is settled here, pulsing faintly with blue light.~
+   This perfect cube is crafted of clear polyprop and imbedded in almost 
+translucent circuits. Within the cube, a faint blue light pulses endlessly, as 
+regular as a heartbeat. One side of the cube has a small port, flat and marked 
+with faint conductive metallic strips to carry a charge. A dull black panel 
+settles against the very top, reactive to a fingerprint. 
+~
+12 4096 1
+0 0 0 0
+25 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50165
+door translucent-cerulean translucent cerulean xxVR2xx OTHER~
+a translucent-cerulean door~
+A translucent-cerulean door floats here a few inches off the ground.~
+   This is a nondescript cerulean door, its contours flickering and shimmering, 
+looking to be made of some kind of translucent glass. It floats inexplicably 
+off the floor, hovering, waiting. You realize you can #6RETURN#0 to the 
+#6DOCK#0 using this door. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50172
+token desert echoes OTHER~
+a desert echoes token~
+A desert echoes token is here.~
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
 $~

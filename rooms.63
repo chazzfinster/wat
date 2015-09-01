@@ -1,1 +1,250 @@
+#63000
+Base Room - Mandira~
+   This zone is for Mandira, the Buddhist/Hindu monestary town up 
+the dangerous mountain paths to the Northeast of Grungetown. 
+They are in an old chem lab on the mountainside and produce the 
+grown gemstones. 
+~
+63 65536 0
+0
+S
+#63001
+Outside the Ruined Gates of Mandira~
+   A towering concrete gatehouse stands here, twin towers anchored to the rock 
+on either side of this mountainous entryway. The buildings themselves appear 
+abandoned, the high watchtower windows dried with a frame of blood that has 
+seeped down the exterior. The rooftops of a desolate town can be seen far 
+beyond, the distance too great to make out any details. The forged iron-alloy 
+gates have been severely battered, the original artistic designs crushed and 
+warped. A gaping hole has been forced between the heavy gates, presenting an 
+obvious defensive weakness even when closed. 
+~
+63 458816 25
+0
+D0
+~
+twisted wrought-iron-gates~
+3 -1  0 63002
+D2
+~
+~
+0 -1  0 57012
+S
+#63002
+Inside a Ruined Gate~
+   The concrete, bunkered gatehouse still stands erect, though the iron-alloy 
+gates have been hopelessly warped inwards as if something forcibly rammed them 
+repeatedly from the outside. Embedded amongst the mountain rocks, the narrow 
+staircases climbing the two watchtowers are slick with #1trails of blood#0, 
+like a macabre red carpet. An unsettling silence has settled over the dusty 
+trail, ruts still deeply etched within the mud where caravaners once brought 
+their heavy loads up the slope. A mixture of pitched and flat rooftops can be 
+seen at the top of the wide, winding road, though they are too far away to make 
+out any details. 
+~
+63 67305492 25
+0
+D2
+~
+twisted wrought-iron-gates~
+3 -1  0 63001
+D4
+~
+~
+0 -1  0 63003
+S
+#63003
+An Upsloping Mountain Road~
+   Wide and machine-graded with repeating grooves along the ground, this road 
+was cut ages ago deep into the solid stone of the mountain and was once 
+intended to give good traction for vehicles trying to reach the plateau above. 
+As it stands, squat provisional barricades have been made with heavy bags of 
+moonscape soil, staggered along the winding trail with gunmounts to provide 
+cover. There are no visible guards at these fortifications, a few choice 
+splatters of dried blood presenting sign of a struggle. Some of the thick 
+polymesh bags have been punctured with bulletholes or slashed open, the loose 
+dirt swirling like a low haze whenever the wind passes. Just to the west, the 
+lip of the plateau is host to a small city of polyconcrete buildings. 
+Following the path eastwards leads down to the bunkered gatehouse, the 
+destroyed gate visible from this point on the slope. 
+~
+63 67305488 25
+0
+D3
+~
+~
+0 -1  0 63004
+D5
+~
+~
+0 -1  0 63002
+S
+#63004
+A Stone-Paved Courtyard~
+   The mountain slope drops steeply to the south, the breathtaking view of the 
+moonplains far below a grating contrast to the forsaken remains of this 
+community. A singular glimpse of this expansive courtyard and the concrete 
+buildings that rise up beyond it would give the appearance of the whole town 
+having been abandoned, or worse. Any visible doors seem to have been beaten 
+down or splintered. The hard-packed ground is still paved with decorative 
+smooth stones laid into the shape of an eight-pointed star, with crude 
+fortifications of heavy soil-filled bags blocking most of the eastwards road. 
+The extensive #3ornamental plant display#0 probably once stood as this town's 
+focal point, but the signs of its long neglect are readily apparent. There is 
+a daunting amount of dried blood splattered across the whole of this area, 
+spread in numerous drag marks and gory pools. 
+~
+63 67305488 25
+0
+D0
+~
+~
+0 -1  0 63006
+D1
+~
+~
+0 -1  0 63003
+D3
+~
+destroyed red-painted-door~
+1 -1  0 63005
+E
+display~
+   This ornamental plant display was originally landscaped with extreme care. 
+The low hedges that formed a perimeter around the slender-trunked tree in the 
+center have already begun to wither to gnarled, yellowed states, telltale bits 
+of torn clothing stuck within. The delicate branches of the tree itself are 
+mostly barren, save for a tenacious few leaves in their last stages of dying. 
+The brittle leaves which have fallen off are clustered beneath it, matted 
+together upon the blood-drenched soil. 
+~
+S
+#63005
+A Bullet-Riddled Tavern~
+   The painted image of a lotus along the back wall is the only reminder of 
+what this desolate establishment once was, the white petals marred by a smeared 
+bloody handprint. Many of the long florescent lights have half-ripped from the 
+ceiling, some flickering sporatically from the torn wiring. The filmy crimson 
+polymesh hangings that covered them quiver in ghostly shreds from the air which 
+seeps in through the smashed front door. The faux-wood tables that once may 
+have decorated this tavern have been pushed up and stacked in a makeshift 
+barricade against the eastern wall, but whatever blasted through here has 
+broken most and left them in clear disarray. Screened partitions offer privacy 
+no longer, the fabric tattered and damaged. Bullet holes have taken permanent 
+chips from most of the concrete walls, cushions have been mutilated by slashes 
+and the carpets stained by mud and dried blood. Behind the bar, the shelving 
+has been emptied, jugs and containers having leaked their contents long ago. 
+~
+63 67305752 0
+0
+D1
+~
+destroyed red-painted-door~
+1 -1  0 63004
+S
+#63006
+A Mangled Marketplace~
+   This roughly square marketplace is a derelict skeleton of whatever trade 
+took place here. Battered vendor stalls have been knocked over with their 
+brightly colored polymesh displays utterly trampled against the ground. A 
+steady mountain breeze swirls dust above the packed earth, the orderly and 
+smooth paving stones soiled by countless dark, obscure stains. A squat and 
+non-descript complex of grey concrete buildings rises to the west, most of them 
+appearing to be nothing more than abandoned ruins. The remains of the center 
+courtyard lies to the south. Bloodied drag marks lead northwards to the front 
+of a massive temple, the exterior still supported by squat red pillars. 
+~
+63 67305488 25
+0
+D0
+~
+smashed red-double-doors~
+1 -1  0 63008
+D2
+~
+~
+0 -1  0 63004
+D3
+~
+destroyed saffron-door~
+1 -1  0 63007
+S
+#63007
+A Ransacked Storefront~
+   The low ceiling further confines this cramped and stuffy polyconcrete shop, 
+the interior now destroyed by whatever maelstrom ruthlessly ripped through 
+here. The only window present looks to have been painstakingly chipped from 
+the solid stone structure and far too small for any chance of escape for even a 
+small child. The littered floor is irregularly angled from every 
+bullet-riddled wall towards the small circular drain at the center of the room. 
+#1Grisly amounts of blood#0 has stained the ground in garish streaks, pooling 
+into a sticky mess where the malfunctioning grate must be clogged. The 
+tattered ends of a braided rope dangles morbidly from the ceiling above a 
+claw-gashed counter, #2a gruesome, bloodied legless corpse#0 slumps at an 
+unnatural angle below. The eastern saffron-door barely hangs upon its hinges, 
+the thin plastic splintered and torn as if a great force broke it down. 
+~
+63 67305496 0
+0
+D1
+~
+destroyed saffron-door~
+1 -1  0 63006
+E
+corpse~
+   This gruesome corpse must have been brutally slaughtered, both legs look to 
+have been ripped off with only tattered, stringy bits left in remembrance. 
+Vicious claw marks and savage bites have gouged out horrific chunks from the 
+body. A blood-stained braided noose still encircles this man's neck, the end 
+of the rope torn likely due to the rolls upon rolls of obese bulkiness that 
+this human probably carried only with effort. His face is unrecognizeable, not 
+much more than shreds of bloodied flesh with the one remaining eyeball vacantly 
+fixed upon the ceiling. 
+~
+S
+#63008
+Temple Chamber~
+   This large, desecrated temple chamber remains not much more than a ruin of 
+what it once might have been. The red painted pillars that bordered the west 
+side of the center aisle have toppled over, the ceiling having crumbled along 
+with it after losing its massive support. A decaying hand juts out from 
+beneath some of the heavy polyconcrete blocks which now dominate that side of 
+the temple. #1A staggering amount of blood#0 has defiled this room, coating 
+the ground in unsightly layers of the sticky bodily fluid. Blood-drenched 
+yellow cushions have been ripped to shreds, distorting the organized rows into 
+chaos. Two of the three statues which were displayed at the back of the raised 
+dais seem to have mostly shattered when they were knocked over, the only 
+remaining one ironically of a loosely robed bald man sitting cross legged with 
+his large belly protruding, carrying a serene expression despite the claw marks 
+within his face. 
+~
+63 67305496 0
+0
+D2
+~
+smashed red-double-doors~
+1 -1  0 63006
+S
+#63009
+Storeroom for The Lotus~
+This is the store room for the Lotus.  Mob 63005, shop 63005
+~
+63 335609864 0
+0
+D4
+~
+~
+0 -1  0 63005
+S
+#63010
+Mandira Shop Storeroom~
+This is the store room for the shop in mandira.  Mob 63007, shop room 63007.
+~
+63 335609872 0
+0
+D4
+~
+~
+0 -1  0 63007
+S
 $~

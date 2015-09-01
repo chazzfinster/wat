@@ -1,1 +1,687 @@
+#69000
+quill writing~
+a writing quill~
+A writing quill has been discarded here.~
+~
+55 0 1
+0 0 0 0
+25 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69001
+ink black pot ceramic small~
+a small ceramic pot of black ink~
+A small ceramic pot has been left here.~
+~
+56 0 1
+10 10 0 0
+200 0.000000
+0 0 
+black ink~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69002
+tome leather-bound small~
+a small, leather-bound tome~
+A small tome has been left here.~
+~
+54 0 1
+25 0 0 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69003
+xlightpanels light-panel light panels hexagonal blue glowing ELECTRONIC~
+a glowing blue set of hexagonal panels~
+A set of glowing blue-lit hexagonal panels lines the walls.~
+   These panels line the wall in all directions, a dizzying array of them 
+visible as far as the eye can see, the individual hexagonal panels making up a 
+composite wall where each meets its neighbour, leaving only tiny seams between. 
+From the seams emits a pale blue light that pulses, very slowly, brightening 
+and then returning to its normal hue. The panels themselves are made of a 
+quartzlike substance, and they are completely sheer and quite sturdy. 
+~
+1 4104 0
+0 0 20 1
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69004
+xcentauriscanner wallpanel panel glowing purple hand OTHER~
+a panel with a glowing outline of a hand~
+A panel with a glowing purple outline of a hand lies set in the wall.~
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69005
+lights violet hexagonal lights long BYVIKING ELECTRONIC~
+a long row of violet hexagonal lights~
+A long row of violet hexagonal lights glow softly here.~
+   Multiple hexagonal lights rest in a row along the wall. They glow softly 
+from within, the light shaded violet as it filters past crystalline covering. 
+A few alien sigils have been etched into the surface, more brilliant against 
+the purple-blue background. Clear crystal borders the hexagonal shape, with 
+small metal prongs looped around the lip of the plates. 
+~
+1 4096 0
+-1 -1 20 1
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69006
+lights unlit violet hexagonal lights long BYVIKING ELECTRONIC~
+a long row of dim violet hexagonal lights~
+A long row of dim unlit violet hexagonal lights line the walls here.~
+   Multiple hexagonal lights rest in a row along the wall. No glow comes from 
+within the thin crystalline covering. A few alien sigils have been etched into 
+the surface, more brilliant against the purple-blue background. Clear crystal 
+borders the hexagonal shape, with small metal prongs looped around the lip of 
+the plates. 
+~
+1 4096 0
+-1 -1 20 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69007
+spike serrated scaly xxCGT2-ixx OTHER~
+a scaly, serrated spike~
+A scaly, serrated spike has been left here.~
+   About the length of a hand, and with the width of a finger, this gray spike 
+looks to have been part of some creature. It appears to be organic in nature, 
+composed of thousands and thousands of tiny scales to taper into a razor-sharp, 
+serrated point. 
+~
+12 0 1
+0 0 0 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 1 86 0 0 0 0
+God~
+God~
+#69008
+xCGT HIDDEN cocoon small camouflaged OTHER~
+#3a camouflaged, slick cocoon~
+A camouflaged, slick cocoon is here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69009
+xCGT REVEALED cocoon small camouflaged OTHER~
+#3a camouflaged, slick cocoon~
+#3A camouflaged, slick cocoon is here.~
+   This is a bulbous cocoon, covered in some translucent oozing, chitinous 
+material. The material appears to shift and shimmer with its surroundings, 
+allowing it to camouflage itself with relative ease. It pulses and moves here 
+and there, a shadowy shape shifting inside. 
+
+
+   You realize you can try and #6SMASH#0 the #6COCOON#0. 
+~
+12 0 0
+0 0 0 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69010
+holodisc disc-shaped thin glossy black object OTHER~
+a thin, disc-shaped glossy-black object~
+A thin, disc-shaped glossy-black object lies here.~
+   This object resembles a thin disc about the size of a hand, its surface a 
+glossy black and of a striated arrangement of darker ebony lines that stretch 
+from the circumference to the center of the object. The flexible metal appears 
+to absorb heat readily and has a wave and a pair of pupiless eyes staring above 
+it, with the inscription of what appears to be two fangs. 
+
+
+   You realize you can #6SCAN#0 this #6HOLODISC#0 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69011
+token ship Centauri echo OTHER~
+a Centauri ship echo token~
+A Centauri ship echo token is here, echoing to the alien ship.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69012
+skeletal remains missing $bonesize1 $bonedamage0 OTHER~
+the skeletal remains of a human missing a $bonesize1~
+The skeletal remains of a human missing a $bonesize1 lies here.~
+   This was undeniably once a human, but all that is left now is yellowed, 
+dirty bone. It appears to be twisted in an uncomfortable shape, caught forever 
+that way. Notably, $bonedamage and is missing its $bonesize. The death is 
+difficult to determine from the remains that are left. 
+~
+12 33554432 0
+1 0 0 0
+1000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69013
+hinges door blast door METAL~
+a set of heavy blast door hinges~
+A set of heavy blast door hinges is set on the door here.~
+   These are a heavy set of blast door hinges, reinforced solidly to withstand 
+most forms of trauma. There are a total of six heavy, thick hinges. 
+~
+39 0 0
+0 75 86 1
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69014
+broken blast door broken mechanisms METAL~
+the broken mechanisms of a blast door~
+The broken mechanisms of a blast door have been left exposed in the wall.~
+   With a panel ripped out from the wall to reveal the inner workings, it's 
+apparent the motorized mechanisms of this door have been smashed. Some 
+portions still need to be repaired so that it can function properly, the 
+various pieces out of place. 
+~
+39 4096 0
+0 20 86 1
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69015
+refurbished broken compressor OTHER~
+a refurbished but still broken compressor~
+A compressor rests here, refurbished with a fresh plastic casing but otherwise still broken.~
+   This compressor is, unfortunately, broken. It however does have a brand new 
+plastic casing covering the electrical pieces. The pipes that would connect it 
+to a water supply have been broken roughly and the electrical components have 
+been ripped out without care, frying the circuitry. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69016
+refurbished broken compressor OTHER~
+a refurbished but still broken compressor~
+A compressor rests here, refurbished with a new casing and new pipes in place, otherwise still broken.~
+   This compressor is, unfortunately, broken. It however does have a brand new 
+plastic casing covering the electrical pieces. The electrical components have 
+been ripped out without care, frying the circuitry. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69017
+token red queen interference OTHER~
+a red queen interference token~
+A red queen interference token is here, making creepy echoes.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69018
+token virtual reality combination OTHER~
+A virtual reality combination token~
+A virtual reality combination token is here, keeping track of the combination to unlock VR.~
+~
+12 4 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69019
+token lights SBS Atlas OTHER~
+a SBS Atlas lights token~
+A SBS Atlas lights token is here, telling lights to turn on or off.~
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69020
+corpse peeled insectoid OTHER~
+a peeled, insectoid corpse~
+An insectoid corpse is here, its outer chitin peeled away.~
+   This corpse is noticeably from an insectoid of some sort, its outer chitin 
+having been removed to reveal the slimy white innards. However, it still 
+requires further examination and dissection for anything of use. 
+~
+29 0 1
+33 2098703 69021 1
+1500 0.000000
+69022 0 1
+With careful examination of the alien physiology~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69021
+thorax insectoid dissected OTHER~
+a dissected insectoid thorax~
+A dissected insectoid thorax lies here.~
+~
+29 0 1
+33 2097231 69025 1
+1000 0.000000
+69026 0 1
+With careful examination of the alien physiology~
+0 0 131072 0 1
+0.000000 0 0 0 0 0 0
+S
+19 3 400 0 0
+T
+16392 1 0 2 0 0 0 0 0 0 0 0 7 2 6 2 6 6 8 3 2 0 0 0 2 0 0 1 0 
+You accidentally burst an organ, spraying acidic goo all over you!~
+$n stops suddenly in dissecting as acidic yellow goo sprays all over them!~
+(null)~
+(null)~
+(null)~
+(null)~
+God~
+God~
+#69022
+region head insectoid dissected OTHER~
+a dissected insectoid head region~
+A dissected head region of an insectoid lies here.~
+~
+29 0 1
+33 2097231 69024 1
+500 0.000000
+69023 0 1
+With careful examination of the alien physiology~
+0 0 131072 0 1
+0.000000 0 0 0 0 0 0
+S
+19 16 400 8 0
+T
+16392 1 0 0 0 0 0 0 0 0 0 0 0 0 0 2 6 6 8 3 0 0 0 0 0 0 0 1 0 
+You accidentally burst an organ, spraying yellowy acidic goo all over yourself!~
+$n suddenly stops dissecting, as yellowy acidic goo sprays all over them!~
+(null)~
+(null)~
+(null)~
+(null)~
+God~
+God~
+#69023
+sac discolored small slimy xxxTERROR_ORGANxxx OTHER~
+a small discolored, slimy sac~
+A small discolored sac lies here, covered in slime.~
+   This brownish-red, green-spotted sac is no bigger than a hand and looks 
+vaguely L-shaped. The membrane is tough and has the consistency of leather. 
+It's covered in a slimy yellow goo. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69024
+piece lumpy tiny flesh xxxTERROR_ORGANxxx OTHER~
+a tiny, lumpy piece of flesh~
+A tiny, lumpy piece of flesh lies here.~
+   This grayish piece of flesh is no larger than a fingertip, its texture 
+heavily ridged. Shaped roughly like a fist, it resembles a gray bread crumb. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69025
+piece ropy pale-white long xxxTERROR_ORGANxxx OTHER~
+a long ropy piece of pale-white substance~
+A long ropy piece of pale-white substance lies here in a pile.~
+   This is a gelatinous strip of pale-white flesh, feeling rather flexible. 
+The substance that comprises it appears to be rubbery yet gelatinous, holding 
+together like a wet piece of rope. The pale-white substance is interwoven like 
+braids, over and over, so much that this long strip is rough to the touch by 
+the texture of the braids. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69026
+vial yellowy substance xxxTERROR_ORGANxxx OTHER~
+a vial of yellowy substance~
+A vial of yellowy substance lies here.~
+   This small chemical vial, as large as a hand, contains a watery, yellowy 
+substance that flows readily. It has a homogenous consistency, not at all 
+chunky or gooey. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69027
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69028
+token research progress OTHER~
+a research progress token~
+A research progress token is here, keeping track of discoveries.~
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69029
+mist blood red iron-tasting ORGANIC~
+#1a red, iron-tasting mist~
+#1A red, iron-tasting mist has descended on this area.~
+   Without gravity, this substance now hangs as a crimson-colored, iron-tasting 
+mist in the area in patches here and there. It is thick, making it difficult 
+to see beyond. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69030
+token invisible no controls OTHER~
+an invisible no controls token~
+An invisible no controls token is here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69031
+egg facehugger OTHER~
+a facehugger egg~
+A facehugger egg is attached to the environment.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69032
+facehugger small squid parasite xfh OTHER~
+a small, squid-like parasite~
+A small, squid-like parasite is here, squirming about.~
+   Slick with mucous, this creature is the size of a human head with a flat 
+body and reaching, seeking tentacles. Looking somewhat squid-like, a mouth 
+rests in the very center of the underside, seeking sensitive flesh with a sharp 
+beak-like protrusion. All along the underside are hooks, some harmlessly 
+retracted but others wickedly extended, waiting to tear and rip. Vile smelling 
+gelatinous cysts quiver with every move of the creature, when popped releasing 
+acidic ooze that causes a tingly burn on contact. 
+~
+12 0 1140850689
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69033
+Facehugger spray can acrid smelling acrid-smelling solvent OTHER~
+a spray can of acrid-smelling solvent~
+A spray can has been dropped here, smelling sharply acrid.~
+   Unmarked, this aerosol canister once probably served to house paint. 
+However, the contents now have an acrid smell when sprayed. Whatever logo from 
+some long-forgotten company has worn off almost completely, leaving behind 
+cracked flecks of paint and nothing more. Pressing the top, the item emits a 
+very small blast of solvent. 
+~
+30 4096 1
+3 8066 1 0
+200 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69034
+scatter charred bloody body parts bits smoking OTHER~
+#1a scatter of charred and #9bloody#0 #1body parts#0~
+#1Still smoking, piles of charred #9bloody#0 #1body bits are strewn here.#0~
+   Though some pieces are obvious feet, hands, legs, most could be any 
+combination of those or any other piece of a body. The flesh is charred, 
+enough that blood mingles with the scent of roasted meat. Splatters and 
+misting of blood covers everything, coupling with the oily black of the burned 
+skin, fat, and bone. Some of the bits are still smoking, that fat-rich flesh 
+married between appetizing and unappetizing. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 1 86 0 0 0 0
+God~
+God~
+#69035
+eggtimer token OTHER~
+an eggtimer~
+An eggtimer is here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 24 69031 0 0 0 0
+God~
+God~
+#69036
+corpse parasite squid like small ORGANIC~
+a corpse of a small, squid-like parasite~
+The corpse of a small, squid-like parasite lies here.~
+~
+12 0 1
+0 0 0 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69037
+GasSTump Blighter stump chitinous plated seeping yellow gas ORGANIC~
+#3a chitinous-plated neck stump seeping yellow-green gas#0~
+#3A chitinous-plated neck stump thrashes around, seeping yellow-green gas.~
+   Still attached to the body, but not attached to the head that has since 
+dispersed into slime, this eight foot diameter stump is still thrashing around. 
+As it does, the surface of the internal musculature seems to boil and start to 
+reform. From out of the main pipe constantly seeps a yellow-green gas. The 
+interior is plated with a metallic-sheened black exoskeleton with large plates, 
+while large pustules burst and run down the sides.
+
+You realize that you could #6BURN#0 this #6PLATEDSTUMP#0
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69038
+ElectricStump Blighter crackling electricity stump neck tined ORGANIC~
+#6a tined neck stump crackling with electricity#0~
+#6A tined neck stump crackles with electricity as it writhes to and fro.#0~
+   Even though this stump has been beheaded, it still moves and writhes on the 
+floor, leaking out coagulating slime from the dominate neck hole. Some 
+greenish tissue can be seen inside, coating over the top around the spine, and 
+part of what looks like more insectoid innards. Some areas appear almost 
+rotten. Multiple tines jut out from between black plates that cover the 
+pustule-ridden flesh, seeming to be a metallic alloy. Electricity arcs between 
+them, occasionally hitting the floor or nearby slime with a crackling sound. 
+
+You realize that you could #6BURN#0 this #6CRACKLINGSTUMP#0.
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69039
+OffensiveStump Blighter writhing wide neck stump acidic ooze ORGANIC~
+#1a wide, writhing neck stump#0~
+#1A wide neck stump writhes at the center of the body, dripping acidic ooze.#0~
+   At the center of the body hangs a neck stump wider than the others, slowly 
+writhing in front as the flesh seems to boil. All the white it drips acidic 
+ooze down on the floor, which gathers around the creature's body, but doesn't 
+seem to hurt it. Matching the rest of the creature, it is covered in pustulent 
+boils, scabs, and black chitin. Slime appears to be everywhere, and the 
+occasional plume of gas wafts from the severed esophagus, followed by rhythmic 
+contractions and vomiting sounds as more acid spills out.
+
+You realize that you could #6BURN#0 this #6WRITHINGSTUMP#0.
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69040
+SearedStump blackened charred neck stump ORGANIC~
+a blackened, charred neck stump~
+A blackened, charred neck stump twitches as it hangs from the body.~
+   While the muscles in the attached neck still twitch and convulse, this neck 
+stump would appear to be otherwise dead. Smoldering ichor, muscle, and other 
+tissues have all been blackened and are still smoking, smelling of a 
+stomach-rolling burning flesh. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 1 86 0 0 0 0
+God~
+God~
+#69666
+token hull integrity invisible OTHER~
+an invisible hull integrity token~
+An invisible hull integrity token is here.~
+~
+12 4 0
+100 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69041
+ooze thick ankle-deep ankle deep mottled brown yellow OTHER~
+#6a thick ankle-deep mottled #3yellow-brown ooze#0~
+#6The area has been layered with ankle-deep #3yellow-brown ooze#6.#0~
+   Coming to about ankle height, this ooze is thick and viscous, swirling with 
+oily sheen. The color is mottled brown yellow and a heady stench comes off of 
+it. Thicker clumps where the syrupy fluid has coagulated squish as it is moved 
+through. Every single step would be hindered by the sucking pull of the 
+substance against anything stuck inside. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69042
+helm cybernetics spec dome OTHER~
+a large, dome-shaped helmet spec'd with cybernetics~
+A large, dome-shaped cybernetic helmet lies here.~
+   This helmet has various open ports and expensive-looking wires portruding 
+from it in several sections. It is dome-shaped and made from some metal alloy, 
+possessing built-in microchips and cybernetic functions. A green, lit-up visor 
+slides down the front of the helmet, masking any wearer's face. 
+~
+11 524288 17
+0 0 0 0
+1000 0.000000
+0 0 
+cybernetic-helmed~
+0 0 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
 $~

@@ -1,1 +1,252 @@
+#58000
+HOLY SHIT THE SEA~
+This is the base room for Crater Lake.
+~
+58 65536 0
+0
+S
+#58001
+Upon the Surface of Crater Lake~
+   This tepid lake is more of a sludge pool than a lake. The 
+toxic sludge is viscious and disgusting, smelling horrible and 
+composed of rotting bits and pieces of organic and inorganic 
+nature. The chemical mixture has combined into a gellatinous 
+goop that clings to whatever it touches and burns the eyes, nose, 
+and skin of the general populance. 
+   To the north stands the Wilmington Dock and Grungetown beyond, 
+the populace bustling along with their own business. 
+~
+58 65540 16
+0
+D0
+~
+~
+0 -1  0 55212
+D2
+~
+~
+0 -1  0 58002
+S
+#58002
+Upon the Surface of Crater Lake~
+   The choppy waters that make up Crater Lake are absolutely, 
+unquestionably toxic. A foul, fetid stench rises from the 
+surface, and the water is a half-frozen, thick-gray sludge. Dead 
+critters float belly-up in no small quantity, often snatched 
+below by unseen scavengers. 
+~
+58 65536 16
+0
+D0
+~
+~
+0 -1  0 58001
+D2
+~
+~
+0 -1  0 58003
+S
+#58003
+Upon the Surface of Crater Lake~
+   This tepid lake is more of a sludge pool than a lake. The 
+toxic sludge is viscious and disgusting, smelling horrible and 
+composed of rotting bits and pieces of organic and inorganic 
+nature. The chemical mixture has combined into a gellatinous 
+goop that clings to whatever it touches and burns the eyes, nose, 
+and skin of the general populance. 
+~
+58 65536 16
+0
+D0
+~
+~
+0 -1  0 58002
+D2
+~
+~
+0 -1  0 58004
+S
+#58004
+Upon the Surface of Crater Lake~
+   The choppy waters that make up Crater Lake are absolutely, 
+unquestionably toxic. A foul, fetid stench rises from the 
+surface, and the water is a half-frozen, thick-gray sludge. Dead 
+critters float belly-up in no small quantity, often snatched 
+below by unseen scavengers. 
+~
+58 65536 16
+0
+D0
+~
+~
+0 -1  0 58003
+D2
+~
+~
+0 -1  0 58005
+S
+#58005
+Upon the Surface of Crater Lake~
+   This tepid lake is more of a sludge pool than a lake. The 
+toxic sludge is viscious and disgusting, smelling horrible and 
+composed of rotting bits and pieces of organic and inorganic 
+nature. The chemical mixture has combined into a gellatinous 
+goop that clings to whatever it touches and burns the eyes, nose, 
+and skin of the general populace. 
+~
+58 65536 16
+0
+D0
+~
+~
+0 -1  0 58004
+D2
+~
+~
+0 -1  0 58006
+S
+#58006
+Upon the Surface of Crater Lake~
+   The choppy waters that make up Crater Lake are absolutely, 
+unquestionably toxic. A foul, fetid stench rises from the 
+surface, and the water is a half-frozen, thick-gray sludge. Dead 
+critters float belly-up in no small quantity, often snatched 
+below by unseen scavengers. 
+~
+58 65536 16
+0
+D0
+~
+~
+0 -1  0 58005
+D2
+~
+~
+0 -1  0 58007
+S
+#58007
+Upon the Surface of Crater Lake~
+   This tepid lake is more of a sludge pool than a lake. The 
+toxic sludge is viscious and disgusting, smelling horrible and 
+composed of rotting bits and pieces of organic and inorganic 
+nature. The chemical mixture has combined into a gellatinous 
+goop that clings to whatever it touches and burns the eyes, nose, 
+and skin of the general populance. 
+~
+58 65536 16
+0
+D0
+~
+~
+0 -1  0 58006
+D2
+~
+~
+0 -1  0 58008
+S
+#58008
+Upon the Surface of Crater Lake~
+   The choppy waters that make up Crater Lake are absolutely, 
+unquestionably toxic. A foul, fetid stench rises from the 
+surface, and the water is a half-frozen, thick-gray sludge. Dead 
+critters float belly-up in no small quantity, often snatched 
+below by unseen scavengers. 
+~
+58 65536 16
+0
+D0
+~
+~
+0 -1  0 58007
+D2
+~
+~
+0 -1  0 58009
+S
+#58009
+Upon the Surface of Crater Lake~
+   This tepid lake is more of a sludge pool than a lake. The 
+toxic sludge is viscious and disgusting, smelling horrible and 
+composed of rotting bits and pieces of organic and inorganic 
+nature. The chemical mixture has combined into a gellatinous 
+goop that clings to whatever it touches and burns the eyes, nose, 
+and skin of the general populance. 
+~
+58 65536 16
+0
+D0
+~
+~
+0 -1  0 58008
+D2
+~
+~
+0 -1  0 58010
+S
+#58010
+Darkening Lake, Nearing the Chasm of Eternal Night~
+   The choppy waters that make up Crater Lake are absolutely, 
+unquestionably toxic. A foul, fetid stench rises from the 
+surface, and the water is a half-frozen, thick-gray sludge. Dead 
+critters float belly-up in no small quantity, often snatched 
+below by unseen scavengers. 
+   Darkness grows as the lake continues southwards and, once it 
+hits the southern shore, surrounds entirely. There is no light 
+in the Chasm of Eternal Night. 
+~
+58 65540 16
+0
+D0
+~
+~
+0 -1  0 58009
+D2
+~
+~
+0 -1  0 51003
+S
+#58011
+Upon the Surface of Crater Lake~
+   This tepid lake is more of a sludge pool than a lake. The toxic sludge is 
+viscious and disgusting, smelling horrible and composed of rotting bits and 
+pieces of organic and inorganic nature. The chemical mixture has combined into 
+a gellatinous goop that clings to whatever it touches and burns the eyes, nose, 
+and skin of the general populance. 
+~
+58 65536 16
+0
+S
+#58012
+Upon the Surface of Crater Lake~
+   This tepid lake is more of a sludge pool than a lake. The toxic sludge is 
+viscious and disgusting, smelling horrible and composed of rotting bits and 
+pieces of organic and inorganic nature. The chemical mixture has combined into 
+a gellatinous goop that clings to whatever it touches and burns the eyes, nose, 
+and skin of the general populance. 
+~
+58 65536 16
+0
+S
+#58013
+Upon the Surface of Crater Lake~
+   This tepid lake is more of a sludge pool than a lake. The toxic sludge is 
+viscious and disgusting, smelling horrible and composed of rotting bits and 
+pieces of organic and inorganic nature. The chemical mixture has combined into 
+a gellatinous goop that clings to whatever it touches and burns the eyes, nose, 
+and skin of the general populance. 
+~
+58 65536 16
+0
+S
+#58014
+Upon the Surface of Crater Lake~
+   This tepid lake is more of a sludge pool than a lake. The toxic sludge is 
+viscious and disgusting, smelling horrible and composed of rotting bits and 
+pieces of organic and inorganic nature. The chemical mixture has combined into 
+a gellatinous goop that clings to whatever it touches and burns the eyes, nose, 
+and skin of the general populance. 
+~
+58 65536 16
+0
+S
 $~

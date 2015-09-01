@@ -1,1 +1,1155 @@
+#56001
+token ductwork sneaky OTHER~
+a sneaky token for ductwork~
+A sneaky token for ductwork hides here.~
+   You shouldn't be seeing this object unless you are staff. 
+
+Set the 6 OVALs for the rooms you want echoes to appear in if 
+someone fails a sneak check here. 
+~
+12 4 0
+0 0 0 0
+0 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56000
+key Grungetown skeleton METAL~
+Grungetown's skeleton key~
+Grungetown's skeleton key is here.~
+~
+18 4 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56002
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56003
+building small constructed slabs moonrock METAL xNaturiShop xPCShop xPCDwelling~
+a small building constructed from slabs of moonrock~
+A small building constructed from slabs of moonrock stands here.~
+This little shop is made from grey, pitted slabs of moonrock. A sign over the doorway is deeply etched with a familiar barter symbol and a crude label that reads: SAWYER'S SWAPSHOP
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56004
+key crude handled METAL xNaturiShop~
+a crude, S-handled key~
+A crude, S-handled key lies here.~
+This is a small key, with an S for a handle.
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56005
+key crude handled METAL xMattshop~
+a crude, R-handled key~
+A crude, R-handled key lies here.~
+   This is a small key, with an R for a handle. 
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56006
+shanty scrap metal METAL xMattShop xPCShop xPCDweling~
+a scrap-metal shanty~
+A scrap-metal shanty sits here.~
+   This small shack is little more than a bunch of pieces of 
+metal, riveted together in a half-hearted fashion. Upon the door 
+Is painted a crude R, overlaid with a rifle. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56007
+key crude little METAL xAKShop~
+a crude little key~
+A crude little key lies here.~
+   This is a small, crude, metal key. 
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56008
+shack small plastic PLASTIC xAKShop xPCShop xPCDwelling~
+a small plastic shack~
+A small plastic shack stands here.~
+   This is a small plastic shack-- a shop, of some sort. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56009
+key inscribed METAL xNarcoShop~
+an inscribed key~
+an inscribed key lies here.~
+This key, while small, is incribed with all sorts of crazy runes and jazz.
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56010
+lodge chaotic concrete xNarcoShop METAL xPCShop xPCDwelling~
+a chaotic concrete lodge~
+A chaotic concrete lodge, bearing a caduceus sign,  hunkers here.~
+   Built like a lozenge out of concrete, this long lodge sports a 
+pair of tin-pipe chimneys poking up from either end, which 
+usually belch fragrant smoke into the air in pungent puffs. 
+Bearing a puffy layer of some sort of plasticrete compound, 
+smoothed over its surface like plaster, the lodge has been 
+painted a beige gone dingy with elements and time, cracked a few 
+places to display the grey-white compound of its construction 
+beneath it. Despite the wear, fresher designs have been painted 
+chaotically across its surface in mottled but viviid shades, some 
+seemingly daubed on directly, leaving finger and hand prints. 
+Vegetation and plant shapes are predominant, though the largest 
+painting is a sinuously curved serpent in a somewhat ancient 
+style, bearing a crest of feathers and wings. Bits of junk and 
+bright pieces of reflective plastic and glass have been glued 
+here and there onto it, picking out the details. Other animal 
+shapes include crude deer, vultures and a crouching image of a 
+yellow jaguar. Above a paint-daubed door has been affixed a 
+plastic sign, lettering abandoned in favor of a drawing depicting 
+a caduceus: a staff wound with two winged serpents, along with a 
+fainter etching of a needle and thread that sits at the edge of 
+the signage like a scratched-on afterthought. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56011
+key dinky little xCalindra xPCShop xPCDwelling METAL~
+a dinky little key~
+A dinky little key lies here.~
+   This is a dinky little metal key. 
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56012
+shack large run down xCalindra xPCShop xPCDwelling METAL~
+a large, run-down shack~
+A large, run-down shack sits here.~
+   This shack, while run down, is still fairly large - at least 
+four rooms. On the door is painted a crude little robot. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56013
+group grungers ragtag xDoghouseBoard OTHER~
+#5a ragtag group of Grungers~
+#5A group of Grungers, all of mixed races and Families, swap stories.~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56014
+woman tiny old dark skin xNaturiBoard xPCshop OTHER~
+#5a tiny old woman with dark skin#0~
+#5A tiny old woman with dark skin takes messages and orders.#0~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56015
+crone wrinkled numerous facial piercings xPCShop xNarcoshop OTHER~
+#5a wrinkled crone with numerous facial piercings#0~
+#5A wrinkled crone with numerous facial piercings sits here, passing along messages.#0~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56016
+guy buck toothed little xCalindrashop xPCShop OTHER~
+#5a buck-toothed little guy#0~
+#5A buck-toothed little guy takes messages here.#0~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56017
+man snazzily dressed xAKShop xPCshop OTHER~
+#5a snazzily-dressed man#0~
+#5A snazzily-dressed man takes orders.#0~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56018
+girl short yellow mulleted green eyed xPCshop xRogersteinBoard OTHER~
+#5a short-yellow-mulleted, green-eyed young girl#0~
+#5A short-yellow-mulleted, green-eyed young girl is here taking orders.#0~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56019
+Wilmingtons sharply clad group OTHER board~
+#5a sharply-clad group of Wilmingtons#0~
+#5A sharply-clad group of Wilmingtons pass messages.#0~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56020
+RevArmy group rowdy reds OTHER board~
+#5a group of rowdy Reds#0~
+#5A group of rowdy Reds pass messenges.#0~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56021
+Vultures bunch burly OTHER board~
+#5a bunch of burly Vultures#0~
+#5A bunch of burly Vultures relay messages.#0~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56022
+key crude metal METAL~
+a crude metal key~
+A crude metal key lies here.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56023
+shanty dented metal METAL~
+a dented metal shanty~
+A bent, metal shanty sits here.~
+   This is a dented metal shanty, made out of chrion alloy that 
+has long since rusted. It has stood the elements so much that 
+parts of it are bent and warped. A small door leads inside, and 
+you realize you can #6ENTER SHANTY#0. 
+~
+12 0 0
+0 0 0 0
+40000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56024
+pylons ridged black series METAL~
+a series of ridged, black pylons~
+A series of ridged, black pylons stand upright in a circle.~
+   The surface of these five pylons, each as doubly tall and wide 
+as a man, are smooth and glossy, but ridged at regular intervals. 
+They stand like the black fingers of a giant, shooting upright in 
+the ground. Arranged to create a circle on an equally smooth 
+thick black platform, these pylons look designed to amplify 
+something - or someone. Besides the almost alien-like nature of 
+this formation, the hardware appears incredibly complex; hundreds 
+of wires snake out from the bottom of this strange formation, 
+where no casing protects them, and connects into the platform 
+that supports the pylons. iridescent lights flash at the top of 
+each pylon, all bending inward to one focal point in the center. 
+And any semblance of control over this device seems out of reach 
+even to the most trained hand, for small white control panels 
+with LED screens and flashing text are mounted on each of them, 
+the text scrolling so fast as to be indistinct. 
+~
+12 4096 0
+3 0 0 0
+400000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56025
+pylons black ridged series activated humming glowing METAL~
+a series of humming, black pylons~
+A series of black pylons sit here, emitting #8a bright light-beam#0.~
+   The surface of these five pylons, each as doubly tall and wide 
+as a man, are smooth and glossy, but ridged at regular intervals. 
+They stand like the black fingers of a giant, shooting upright in 
+the ground. Arranged to create a circle on an equally smooth 
+thick black platform, these pylons look designed to amplify 
+something - or someone. Besides the almost alien-like nature of 
+this formation, the hardware appears incredibly complex; hundreds 
+of wires snake out from the bottom of this strange formation, 
+where no casing protects them, and connects into the platform 
+that supports the pylons. iridescent lights flash at the top of 
+each pylon, all bending inward to one focal point in the center. 
+And any semblance of control over this device seems out of reach 
+even to the most trained hand, for small white control panels 
+with LED screens and flashing text are mounted on each of them, 
+the text scrolling so fast as to be indistinct. 
+   The pylons hum with awesome power, pulsing rapidly. The 
+lights on the pylon-tips flash furiously, and emit a blinding 
+light-beam towards the centre, a bright glowing-white ball that 
+engulfs the black platform. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56026
+pylons black ridged series deactivated METAL~
+a series of deactivated black, ridged pylons~
+A series of black, ridged pylons sit here in silence, deactivated.~
+   The surface of these five pylons, each as doubly tall and wide 
+as a man, are smooth and glossy, but ridged at regular intervals. 
+They stand like the black fingers of a giant, shooting upright in 
+the ground. Arranged to create a circle on an equally smooth 
+thick black platform, these pylons look designed to amplify 
+something - or someone. Besides the almost alien-like nature of 
+this formation, the hardware appears incredibly complex; hundreds 
+of wires snake out from the bottom of this strange formation, 
+where no casing protects them, and connects into the platform 
+that supports the pylons. iridescent lights flash at the top of 
+each pylon, all bending inward to one focal point in the center. 
+And any semblance of control over this device seems out of reach 
+even to the most trained hand, for small white control panels 
+with LED screens and flashing text are mounted on each of them, 
+the text scrolling so fast as to be indistinct. It makes not a 
+sound, silent and inert, deactivated. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56027
+key grimy worn METAL~
+a worn, grimy key~
+A worn, grimy key is here.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56028
+shack concrete gouged PLASTIC~
+a gouged, concrete shack~
+A gouged, concrete shack sits here.~
+   This is a gouged concrete shack, sitting here in the Market. 
+The infrastructure looks old and almost compromised. You can 
+#6ENTER SHACK#0 here. 
+~
+12 0 0
+0 0 0 0
+50000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56045
+capsules rows pods PLASTIC~
+the rows of capsules~
+Row upon row of human-sized capsules run down both sides of this hallway.~
+   Row upon row of hatches run down both sides of this hallway, 
+and were one to try one of the solid polyprop hatches upon, they 
+would find a roughly human shaped capsule - not unlike a coffin. 
+Suitable to hold just one person and a few meagre belongings, 
+they are the accommodation of choice for the poorest Grungetown 
+residents unaffiliated with a family. 
+
+To rent a capsule, see #6HELP RENT#0. 
+~
+83 0 0
+15 56111 56046 56045
+6000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56046
+pass $drabcolor PLASTIC~
+a $drabcolor plastic pass~
+A $drabcolor plastic pass lies here.~
+   This $drabcolor piece of plastic has been marked with a long 
+series of numbers, symbols, and letters, carved in to what is a 
+long-ago discarded piece of polyprop. 
+~
+82 33554432 1
+0 56059 0 0
+25 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56112
+apartments staircase mesh metal rent OTHER~
+the apartments beyond the metal mesh~
+Beyond the metal mesh, the doors to a number of apartments are just visible.~
+   If one were to crane their neck and peer past the metal mesh, 
+they would see that the staircase leads up to a number of dull, 
+red-doored rooms. Of course, such an effort would be a little 
+futile, as a grimy, plastic-encased picture of the rooms is set 
+on the opposite side of the mesh, showing bare, polycrete walled 
+rooms that consist of a small studio separated from a smaller 
+bedroom by a ragged curtain. 
+
+To rent a room, type #6HELP RENT#0. 
+~
+83 8192 0
+45 56113 56113 56112
+0 0.000000
+1 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56113
+key small $finecolor METAL~
+a small, $finecolor key~
+A small, $finecolor key lies here.~
+   This small ironalloy key has been covered with a few splashes 
+of synthetic $finecolor paint. 
+~
+82 33554432 1
+0 56112 0 0
+20 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56115
+key xRED_ARMORYx magnon red-painted METAL~
+a red-painted magnon key~
+A red-painted magnon key lies in the dust.~
+   This key is heavy and thick, forged of magnon-alloy. It is 
+painted a gaudy shade of red and has an A in the handle. 
+~
+18 0 1
+0 0 0 0
+20 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56029
+customer john atlas $johndesc OTHER~
+#5a $johndesc, hard-worn customer#0~
+#5A $johndesc, hard-worn customer loiters here in the middle of the corridors.#0~
+   Dressed in a mismatched set of clothing, this customer is $johndesc. He 
+loiters in the corridor, hoping to get someone's attention for service. 
+~
+12 33554432 0
+0 0 0 0
+17500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 2 56030 0 0 0 0
+God~
+God~
+#56030
+token John xBUZZARDS_BEAKER OTHER~
+a John token~
+An invisible John token is here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 6 56029 0 0 0 0
+God~
+God~
+#56031
+chit gambling debt revolucion anarch OTHER~
+a Revolucion debt chit~
+A Revolucion debt chit lies on the floor.~
+   This piece of simple, stiff plastic is is markable, able to 
+record the wins and losses at the various gaming tables. It has 
+#6"La Revolucion"#0 printed in bold letters at the top, and 
+underneath says, #6"All wins are honored. All losses will be 
+taken in indenture,"#0 which the bookie is willing to explain to 
+any who can't read. 
+
+You realize you can #6CASH#0 this #6CHIT#0 in when you are ready 
+to leave. 
+~
+12 0 1
+0 0 0 0
+5 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56120
+ledger debtor gambling board OTHER~
+a debtor ledger~
+A debtor ledger lies open on the cluttered desk.~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56600
+table roulette gambling crowded barker OTHER~
+a crowded roulette table~
+A roulette table spins here, a crowd gathered around it.~
+   A broad table stands here, a black and red numbered wheel 
+spinning giddily above it. A barker keeps the wheel spinning, 
+loudly calling out wins each time it stops. A crowd of 
+individuals stands around it, tossing chips onto the table's 
+numbered squares. 
+
+You can play roulette by typing #6BET ROULETTE <bet amount>#0 and 
+then your bet specifications. You may type RED to bet on the RED 
+half of the numbers or BLACK to bet on the black half of the 
+numbers. Or, you may specify between one and six numbers to bet 
+on. Bets are accepted on numbers between 1 and 36. 
+
+Examples: 
+
+#6BET ROULETTE 5 RED#0 would bet five chips on Red with a payout 
+of 10 chips. 
+
+#6BET ROULETTE 5 BLACK#0 would bet five chips on Black with a 
+payout of 10 chips. 
+
+#6BET ROULETTE 5 36 35 34 33 32 31#0 would bet five chips across 
+six numbers with a payout of 25 chips. 
+
+#6BET ROULETTE 5 36 35 34 33 32#0 would bet five chips across 
+five numbers with a payout of 30 chips. 
+
+#6BET ROULETTE 5 36 35 34 33#0 would bet five chips across four 
+numbers with a payout of 40 chips. 
+
+#6BET ROULETTE 5 36 35 34#0 would bet five chips across three 
+numbers with a payout of 55 chips. 
+
+#6BET ROULETTE 5 36 35#0 would bet five chips across two numbers 
+with a payout of 85 chips. 
+
+#6BET ROULETTE 5 36#0 would bet five chips on one number with a 
+payout of 175 chips. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56032
+men CHILDREN_PROWLER_BOARD pair filthy mutant OTHER~
+#5a pair of filthy mutant men~
+#5A pair of filthy mutant men speak quietly here.~
+~
+22 4096 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56033
+shard ATLAS_SHARD scratched jagged titon METAL~
+a scratched, jagged titon shard~
+A scratched, jagged titon shard lies here, reflecting light.~
+   This shard, although clearly composed of an iron alloy, is 
+strange to the touch. No doubt its origin was charged with some 
+sort of power which you can't, in all your puny non-robotic form, 
+fathom. The shard is jagged and almost sharp enough to cut skin. 
+It is also scratched and battered from use. It seems to reflect 
+light rather well, too. 
+~
+12 4096 1
+0 0 0 0
+400 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56034
+actors THEATRE_BOARD trio OTHER~
+#5a trio of actors#0~
+#5A trio of actors spreads word here.#0~
+~
+22 4096 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56035
+seats NANGONG_THEATRE rows fold-down velour red OTHER~
+some rows of fold-down red velour seats~
+Some rows of fold-down red velour seats are tiered across the theatre here.~
+~
+15 2101248 0
+10000 0 -1 0
+10000 0.000000
+0 0 15 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56036
+key beaker shaped METAL~
+a beaker-shaped key~
+A beaker-shaped key lies on the ground.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56037
+painting UNIQUE_MUDD small girl golden locks ORGANIC~
+a small painting of a girl with golden locks~
+A small painting of a girl with golden hair is here, propped up in its plastic frame.~
+   Only a handspan in width and height, this painting depicts a 
+girl with her long golden curls arranged to the left side of her 
+head, tied up with a red ribbon. She is sitting on the floor, 
+wearing a simple, sunny yellow dress and smiling brightly with 
+her sapphire-blue eyes sparkling. The canvas used is sturdy 
+polymesh fabric and the frame is made of thick, beige-colored 
+plastic. 
+~
+0 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56038
+key tarnished silvery METAL~
+a tarnished silvery key~
+A tarnished silvery key lies here.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56039
+condom $condomflavor0 foil wrapper OTHER~
+a $condomflavor0 condom~
+A $condomflavor0 condom in a foil wrapper has been discarded here.~
+   This ribbed latex condom has been packaged in a foil wrapper, 
+sealed with tiny stud marks across the top and bottom where the 
+foil has been cut into a triangular shape. It $condomflavor. 
+~
+12 33558528 1
+0 0 0 0
+5 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56040
+machine BUZZARDS_BEAKER large metal condom vending OTHER~
+a large metal condom vending machine~
+A large metal condom vending machine has been bolted to the wall here, scattered with advertisements.~
+   This vending machine has been made from chrion alloy and has 
+seen better days, battered and scratched now. It is scattered 
+with small paper advertisements and graffiti. It has been firmly 
+affixed to the wall with wall brackets which have left marks in 
+the plaster. In the dead center of the machine is a see-through 
+plastic button which underneath says #6VEND CONDOM#0. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56041
+key ANARCH_CELL black rubber four teeth OTHER~
+a black rubber key with four teeth~
+A black rubber key with four teeth lies here.~
+~
+18 4096 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56042
+spray-painted stencil letters GC wall black OTHER~
+a spray-painted stencil reading: "GC"~
+The letters "GC" have been spray-painted on a wall here in black.~
+   These letters have been sprayed in black through a stencil and 
+appear to have been made pretty recently. They are large, bold 
+letters and have a blocky, squarish shape. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56043
+crate GAIMAN_CORP black plastic stamped GC stamped OTHER~
+a black plastic crate stamped with "GC"~
+A heavy, black plastic crate stamped on one side with the letters "GC".~
+   This plastic crate has been dyed black and is squarish in 
+shape, created from a durable plastic. In the center of one side 
+it has been stamped in white with the letters "GC". 
+~
+15 4096 0
+8000 0 -1 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56044
+npcleaderboard board page OTHER~
+#5a familial page#0~
+#5A page stands dutifully, taking messages for the heads of family.#0~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56047
+nangong-judges audition judges narrow-eyed OTHER~
+#5a group of narrow-eyed audition judges#0~
+#5A group of narrow-eyed audition judges are here, judging auditions.#0~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56048
+key flame-marked small METAL~
+a flame-marked small key~
+A flame-marked, small key lies here.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56049
+building polycrete antennae squat PLASTIC~
+a squat polycrete building with a protruding radio antennae~
+A squat, polycrete building sits here, a radio antennae protruding.~
+   This is a polycrete building that is squat and boxy. Its most 
+noticeable feature is a radio antennae that protrudes from the 
+centre of its roof, signaling its purpose as a communications 
+station. A crude painting of a flame is adorned over its double, 
+thick polycrete doors. 
+~
+12 0 0
+0 0 0 0
+1000000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56050
+light recording red unlit OTHER~
+an unlit red recording light~
+An unlit red recording light is hung here on a wall.~
+   This is a red sign spanning about two feet in width, and 
+three-quarters of a foot in height. The white letters, bold and 
+capitalized, read: RECORDING. For now, the sign is a dull red, 
+signifying it isn't lit. 
+~
+12 0 0
+0 0 0 0
+1500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56051
+light recording red lit OTHER~
+a lit bright-red recording light~
+A lit recording light is hung here on a wall, bright-red.~
+   This is a red sign spanning about two feet in width, and 
+three-quarters of a foot in height. The white letters, bold and 
+capitalized, read: RECORDING. For now, the sign is a bright red, 
+signifying recording is in progress. 
+~
+12 0 0
+0 0 0 0
+1500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56052
+switch recording on ENABLED OTHER~
+a recording switch~
+A recording switch is installed into a wall here, flipped to RECORDING.~
+   This is a simple lever-switch, with RECORDING written topside. 
+It is currently flipped to RECORDING. 
+
+You can #6FLIP OFF#0 to flip it down. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56053
+switch recording off DISABLED OTHER~
+a recording switch~
+A recording switch is installed into a wall here, flipped off.~
+   This is a simple lever-switch, with RECORDING written topside. 
+It is currently flipped down. You can #6FLIP ON#0 to flip it on. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56054
+hovercopter sleek $camocolor GC Gaiman METAL~
+a sleek, $camocolor hovercopter~
+A sleek, $camocolor hovercopter takes up space, settled on its landing gear.~
+   Large enough to be a personnel carrier, this $camocolor 
+chopper is still on the smaller end of aircraft. It has a sleek 
+frame with an obvious cockpit, covered by reinforced glass at the 
+bullet-shaped front. With room for a number of humans, the belly 
+bulges out, still held aloft by the rodlike landing gear. From 
+there it tapers back into two tail wings, each with a 
+perpendicular pair of flaps on the end. At each side is a large 
+wing, at least half of the full length of the chopper. For more 
+than just balance, these expand and encircle two huge rotors. At 
+the bases of the wings, along the top, can be noted twin engines. 
+Along the tail has been painted "GC" in large, white-bordered 
+black letters. 
+~
+12 33558528 0
+0 0 0 0
+1500000 0.000000
+0 0 0 0 242 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56055
+hovercopter crashed matte black METAL~
+a crashed, matte black hovercopter~
+Strewn in pieces in a small impact crater is a crashed, matte black hovercopter.~
+   Dust has been heaved up and away from the impact of this 
+$camocolor vehicle, which is identifiable as a craft used to 
+ferry personnel. The nose is almost out of view, but cracked and 
+shattered cockpit glass is visible. One of the wings, and the 
+massive rotor contained within, can be found about thirty feet 
+away from the main crash. The other one is snapped nearly in 
+half, hanging by threads of internal structure, and the landing 
+gear is bent and twisted. An area around the twin engines on 
+top, at the wing bases, is ravaged by fire and heavily blackened. 
+On the side can be made out the partially destroyed block letters 
+"GC". They are black, bordered in bright white. 
+~
+12 33558528 0
+0 0 0 0
+1500000 0.000000
+0 0 0 0 252 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56056
+anaxios key a small, chrion key OTHER~
+a small, chrion key~
+A small, chrion key is here.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56057
+anaxios couple ptrine cross marked individuals board OTHER~
+#5a couple of petrine-cross marked individuals#0~
+#5A couple of petrine-cross marked individuals pass along messages here.~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+C
+anaxios~
+member~
+God~
+God~
+#56228
+BUZZARD_BEAKER_GOSSIPS noisily gossiping strippers OTHER~
+#5a few noisily gossiping strippers#0~
+#5A few noisily gossiping strippers sit about the room, changing.#0~
+~
+22 4096 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56058
+messages_wears_tears Wears and Tears mainframe monitor screen mainframe_messages OTHER~
+a mainframe monitor screen~
+Messages flicker past on a mainframe monitor here.~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56801
+grunge-survivors a ragtag group grungetown xDoghouseBoard2 OTHER~
+#5a ragtag group of Grungetown survivors#0~
+#5A ragtag group of Grungetown survivors converse throughout the bar.#0~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56059
+capsules rows pods PLASTIC~
+the rows of capsules~
+Row upon row of human-sized capsules run down both sides of this hallway.~
+   Row upon row of hatches run down both sides of this hallway, and were one to 
+try one of the solid polyprop hatches upon, they would find a roughly human 
+shaped capsule - not unlike a coffin. Suitable to hold just one person and a 
+few meagre belongings, they are the accommodation of choice for the poorest 
+Grungetown residents unaffiliated with a family. 
+
+To rent a capsule, see #6HELP RENT#0. 
+~
+83 0 0
+15 56111 56046 56045
+6000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56134
+tent makeshift heavy canvas xreisarefugees xskep OTHER~
+a makeshift tent of heavy canvas~
+A makeshift tent of heavy canvas looks to have been recently set up here, amid the numerous other hovels.~
+   Erected to one side of the roadway, this large makeshift tent consists of 
+heavy sheets of stretched canvas over erected chrion poles to create a scant 
+barrier to the elements. Dirt and grime from the marketplace has already 
+soiled the sides of it, a splattering of dark brown liquid staining the sides. 
+A small group of refugees appear to have camped out here, around six or seven 
+at any given time loitering about. You could #6ENTER#0 the #6TENT#0. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56137
+#5xxbloodangelclanboardxx badly-scarred mutant scarred rikton board OTHER#0~
+#5a badly-scarred mutant#0~
+#5A badly-scarred mutant lurks here, passing messages along.#0~
+~
+22 4096 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56325
+token invisible hoverboat boat token xreds xskep OTHER~
+an invisible hoverboat token~
+An invisible hoverboat token is here, letting people on the boat.~
+   An invisible hoverboat token. Vnum is 56325. 
+~
+12 4100 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56060
+xrefugeesanaxboardx several scattered refugees board OTHER~
+#5several scattered refugees#0~
+#5Several scattered refugees are here, speaking with people who pass.#0~
+~
+22 4096 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56248
+xmisfits heavily-muscled muscled one-eyed eyed mutant flame-touched touched board OTHER~
+#5a flame-touched, heavily-muscled, one-eyed mutant#0~
+#5A flame-touched, heavily-muscled, one-eyed mutant passes messages along.#0~
+~
+22 4096 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56062
+corpses bodies several littered crater OTHER~
+several bodies littered around the market~
+All around the market several lifeless corpses are strewn, having been killed upon impact.~
+   Men, women, and children lay lifelessly under rubble, strewn around the 
+circumference of the crater. While most are whole, a few of them have been 
+broken and ripped apart by the blast and flying shards of metal. The ground is 
+stained and splashed with blood. The heady smell of blood hangs in the air. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56063
+wing crater blacked ship crashed spaceship OTHER~
+a crashed ship wing settled in the center of a blackened crater~
+A crater stretches here, at the very center a wing of a spaceship rests partially crumpled within the downward dip.~
+   Though only a small portion of the ship, the wing resting against the 
+scarred market backdrop rises in ominous monolith against the bleak sky. It 
+has been crafted from thousands of fused ceramic discs over ultra-light 
+tungsten-infused metal. The design appears advanced, shape allowing for flight 
+through air as well as through space. Much of the structure, despite the 
+superior design, is crumpled and damaged due to impact. Painted in sleek and 
+subtle black block letters along the edge of the rising wing are the words 
+'Liberty One'. In periphery, the market ground is blackened and sloping inward 
+towards the impact, creating a large crater. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
 $~

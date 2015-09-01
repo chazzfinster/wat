@@ -1,1 +1,550 @@
+#99100
+Ep1~
+Off limits to non-staff. I do check logs!
+~
+99 65536 0
+0
+S
+#99101
+In the Cabin of a Phoenix-2 Stealth Helicopter~
+filler
+~
+99 67174400 0
+0
+S
+#99102
+At the Base of a Lonely Hill amongst the Himilayan Mountains~
+filler
+~
+99 65536 8
+0
+D1
+~
+~
+0 -1  0 99103
+D4
+~
+~
+0 -1  0 99104
+S
+#99103
+At the Edge of a Dangerous Firefight~
+filler
+~
+99 65536 7
+0
+D3
+~
+~
+0 -1  0 99102
+S
+#99104
+Halfway Up the Steep Hillside~
+filler
+~
+99 65536 8
+0
+D4
+~
+~
+0 -1  0 99105
+D5
+~
+~
+0 -1  0 99102
+S
+#99105
+Before a Fortified Building at the Top of the Hill~
+filler
+~
+99 65536 8
+0
+D0
+~
+sealed blastdoor~
+1 1  100 99106
+D5
+~
+~
+0 -1  0 99104
+S
+#99106
+An Abandoned Lobby~
+filler
+~
+99 67174408 0
+0
+D0
+~
+~
+0 -1  0 99107
+D2
+~
+sealed blastdoor~
+1 1  100 99105
+S
+#99107
+A 'T'-shaped Split in the Hall~
+filler
+~
+99 67174408 0
+0
+D1
+~
+~
+0 -1  0 99108
+D2
+~
+~
+0 -1  0 99106
+D3
+~
+~
+0 -1  0 99109
+S
+#99108
+A Loudly Humming Corridor~
+filler
+~
+99 67174408 0
+0
+D1
+~
+sealed double-doors~
+1 1  100 99120
+D3
+~
+~
+0 -1  0 99107
+S
+#99109
+A Widely Stretching Corridor~
+filler
+~
+99 67174408 0
+0
+D1
+~
+~
+0 -1  0 99107
+D3
+~
+~
+0 -1  0 99110
+S
+#99110
+The Hallway's Dead End into a Set of Broken Doors~
+filler
+~
+99 67174408 0
+0
+D0
+~
+broken double-doors~
+1 -1  0 99111
+D1
+~
+~
+0 -1  0 99109
+S
+#99111
+A Crumbling Section of the Long Corridor~
+filler
+~
+99 67174408 0
+0
+D0
+~
+~
+0 -1  0 99112
+D2
+~
+broken double-doors~
+1 -1  0 99110
+S
+#99112
+Part of a Long Stretch of Hallway~
+filler
+~
+99 67174408 0
+0
+D0
+~
+~
+0 -1  0 99113
+D2
+~
+~
+0 -1  0 99111
+S
+#99113
+The First Floor's Northwestern Corner~
+filler
+~
+99 67174408 0
+0
+D1
+~
+~
+0 -1  0 99114
+D2
+~
+~
+0 -1  0 99112
+S
+#99114
+A Bloodied Stretch of Corridor~
+filler
+~
+99 67174408 0
+0
+D1
+~
+~
+0 -1  0 99115
+D3
+~
+~
+0 -1  0 99113
+S
+#99115
+At a Bottleneck in the Passage~
+filler
+~
+99 67174408 0
+0
+D2
+~
+~
+0 -1  0 99116
+D3
+~
+~
+0 -1  0 99114
+S
+#99116
+An Obfusicated Bend in the Hallway~
+No Description Set.
+~
+99 65536 0
+0
+D0
+~
+~
+0 -1  0 99115
+D1
+~
+~
+0 -1  0 99117
+S
+#99117
+A Sharp Turn in the Hallway Passage~
+filler
+~
+99 67174408 0
+0
+D2
+~
+~
+0 -1  0 99118
+D3
+~
+~
+0 -1  0 99116
+S
+#99118
+A Snaking Bend in the Tight Corridor~
+filler
+~
+99 67174408 0
+0
+D0
+~
+~
+0 -1  0 99117
+D1
+~
+~
+0 -1  0 99119
+S
+#99119
+A Tightly Turning Corridor~
+filler
+~
+99 67174408 0
+0
+D2
+~
+~
+0 -1  0 99120
+D3
+~
+~
+0 -1  0 99118
+S
+#99120
+At a Hallway Junction, before a Set of Rickety Stairs~
+filler
+~
+99 67174408 0
+0
+D0
+~
+~
+0 -1  0 99119
+D3
+~
+sealed double-doors~
+1 1  100 99108
+D4
+~
+~
+0 -1  0 99121
+S
+#99121
+At the Top of a Rickety Staircase~
+filler
+~
+99 67174408 0
+0
+D0
+~
+~
+0 -1  0 99122
+D3
+~
+~
+0 -1  0 99123
+D5
+~
+~
+0 -1  0 99120
+S
+#99122
+At the Base of a Worn Staircase~
+filler
+~
+99 67174408 0
+0
+D2
+~
+~
+0 -1  0 99121
+D4
+~
+~
+0 -1  0 99128
+S
+#99123
+A Cramped, Dirty Hallway~
+filler
+~
+99 67174408 0
+0
+D1
+~
+~
+0 -1  0 99121
+D3
+~
+~
+0 -1  0 99124
+S
+#99124
+A Tight Corner of the Dirty Hallway~
+filler
+~
+99 67174408 0
+0
+D0
+~
+~
+0 -1  0 99125
+D1
+~
+~
+0 -1  0 99123
+S
+#99125
+Before a Narrow Hallway~
+filler
+~
+99 67174408 0
+0
+D1
+~
+~
+0 -1  0 99126
+D2
+~
+~
+0 -1  0 99124
+S
+#99126
+Before a Door with Broken Hinges~
+filler
+~
+99 67174408 0
+0
+D0
+~
+door with broken hinges~
+1 -1  0 99127
+D3
+~
+~
+0 -1  0 99125
+S
+#99127
+A Large Room, Littered with Blueprints~
+filler
+~
+99 67174408 0
+0
+D2
+~
+door with broken hinges~
+1 -1  0 99126
+S
+#99128
+Atop the Rooftop Helicopter Landing Pad~
+filler
+~
+99 201392128 0
+0
+D5
+~
+~
+0 -1  0 99122
+S
+#99000
+Don't Go into this Zone~
+I do check logs. Stay out, if you aren't RPA Staff. :p
+~
+99 67174400 0
+0
+S
+#99200
+A VR Capsule~
+   This is a small pod suitable for one person to occupy. A smooth steel chair 
+rests in the middle, navy blue pads attached strategically for comfort. The 
+chair reclines slightly, offering a restful position. Data ports line the edge 
+of the arm rest, small gel-filled orifices the size of a data crystal. Around 
+the head rest are glowing holo-lights, flickering through gentle shades of 
+color. 
+~
+99 201392172 0
+0
+D2
+~
+translucent-glass~
+1 -1  0 99201
+S
+#99201
+A Domed VR Room~
+   This spacious, round room has a flat circular floor mirroring a plain white 
+hemisphere above; the typical design for a holographic virtual reality display 
+center. The accouterments are plain stainless steel, with clean edges and 
+geometric shapes. The translucent doors of VR bays are visible along each side 
+of the room. 
+~
+99 67174408 0
+0
+D0
+~
+translucent-glass~
+1 -1  0 99200
+D1
+~
+translucent-glass~
+1 -1  0 99203
+D3
+~
+translucent-glass~
+1 -1  0 99204
+S
+#99202
+A Pulsating Blue Hallway~
+   This hallway is walled to left, right, above, and below with pulsating 
+patterns of energy and light, extending off into the distance. A deep purple 
+handprint is embedded on one wall, marking an exit point from the Library. 
+~
+99 201392136 0
+0
+S
+#99222
+Gear-Holding Room for VR~
+   This room is to hold the gear of those in VR (testing with room 99200+). 
+Staff can come here to manually retrieve bags of gear. 
+~
+99 67174408 0
+0
+D1
+~
+~
+0 -1  0 99223
+S
+#99223
+Gear Holding Room When Leaving VR~
+   This room is to hold the gear of those leaving VR (testing with room 
+99200+). Staff can come here to manually retrieve bags of gear. Ideally, this 
+should only ever be bags of jumpsuits and the PCs shouldn't need them back. 
+~
+99 67174408 0
+0
+D3
+~
+~
+0 -1  0 99222
+S
+#99203
+A VR Capsule~
+This is a small pod suitable for one person to occupy. A smooth steel chair 
+rests in the middle, navy blue pads attached strategically for comfort. The 
+chair reclines slightly, offering a restful position. Data ports line the edge 
+of the arm rest, small gel-filled orifices the size of a data crystal. Around 
+the head rest are glowing holo-lights, flickering through gentle shades of 
+color. 
+~
+99 201392172 0
+0
+D3
+~
+translucent-glass~
+1 -1  0 99201
+S
+#99204
+A VR Capsule~
+This is a small pod suitable for one person to occupy. A smooth steel chair 
+rests in the middle, navy blue pads attached strategically for comfort. The 
+chair reclines slightly, offering a restful position. Data ports line the edge 
+of the arm rest, small gel-filled orifices the size of a data crystal. Around 
+the head rest are glowing holo-lights, flickering through gentle shades of 
+color. 
+~
+99 201392172 0
+0
+D1
+~
+translucent-glass~
+1 -1  0 99201
+S
+#99999
+In the Belly of the Beast~
+   Strange, glowing bacteria lights up this otherwise dark and unsavory place 
+like ancient phosphorous imbedded in cave walls. This is no cave, however. 
+All around, thick, muscle membranes and tissue constrict and expand, causing 
+the chalky white coating of this creature's insides to slide downward towards 
+what appears to be a pit of stomach acid. The volatile movements of the 
+creature without, the devourer, cause deadly acid to splash upwards towards 
+this area of the beast's digestive track - burning whatever it touches. 
+~
+99 67175432 0
+0
+P
+sit si sta stan stand dr drop dro rem remo remov remove d do dow down~
+(null)~
+vstr You are complete helpless!
+~
+S
 $~

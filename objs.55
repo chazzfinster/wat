@@ -1,1 +1,1196 @@
+#55003
+key heavy wide-handled METAL~
+a heavy, wide-handled key~
+A heavy, wide-handled key lies here.~
+   This key is made of heavy metal in a bronze color. The handle 
+is a rather wide rectangle with the word 'KITCHEN' engraved on 
+one side. It has a hole at the top so that it can be easily 
+carried upon a keyring. 
+~
+18 0 1
+0 0 0 0
+20 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55263
+key compact rusted METAL~
+a compact, rusted key~
+A compact, rusted key lies here.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55227
+key pink-rubber-rimmed METAL~
+a pink-rubber-rimmed key~
+A pink-rubber-rimmed key lies here.~
+   This key is of average size and type save for the removable 
+rubber that has been placed on it in a hot pink color. 
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+3.000000 0 0 0 0 0 0
+God~
+God~
+#55228
+key red-rubber-rimmed METAL~
+a red-rubber-rimmed key~
+A red-rubber-rimmed key has been left here.~
+   This key is of average size and type save for the removable 
+rubber that has been placed on it in a deep red color. 
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+3.000000 0 0 0 0 0 0
+God~
+God~
+#55226
+key '1' pink-handled METAL~
+a pink-handled key engraved with a '1'~
+A pink-handled key engraved with a '1' lies here.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55225
+key '2' pink-handled METAL~
+a pink-handled key engraved with a '2'~
+A pink-handled key engraved with a '2' lies here.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55230
+key '3' pink-handled METAL~
+a pink-handled key engraved with a '3'~
+A pink-handled key engraved with a '3' lies here.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55231
+key '4' pink-handled METAL~
+a pink-handled key engraved with a '4'~
+A pink-handled key engraved with a '4' lies here.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55233
+key '5' pink-handled METAL~
+a pink-handled key engraved with a '5'~
+A pink-handled key engraved with a '5' lies here.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55234
+key '6' pink-handled METAL~
+a pink-handled key engraved with a '6'~
+A pink-handled key engraved with a '6' lies here.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55999
+token spybot robotics control OTHER~
+a robotics control token~
+A robotics control token controls the spybot from here.~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55001
+armor suit $gladArmour $metalcolor METAL~
+a $metalcolor1 suit of $gladArmour0 armor~
+A $metalcolor1 suit of $gladArmour0 armor sits here, crusty with blood.~
+$gladarmor $metalcolor
+~
+9 33558528 536871937
+3 5 1023 0
+5000 0.000000
+0 0 0 0 308 1048576 0 1
+444.000000 0 0 0 0 0 0
+God~
+God~
+#55002
+messages_wilmington WILMINGTONS mainframe monitor screen mainframe_messages OTHER~
+a mainframe monitor screen~
+Messages flicker past on a mainframe monitor here.~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55004
+messages_vultures VULTURES mainframe monitor screen mainframe_messages OTHER~
+a mainframe monitor screen~
+Messages flicker past on a mainframe monitor here.~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55005
+messages_anarchs ANARCHS mainframe monitor screen mainframe_messages OTHER~
+a mainframe monitor screen~
+Messages flicker past on a mainframe monitor here.~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55006
+messages_shadows SHADOWS mainframe monitor screen mainframe_messages OTHER~
+a mainframe monitor screen~
+Messages flicker past on a mainframe monitor here.~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55007
+cover manhole mechanized open METAL~
+an open, mechanized manhole cover~
+A mechanized manhole cover is here, wide open.~
+   A set of hydraulics operate this manhole cover - or, at least, 
+would have, if the hydraulics weren't long out of repair. Now 
+they serve an opposite purpose of what their original intention 
+was; they make opening the hunk of metal a hassle, and in no way 
+an easy task. The manhole cover is open to the air, revealing 
+darkness below. 
+   You realize that you could #6DROP#0 down through this 
+#6MANHOLE#0. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 100 0 0 1
+0.000000 1 55010 0 0 0 0
+God~
+God~
+#55008
+cover manhole mechanized closed METAL~
+a closed, mechanized manhole cover~
+A mechanized manhole cover is here, sealed tight.~
+   A set of hydraulics operate this manhole cover - or, at least, 
+would have, if the hydraulics weren't long out of repair. Now 
+they serve an opposite purpose of what their original intention 
+was; they make opening the hunk of metal a hassle, and in no way 
+an easy task. The manhole cover is sealed, blocking off anything 
+beneath. 
+   You realize that you could #6OPEN#0 this #6MANHOLE#0. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 1 55010 0 0 0 0
+God~
+God~
+#55009
+ladder frail plastic PLASTIC~
+a frail plastic ladder~
+A ladder is set into the wall, thin and plastic.~
+   This thin ladder is rivetted to a building, constructed of a 
+plastic solid enough to hold some weight, but not very much. The 
+rungs have been buckled slightly, from however much use they have 
+seen, and the object seems to sag down the wall a bit. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55010
+cover mechanized manhole closed METAL~
+a closed, mechanized manhole cover~
+A mechanized manhole cover is here, sealed tight.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55011
+manhole token OTHER~
+a manhole token~
+A manhole token lies here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55012
+key slender butted Anarchist METAL~
+a slender, A-butted key~
+A slender, A-butted key lies here.~
+   This key is long, toothed, and slender. Its butt is the shape 
+of a crude, encircled A. 
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55040
+crowdsmallauction small crowd auction-goers OTHER~
+a small crowd of auction-goers~
+A small crowd of auction-goers discuss recent sales here. Type #6HELP AUCTION#2 and #6HELP ORDER#2 to learn how you can participate.~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55013
+beam polyprop thick PLASTIC~
+a thick polyprop beam~
+A thick polyprop beam lies here.~
+   This thick beam made out of polyprop is as long as an average 
+man, and as thick as half a feet. 
+~
+12 0 1
+0 0 0 0
+2500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55014
+barricade weakly fortified PLASTIC~
+a weakly fortified barricade~
+A weakly fortified barricade is here, blocking access through the gate.~
+   This is a weakly-fortified barricade, high enough to block any 
+would-be invader. It is made entirely out of polyprop thick 
+beams, and looks makeshift. Numerous sections look bare and 
+gaping, and it wouldn't take much to break this barricade down. 
+~
+39 0 0
+0 15 55015 1
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55015
+fortified barricade PLASTIC~
+a fortified barricade~
+A fortified barricade is here, blocking access through the gate.~
+   This is a fortified barricade, high enough to block any 
+would-be invader. It is made entirely out of polyprop thick 
+beams, and looks makeshift. 
+~
+39 0 0
+0 25 55016 1
+15000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55016
+well fortified barricade METAL OTHER~
+a well-fortified barricade~
+A well-fortified barricade blocks access through the gate.~
+   This is a well-fortified barricade, high enough to block any 
+would-be invader. It is made entirely out of polyprop thick 
+beams, and looks makeshift - but sturdy. 
+~
+12 0 0
+0 0 0 0
+20000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55017
+gates beginnings repair METAL~
+the beginnings of gate repairs~
+The beginnings of gate repairs is here, many holes and gaps evident.~
+   Except for the frame on which the massive ten-feet high gate 
+is to be repaired, the gate is largely bare. It requires much 
+filling in with metal and polyprop. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55018
+wall maker's marks makers OTHER~
+a maker's wall~
+Maker's marks cover the west wall.~
+   The wall here is covered in maker's marks, the engineers and 
+technicians responsible for the mechanical workings here placing 
+the signs of their employers to ensure proper credit. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55019
+gate northern damaged OTHER~
+the damaged northern gate~
+The damaged northern gate hangs before the rubble.~
+~
+39 0 0
+1 150 55020 1
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55020
+gate northern finished METAL~
+the finished northern gate~
+The finished northern gate towers here.~
+This tall gate rises to the height of ten feet, and is three feet thick. It has been properly set on its hinges and stands sturdy and strong.
+~
+12 0 0
+0 0 0 0
+15000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55041
+crowdmoderateauction moderate crowd auction-goers OTHER~
+a moderate crowd of auction-goers~
+A moderate crowd of auction-goers discuss recent sales here. Type #6HELP AUCTION#0 #2and#0 #6HELP ORDER#0 #2to learn how you can participate.#0~
+~
+22 0 0
+0 0 0 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55021
+wreckage DIFFUSAL_PLOT market smouldering stinking charred PLASTIC~
+the smouldering wreckage of a market stall~
+The smouldering, stinking remains of a plastic market stall are lying here, scattered.~
+   Once a modest market stall stocked with a variety of objects 
+for consumption by Denizens of Grungetown, it has now been blown 
+almost entirely apart by the explosion of the bomb. Large hunks 
+of plastic now lay scattered around, smouldering, and sending off 
+pungent, thick black fumes into the atmosphere. 
+~
+0 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55022
+remains DIFFUSAL_PLOT bloodied humanoid OTHER~
+the bloodied remains of a humanoid~
+The bloodied remains of a humanoid lie scattered here near a market stall.~
+   Once a living, breathing person, these remains are clearly 
+those of a humanoid: the bottom half, to be precise. A coarse, 
+brown textile belt is still roughly clinging to its now charred 
+skin. The feet, now exposed, are without any cover - presumably 
+the boots or shoes they once wore were blown clean off in the 
+blast. Dried blood cake one of the shins of the remains and a 
+long, blackened tear streaks the other. 
+~
+0 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55023
+crater DIFFUSAL_PLOT wide blast OTHER~
+a wide blast crater~
+A wide blast crater in the concrete has been blown here from an explosion.~
+   The damage done from an explosion here has forced a gaping 
+crater into concrete floor of the market area here, decimating 
+market stalls and surrounding doors. Thick iron alloy rods 
+protrude from the crater at awkward angles and rubble has been 
+scattered everywhere. 
+~
+0 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55024
+doghouse invisible marker OTHER~
+a marker for the doghouse~
+An invisible doghouse marker.~
+~
+12 4100 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55025
+labor gang labor-gang motley crewmen OTHER~
+#5a labor-gang of motley crewmen#0~
+#5A labor-gang of motley crewmen works to re-enforce sections of the hull here.#0~
+   Brawny men and women work under the directions of a foreman here. They seem 
+focused on hauling, removing, breaking, welding, and rebuilding the 
+ever-battered hull of the Atlas. The work looks intense, the workers spread 
+about on a series of rickety scaffoldings with narrow pathways of polyprop 
+planks laid between them. 
+~
+12 4096 0
+0 0 0 0
+6000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55026
+market ramshackle stalls and hawkers OTHER~
+a ramshackle collection of stalls and hawkers~
+A ramshackle collection of stalls and hawkers has formed a crude market for small, everyday goods.~
+   This ramshackle collection of stalls, some populated by loud, 
+boisterous hawkers while others left unattended, purveys a fine 
+degree of goods that hold little interest save to the petty-folk 
+of the Outlands: utensils, individual packets of food, and torn, 
+worn, clothing. A good crowd of wives, mothers, grandparents, 
+and crippled folk populate the roughshod market at any time 
+during the day, trading small amounts of credits for these goods. 
+
+If you were so included, you could trade here too. Type #6HELP 
+TRADE#0 for more information. 
+~
+81 8192 0
+0 15 15 15
+5000 0.000000
+15 0 15 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55293
+shed sheet-metal shop METAL~
+a sheet-metal shed~
+A sheet-metal shed squats by the gate, traffic flowing in.~
+   A squat, wide building, this shed is made completely of 
+hot-welded sheet-metal. A wide door stands open, rough-looking 
+men and women trafficking steadily in and out. A sign over the 
+door shows a rifle painted in red. It stands off the east side 
+of road, up against the southern market wall. 
+
+You realize that you can #6ENTER#0 the #6SHED#0. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55027
+key NANGONG_THEATRE nicked chrion-alloy OTHER~
+a nicked chrion-alloy key~
+A nicked chrion-alloy key lies here.~
+   Fashioned from chrion-alloy, now nicked and marred along its 
+surface, this key is about the length of a small hand with 
+several teeth at its end. 
+~
+18 4096 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55028
+disc shaped object antique small METAL~
+a small, disc-shaped antique object~
+A small antique object shaped like a perfect disc sits here.~
+   This is a smooth black disc, about as thick as half an inch, 
+easily held in one's palm. It is, at first glance, seamless and 
+it is not apparent how this object has been fashioned. Made out 
+of some hard, black plastic material, it looks sturdy and 
+durable. Curiously this object does not reflect light at all 
+when struck by it - it appears to absorb it. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55029
+object disc shaped dials symbol antique small METAL~
+a small, disc-shaped object with symbol-dials~
+A small, disc-shaped object with symbol-dials sits here.~
+   This is a smooth black disc, about as thick as half an inch, 
+easily held in one's palm. There is a slit cut into the upper 
+portion of the disc, typically hidden by a seamless slider, but 
+it has been opened. Inside the slit are three bone-white dials 
+that have numerous symbols on them, looking like hieroglyphics. 
+Made out of some hard, black plastic material, it looks sturdy 
+and durable. Curiously this object does not reflect light at all 
+when struck by it - it appears to absorb it. There is an 
+inscription written on it, and if you have the proper training, 
+you realize you can #6READ#0 #6INSCRIPTION#0. 
+
+Looking at the dials, you realize you can #6SPIN#0 the #6LEFT#0, 
+#6MIDDLE#0, or #6RIGHT#0 dial to the numbers: 1 - sun, 2 - bird, 
+3 - star, 4 - crescent, 5 - palm, 6 - eye, 7 - leaf, or 8 - ankh, 
+each symbol pertaining to a number. 
+
+At the side of the device is a small button, and you realize you 
+can #6PUSH BUTTON#0 to scan the symbol-dials. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55030
+theatre NANGONG_THEATRE domed red gold decorated OTHER~
+a domed, gold and red decorated theatre~
+A domed, gold and red decorated theatre rises up here.~
+   This theatre rises somewhat imposingly over its surroundings, 
+dwarfing particularly the rickety market stalls and vendors. Its 
+roof is a large, tiled dome, splashed with crimson paint. Its 
+walls too have been coloured in the same fashion but also depict 
+solid golden-lined patterns, giving the place an antiquated look 
+of some kind. Solid plastic doors, a filthy brown in color, rise 
+high at the entrance - perhaps twice the size of the average 
+Denizen - engraved with swirling and twisting patterns around 
+their border. 
+~
+0 4096 0
+0 0 0 0
+10000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55031
+object slitted disc-shaped antique small METAL~
+a slitted, disc-shaped object~
+A slitted, disc-shaped object lies here.~
+   This is a smooth black disc, about as thick as half an inch, 
+easily held in one's palm. It has been opened like a clamshell, 
+inside a thick iridescent glass - like some kind of lense or 
+projector. Made out of some hard, black plastic material, it 
+looks sturdy and durable. Curiously this object does not reflect 
+light at all when struck by it - it appears to absorb it. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55032
+object white disc-shaped small slitted METAL~
+a white, slitted disc-shaped object~
+A small, disc-shaped object is here, turned white as to reflect light.~
+   This is a smooth white disc, about as thick as half an inch, 
+easily held in one's palm. It has been opened like a clamshell, 
+and a thick iridescent glass is set inside like a lense, or some 
+kind of projector. Made out of some hard, black plastic 
+material, it looks sturdy and durable. Curiously this object 
+reflects light at all angles, as though repelling it. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55033
+rope tethered TEXTILE~
+a tethered rope~
+A tethered rope is tied to the end of a thick metal post here.~
+   This is a thick rope tethered to a metal post. It looks 
+well-worn and used, but serviceable. You realize you can use 
+this to #6CLIMB DOWN#0. 
+~
+12 0 0
+0 0 0 0
+1000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55034
+token repair machine OTHER~
+a machine repair token~
+A machine repair token is here, fixing broken machines on_hour.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55035
+building cracked concrete OTHER xWilmington_shopx~
+a cracked concrete building~
+A cracked concrete building sits here.~
+~
+12 0 0
+0 0 0 0
+100000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55900
+mural elaborate vulture OTHER~
+an elaborate mural of a vulture~
+A particularly elaborate mural of a vulture runs the length of the eastern wall.~
+   Easily standing out amongst the older, faded graffiti that 
+coats the wall, this spray-painted mural appears to have been 
+maintained by several fresh coats of paint over the years. It 
+features a bald-headed vulture, its wings extended and its talons 
+maliciously bared. While the creature itself is accurately ugly, 
+the degree of artistry involved in its creation is remarkable. 
+~
+12 12288 0
+0 0 0 0
+100 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55902
+billboard spread legged woman OTHER~
+a billboard depicting a spread-legged woman~
+A billboard sporting a life-sized depiction a spread-legged woman looms overhead.~
+   Weathered by the solar winds, this faded billboard hangs above 
+the doorway to the three-story building to the north. It 
+features a stylized painting of a topless woman with exaggerated 
+feminine features, her long legs parted invitingly. It is 
+tattered around the edges, but the center remains relatively 
+intact. 
+~
+12 12288 0
+0 0 0 0
+100 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55908
+sign ancient bent street METAL~
+an ancient, bent street sign~
+An ancient, bent street sign occupies the center of the intersection, forgotten by time.~
+   A remnant of the Utopian civilization upon whose shattered 
+bones Grungetown was built, this sign's lettering has long since 
+been worn away by time. Evidence of prior attempts by 
+opportunistic scavengers to pry the sign free mar its surface, 
+and the tall pole on which it is mounted is noticeably bent. 
+~
+12 12288 0
+0 0 0 0
+100 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55904
+tires heap of old ruined rubber OTHER~
+a heap of old, ruined tires~
+A heap of old, ruined rubber tires has been stacked aside here.~
+   The chaotic heap consists of a random assortment of old rubber 
+tires, varying in size and tread. They are similar, however, in 
+the fact that aging has rendered them cracked and brittle, making 
+them unsuitable for repurposing. 
+~
+12 12288 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55905
+statue headless concrete poised male OTHER~
+a headless concrete statue~
+A headless concrete statue of a poised male figure stands on the side of the road.~
+   While this statue may have once had a head, it is now long 
+gone. The rest of the man is relatively intact, however, though 
+weathering has worn away any definition he may have once 
+possessed. He stands with a straight posture, his hands clasped 
+before him. 
+~
+12 12288 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55909
+pillar broken concrete OTHER~
+a broken concrete pillar~
+A broken concrete pillar juts toward the sky here, its upper half missing.~
+   The original purpose of this mighty concrete pillar has been 
+forgotten with the passage of time, though its height and 
+utilitarian design suggests that it may have supported some 
+manner of transportation or infrastructure in the past. Rust 
+stains mark where a ladder once was, though it appears to be 
+missing with the pillar's upper half. 
+~
+12 12288 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55036
+grungeturfboard gaggle street urchins OTHER~
+#5a gaggle of street urchins#0~
+#5A gaggle of street urchins cluster outside the Doghouse, excitedly talking about the latest violence or excitement to occur across Grungetown.#0~
+~
+22 0 0
+0 0 0 0
+6000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55037
+messages_lodge LODGE mainframe monitor screen mainframe_messages OTHER~
+a mainframe monitor screen~
+Messages flicker past on a mainframe monitor here.~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55000
+token open curtain OTHER~
+an open curtain token~
+An open curtain token is here.~
+This is a token, doing its thang.
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55038
+token closed curtain OTHER~
+a closed curtain token~
+A closed curtain token is here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55039
+RPT large steel box rapture METAL~
+a large steel box~
+A large steel box lies on its side here, with some writing on it.~
+   This large, perfectly square box seems to be made of rare 
+steel. It is extremely solid in structure and appears to be 
+quite thick. Painted sideways across the box in bold red letters 
+is the word, #1"Rapture"#0. The logo of Gaiman Corporation is 
+stickered to the two corners of the box, facing downwards. There 
+is a hinge on the side of the box with writing, suggesting that 
+one might be able to open it. Further inspection would show that 
+it seems likely that it would only be easily opened from the 
+inside. 
+~
+12 0 1
+0 0 0 0
+100000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55042
+messages_wears_tears Wears Tears mainframe monitor screem mainframe_messages OTHER~
+a mainframe monitor screen~
+Messages flicker past on a mainframe monitor here.~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55043
+casimir radio matte black metal key METAL~
+a matte black metal key~
+A matte black metal key is here.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55044
+hamsterfurballs locket small delicate METAL~
+a small, delicate locket~
+A small, delicate-looking locket lays here.~
+   This small, delicate locket appears at first glance to be made 
+from silver, but closer inspection may reveal it to be of an 
+altogether different material - - one that resembles the surface 
+of a shell. Vaguely tinted refractions of light play off the 
+square shape, lending it a liquid quality that varies often 
+between purple and blue. While the front is unadorned, the back 
+is host to fanciful engravings. Swirling lies skimming around 
+the very edges plunge towards the belly of the locket, where they 
+congregate together against the borders of a square caging an 
+isolated, long-necked swan, its head tucked in towards its chest. 
+Beneath the beak of the swan and grandly embellished are the 
+initials 'SVR'. Barely visible, the eye of the swan extrudes 
+faintly as a button, ringed by several coils of banded engraving. 
+~
+11 0 2101249
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55045
+eggsac slimy scaly ORGANIC~
+a slimy, scaly bunch of eggsacs~
+A slimy, scaly bunch of eggsacs are here.~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55046
+counter croc eggsac OTHER~
+a croc eggsac counter~
+A sewer croc eggsac counter is here, doings its counter-like things.~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55047
+eggsacs visible scaly slimy bunch ORGANIC~
+#3a slimy, scaly bunch of eggsacs#0~
+#3A slimy, scaly bunch of eggsacs are here, slick with yellow goo.#0~
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55048
+nest barker collection large OTHER~
+a large collection of barker nests~
+A large collection of barker nests is situated here.~
+   A number of hollows sprout tufts of torn fabric and fur, situated 
+systematically throughout the area. On occasion can be heard a yip or a small 
+growl, and the fuzzy face of a barker pup might make an appearance. Though 
+their teeth are considerably smaller than those of an adult, with the oversized 
+heads they might still have a nasty bite. Where there's babies... 
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55049
+counter barker nest OTHER~
+a barker nest counter~
+A barker nest counter is here, doing its counter-like things.~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55050
+counter master barker OTHER~
+the master barker counter~
+The master barker counter is here, keeping track of population and nests.~
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55051
+nest barker pups makeshift OTHER~
+a makeshift nest of barker pups~
+A makeshift nest of barker pups is nestled here.~
+   Lined with scraps of fabric, tufts of fur, and the occasional bone is a 
+fairly large hollow - large enough for a man to fit inside. From within come 
+the sounds of whining and yips, and the eye can pick out the forms of young 
+barker dogs. With oversized paws, and stumpy, fuzzy bodies they don't really 
+at all resemble their adult counterparts. Their full sized teeth haven't even 
+grown in yet, though they could still deliver a nasty bite. And where there 
+are babies... 
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55052
+token barker nest one week deactivated OTHER~
+a stage-1 barker nest deactivation counter~
+A stage-1 barker deactivation nest counter is here.~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 720 55048 0 0 0 0
+God~
+God~
+#55053
+counter stage deactivation barker OTHER~
+a barker stage deactivation counter~
+A barker stage deactivation counter is here, counting down.~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 6480 86 0 0 0 0
+God~
+God~
+#55054
+counter stage-2 barker deactivation OTHER~
+a stage-2 barker deactivation counter~
+A stage-2 barker deactivation counter is here.~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 2160 55048 0 0 0 0
+God~
+God~
+#55055
+counter stage-3 barker deactivation OTHER~
+a stage-3 barker deactivation counter~
+A stage-3 barker deactivation counter is here.~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 2880 55048 0 0 0 0
+God~
+God~
+#55056
+nest barker visible pups makeshift OTHER~
+a makeshift nest of barker pups~
+A makeshift nest of barker pups is nestled here.~
+   Lined with scraps of fabric, tufts of fur, and the occasional bone is a 
+fairly large hollow - large enough for a man to fit inside. From within come 
+the sounds of whining and yips, and the eye can pick out the forms of young 
+barker dogs. With oversized paws, and stumpy, fuzzy bodies they don't really 
+at all resemble their adult counterparts. Their full sized teeth haven't even 
+grown in yet, though they could still deliver a nasty bite. And where there 
+are babies... You may be able to #6BURN#0 the #6NEST#0. 
+~
+12 4096 0
+0 0 0 0
+1500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55057
+token vaper wilderness OTHER~
+a wilderness vaper token~
+A wilderness vaper token is here, vaping wilderness mobs.~
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55058
+corpse half-eaten ORGANIC~
+a half-eaten corpse~
+A half-eaten corpse is here.~
+~
+15 4096 1
+10000 0 -1 0
+10000 0.000000
+0 0 1000 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55059
+ouroboros scintillant emerald green xgang-markx METAL~
+a scintillant, emerald-green ouroboros~
+A scintillant, emerald-green ouroboros is here, glinting in the light.~
+   Enameled a rich and metallic emerald green that picks out numerous glinting 
+scales, this circular adornment seems similar to a bracelet or anklet in 
+nature. It has been formed into the shape of a stylized serpent eating its own 
+tail. Cunningly designed, the tail entering the mouth of the beast may be 
+pulled apart to form an opening which allows the wearer the ability to slip the 
+bangle on with ease. The scales give the piece a realistic texture and details 
+have been picked out in blood red: a pair of serpentine eyes, and the inside of 
+the creatures mouth glisten a vivid and glossy scarlet. When worn against the 
+skin, the metal seems to easily pick up the heat of the wearer and gives the 
+jewelry a disconcerting feel of living warmth. 
+~
+11 4096 16781313
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55060
+token closer door OTHER~
+the door closer token~
+Some careless admin has left a generic object here.~
+~
+12 4100 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55061
+messages_anarchs2 ANARCHS mainframe monitor screen mainframe_messages OTHER~
+a mainframe monitor screen~
+Messages flicker past on a mainframe monitor here.~
+~
+22 4096 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55062
+xbeakergirlvultureboard clad scantily-clad well-endowed endowed beaker girl board OTHER~
+#5a scantily-clad, well-endowed beaker girl#0~
+#5a scantily-clad, well-endowed beaker girl is here, taking orders.#0~
+~
+22 4096 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55063
+crowdatlasauction moderate crowd auction-goers auction goers board OTHER~
+a moderate crowd of auction-goers~
+A moderate crowd of auction-goers discuss recent sales here. Type #6HELP AUCTION#0 #2to learn how you can participate.#0~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
 $~

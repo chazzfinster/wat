@@ -1,1 +1,404 @@
+#12000
+machine malfunctioning junk $machineshape $machinebroken ELECTRONICS~
+a $machineshape, $machinebroken machine~
+A $machineshape, $machinebroken machine hums here.~
+   This $machineshape, $machinebroken hums fitfully, still 
+attempting to perform some long forgotten function. 
+~
+12 33558528 1
+0 0 0 0
+10000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#12001
+machine broken remains $machineshape ELECTRONICS~
+the broken remains of a $machineshape machine~
+The broken remains of a $machineshape machine are scattered about.~
+   This $machineshape machine has long since broken down, entropy 
+having taken its toll on any parts that once might have moved or 
+functioned. 
+~
+12 33558528 1
+0 0 0 0
+8000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#12002
+radio broken handheld ELECTRONICS~
+a broken handheld radio~
+A broken handheld radio lies here.~
+~
+29 4096 1
+32 5 11111 2
+100 0.000000
+6136 0 1
+(null)~
+0 0 32 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#12003
+barrel squat empty liquid $plasticcolor $polyprop PLASTIC~
+a squat $plasticcolor $polyprop barrel~
+A squat $plasticcolor $polyprop barrel rests here.~
+This is a squat barrel with a resealable lid, made of $plasticcolor $polyprop.  It once held about 50 gallons of liquid.
+~
+17 33558528 1
+6400 0 0 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#12006
+press broken bullet large METAL~
+a large, broken bullet press~
+A large, broken bullet press stands on the floor.~
+   This large bullet press stands on a floor-mount, its powerful 
+mechanics broken and disabled by misuse, scorch marks marring the 
+internal workings from a likely chemical propellant mishap. 
+~
+39 4096 1
+1 3 13109 0
+15000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#12007
+scraps fabric pile mangled heap TEXTILE~
+a pile of fabric scraps~
+A pile of mangled scraps of fabric lies in a heap.~
+~
+72 4198400 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+V
+padded-rag~
+$phandle~
+V
+grimy~
+$color~
+God~
+God~
+#12009
+token generator core OTHER~
+a generator core token~
+A generator core token lies here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#12010
+can tin bent round METAL~
+a $wornquality0, tin can~
+A $wornquality0 tin can lies abandoned here.~
+Dented, $wornquality, and labelless, this tin has obviously seen better days.
+~
+17 33558528 1
+2 1 18 0
+100 0.000000
+0 0 0 0 0 0 0 1
+90.000000 0 0 0 0 0 0
+God~
+God~
+#12011
+$religioustoys $color PLASTIC~
+a $religioustoys molded from $color plastic~
+A $religioustoys molded from $color plastic lies here.~
+It is a $religioustoys and molded from a solid $color, plastic.
+~
+65 33558528 1
+4 0 0 0
+100 0.000000
+0 0 
+~
+0 0 0 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#12012
+wallhanging emblazoned $color $polymesh $religioussymbols TEXTILE~
+a $color0, $polymesh1, wallhanging emblazoned with $religioussymbols2~
+A $color0, $polymesh1, wallhanging emblazoned with $religioussymbols2 lies here.~
+Evenly $color-colored, this wallhanging is made of $polymesh. It is emblazoned with $religioussymbols.
+~
+72 37753344 1025
+0 0 0 0
+100 0.000000
+0 0 0 0 0 2097152 0 1
+90.000000 0 0 0 0 0 0
+God~
+God~
+#12013
+$sportitemblud $color $ironalloy METAL~
+a $color2 $sportitemblud1~
+A $color2 $sportitemblud1 lies here.~
+Made of $ironalloy, it is $sportitemblud. It has been evenly coated with a thick layer of $color paint.
+~
+5 33559040 270337
+1 3 3 5
+450 0.000000
+3 0 0 0 800 128 0 1
+35.000000 0 0 0 0 0 0
+A
+10005 -4
+God~
+God~
+#12014
+$sportitemblud plastic $color $polyprop PLASTIC~
+a $color0, $polyprop1, plastic $sportitemblud2~
+A $color0, $polyprop1, plastic $sportitemblud2 lies here.~
+Made of $color-colored, $polyprop, it is $sportitemblud.
+~
+5 33559040 270337
+1 3 3 5
+450 0.000000
+3 0 0 0 800 128 0 1
+35.000000 0 0 0 0 0 0
+A
+10005 -4
+God~
+God~
+#12015
+$sportitempole $color $ironalloy METAL~
+a $color2 $sportitempole1~
+A $color2 $sportitempole1 lies here.~
+Made of $ironalloy, it is $sportitempole. It has been coated with an even layer of $color paint.
+~
+5 33558528 8193
+1 2 3 4
+800 0.000000
+3 0 2 0 500 2105344 0 1
+17.500000 0 0 0 0 0 0
+A
+10004 -8
+God~
+God~
+#12016
+$sportitempole plastic $color $polyprop PLASTIC~
+a $color0, $polyprop1, plastic $sportitempole2~
+A $color0, $polyprop1, plastic $sportitempole2 lies here.~
+Made of $color-colred, $polyprop, its is $sportitempole.
+~
+5 33559040 270337
+3 2 4 4
+1087 0.000000
+3 0 3 0 800 128 0 1
+43.750000 0 0 0 0 0 0
+A
+10004 -4
+God~
+God~
+#12017
+chalice $color $ironalloy $religioussymbols METAL~
+a $color0, $ironalloy1 chalice gilded with $religioussymbols2~
+A $color0, $ironalloy1 chalice gilded with $religioussymbols2 lies here.~
+Made of $color-colored $ironalloy, it is a footed, bell-shaped goblet gilded with $religioussymbols.
+~
+72 37752832 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 4194304 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#12018
+$smappliance $metdam ELECTRONIC~
+a $metdam1 $smappliance0~
+A $metdam1 $smappliance0 lies here.~
+It is $smappliance. The surface is marred and $metdam.
+~
+29 33558528 1
+32 1 11011 1
+500 0.000000
+5018 0 1
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#12019
+$mdappliance $metdam ELECTRONIC~
+a $metdam1 $mdappliance0~
+A $metdam1 $mdappliance0 lies here.~
+It is $mdappliance. It's surface is marred and $metdam.
+~
+29 33558528 1
+32 1 11011 1
+1500 0.000000
+5018 0 2
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#12020
+$lgappliance $metdam ELECTRONIC~
+a $metdam1 $lgappliance0~
+A $metdam1 $lgappliance0 lies here.~
+It is $lgappliance. It's surface is marred and $metdam.
+~
+29 33558528 1
+32 1 11011 2
+4000 0.000000
+5018 0 3
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#12021
+hunk massive misshapen metal METAL~
+a massive hunk of misshapen metal~
+A massive hunk of misshapen metal lies here.~
+   Its original purpose no longer recognizable, this hunk of 
+misshapen metal is about the size of a man's torso and quite 
+heavy. 
+~
+72 4194304 1
+0 0 0 0
+5000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#12022
+hunk plastic $plasticcolor $polyprop deformed PLASTIC~
+a hunk of deformed $plasticcolor $polyprop plastic~
+A hunk of deformed $plasticcolor $polyprop plastic lies on the ground.~
+   This hunk of plastic is deformed and misshapen, having been 
+cut roughly from some other large plastic device and welded 
+together with other smaller bits of its kind for recycling. It 
+is just small enough to tuck under an arm. It is made of 
+$plasticcolor $polyprop. 
+~
+72 37748736 1
+0 0 0 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#12424
+spool plastic empty FORAGE_RuinApartment PLASTIC~
+an empty plastic spool~
+An empty plastic spool lies here.~
+   This is a simple white plastic spool. It is small, round, 
+easily held in one's palm, and empty. 
+~
+12 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#12023
+scraps fabric pile mangled heap TEXTILE~
+a pile of fabric scraps~
+A pile of mangeld scraps of fabric lies in a heap.~
+~
+72 4194304 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#12008
+core neutron industrial generation ELECTRONIC~
+an industrial generation core~
+An industrial generation core recesses into the wall of the chamber.~
+   A massive bank of neutron cores, this industrial generation 
+system has enough neutron core assemblies to power a significant 
+portion of the moon civilization on its own via high-tension 
+wiring that once spanned the moonscape. With great care, neutron 
+core assemblies might be able to reappropriate and transferred to 
+smaller localized generation systems. 
+~
+29 0 0
+32 100 11031 1
+30000 0.000000
+11029 0 4
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#12004
+device small broken $finecolor0 $metdam1 $smalldevice2 PLASTIC~
+a $metdam1 $smalldevice2~
+A $finecolor0 $smalldevice2 lies in the dirt, $metdam1.~
+Made of $finecolor plastics, this electronic device is now $metdam and completely broken.  It is $smalldevice.
+~
+29 33554432 1
+32 100 6120 1
+300 0.000000
+11111 0 1
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#12005
+device $keydevice1 keypad $color PLASTIC~
+a $color0 $keydevice1~
+A $color0 $keydevice1 lies in the dirt.~
+   Molded of $color plastic, this is $keydevice. It is broken 
+beyond repair, corroded by age and the elements. 
+~
+29 33554432 1
+32 100 6120 1
+100 0.000000
+6122 0 1
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#12024
+cart $ironalloy0 simple METAL~
+a simple $ironalloy cart~
+A simple $ironalloy cart stands here.~
+   Simple and utilitarian, this cart is made of $ironalloy metal 
+and consists of upright beams, flat sides, and several shelves. 
+Caster-wheels are mounted on the bottom, helping the cart move, 
+but they are fairly unhelpful on all but the smoothest of 
+hallways. 
+~
+15 33554432 1
+15000 0 -1 0
+5000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#12025
+$sportitemblade weapon practice sword blade $plasticcolor $color PLASTIC~
+a $color, $polyprop $sportitemblade~
+A $color $sportitemblade lies here, discarded.~
+   Mass-produced during Utopia with the design still familiar, this is a 
+plastic practice blade used for recreation. It is made of $color $polyprop. 
+The item itself is $sportitemblade. 
+~
+5 33558528 8193
+1 2 5 3
+375 0.000000
+3 0 1 0 800 128 0 1
+65.000000 0 0 0 0 0 0
+A
+10003 -4
+God~
+God~
 $~

@@ -1,1 +1,215 @@
+#61000
+Base Room - No Man's Town~
+   This zone is for No-Man's Town. It is based around a 
+collapsed sinkhole which became a septic pit. They therefore 
+produce ceramics from the clay, and capture methane (for the 
+gaslights) and to recombine into plastics. 
+~
+61 65536 0
+0
+S
+#61001
+A Faint Trail Winding Over the Moonscape~
+   The dust underfoot shows itself to be thin from wear. 
+Parallel lines of hastily placed rocks, cragged and carelessly 
+chipped on one side or the other, form the faint outline of a 
+marked trail leading westward across the moonscape. Every so 
+often signs of recent passers-by are evident, drying puddles of 
+urine and burnt filth. Upon the western horizon the tell-tale 
+signs of life present themselves - a faint, foul smell casting 
+itself in stark contrast with the bare outland air, the distant 
+sounds of activity carried aloft by the winds. 
+~
+61 196676 10
+0
+D2
+~
+~
+0 -1  0 53060
+D3
+~
+~
+0 -1  0 61002
+K
+106 1 200 200 20S
+#61002
+The Outskirts of a Foul-Smelling Settlement~
+   A thin fence of scrap propped up against itself runs along the 
+perimeter of a humble settlement, with a small opening allowing 
+passage westward where the sounds of activity sound off 
+indiscreetly. The smell of human waste emanates from an 
+ever-expanding sinkhole set just off to the north, shocking the 
+senses to life. Leading into the town and out towards the 
+eastern moonscape, a well-worn trail directs would-be travelers 
+and traders towards their destinations. 
+~
+61 196752 10
+0
+D0
+~
+~
+0 -1  0 61007
+D1
+~
+~
+0 -1  0 61001
+D3
+~
+gate~
+1 -1  0 61003
+K
+106 1 600 400 20S
+#61003
+A Marketplace Set Within Ruins~
+   Scorching black streaks of a fire blasted past taint the 
+exterior of the bombed out, c-shaped buildings which encase a 
+large, open square in the center of this settlement. The 
+disparity of wealth within is evident, as some buildings have 
+been repaired with high-quality materials while others rely on 
+little more than plastic tarpaulins of scrap in varying states of 
+decay to protect all within from the elements. Upon western edge 
+of the square sits the entrance to a squat, dingy tavern 
+displaying a sign depicting a kitchen sink. To the north, sits a 
+one-story rectangular building, its entrance flanked on either 
+side by flags of opulent heraldry depicting a dragons head 
+flanked by two naked women. 
+~
+61 67305616 25
+0
+D0
+~
+plain door~
+1 -1  0 61006
+D1
+~
+gate~
+1 -1  0 61002
+D3
+~
+shoddy door~
+1 -1  0 61004
+K
+106 1 600 400 20S
+#61004
+The Kitchen Sink~
+   A bare-dirt floor, stained nonetheless by drinks, vomit and 
+nameless other substances speaks to the quality of this fine 
+establishment, no doubt made sustainable by a sheer lack of 
+options. Haphazardly constructed tables are arranged in no 
+particular order throughout, with chairs ranging from tipped over 
+buckets to hand-carved wooden chairs of antique and mysterious 
+origins. A plastic-molded bar sits dominantly upon the western 
+side of the room, its well-polished surface standing in stark 
+contrast to its surrounds, a small metal manhole cover sitting 
+just behind it and to the right. 
+~
+61 67307672 0
+0
+D1
+~
+shoddy door~
+1 -1  0 61003
+D5
+~
+manhole~
+1 -1  0 61005
+K
+106 1 300 200 20S
+#61005
+A Dank Office~
+   A poorly welded rebar ladder leads down the western wall of a 
+surprisingly large square room carved out from the barren floor 
+of the room above. Plastic faux-wood paneling lines the four 
+walls surrounding, pictures of various pinups in both awkward and 
+titillating positions adding a bit of tasteful dcor to the room. 
+A series of four monitors lines the eastern wall, while a rich 
+mahogany desk sits prominently upon a piece of cardboard against 
+the northern side of the room. 
+~
+61 67307520 0
+0
+D4
+~
+manhole~
+1 -1  0 61004
+S
+#61006
+Sticky's Sleepover Bunkhouse~
+   The scent of incense mixes grotesquely with the sickly sweet 
+smell of sweat and pleasure. Large humidifiers flank either side 
+of the room, filling it with chokingly thick air. A ragged red 
+rug runs down the center of the room towards a table at the 
+northern end, mysterious stains dotting it's surface. Cots in 
+varying states of decay and filth line either side of the room 
+while makeshift sculptures of rock and scrap metal depict 
+seemingly humanoid figures in various lewd and semi-heroic poses. 
+~
+61 67307928 0
+0
+D2
+~
+plain door~
+1 -1  0 61003
+K
+106 1 300 200 20S
+#61007
+The Sinkhole~
+   The unmistakable scent of human waste, putrid and rank, lays 
+over the surrounding area as a heavy blanket smothering the 
+senses. A sinkhole lays central within this area, rock and dust 
+crumbling within and mixing with a blackish brown mud-like 
+substance, occasional gurgles of noxious gas pushing up from 
+within its center. 
+~
+61 196752 25
+0
+D2
+~
+~
+0 -1  0 61002
+D5
+~
+~
+0 -1  0 61008
+K
+106 1 1000 1000 50S
+#61008
+Sliding into a Gurgling Mass of Feces and Waste~
+   Black-brownish waste and dirt sucks you into the earth below. 
+The smell is overwhelming, the scent of pure death, waste and 
+foulness growing ever-stronger with each passing moment as you 
+plunge deeper...deeper...deeper. 
+~
+61 197640 0
+0
+D4
+~
+~
+0 -1  0 61007
+D5
+~
+~
+0 -1  0 61009
+S
+#61009
+In the Deepest Depths of the Sinkhole~
+   Noxious gases intermingle with the suffocating waste which 
+surrounds you. Objects, waste, and the rooting corpses of those 
+gone before you make brief, hazy appearances in the muck. And 
+there is darkness. 
+~
+61 65537 20
+0
+S
+#61010
+Storeroom for the Kitchen Sink~
+Mob 61002 is in room 61004 selling stuff to No-Man's Town.
+~
+61 335609864 0
+0
+D4
+~
+~
+0 -1  0 61004
+S
 $~

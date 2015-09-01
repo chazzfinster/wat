@@ -1,1 +1,504 @@
+#70000
+RPT Zone Base Room~
+   This is where it all begins. 
+~
+70 65536 0
+0
+S
+#70001
+Dull Interior of a Train Carriage~
+   Perhaps originally designed for transporting livestock or some 
+other bulk commodity, this train carriage is as plain as it is 
+roomy. The frame has been constructed from a dull ironalloy and 
+is decidedly boxy in construction, right angles joining the 
+ceiling, walls and floor. Long slit windows stretch across both 
+sides of the carriage, several thin rectangles cut out from the 
+frame and filled in with a scratched, glass-like substances, 
+beyond which the drab and featureless plains of the moon are 
+barely visible. Two rows of hard, burgundy red soliplas seats 
+run down either side of the carriage, all of them set to face the 
+opposite direction to which the train is traveling. The aisle 
+between the rows is uncomfortably large, further than the reach 
+of even the tallest of people. At one end of the carriage the 
+seats have been replaced by a wire ironalloy cage on either side, 
+a series of heavy locks running down the side, and a heavy door, 
+unpainted like the rest of the train, is set in either far wall. 
+~
+70 67174408 0
+0
+D0
+~
+door~
+1 -1  0 70002
+D2
+~
+door~
+1 -1  0 70003
+S
+#70002
+Inbetween Train Carriages~
+   A vicious wind whips past as the boxy, dull-metal utility 
+train hurtles down the line. This narrow platform joins two of 
+the rectangular carriages, and you are protected from falling 
+beneath the whells only by a thin metal chain and a short, 
+rusting platform. There is barely enough room for two people to 
+fit in to this tiny space between the two heavy doors. The 
+thundering sound of the wheels of the tracks, combined with the 
+ghoulish howl of the wind, makes any attempt to speak here 
+extremely difficult. The drab, featureless terrain of the moon 
+passes by in the blur. 
+~
+70 67174400 0
+0
+D0
+~
+door~
+1 -1  0 70004
+D2
+~
+door~
+1 -1  0 70001
+S
+#70003
+Inbetween Train Carriages~
+   A vicious wind whips past as the boxy, dull-metal utility 
+train hurtles down the line. This narrow platform joins two of 
+the rectangular carriages, and you are protected from falling 
+beneath the whells only by a thin metal chain and a short, 
+rusting platform. There is barely enough room for two people to 
+fit in to this tiny space between the two heavy doors. The 
+thundering sound of the wheels of the tracks, combined with the 
+ghoulish howl of the wind, makes any attempt to speak here 
+extremely difficult. The drab, featureless terrain of the moon 
+passes by in the blur. 
+~
+70 67174400 0
+0
+D0
+~
+door~
+1 -1  0 70001
+D2
+~
+door~
+1 -1  0 70005
+S
+#70004
+New Room~
+No Description Set.
+~
+70 65536 0
+0
+D2
+~
+door~
+1 -1  0 70002
+S
+#70005
+New Room~
+No Description Set.
+~
+70 65536 0
+0
+D0
+~
+door~
+1 -1  0 70003
+S
+#70006
+Ruined Half-Shell of the Carriage on the Plains~
+   Dashed across the dust-grey plains of the wilderness of the 
+moon, the top of the train carriage has been ripped clean off, 
+deposited a good hundred metres away from where the rest on its 
+side of the metal compartment has come to rest against the lip of 
+a small, shallow crater. The other five carriages of the train 
+have suffered similar fates, scattered like a child's toys and 
+having sprinkled the hard, burgundy soliplas seats. The railroad 
+itself has been ripped asunder, with large blackened holes 
+running along its surface for what must have been at least the 
+length of the train. Further from this wreckage, there is 
+nothing to the horizon but a continuation of the dusty plains and 
+the track leading north and south. 
+~
+70 65536 1
+0
+D0
+~
+~
+0 -1  0 70007
+D1
+~
+~
+0 -1  0 70013
+D2
+~
+~
+0 -1  0 70010
+D3
+~
+~
+0 -1  0 70016
+S
+#70007
+On the Tracks near the Wreckage~
+   A heavy set of metal and ceramic railway tracks runs straight 
+north to south here, its imperial march across the moonscape 
+plains ruined only by the horrific wreckage of the overturned 
+train carriages to the south. A small embankment of dirt has 
+been built up to bear the tracks a foot or so above the rest of 
+the pitted moonscape terrain that runs as far as the eye can see 
+to the east and west, while the tracks themselves creep endlessly 
+north and south. 
+~
+70 65536 1
+0
+D0
+~
+~
+0 -1  0 70008
+D1
+~
+~
+0 -1  0 70015
+D2
+~
+~
+0 -1  0 70006
+D3
+~
+~
+0 -1  0 70018
+P
+n no nor nort north w we wes west e ea eas east~
+(null)~
+vstr With no map, no compass, no goal, no landmarks, no food and no water, you think better of moving any further from the wreckage until you have at least some sort of plan.
+~
+P
+sn sne snea sneak cr cra craw crawl~
+n no nor nort north w we wes west e ea eas east~
+vstr With no map, no compass, no goal, no landmarks, no food and no water, you think better of moving any further from the wreckage until you have at least some sort of plan.
+~
+S
+#70008
+On the Tracks over the Endless Moonscape Plains~
+No Description Set.
+~
+70 65536 1
+0
+D0
+~
+~
+0 -1  0 70009
+D1
+~
+~
+0 -1  0 70015
+D2
+~
+~
+0 -1  0 70007
+D3
+~
+~
+0 -1  0 70018
+S
+#70009
+On the Tracks over the Endless Moonscape Plains~
+No Description Set.
+~
+70 65536 1
+0
+D0
+~
+~
+0 -1  0 70009
+D1
+~
+~
+0 -1  0 70015
+D2
+~
+~
+0 -1  0 70008
+D3
+~
+~
+0 -1  0 70018
+S
+#70010
+On the Tracks near the Wreckage~
+   A heavy set of metal and ceramic railway tracks runs straight 
+north to south here, its imperial march across the moonscape 
+plains ruined only by the horrific wreckage of the overturned 
+train carriages to the north. A small embankment of dirt has 
+been built up to bear the tracks a foot or so above the rest of 
+the pitted moonscape terrain that runs as far as the eye can see 
+to the east and west, while the tracks themselves creep endlessly 
+north and south. 
+~
+70 65536 1
+0
+D0
+~
+~
+0 -1  0 70006
+D1
+~
+~
+0 -1  0 70015
+D2
+~
+~
+0 -1  0 70011
+D3
+~
+~
+0 -1  0 70018
+P
+s so sou sout south w we wes west e ea eas east~
+(null)~
+vstr With no map, no compass, no goal, no landmarks, no food and no water, you think better of moving any further from the wreckage until you have at least some sort of plan.
+~
+P
+sn sne snea sneak cr cra craw crawl~
+s so sou sout south w we wes west e ea eas east~
+vstr With no map, no compass, no goal, no landmarks, no food and no water, you think better of moving any further from the wreckage until you have at least some sort of plan.
+~
+S
+#70011
+On the Tracks over the Endless Moonscape Plains~
+No Description Set.
+~
+70 65536 1
+0
+D0
+~
+~
+0 -1  0 70010
+D1
+~
+~
+0 -1  0 70015
+D2
+~
+~
+0 -1  0 70012
+D3
+~
+~
+0 -1  0 70018
+S
+#70012
+On the Tracks over the Endless Moonscape Plains~
+No Description Set.
+~
+70 65536 1
+0
+D0
+~
+~
+0 -1  0 70011
+D1
+~
+~
+0 -1  0 70015
+D2
+~
+~
+0 -1  0 70012
+D3
+~
+~
+0 -1  0 70018
+S
+#70013
+Near the Wreckage on Endless Moonscape Plains~
+   This area of walk seems lifeless and barren. Everywhere one 
+might step is uneven and awkward for traveling across, with small 
+meteorite holes covering the surface. The holes range from 
+barely noticeable indents to caping holes large enough to hide a 
+small man or animal. Everywhere one looks is grey bleakness and 
+inhospitable landscape. To the west, the wreckage of a dull 
+metal, six-car utility train lies. 
+~
+70 65536 1
+0
+D0
+~
+~
+0 -1  0 70014
+D1
+~
+~
+0 -1  0 70014
+D2
+~
+~
+0 -1  0 70014
+D3
+~
+~
+0 -1  0 70006
+P
+n no nor nort north e ea eas east s so sou sout south cr cra craw crawl~
+(null)~
+vstr With no map, no compass, no goal, no landmarks, no food and no water, you think better of moving any further from the wreckage until you have at least some sort of plan.
+~
+P
+sn sne snea sneak~
+n no nor nort north e ea eas east s so sou sout south~
+vstr With no map, no compass, no goal, no landmarks, no food and no water, you think better of moving any further from the wreckage until you have at least some sort of plan.
+~
+S
+#70014
+Endless Moonscape Plains~
+   This area of walk seems lifeless and barren. Everywhere one 
+might step is uneven and awkward for traveling across, with small 
+meteorite holes covering the surface. The holes range from 
+barely noticeable indents to caping holes large enough to hide a 
+small man or animal. Everywhere one looks is grey bleakness and 
+inhospitable landscape. 
+~
+70 65536 1
+0
+D0
+~
+~
+0 -1  0 70015
+D1
+~
+~
+0 -1  0 70015
+D2
+~
+~
+0 -1  0 70015
+D3
+~
+~
+0 -1  0 70013
+S
+#70015
+Endless Moonscape Plains~
+   This area of walk seems lifeless and barren. Everywhere one 
+might step is uneven and awkward for traveling across, with small 
+meteorite holes covering the surface. The holes range from 
+barely noticeable indents to caping holes large enough to hide a 
+small man or animal. Everywhere one looks is grey bleakness and 
+inhospitable landscape. 
+~
+70 65536 1
+0
+D0
+~
+~
+0 -1  0 70015
+D1
+~
+~
+0 -1  0 70015
+D2
+~
+~
+0 -1  0 70015
+D3
+~
+~
+0 -1  0 70014
+S
+#70016
+Near the Wreckage on Endless Moonscape Plains~
+   This area of walk seems lifeless and barren. Everywhere one 
+might step is uneven and awkward for traveling across, with small 
+meteorite holes covering the surface. The holes range from 
+barely noticeable indents to caping holes large enough to hide a 
+small man or animal. Everywhere one looks is grey bleakness and 
+inhospitable landscape. To the east, the wreckage of a dull 
+metal, six-car utility train lies. 
+~
+70 65536 1
+0
+D0
+~
+~
+0 -1  0 70017
+D1
+~
+~
+0 -1  0 70006
+D2
+~
+~
+0 -1  0 70017
+D3
+~
+~
+0 -1  0 70017
+P
+n no nor nort north w we wes west s so sou sout south cr cra craw crawl~
+(null)~
+vstr With no map, no compass, no goal, no landmarks, no food and no water, you think better of moving any further from the wreckage until you have at least some sort of plan.
+~
+P
+sn sne snea sneak~
+n no nor nort north w we wes west s so sou sout south~
+vstr With no map, no compass, no goal, no landmarks, no food and no water, you think better of moving any further from the wreckage until you have at least some sort of plan.
+~
+S
+#70017
+Endless Moonscape Plains~
+   This area of walk seems lifeless and barren. Everywhere one 
+might step is uneven and awkward for traveling across, with small 
+meteorite holes covering the surface. The holes range from 
+barely noticeable indents to caping holes large enough to hide a 
+small man or animal. Everywhere one looks is grey bleakness and 
+inhospitable landscape. 
+~
+70 65536 1
+0
+D0
+~
+~
+0 -1  0 70018
+D1
+~
+~
+0 -1  0 70016
+D2
+~
+~
+0 -1  0 70018
+D3
+~
+~
+0 -1  0 70018
+S
+#70018
+Endless Moonscape Plains~
+   This area of walk seems lifeless and barren. Everywhere one 
+might step is uneven and awkward for traveling across, with small 
+meteorite holes covering the surface. The holes range from 
+barely noticeable indents to caping holes large enough to hide a 
+small man or animal. Everywhere one looks is grey bleakness and 
+inhospitable landscape. 
+~
+70 65536 1
+0
+D0
+~
+~
+0 -1  0 70017
+D1
+~
+~
+0 -1  0 70017
+D2
+~
+~
+0 -1  0 70017
+D3
+~
+~
+0 -1  0 70018
+S
 $~

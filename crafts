@@ -9206,7 +9206,7 @@ sectors:
       3:  (produced x10 53205)
 end
 craft general subcraft tent command pitch
-followers: 0
+followers: 2
  opening:
 sectors:
   phase
@@ -9225,8 +9225,8 @@ sectors:
       t:  10
 
    endpprog:  xlink
-      1:  (used 99013)
-      2:  (produced 99014)
+      1:  (used 66051)
+      2:  (produced 66664)
 end
 craft general subcraft toilet command unclog
  opening: 6
@@ -13242,8 +13242,8 @@ sectors:
     3rd:  $n begins working on $2, getting tools from $1.
       t:  20
 
-      1:  (sampled x2 99001)
-      2:  (used 99000)
+      1:  (sampled x2 8084)
+      2:  (used 13019)
       1;  ($ironalloy 2 0 6)
       2;  ($rifleframe 2 1 6)
       11;  ($metalcolor 2 7 6)
@@ -13255,15 +13255,15 @@ sectors:
       t:  20
 
   skill:  Gunsmith vs 1d60
-      3:  (sampled 99002)
+      3:  (sampled 11021)
   phase
     1st:  You attach $4 and $5, adjusting the final configuration of $6.
     3rd:  $n adjusts the final configuration of $6.
       t:  20
 
-      4:  (used 99003)
-      5:  (used 99004)
-      6:  (produced 99005)
+      4:  (used 13010)
+      5:  (used 13016)
+      6:  (produced 13024)
       3;  ($riflebarrel 4 2 6)
       4;  ($riflecaliber 4 3 6)
       5;  ($color 5 5 6)
@@ -15807,8 +15807,8 @@ sectors:
     3rd:  $n begins working on $2, getting tools from $1.
       t:  20
 
-      1:  (sampled 99001)
-      2:  (used 99006)
+      1:  (sampled 8084)
+      2:  (used 13018)
       1;  ($ironalloy 2 0 6)
       2;  ($pistolframe 2 1 6)
   phase
@@ -15819,15 +15819,15 @@ sectors:
       t:  20
 
   skill:  Gunsmith vs 1d40
-      3:  (sampled 99007 99002)
+      3:  (sampled 11020 11021)
   phase
     1st:  You attach $4 and $5, adjusting the final configuration of $6.
     3rd:  $n adjusts the final configuration of $6.
       t:  20
 
-      4:  (used 99008 99009)
-      5:  (used 99010 99011)
-      6:  (produced 99012)
+      4:  (used 13003 13009)
+      5:  (used 13012 13015)
+      6:  (produced 13021)
       3;  ($pistolbarrel 4 2 6)
       4;  ($pistolcaliber 4 3 6)
       5;  ($color 5 5 6)
@@ -18932,5 +18932,30 @@ sectors:
       t:  20
 
       5:  (produced x5 1505)
+end
+
+craft pharmaceuticals subcraft painkillers command formulate
+  ic_delay: 2
+ opening: 30
+ clans: 'private' drugs
+  phase
+    1st:  You examine $1, picking a few of the most choice 'shrooms and inspecting them for defects.
+    3rd:  $n moves over to $1, picking a few mushrooms after a moment of examination.
+      t:  15
+
+      1:  (sampled 66665)
+  phase
+    1st:  Setting out your collection of matured mushrooms from $1, you begin to process them in the appropriate manner with $2.
+    3rd:  $n carries the mushrooms to $2, and begins to process them.
+      t:  15
+
+  skill:  Chemistry vs 1d40
+      2:  (in-room 10048)
+  phase
+    1st:  After finishing the processing in $2, you carefully slip the pills into matching capsules, setting out $3.
+    3rd:  $n fills a number of small capsules with the processed mushrooms, setting out $3.
+      t:  15
+
+      3:  (produced x5 66666)
 end
 [end-crafts]

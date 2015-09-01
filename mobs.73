@@ -1,1 +1,515 @@
+#73100
+monstrosity feline $rhinosize $rhinoskin~
+a $rhinosize, $rhinoskin feline monstrosity~
+A $rhinosize, $rhinoskin feline monstrosity stalks, with all the grace of a sledgehammer.~
+   This megafauna beast is a menacing thing to behold. It is $rhinosize. Its 
+thick, mostly hairless pachydermal hide is $rhinoskin and rough to the touch. 
+Four powerful legs support it, the front pair somewhat longer to lend it a 
+slightly raised posture whenever it isn't crouched. Razor sharp claws jut from 
+its feet, unretractable. A burly, barrel-shaped body lends it obvious strength 
+and immense mass. Its brutish face is flattened and blunt with small, beady 
+eyes. A bony row of spiky protrusions juts from the top of its blockish head, 
+stretching from forehead to where its short, stocky neck begins. Its mouth 
+pulls back around both sides of its vaguely pachydermal-featured head, and with 
+no lips to speak of its teeth are on constant display. Overall, this cat 
+appears more suited to brute force attacks, rather than the stalk-pounce ways 
+of most felines. 
+~
+136314921 0 12 79 7 5d1+120 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 63 0 0 0 5 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 9
+268435456 0
+0 20 20 20 20 20 20 20 20 20
+20 20 20 20 20 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#73102
+frog $spidersize $mobdarkcolors skin~
+a $spidersize frog with $mobdarkcolors skin~
+A $spidersize frog with $mobdarkcolors skin sits here, croaking.~
+   This frog is $spidersize. It moves rather clumsily but possesses extremely 
+long, springly hindlegs that promise the ability to leap extremely far. Its 
+skin is $mobdarkcolors. 
+~
+136314888 4 6 76 1 5d1+50 2d3+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 63 0 0 0 1 0 0 0 0 0 0 0 0
+5 16 8 16 16 8 40 9
+268435456 0
+0 10 10 10 10 10 10 10 10 10
+10 10 10 10 10 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#73105
+snake large $shreddercolor skin~
+a large snake with $shreddercolor skin~
+A large snake with $shreddercolor skin is here.~
+   This snake is quite large, easily six to ten feet long and as thick as a 
+grown man's arm. Lidless eyes with vertical pupils take in the world with a 
+disconcerting lack of expression. It is $shreddercolor. 
+~
+136314888 4 12 76 3 5d1+80 2d5+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 56 0 0 0 0 0 0 0 0 0 0 0 0
+8 16 10 16 16 10 40 11
+268435456 0
+0 20 20 20 20 20 20 20 20 20
+20 20 20 20 20 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#73106
+snake small $shreddercolor skin~
+a small snake with $shreddercolor skin~
+A small snake with $shreddercolor skin is here.~
+   This snake is not very big, only three or four foot long. It is 
+$shreddercolor. Its forked tongue periodically darts out of its mouth, tasting 
+the air as it slithers on the jungle floor. 
+~
+136314888 786436 6 76 1 5d1+50 2d3+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 63 0 0 0 0 0 0 0 0 0 0 0 0
+5 16 8 16 16 8 40 9
+268500992 0
+0 10 10 10 10 10 10 10 10 10
+10 10 10 10 10 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#73107
+bird flightless $cassosize $cassofeather~
+a $cassosize, $cassofeather flightless bird~
+A $cassosize, $cassofeather flightless bird the size of a man strides about here.~
+   This huge bird is obviously flightless. Easily the height of a man, it 
+moves on two sinewy, powerful legs. Its taloned feet are armed with sharp, 
+dagger-like claws, and its beak is equally unpleasant. Its neck is long and 
+slender, supporting a small head that constantly moves to survey its 
+surroundings. This specimen is $cassosize, and its black feathers are 
+$cassofeather. 
+~
+136314920 0 24 0 1 5d1+80 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 45 0 0 0 2 0 0 0 0 0 0 0 0
+13 16 10 16 16 10 40 15
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#73108
+critter $shreddersized $goatcolor~
+a $shreddersized, $goatcolor critter~
+A $shreddersized, $goatcolor critter scurried here.~
+   This small mammal is $shreddersized. Its fur is $goatcolor. Living in the 
+jungle, it serves mainly as prey for the area's larger denizens. 
+~
+136314888 786432 3 0 0 5d1+10 2d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 70 0 0 0 0 0 0 0 0 0 0 0 0
+2 16 3 16 16 3 40 7
+268500992 0
+0 5 5 5 5 5 5 5 5 5
+5 5 5 5 5 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#73000
+sickly brown botanical monstrosity layered razor sharp teeth~
+a sickly brown botanical monstrosity with layered, razor-sharp teeth~
+A sickly brown botanical monstrosity with layered, razor-sharp teeth grows here, surrounded by vines.~
+   No plant - if this towering nightmare is indeed one - should 
+have any right to grow as large as it is. It is reminiscent of a 
+crooked willow, the diameter of its mottled brown trunk measuring 
+at least the height of two men. The size of this creature is 
+almost inconceivable, looming tall over almost any ordinary 
+creature - spreading its prickly and gargantuan shadow over the 
+entire area. Creating a canopy unto itself, hundreds of vines as 
+thick as a man branch out in every direction, some sinking into 
+the earth itself, and others groping out toward the sky. At the 
+very top, the stem bends over nearly onto itself, and it is not 
+hard to see why, for a bulbous mass bigger than an 
+apartment-sized building hangs from it. Various shades of putrid 
+green splotches dot the bulbous mass, only abating at the center, 
+where the mass cleaves open to show a gaping maw. Even if one 
+should look from the ground, razor-sharp, layered teeth line its 
+mouth, looking more than capable of shredding anything that 
+crosses its path. 
+~
+268435464 33554436 7 77 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 20 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#73001
+Tiger sabertooth $deathfangcolor $deathfangsized~
+a $deathfangcolor, $deathfangsized sabertooth tiger~
+A $deathfangcolor, $deathfangsized sabertooth tiger stalks here.~
+   With a compact, muscular build this $deathfangsized, looking 
+more like a bear than a house cat. It has a back that slopes 
+down from its broad shoulders to its hips, and the animal has a 
+relatively stubby tail. The thick forelimbs of this creature 
+seem optimally designed for battering and pinning down prey. If 
+that was not enough, it has giant fangs jutting out from its 
+upper jaw which dwarf the rest of its teeth which would normally 
+be considered large in any other mouth. $deathfangcolor 
+~
+136577064 4 45 82 3 5d1+100 2d7+4 0 8 8 0 0 0 0 0
+11003 0 0 2054 0 0 45 0 0 0 1 0 0 6 0 0 0 0 0
+19 16 15 16 16 15 40 15
+268435456 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' mammal~
+0 0 0
+#73002
+Anaconda $snakelength $snakefeature~
+a $snakelength, $snakefeature anaconda~
+A $snakelength, $snakefeature anaconda slithers here.~
+   This monster of a snake is $snakelength. Multiple serrated 
+teeth line the inside of its mouth, made more for holding on to 
+its prey than any other purpose teeth might be used for. From 
+snout to tail, it is covered in thick scales that shield it from 
+both the hostile environment it inhabits and any predators that 
+might feast upon it. $snakefeature 
+~
+2097192 4 36 76 7 5d1+100 2d6+3 0 8 8 0 0 0 0 0
+11007 0 0 2050 0 0 50 0 0 0 1 0 0 0 0 0 0 0 0
+16 16 15 16 16 15 40 13
+268435456 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' snake~
+0 0 0
+#73003
+Vine $vinelength $vinefeature~
+#2a $vinelength, $vinefeature vine#0~
+#2A $vinelength, $vinefeature vine grows here.#0~
+   This thick vine is brown in color, and appears more than a 
+little withered. The sole vine is wound into a tangle of other 
+vines, none of which seem to root into the ground - they, 
+instead, slither across it, the larger thorns in them cutting 
+furrows into the dirt. Also noticeable about this $vinelength 
+vine is $vinefeature. 
+~
+404750378 33554436 24 77 0 5d1+52 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 63 0 0 0 2 0 0 0 0 0 0 0 0
+16 16 3 16 16 3 40 9
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' plant~
+0 0 0
+#73004
+Flytrap $brightplantcolor folding plant spiny giant~
+#2a giant, spiny, $brightplantcolor, folding plant#0~
+#2A giant, spiny, $brightplantcolor, folding plant sits here, unmenacing.#0~
+   This plant is, first of all, enormous - way larger than the average man. It 
+is composed of two leaves that appear to be foldable connected to a stem, which 
+digs into dirt on wrist-thick roots. The two leaves are lines with sharp 
+spines, and between those leaves seem to be a series of more spines, hair-thin 
+but no less sharp. The outer edges of the plant are bright green, but as it 
+folds inwards towards the stem it turns a bright $brightplantcolor. 
+~
+404750346 33554436 6 77 5 5d1+50 2d3+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 63 0 0 0 0 0 0 0 0 0 0 0 0
+5 16 8 16 16 8 40 9
+268435456 0
+0 10 10 10 10 10 10 10 10 10
+10 10 10 10 10 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#73005
+Crocodile $crocfeature $crocsized~
+a $crocfeature, $crocsized crocodile~
+A $crocfeature, $crocsized crocodile lies in wait, here.~
+   $crocfeature, sharp scales run across the length of this 
+amphibian's body, poking about half an inch out. Bright gold 
+eyes with slitted pupils sit about the creature's head, and the 
+rest of the head might as well just be teeth - big, curved, 
+jagged teeth. This crocodile is $crocsized. 
+~
+404750376 33554436 36 81 5 5d1+120 2d7+4 0 8 8 0 0 0 0 0
+0 0 0 2052 0 0 56 0 0 0 1 0 0 6 0 0 0 0 0
+19 16 20 16 16 20 40 11
+268435456 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 60 60 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' crocodile~
+144 0 0
+#73006
+sloth $slothtoed $slothcolor fur~
+a $slothtoed-toed sloth with $slothcolor fur~
+A $slothtoed-toed sloth with $slothcolor fur loafs here.~
+   This creature does not seem to pose much of a threat, despite the $slothtoed 
+hooked claws each foot has, its movement speed is sluggish at best, and it 
+seems far more interested in eating leaves than fighting. Further detracting 
+from its perceived ferocity is a small potbelly and a mildly piggish nose that 
+wiggles occasionally. Its body covered in a coat of $slothcolor fur, this 
+creature makes its home in the trees. 
+~
+136314888 0 12 79 3 5d1+80 2d5+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+8 16 10 16 16 10 40 13
+268500992 0
+0 20 20 20 20 20 20 20 20 20
+20 20 20 20 20 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#73007
+ape bulky $lizcolor~
+a bulky, $lizcolor ape~
+A bulky, $lizcolor ape lurches around.~
+   This creature is clearly a primate, with bulky muscles and blunt features. 
+It would stand at six feet tall, but it is usually hunched, walking about on 
+its knuckles and feet. When its lips peel back one would notice fangs and 
+tusks, but usually attention might be drawn to its massive hands on the end of 
+tree-trunk-sized arms. $lizcolor. 
+~
+2097192 4 24 86 5 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+11007 0 0 2048 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+13 16 15 16 16 15 40 13
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#73008
+serpent $serplume $serpcolor plumage~
+a $serpcolor serpent with a $serpplume plumage~
+A $serpcolor serpent with a $serplume plumage slithers about.~
+   Protected by $serpcolor scales that glint dully in the available lighting, 
+this feathered serpent posseses a set of $serpplume white feathers atop its 
+head. Small, beady eyes peer out around the world, and a long forked tongue 
+flickers forth on occasion. Roughly eight feet in length, with a sizable 
+girth, this monstrous creature's fangs are at least finger-length, providing a 
+fierce discouragement to any who would consider attacking it. 
+~
+136314888 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+268435456 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#73009
+mantis praying spike covered $giantbugsize~
+a spike-covered, $giantbugsize praying mantis~
+A spike-covered, $giantbugsize praying mantis sits here, scythe-like arms folded.~
+   This mantis is $giantbugsize. Every single part of it is covered in spikes, 
+from its head to its folded arms to its wings. The giant insect looks 
+threatening just sitting there, nevermind the fact that it can attack like a 
+bolt of lightning at whatever prey wanders near. 
+~
+136314920 0 45 0 9 5d1+150 2d7+4 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+19 16 20 16 16 20 40 13
+268435456 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
 $~

@@ -1,1 +1,2047 @@
+#10000
+aid first assortment crude equipment OTHER~
+an assortment of crude first aid equipment~
+An assortment of crude first aid equipment sits here.~
+   Scavenged together and stuffed hastily into a faded grey 
+burlap knapsack. This moderately stocked assortment of crude 
+tools and medicinal equipment holds a enough for most mild or 
+moderates wounds or ailments. It bares a rusting pair of 
+surgical scissors, a bent pair of artery forceps and numerous 
+shredded grimy rags prepped to be used as bandages or slings as 
+well as numerous packets of paracetamol. A single large syringe 
+sporting traces of rust has been wrapped in some ointment stained 
+cloth appearing to have been used many times. Two decent sized 
+pieces of wood about arms length designed to serve for splints 
+have been packed inside also. 
+~
+52 4096 8650753
+10 10 0 0
+100 0.000000
+0 0 0 0 100 130 0 1
+25.000000 0 0 0 0 0 0
+God~
+God~
+#10001
+aid first aged OTHER~
+an aged first aid kit~
+An aged first aid kit lies on the ground here.~
+   This aged basic first aid kit is even scarcer on useful 
+resources than it could ever have been many years ago. The latex 
+gloves within have well since shrivelled and the Panadol within 
+has turned to dust. It has however been caringly restocked 
+holding a few vials of assorted medicinal liquids, likely 
+painkillers, antidotes and the sorts. It is stocked with a grimy 
+bandage, a rusting pair of surgical scissors and a trio of 
+individually wrapped syringes, one however appears to have 
+already broken. 
+~
+52 4096 8650753
+10 5 10 0
+100 0.000000
+0 0 0 0 100 130 0 1
+15.000000 0 0 0 0 0 0
+God~
+God~
+#10002
+briefcase medicinal small well stocked OTHER~
+a small, well-stocked medicinal briefcase~
+A small, well-stocked medicinal briefcase sits here.~
+   Fit for a trained physician this mix matched pack of pre and 
+post war oddities is full of assorted medicinal tools and other 
+likeminded goodies. Fit enough for one to a near perform a full 
+diagnostic it holds various medicines, individually wrapped 
+syringes, stimulants, relaxants and antidotes. Also inside is a 
+stethoscope, otoscope, surgical scissors and artery forceps, a 
+thermometer, one simmi splint and even a prepped defibrillator. 
+~
+52 4096 8650753
+20 35 0 0
+500 0.000000
+0 0 0 0 100 66 0 1
+40.000000 0 0 0 0 0 0
+God~
+God~
+#10003
+gloves latex pair PLASTIC~
+a pair of latex gloves~
+A pair of latex gloves sit here.~
+   This thin pair of latex gloves are a favorite for all manner 
+of physicians fit for all manner of surgical procedures. They 
+are plain, unadorned and the inside is covered with a powdery 
+substance. 
+~
+11 4096 129
+0 0 0 0
+1 0.000000
+0 0 0 0 100 194 0 1
+0.500000 0 0 0 0 0 0
+God~
+God~
+#10004
+bandage shredded makeshift TEXTILE~
+a shredded, makeshift bandage~
+A shredded, makeshift bandage lies here.~
+   This makeshift bandage is nothing more than torn strips of 
+rags and soiled cloth. 
+~
+52 4198400 1
+1 0 0 0
+10 0.000000
+0 0 0 0 100 130 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#10005
+sling grimy woolen TEXTILE~
+a grimy woolen sling~
+A grimy woolen sling lies here.~
+   This makeshift sling has been fashioned from nothing more than 
+torn strips of rags and soiled cloth. 
+~
+12 4198400 1
+0 0 0 0
+1 0.000000
+0 0 0 0 100 130 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#10006
+scissors surgical rusting pair METAL~
+a rusting pair of surgical scissors~
+A rusting pair of surgical scissors sit here.~
+   Rusting away these scissors appear to have seen better days, 
+designed primarily for a surgeon they are long bearing thin tips. 
+While they are perhaps not the most hygienic choice they at least 
+appear functional. 
+~
+12 4096 1
+0 0 0 0
+1 0.000000
+0 0 0 0 100 130 0 1
+3.000000 0 0 0 0 0 0
+God~
+God~
+#10007
+pincers surgical pair long thin METAL~
+a pair of long, thin surgical pincers~
+A pair of long, thin surgical pincers are cast aside here.~
+   Fashioned from steel these long pincers are for surgical use, 
+designed primarily to reach deep within open wounds causing as 
+little pain as possible. They appear in fine shape and of sturdy 
+make bearing no rust. 
+~
+12 4096 1
+0 0 0 0
+1 0.000000
+0 0 0 0 100 130 0 1
+4.000000 0 0 0 0 0 0
+God~
+God~
+#10008
+forceps rusting pair METAL~
+a rusting pair of forceps~
+A rusting pair of forceps lie here, neglected.~
+   Fashioned from now rusting steel these long forceps are 
+clearly designed for surgical use. While they are perhaps not 
+the most hygienic choice they at least appear functional. 
+~
+72 4096 1
+0 0 0 0
+1 0.000000
+0 0 0 0 100 130 0 1
+4.000000 0 0 0 0 0 0
+God~
+God~
+#10009
+thermometer old GLASS~
+an old thermometer~
+An old thermometer lies here.~
+   This rather large thermometer sees fit to read one's 
+temperature. You have no way however of knowing how many times 
+its been used, nor how exactly it was utilised. 
+~
+72 4096 1
+0 0 0 0
+1 0.000000
+0 0 0 0 100 130 0 1
+10.000000 0 0 0 0 0 0
+God~
+God~
+#10010
+stethoscope METAL~
+a stethoscope~
+A stethoscope lies here.~
+   Common in design and appearance, it bares the typical ear 
+pieces which travel down to a small panel - clean looking, 
+polished, and shiny. 
+~
+11 4096 5
+0 0 0 0
+1 0.000000
+0 0 0 0 100 64 0 1
+5.000000 0 0 0 0 0 0
+God~
+God~
+#10011
+defibrillator wall box METAL~
+a defibrillator wall box~
+A defibrillator box is here, bolted to the wall.~
+   Set in a rusting, red-painted steel box, this defibrillator is 
+designed to be fixed to a wall. It comes set with its with own 
+battery casing bearing a power button and blinking lights and a 
+pair of paddles ready to shock a failing heart back to life. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 100 64 0 1
+200.000000 0 0 0 0 0 0
+God~
+God~
+#10012
+paracetamol packet OTHER~
+a packet of paracetamol~
+A packet of paracetamol sits here.~
+   This small packet bares 24 tiny little tablets. The box 
+reads: "Panni-Max headaches? Backaches? Unwanted pain slowing you 
+down? Take a little panni-max and treat your pain to the max!" 
+And then, under that, in significantly smaller letters, is a list 
+of side effects and the message, "If unwanted side effects or 
+symptoms persist see your local doctor." 
+~
+12 4198400 1
+0 0 0 0
+1 0.000000
+0 0 0 0 100 66 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#10013
+splint foam covered aluminum METAL~
+a foam-covered aluminum splint~
+A foam-covered aluminum splint lies here.~
+   This splint has a large sticker on it which read: "Stimmi 
+Splint - Ready for its fine aluminum innards to twist and bend 
+into any shape you manage to mangle yourself. Serviceable and 
+able to be used time and again! set with quality foam added for 
+comfort. Every adventurers must have!" 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 100 66 0 1
+10.000000 0 0 0 0 0 0
+God~
+God~
+#10014
+vial barely-concentrated $chem GLASS~
+a barely-concentrated vial of $chemical~
+A barely-concentrated vial of $chemical lies here.~
+   This plastic vial is rather long, but still fits easily within 
+one's palm. Thick black letters spell the word '$chemical' down the 
+side of the hard, opaque plastic. 
+~
+4 33558528 1
+1 0 0 0
+5 0.000000
+0 0 0 0 0 130 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#10015
+suitcase chemistry kit simple hard-plastic PLASTIC~
+a simple chemistry kit within a hard-plastic suitcase~
+A hard-plastic suitcase rests here.~
+   This hard-plastic box can be easily opened via the plastic 
+latch on the front of the box to reveal a simple working 
+chemistry kit within. Containing a number of test tubes, a very 
+small bunsen burner and a row of minute amounts of a large number 
+of chemicals and compounds, this kit is ideal for performing 
+simple chemical procedures. When closed, the box can easily be 
+carried by the suitcase handle attached to the top of the item. 
+~
+8 4096 1
+30 0 0 0
+1000 0.000000
+0 0 0 0 0 130 0 1
+10.000000 0 0 0 0 0 0
+God~
+God~
+#10016
+syringe $color-tinged large OTHER~
+a $color-tinged syringe~
+A $color-tinged syringe lurks underfoot.~
+   This syringe is composed primarily of metal, and includes both 
+the pump and needle. Somewhat large, the syringe is designed for 
+repeated use, the metal shiny and strong. The centre of the 
+syringe is made up of a tough opaque plastic, in which can be 
+viewed whatever substance happens to be currently storred, 
+awaiting injection. This plastic is shaded $color in colour to 
+allow easy identification amongst syringes. 
+~
+10 33558528 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 130 0 1
+5.000000 0 0 0 0 0 0
+God~
+God~
+#10017
+splints pair lengths grimy plastic PLASTIC~
+a pair of plastic splints~
+A couple of lengths of grimy plastic is here.~
+   Two grimy lengths of plastic have been harvested from 
+somewhere and made into a functioning pair of splints. Some 
+pieces of filthy cloth tie the two pieces together. Although by 
+no means an exact instrument of healing, the splints will surely 
+do well enough of a job to steady any broken limbs. 
+~
+52 512 289
+1 1 0 0
+5 0.000000
+0 0 4 0 100 130 0 1
+2.000000 0 0 0 0 0 0
+God~
+God~
+#10018
+spray-bottle bottle $color-tinged thick plastic PLASTIC~
+a thick, $color-tinged plastic spray-bottle~
+A thick, $color-tinged plastic spray-bottle rests here.~
+   This is a simple $color-tinged spray-bottle. It has a black 
+bottle cap and trigger-handle and dyed plastic. There is an aged 
+yellow sticker on the side of the bottle, dyed the color of deep 
+space with the image of a white bio-hazard symbol overlayed. 
+Below the symbol, a warning indicates that this bottle is 
+designed to contain potentially dangerous chemical compounds and 
+to utilize caution. 
+~
+16 33554432 1
+0 0 0 0
+5 0.000000
+0 0 0 0 0 2 0 1
+5.000000 0 0 0 0 0 0
+God~
+God~
+#10025
+vial xplot xStaphyre green liquid GLASS~
+a vial with a small amount of green liquid~
+A vial with a small amount of green liquid has been left here.~
+~
+12 0 1
+0 0 0 0
+5 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10019
+barrel astringent chemical squat OTHER~
+a squat barrel of chemical astringent~
+A squat barrel of chemical astringent rests here.~
+A squat barrel with a resealable lid, it is filled with a liquid chemical astringent, sharp smelling and puckering to the skin.
+~
+30 4096 1
+50 12003 1 0
+5000 0.000000
+0 0 0 0 0 0 0 1
+100.000000 0 0 0 0 0 0
+S
+7 100 100 100 100
+God~
+God~
+#10020
+bandage astringent wet sharply-scented scented TEXTILE~
+a sharply-scented, wet bandage~
+A sharply-scented, wet bandage rests here.~
+This bandage has been soaked heavily in sharp-smelling astringent.
+~
+52 4096 1
+1 1 0 1
+10 0.000000
+0 0 0 0 100 0 0 1
+5.000000 0 0 0 0 0 0
+S
+7 10 10 10 10
+God~
+God~
+#10021
+barrel propellant chemical squat OTHER~
+a squat barrel of chemical propellant~
+A squat barrel of chemical propellant rests here.~
+   This is a squat barrel with a resealable lid, filled with a murky, viscous 
+chemical liquid. 
+~
+30 4096 1
+250 12003 1 0
+5000 0.000000
+0 0 0 0 0 0 0 1
+100.000000 0 0 0 0 0 0
+God~
+God~
+#10022
+cake chemical water purifier brownish round ORGANIC~
+a brownish round cake of chemicals~
+A brownish, round, cake of chemicals rests on the ground.~
+   This is a large, round, puck-shaped cake of processed 
+chemicals. It is about the size of a vehicle tire, an odd shade 
+of brown, and has a harsh, astringent odor to it. 
+~
+72 0 1
+0 0 0 0
+2000 0.000000
+0 0 0 0 0 0 0 1
+3.000000 0 0 0 0 0 0
+God~
+God~
+#10023
+barrel squat lake water dirty liquid $plasticcolor $polyprop PLASTIC~
+a squat $plasticcolor barrel of lake water~
+A squat $plasticcolor barrel of lake water rests here.~
+   This is a squat barrel made of $plasticcolor $polyprop. The 
+top is snapped on, the sloshing water within of indeterminant 
+quality. 
+
+You can #6UNSEAL#0 this #6BARREL#0. 
+~
+12 33558528 1
+0 0 0 0
+17500 0.000000
+0 0 0 0 0 0 0 1
+10.000000 0 0 0 0 0 0
+God~
+God~
+#10024
+ice chunk grey-green green fist-sized LIQUID~
+a fist-sized chunk of grey-green ice~
+A fist-sized chunk of grey-green ice lays in a heap.~
+   This is an irregular-shaped chunk of grey-green ice, about the 
+size of a fist. 
+~
+12 272629760 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10026
+barrel hydrocarbons chemical squat barrel semi-colloidal ORGANIC~
+a squat barrel of semi-colloidal hydrocarbons~
+A squat barrel of semi-colloidal hydrocarbons stands by the wall.~
+   This is a squat barrel with a resealable lid, made of plastic 
+and painted over with labels indicating the flammable nature of 
+its semi-colloidal hydrocarbon contents. 
+~
+30 0 1
+100 12003 1 0
+10000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10027
+grease $grease mechanical black mound small chemical ORGANIC~
+a small mound of $grease~
+A small mound of $grease lies here.~
+It is $grease.
+~
+72 37752832 1
+0 0 0 0
+25 0.000000
+0 0 0 0 0 128 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10028
+barrel fuel high-octane chemical squat barrel ORGANIC~
+a squat barrel of high-octane fuel~
+A squat barrel of high-octane fuel stands by the wall.~
+   This is a squat barrel with a resealable lid, made of plastic and painted 
+over with labels indicating the flammable nature of its high-octane fuel 
+contents. 
+
+You realize you can divide off a smaller amount if you #2FILL#0 a #2TUBE#0. 
+~
+30 4096 1
+250 12003 1 0
+2500 0.000000
+0 0 0 0 0 0 0 1
+100.000000 0 0 0 0 0 0
+God~
+God~
+#10029
+stick computer $polyprop data plastic ELECTRONIC~
+a computer data stick labelled '$polyprop'~
+A computer data stick labelled '$polyprop' lies here.~
+   This is a simple computer data stick that can be inserted into 
+the ports on a laptop, handheld, or chemistry processor. When 
+reviewed, the data chip reveals details on the chemical structure 
+and production plastic that is $polyprop. 
+~
+12 33554432 1
+0 0 0 0
+25 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10030
+herbs patch blooming plants ORGANIC~
+a patch of blooming herbs~
+A patch of blooming herbs sprouts from a patch of organic soil.~
+   Rising from a patch of organic soil, a small cluster of plants 
+sprout up, still unfurling as they bloom. 
+~
+29 0 0
+33 1 10031 2
+10 0.000000
+10031 0 1
+(null)~
+0 0 0 0 1
+0.000000 24 86 0 0 0 0
+God~
+God~
+#10031
+herb uprooted $herb0 $naturalscents1 plant ORGANIC~
+an uprooted $herb0~
+An uprooted $herb0 lies here.~
+   Uprooted with some dirt still clining to its roots, this herb 
+is a healthy $herb. Emanating from its buds and bruised leaves 
+is a $naturalscents smell that clings to your fingers. 
+~
+72 37748736 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 1440 10034 0 0 0 0
+God~
+God~
+#10032
+cabinet ENABLED climate-controlled tubes vials ELECTRONICS~
+a climate-controlled cabinet of tubes and vials~
+A climate-controlled cabinet of tubes and vials is attached to the wall.~
+   Rising from the floor about seven feet in height, the top of 
+this cabinet is humming climate control machinery while the rest 
+is cooled storage. A thick, transparent door is on the front of 
+the case, allowing visibility of the myriad vials and tubes 
+within. 
+~
+30 0 0
+0 10035 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10033
+cabinet DISABLED climate-controlled tubes vials ELECTRONICS~
+a dormant metal cabinet of tubes and vials~
+A dormant climate-controlled cabinet of tubes and vials stands quiet.~
+   Rising from the floor about seven feet in height, the top of 
+this cabinet is dormant climate control machinery, unpowered and 
+still. A thick, transparent door is on the front of the case, 
+allowing visibility of the myriad vials and tubes within. The 
+case is tepid and warm, failing to provide suitable preservation 
+for the tubes within. 
+~
+12 0 1
+0 0 0 0
+15000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10034
+plant wilted lifeless herb ORGANIC~
+a wilted and lifeless plant~
+A wilted and lifeless plant lies on th ground.~
+This plant is wilted and barely recognizable, having begun to rot.
+~
+72 4194304 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10035
+cabinet EMPTY climate-controlled powered-off empty tubes vials METAL~
+an empty climate-controlled cabinet~
+An empty climate-controlled cabinet, powered off and dormant.~
+   Rising from the floor about seven feet in height, the top of 
+this cabinet is climate control machinery while the rest is 
+cooled storage. A thick, transparent door is on the front of the 
+case, allowing visibility of the myriad empty vials and tubes 
+within. This cabinet could be #6PLUGGED IN#0 to turn it on if it 
+needs to be used. 
+~
+72 0 1
+0 0 0 0
+15000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10036
+jug nutrient solution plastic OTHER~
+a plastic jug of nutrient solution~
+A plastic jug of nutrient solution sits on the ground.~
+   This jug of nutrient solution sloshes beneath its screw-tight 
+cap, labeled for use in the hydroponics system only and not for 
+human consumption. 
+
+You can add this to a hydroponics system if you #6POUR#0 it in 
+the #6TANK#0. 
+~
+30 4096 1
+100 9016 1 1
+500 0.000000
+0 0 0 0 0 0 0 1
+35.000000 0 0 0 0 0 0
+God~
+God~
+#10037
+stick computer $flavor data plastic ELECTRONIC~
+a computer data stick labelled '$flavor'~
+A computer data stick labelled '$flavor' lies here.~
+   This is a simple computer data stick that can be inserted into 
+the ports on a laptop, handheld, or chemistry processor. When 
+reviewed, the data chip reveals details on the chemical structure 
+and production of the $flavor artificial flavoring. 
+~
+12 33554432 1
+0 0 0 0
+25 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10038
+remedy $remtype0 $simpledrug1 drug medicine LIQUID~
+a $remtype0 of $simpledrug1~
+A $remtype0 of $simpledrug1 sits on the ground.~
+A simple remedy manufactured by a skilled chemist, this is $remtype whose labeling shows that it is filled with $simpledrug.
+~
+52 33554432 1
+3 0 0 0
+50 0.000000
+10042 0 206 0 0 0 0 1
+2.000000 0 0 0 0 0 0
+S
+25 10 10 10 10
+God~
+God~
+#10039
+stick computer $simpledrug data plastic ELECTRONIC~
+a computer data stick labelled '$simpledrug'~
+A computer data stick labelled '$simpledrug' lies here.~
+This is a simple computer data stick that can be inserted into 
+the ports on a laptop, handheld, or chemistry processor. When 
+reviewed, the data chip reveals details on the chemical structure 
+and production of the $simpledrug compound.
+~
+12 33554432 1
+0 0 0 0
+25 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10040
+stick computer $ordinarydrug data plastic ELECTRONIC~
+a computer data stick labelled '$ordinarydrug'~
+A computer data stick labelled '$ordinarydrug' lies here.~
+This is a simple computer data stick that can be inserted into 
+the ports on a laptop, handheld, or chemistry processor. When 
+reviewed, the data chip reveals details on the chemical structure 
+and production of the $ordinarydrug compound.
+~
+12 33554432 1
+0 0 0 0
+25 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10041
+stick computer $gooddrug data plastic ELECTRONIC~
+a computer data stick labelled '$gooddrug'~
+A computer data stick labelled '$gooddrug' lies here.~
+This is a simple computer data stick that can be inserted into 
+the ports on a laptop, handheld, or chemistry processor. When 
+reviewed, the data chip reveals details on the chemical structure 
+and production of the $gooddrug compound.
+~
+12 33554432 1
+0 0 0 0
+25 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10042
+container $remtype empty PLASTIC~
+an empty $remtype~
+An empty $remtype lies in the dust.~
+   This is an empty container, suitable to serve as $remtype. 
+~
+15 33554432 1
+50 0 0 0
+25 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10043
+rack $objposition0 $plasticcolor1 $polyprop2 PLASTIC ~
+a $plasticcolor1 $objposition0 rack~
+A $plasticcolor1 $objposition0 rack offers a place to hang things.~
+   This rack is $objposition, possessing multiple parallel rungs 
+for hanging things to dry and a few storage shelves beneath. It 
+is sturdy and functional, made of $plasticcolor $polyprop. 
+~
+15 33554432 0
+20000 0 -1 0
+7000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10044
+herb dried $herb0 $naturalscents1 plant ORGANIC~
+a dried $herb0~
+A dried $herb0 lies here.~
+   Carefully dried to preserve its natural shape and 
+configuration, this herb is $herb. It still has a faint 
+$naturalscents odor that lingers about it when it is sniffed. 
+~
+72 37748736 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10045
+herb drying $herb0 $naturalscents1 plant ORGANIC~
+a drying $herb0~
+A drying $herb0 lies here.~
+   Carefully hung to preserve its natural shape and 
+configuration, this herb is a healthy $herb. It is currently 
+hung on a rack to dry out its natural moisture, a $naturalscents 
+odor lingering around it. 
+~
+72 37748736 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 192 10044 0 0 0 0
+God~
+God~
+#10046
+stick computer $artificialscents data plastic ELECTRONIC~
+a computer data stick labelled '$artificialscents'~
+A computer data stick labelled '$artificialscents' lies here.~
+   This is a simple computer data stick that can be inserted into 
+the ports on a laptop, handheld, or chemistry processor. When 
+reviewed, the data chip reveals details on the chemical structure 
+and production of the artificial scent of $artificialscents. 
+~
+12 33554432 1
+0 0 0 0
+25 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10047
+vial corked $naturalscents scented oil chemical ORGANIC~
+a corked vial containing a $naturalscents-scented oil~
+A corked vial lies in the dust.~
+   This is a small vial of transparent plastic with a seal-tight 
+cork pushed into its top to prevent any spillage. Inside is an 
+oily liquid which clings to the glass, giving off a 
+$naturalscents odor. 
+~
+12 33558528 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+15.000000 0 0 0 0 0 0
+God~
+God~
+#10048
+equipment chemistry $chemequipment OTHER~
+$chemequipment0~
+$chemequipment0 rests here.~
+$chemequipment
+~
+12 33558528 0
+0 0 0 0
+1000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10049
+stick computer $color data plastic ELECTRONIC~
+a computer data stick labelled '$color'~
+A computer data stick labelled '$color' lies here.~
+This is a simple computer data stick that can be inserted into the ports on a laptop, handheld, or chemistry processor. When reviewed, the data chip reveals details on the chemical structure and production $color dye.
+~
+12 33554432 1
+0 0 0 0
+25 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10050
+stick computer $finecolor data plastic ELECTRONIC~
+a computer data stick labelled '$finecolor'~
+A computer data stick labelled '$finecolor' lies here.~
+   This is a simple computer data stick that can be inserted into 
+the ports on a laptop, handheld, or chemistry processor. When 
+reviewed, the data chip reveals details on the chemical structure 
+and production $finecolor dye. 
+~
+12 33554432 1
+0 0 0 0
+25 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10051
+herb pot robust $herb0 $naturalscents1 ORGANIC~
+a pot with a robust $herb0~
+A pot with a robust $herb0 rests on the ground.~
+   Robust and full, this herb is a healthy $herb, wafting with a 
+$naturalscents odor. It is potted in a $plasticcolor jug of 
+$polyprop. 
+~
+12 33554432 1
+33 1 10031 3
+800 0.000000
+9016 0 1 0 0 0 0 1
+0.000000 7200 10054 0 0 0 0
+God~
+God~
+#10052
+herb pot planted $herb0 $naturalscents1 ORGANIC~
+a pot with a planted $herb0~
+A pot with a planted $herb0 rests on the ground.~
+   Newly planted and strugglign to re-establish itself, this herb 
+is a healthy $herb, wafting with a $naturalscents odor. It is 
+potted in a $plasticcolor jug of $polyprop. 
+~
+12 33558528 1
+0 0 0 0
+600 0.000000
+0 0 0 0 0 0 0 1
+10.000000 720 10051 0 0 0 0
+God~
+God~
+#10053
+herb pot seedling $herb0 $naturalscents1 ORGANIC~
+a pot with a seedling $herb0~
+A pot with a seedling $herb0 rests on the ground.~
+   A tiny seedling barely unfurling above the surface, this herb 
+is a healthy $herb, wafting with a $naturalscents odor. It is 
+potted in a $plasticcolor jug of $polyprop. 
+~
+12 33554432 1
+0 0 0 0
+600 0.000000
+0 0 0 0 0 0 0 1
+0.000000 1440 10052 0 0 0 0
+God~
+God~
+#10054
+herb pot dead withered $plasticcolor0 $polyprop1 OTHER~
+a withered and dead potted plant~
+A withered and dead potted plant rests on the ground.~
+   Lifeless, withered, and dead, this plant has gone to seed and 
+scattered its pods to the wind. Its purpose in life complete, it 
+has degraded to little more than brittle twigs. It is potted in 
+a $plasticcolor jug of $polyprop. 
+~
+29 33554432 1
+33 1 53205 1
+600 0.000000
+9016 0 1
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10055
+atomizer perfume FULL fragrance small $naturalscents0 OTHER~
+a small fragrance atomizer~
+A small fragrance atomizer lies on the ground.~
+   A small metal bottle of $ironalloy-alloy with a simple 
+atomizer on top, this is meant to hold and apply perfume 
+fragrances. Squeezing the small ball dispenses a puff of scented 
+air, allowing the holder to #6APPLY#0 the #6PERFUME#0 to their 
+neck. This bottle effervesces a $naturalscents scent when 
+sniffed. 
+~
+30 33554432 1
+20 10056 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10056
+atomizer perfume EMPTY fragrance small OTHER~
+a small fragrance atomizer~
+A small fragrance atomizer lies on the ground.~
+   A small metal bottle of $ironalloy-alloy with a simple 
+atomizer on top, this is meant to hold and apply perfume 
+fragrances. Squeezing the small ball dispenses a puff of scented 
+air, but in this case, reveals the bottle is empty. 
+~
+72 33554432 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10058
+jug alcohol ethanol chemistry distilled $plasticcolor0 $polyprop1 PLASTIC~
+a $plasticolor0 jug of ethanol~
+A $plasticolor0 jug of ethanol rests here.~
+   This jug is filled with eye-wateringly potent distilled ethanol of 
+chemical-grade purity measuring 96% alcohol by volume. The jug is simple 
+$plasticcolor plastic with a screw top, made of $polyprop. 
+~
+30 33558528 1
+32 9016 1 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10059
+barrel squat water liquid PLASTIC~
+a squat barrel of sealed water~
+A squat barrel of sealed water rests here.~
+   This is a squat barrel made of off-white polyprop. The top is sealed and 
+marked, indicating this it is full of clean water. 
+
+You can #6UNSEAL#0 this #6BARREL#0. 
+~
+63 0 524289
+1 0 0 0
+40000 0.000000
+0 0 0 0 0 33554432 0 1
+100.000000 0 0 0 0 0 0
+God~
+God~
+#10060
+lettuce cutting $lettucecolor $lettuceshape ORGANIC~
+a cutting of $lettucecolor, $lettuceshape lettuce~
+A cutting of $lettucecolor, $lettuceshape lettuce lies here.~
+   This is a cutting of $lettucecolor fresh lettuce, carefully 
+extracted from its growing medium with the roots intact. The 
+leaves are $lettuceshape, and have begun to wilt. 
+~
+12 37748736 1
+0 0 0 0
+200 0.000000
+0 0 0 0 0 0 0 1
+0.000000 10080 10034 0 0 0 0
+God~
+God~
+#10061
+lettuce trough $lettucecolor0 $lettuceshape1 $plasticcolor2 ORGANIC~
+a $plasticcolor2 trough of $lettucecolor0, $lettuceshape1 lettuce~
+A $plasticcolor2 trough of $lettucecolor0, $lettuceshape1 lettuce grows here.~
+   This is a long trough of $lettucecolor fresh lettuce, 
+carefully planted in a growing medium. The leaves are 
+$lettuceshape, with new buds unfurling. The $plasticcolor 
+troughs are hung along the greenhouse framework, with a large 
+recirculation pump hooked to one end, channeling water and liquid 
+nutrient to the crop. The troughs are $polyprop. 
+~
+12 33558528 0
+0 0 0 0
+10000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 288 10063 0 0 0 0
+God~
+God~
+#10062
+trough DEAD set long plants $plasticcolor $polyprop ORGANIC~
+a set of long, $plasticcolor0 troughs filled with dead plants~
+A set of long, $plasticcolor0 troughs filled with dead plants hangs here.~
+   Molded of $plasticcolor $polyprop, these troughs are sturdy 
+and utilitarian. About eight feet in length and a foot wide and 
+deep, they are meant to serve as the planting base foundations of 
+greenhouse. These troughs once saw use, but have been allowed to 
+go without care, the plants within them heaped, dead, and 
+rotting. 
+
+~
+29 33554432 1
+0 0 10065 1
+2000 0.000000
+11033 0 1
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10063
+lettuce trough MATURE $lettucecolor0 $lettuceshape1 $plasticcolor2 ORGANIC~
+a $plasticcolor2 trough of thickly-growing $lettucecolor0, $lettuceshape1 lettuce~
+A $plasticcolor2 trough of $lettucecolor0, $lettuceshape1 lettuce grows thickly.~
+   This is a long trough of $lettucecolor fresh lettuce, 
+carefully planted in a growing medium. The leaves are 
+$lettuceshape, robust and thickly growing. The $plasticcolor 
+troughs are hung along the greenhouse framework, with a large 
+recirculation pump hooked to one end, channeling water and liquid 
+nutrient to the crop. The troughs are $polyprop. 
+~
+12 33554432 0
+0 100 0 0
+10000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10064
+lettuce HARVEST TOKEN mature section trough OTHER~
+a mature section of lettuce~
+A mature section of lettuce is ready within the trough.~
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 2880 10065 0 0 0 0
+God~
+God~
+#10065
+mound wilted lifeless plant lettuce ORGANIC~
+a mound of wilted and lifeless plants~
+A mound of wilted and lifeless plants lies on the ground.~
+   This mound of plants is wilted and barely recognizable, having 
+begun to fully rot. 
+~
+72 4194304 1
+0 0 0 0
+3000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10066
+kelp leaf long flat ORGANIC~
+a long, flat kelp leaf~
+A long, flat kelp leaf lies moistly on the ground.~
+   This kelp leaf is long and flat, its fibrous texture looking 
+almost like cloth except that it is squishy and kept moist with a 
+thin, gel-like coating. It is dark green and very pliable, able 
+to be rolled. 
+~
+52 4194304 1
+1 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+S
+100 10 10 10 0
+S
+14 10 10 10 10
+God~
+God~
+#10067
+pod gel acid kelp dark green clear ORGANIC~
+a dark green pod of clear gel~
+A dark green pod of clear gel lies on the ground.~
+   This is a round cup of plant-pod, ragged on its outside where 
+leaves have been carefully removed. Its interior can be seen 
+through a puckered aperture on one end, a clear gel-like goo 
+inside. 
+~
+3 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 131072 0 1
+0.000000 0 0 0 0 0 0
+T
+15 1 0 0 0 0 0 0 0 0 0 0 0 0 0 2 6 6 8 3 0 0 0 0 0 3 0 0 0 
+You are splashed with clear goo, burning your skin!~
+$n is splashed with clear goo, burning their skin!~
+(null)~
+(null)~
+(null)~
+(null)~
+God~
+God~
+#10068
+cigarette moist kelp-rolled ORGANIC~
+a moist kelp-rolled cigarette~
+A moist kelp-rolled cigarette lies here.~
+   A deep green kelp leaf is rolled around crushed and 
+unrecognizable herb, moist and damp. It lies here, drying to a 
+usable state, the herbs inside smelling faintly of 
+$naturalscents. 
+~
+78 33554432 1
+0 3 5040 0
+3 0.000000
+200 0 80 0 0 0 0 1
+0.010000 192 10069 0 0 0 0
+S
+5 1 100 0 0
+God~
+God~
+#10069
+cigarette dry dried herbal dark-green ORGANIC~
+a dark-green herbal cigarette~
+A dark-green herbal cigarette lies in the dust.~
+   This rolled cigarette is dark-green, a dried, fibrous outer 
+wrapping holding in a crushed, unrecognizable herb. It smells 
+faintly of a $naturalscents odor. 
+~
+78 37748736 4194305
+0 3 5040 0
+3 0.000000
+300 0 100 0 0 0 0 1
+0.100000 0 0 0 0 0 0
+S
+5 1 200 0 0
+God~
+God~
+#10070
+haze smoke $naturalscents scented OTHER~
+#6a $naturalscents smelling haze of smoke#0~
+#6A $naturalscents smelling haze of smoke hangs in the air.#0~
+   It is a faint haze lingering in the air, smelling faintly of a 
+$naturalscents odor. 
+~
+12 33554432 0
+0 0 0 0
+0 0.000000
+0 0 0 0 0 0 0 1
+0.000000 4 86 0 0 0 0
+God~
+God~
+#10072
+spores yellowish yeast packet small ORGANIC~
+a small packet of yellowish spores~
+A small packet of yellowish spores lies on the ground.~
+~
+12 4194304 1
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10073
+corked vial $artificialscents oil GLASS~
+a corked vial containing a $artificialscents-scented oil~
+A corked vial containing a $artificialscents-scented oil lies here.~
+   This is a vial about four inches long, containing a 
+clear-colored liquid. A neat little label is stuck to its side, 
+depicting the scent of the liquid inside - $artificialscents - 
+with a picture. 
+~
+12 33558528 1
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+20.000000 0 0 0 0 0 0
+God~
+God~
+#10074
+box ammo .25 pistol revolver OTHER~
+an ammo box for six .25 jacketed revolver rounds~
+An ammo box for six .25 jacketed revolver rounds sits here.~
+   This is a $color ammo box suitable for revolvers, holding six 
+.25 jacketed pistol rounds. You realize you can #6UNWRAP BOX#0. 
+~
+12 33554432 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+18.000000 0 0 0 0 0 0
+God~
+God~
+#10075
+box ammo .25 pistol small clip OTHER~
+an ammo box for .25 jacketed pistol rounds and a clip~
+An ammo box sits here, containing six pistol rounds and a clip.~
+   This is a $color ammo box for six pistol rounds and a small 
+clip. You realize you can #6UNWRAP BOX#0. 
+~
+12 33554432 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+18.000000 0 0 0 0 0 0
+God~
+God~
+#10076
+box ammo five .30 jacketed rifle bullets OTHER~
+an ammo box containing .30 jacketed rifle bullets~
+An ammo box sits here, containing five .30 rifle bullets.~
+   This is a $color ammo box for five jacketed rifle rounds 
+suitable for a single-shot, repeating rifle. You realize you can 
+UNWRAP BOX. 
+~
+12 33554432 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+15.000000 0 0 0 0 0 0
+God~
+God~
+#10077
+box ammo six .30 jacketed rifle bullets small magazine OTHER~
+an ammo box containing six .30 jacketed rifle bullets and small clip~
+An ammo box sits here, containing six .30 jacketed rifle bullets and small clip.~
+   This is a $color ammo box for six jacketed rifle rounds and a 
+small rifle clip, suitable for a hunting rifle. You realize you 
+can #6UNWRAP BOX#0. 
+~
+12 33554432 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+18.000000 0 0 0 0 0 0
+God~
+God~
+#10078
+box ammo twenty-four .20 jacketed machine gun magazines OTHER~
+an ammo box containing .20 jacketed smg bullets and two medium clips~
+An ammo box sits here, containing .20 jacketed smg bullets and two small clips.~
+   This is a $color ammo box suitable for a compact .20 
+machinegun, containing twenty-four .20 jacketed machine-gun 
+bullets and two small machine-gun clips. You realize you can 
+#6UNWRAP BOX#0. 
+~
+12 33554432 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+72.000000 0 0 0 0 0 0
+God~
+God~
+#10079
+box ammo machinegun bullets OTHER~
+an ammo box containing thirty-five .20 jacketed machinegun bullets and one large clip~
+An ammo box containing thirty-five .20 jacketed machinegun bullets and one large clip sits here.~
+   This is a $color box containing thirty-five .20 jacketed 
+machinegun bullets and one large clip. You realize you can 
+#6UNWRAP BOX#0. 
+~
+12 33554432 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+105.000000 0 0 0 0 0 0
+God~
+God~
+#10081
+tools grimy $medkit doctor METAL~
+a grimy $medkit~
+A grimy $medkit lies in the dirt.~
+   This is a $medkit. It is grimy, the blades dulled, and only 
+the poorer-quality bandages and materials remaining. 
+~
+52 33554432 1
+100 -5 10 0
+500 0.000000
+0 0 0 0 200 128 0 1
+40.000000 0 0 0 0 0 0
+S
+28 10 10 10 10
+God~
+God~
+#10082
+tools ordinary $medkit doctor METAL~
+an ordinary $medkit~
+An ordinary $medkit lies in the dirt.~
+   This is a $medkit. It is ordinary and serviceable. 
+~
+52 33554432 1
+25 5 10 0
+400 0.000000
+10081 0 0 0 0 131072 0 1
+50.000000 0 0 0 0 0 0
+God~
+God~
+#10083
+tools pristine $medkit doctor METAL~
+a pristine $medkit~
+A pristine $medkit lies in the dirt.~
+   This is a $medkit. It is in pristine condition. All the 
+blades are sharpened to a precise and razor-honed edge, not yet 
+dulled by use. The components are cleaned and scrubbed and it is 
+stocked with a plentiful supply of bandages. 
+~
+52 33554432 1
+5 15 10 0
+500 0.000000
+10082 0 0 0 200 262144 0 1
+60.000000 0 0 0 0 0 0
+God~
+God~
+#10080
+remedy $foragedmed grimy OTHER~
+an old $foragedmed~
+An old $foragedmed lies, discarded.~
+   Grimy and long forgotten, this is a $foragedmed. You can 
+likely treat someone with it still, but not without risk in the 
+wrong hands. 
+~
+52 33554432 1
+5 0 0 0
+10 0.000000
+0 0 14 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+S
+26 10 10 10 10
+God~
+God~
+#10084
+package weaponcrafting tools OTHER~
+a package of weaponcrafting tools~
+A package of weaponcrafting tools and supplies are here.~
+   This package of tools is exactly what one needs to begin 
+crafting weapons. From peeking beneath the paper wrapping, you 
+can spot a number of molds, some bars of iron alloy, a heavy tool 
+box, a dangerous plasma torch, and other assorted odds and ends. 
+
+Once in your possession, type #6unwrap package#0 to open it. You 
+will be given some basic materials, and a random set of molds - 
+trade with other players in-game to accquire more. 
+~
+12 0 1
+0 0 0 0
+6000 0.000000
+0 0 0 0 0 0 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#10085
+package armourcrafting tools OTHER~
+a package of armourcrafting tools~
+A package of armourcrafting tools and supplies are here.~
+This package of tools is exactly what one needs to begin
+crafting weapons. From peeking beneath the paper wrapping,
+you can spot a number of molds, some bars of iron alloy,
+a heavy tool box, a dangerous plasma torch, and other assorted
+odds and ends.
+
+Once in your possession, type #6unwrap package#0 to open it.
+You will be given some basic materials, and a random set of
+molds - trade with other players in-game to accquire more.
+~
+12 0 1
+0 0 0 0
+6000 0.000000
+0 0 0 0 0 0 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#10086
+package gunsmithing tools OTHER~
+a package of gunsmithing tools~
+A package of gunsmithing tools and supplies are here.~
+   This package of tools is exactly what one needs to begin 
+crafting firearms and bullets. From peeking beneath the paper 
+wrapping, you can spot a number of bullets, a box of tools and a 
+cleaning kit, a dangerous plasma torch, and all other assorted 
+odds and ends. 
+
+Once in your possession, type #6unwrap package#0 to open it. You 
+will be given some basic materials, enough to get started in your 
+crafting profession. 
+~
+12 0 1
+0 0 0 0
+6000 0.000000
+0 0 0 0 0 0 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#10087
+canister propellant chemical narrow OTHER~
+a narrow canister of chemical propellant~
+A narrow canister of chemical propellant rests here.~
+   This is a narrow canister with a gas-seal nozzle on the top. 
+It is filled with a murky, viscous chemical liquid. 
+~
+30 0 1
+12 10088 1 0
+250 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10088
+canister empty narrow METAL~
+an empty metal canister~
+An empty metal canister lies here.~
+   This empty metal canister, with its complicated nozzle, could likely be 
+refilled with the proper equipment. 
+~
+72 4198400 1
+0 0 0 0
+200 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10089
+box assorted bullet casings $drabcolor PLASTIC~
+a $drabcolor box of assorted bullet casings~
+A $drabcolor box of assorted bulleting casings lies here.~
+   This is a small polyprop box colored $finecolor, and contains about a dozen 
+assorted steel-alloy bullet casings. A pop-lip allows the box to be opened and 
+closed. On each side is emblazoned the logo for the $highbrand Corporation. 
+~
+30 33558528 1
+200 10090 1 0
+600 0.000000
+0 0 0 0 0 0 0 1
+50.000000 0 0 0 0 0 0
+God~
+God~
+#10090
+box empty shabby $drabcolor PLASTIC~
+a shabby, empty, $drabcolor box~
+A shabby, empty, $drabcolor box lies here.~
+   This is a small polyprop box colored $finecolor, its contents now gone and 
+its form worn with use. A pop-lip allows the box to be opened and closed. On 
+each side is emblazoned the logo for the $highbrand Corporation. 
+~
+72 33558528 1
+0 0 0 0
+300 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10091
+stick computer $grease data plastic ELECTRONIC~
+a computer data stick labelled '$grease'~
+A computer data stick labelled '$grease' lies here.~
+   This is a simple computer data stick that can be inserted into 
+the ports on a laptop, handheld, or chemistry processor. When 
+reviewed, the data chip reveals details on the chemical structure 
+and production of a compound that is $grease. 
+~
+12 33554432 1
+0 0 0 0
+25 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10092
+package handicrafting tools OTHER~
+a package of handicrafting tools~
+A package of handicrafting tools are here.~
+   This package of tools is exactly what one needs to begin 
+making clothes and crafting other manufacturing items. From 
+peeking beneath the paper wrapping, you can spot a number of 
+bolts of polymesh and bars of polyprop, and stencils, cans of 
+paint, molds, and designs, even a plasma torch. 
+
+Once in your possession, type #6unwrap package#0 to open it. You 
+will be given some basic materials, and a random selection of 
+stencils, molds and designs - trade with other players in-game to 
+accquire more. 
+~
+12 0 1
+0 0 0 0
+6000 0.000000
+0 0 0 0 0 0 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#10093
+package medicinal tools OTHER~
+a package of medicinal tools~
+A package of medicinal tools are here.~
+This package of tools is exactly what one needs to begin their
+career as a doctor or medic, containing a pristine-condition
+set of tools in addition to a variety of drugs for immediate
+relief and some bandages and splints.
+
+Once in your possession, type #6unwrap package#0 to open it.
+You will be given an assortment of tools and supplies to help
+you #6TREAT#0 injured people in-game.
+~
+12 0 1
+0 0 0 0
+6000 0.000000
+0 0 0 0 0 0 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#10094
+package art supplies OTHER~
+a package of art supplies~
+A package of art supplies are here.~
+This package contains a great deal many of art supplies - etching
+kits, paintbrushes, cans of spray paint, and even a large collection
+of stencils and designs. It looks to be everything the budding
+arts would need to start plying their trade.
+
+To unwrap the package, type #6unwrap package#0.
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#10057
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+86 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10350
+device $plasmatreater2 $color0 $ironalloy1 medical empty ELECTRONIC~
+a $color0 $plasmatreater2~
+A $color0 $plasmatreater2 lies here, dormant and empty.~
+This medical device is fine quality, molded $color plastic of the finest solid original-manufacture polyprop and $ironalloy metal forming the housing for the delicate mechanics and electronics within.  It is $plasmatreater.  A cartridge slot, currently empty, allows addition of a plasma cylinder and battery power.
+~
+12 33554432 257
+0 0 0 0
+50 0.000000
+0 0 0 0 100 524288 0 1
+30.000000 0 0 0 0 0 0
+God~
+God~
+#10351
+device $plasmatreater2 $color0 $ironalloy1 medical full ELECTRONIC~
+a $color0 $plasmatreater2~
+A $color0 $plasmatreater2 lies here, with active power and plasma load.~
+This medical device is fine quality, molded $color plastic of the finest solid original-manufacture polyprop and $ironalloy metal forming the housing for the delicate mechanics and electronics within.  It is $plasmatreater.  A plasma cartridge is loaded and locked into the calibrated system, a faint glow coming constantly from the lights and controls.
+~
+52 33554432 257
+15 22 20 1
+500 0.000000
+10350 0 0 0 0 524288 0 1
+50.000000 0 0 0 0 0 0
+God~
+God~
+#10071
+stick computer data plastic xGTx xCalliex ELECTRONIC~
+a computer data stick~
+A computer data stick lies in the dust.~
+   This is a simple computer data stick that can be inserted into 
+the ports on a laptop, handheld, or chemistry processor. When 
+reviewed, the data chip reveals details about the Genetic 
+Terrors. On the outside of the stick, in the plastic has been 
+carved "C-GT". 
+~
+12 4096 1
+0 0 0 0
+25 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10095
+makeup $color $makeuptype compact $polyprop PLASTIC~
+a $polyprop compact with $color $makeuptype~
+Left sitting here is a $polyprop compact with $color $makeuptype inside.~
+   This is a small compact, about the size of a palm, made of 
+$polyprop. When it is flipped open, there is a small mirror set 
+into the lid, and beneath a cake of $color $makeuptype. Just 
+below is a small indention with a suitable brush for application 
+of the cosmetic. 
+~
+30 33558528 1
+50 0 1 0
+50 0.000000
+0 0 0 0 160 0 0 1
+5.000000 0 0 0 0 0 0
+God~
+God~
+#10096
+barrel phenol powder chemica squat OTHER~
+a squat barrel of phenol powder~
+A squat barrel of phenol powder rests here.~
+   A squat barrel with a resealable lid, it is filled with a white, grainy, 
+powdery substance - phenol. 
+~
+30 4096 1
+50 12003 1 0
+5000 0.000000
+0 0 0 0 0 0 0 1
+100.000000 0 0 0 0 0 0
+God~
+God~
+#10097
+canister formaldehyde gaseous narrow OTHER~
+a narrow canister of gaseous formaldehyde~
+A narrow canister of gaseous formaldehyde rests here.~
+   This is a narrow canister with a gas-seal nozzle on the top. 
+It is filled with gaseous formaldehyde. 
+~
+30 0 1
+12 10088 1 0
+250 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10098
+jug phenol formaldehyde resin PLASTIC~
+a plastic jug of phenol-formaldehyde resin~
+A plastic jug of phenol-formaldehyde resin sits on the ground.~
+   This simple plastic jug contains phenol-formaldehyde resin, 
+currently a sickly-yellow in colour. 
+~
+30 0 1
+30 9016 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10099
+crate sealed polyprop arts handicrafts PLASTIC~
+a sealed crate filled with artworks and handicrafts~
+A sealed crate filled with artworks and handicrafts rests here.~
+   Barely visible through a series of slits running just beneath the lid of 
+this crate are its contents: carefully packed arts and craft goods of varying 
+qualities, designed to be bought and sold in bulk, likely to end up in the 
+display room of a rich Family heir, or maybe even the collections of a 
+Phoenician collector. 
+~
+63 0 524289
+0 0 0 0
+20000 0.000000
+0 0 0 0 0 268435456 0 1
+200.000000 0 0 0 0 0 0
+God~
+God~
+#10100
+crate sealed weaponry PLASTIC~
+a sealed crate filled with weaponry~
+A sealed crate filled with weaponry rests here.~
+   Barely visible through a series of slits running just beneath the lid of 
+this crate are its contents: carefully wrapped swords, maces, polearms and 
+knifes, looking to be enough to equip a full squad of blood thirsty 
+mercenaries. The weapons vary in quality and make, but all look capable enough 
+to kill a beast, or a man. 
+~
+63 0 524289
+0 0 0 0
+20000 0.000000
+0 0 0 0 0 536870912 0 1
+300.000000 0 0 0 0 0 0
+God~
+God~
+#10101
+crate sealed firearms PLASTIC~
+a sealed crate filled with firearms~
+A sealed crate filled with firearms rests here.~
+   Barely visible through a series of slits running just beneath the lid of 
+this crate are its contents: precisely packed in polyprop casings, enough 
+rifles, machine guns and sidearms to fully outfit a squad. Ranging from 
+small-caliber pocket pistols to huge barreled hunting rifles, this set of 
+weaponry is enough to fill the needs to any hunting or guard force. 
+~
+63 0 524289
+0 0 0 0
+20000 0.000000
+0 0 0 0 0 134217728 0 1
+400.000000 0 0 0 0 0 0
+God~
+God~
+#10102
+crate sealed armour PLASTIC~
+a sealed crate filled with advanced armours~
+A sealed crate filled with advanced armours rests here.~
+   Barely visible through a series of slits running just beneath the lid of 
+this crate are its contents: cleaned and maintained suits of kevlar and ceramic 
+armour, numbering perhaps a dozen in total, enough to outfit an entire squadron 
+of guards. 
+~
+63 0 524289
+0 0 0 0
+20000 0.000000
+0 0 0 0 0 67108864 0 1
+500.000000 0 0 0 0 0 0
+God~
+God~
+#10103
+crate sealed neodymium OTHER~
+a sealed crate filled of neodymium ore~
+A sealed crate filled with neodymium ore rests here.~
+   Barely visible through a series of slits running just beneath the lid of 
+this crate are its contents: molten slag-ore containing neodymium and packing 
+materials to balance the impossibly-heavy metal hunks. It is a silvery-white 
+metal, oxidizing to a to a dull grey. 
+~
+63 4096 524289
+0 1 0 0
+20000 0.000000
+0 0 0 0 0 33554432 0 1
+150.000000 0 0 0 0 0 0
+God~
+God~
+#10104
+large chunk brownish packed chemicals ORGANIC~
+a large chunk of brownish, packed chemicals~
+A large chunk of brownish, crumbly material lays on the ground.~
+   This is a large, brownish chunk, roughly the size of a large loaf of bread. 
+It feels crumbling to the touch and has a harsh, astringent odor to it. One 
+side looks to be a rather smooth curve while the other two ends appear rough, 
+as if broken off from a larger piece. 
+~
+72 4096 1
+0 0 0 0
+1000 0.000000
+0 0 0 0 0 0 0 1
+1.500000 0 0 0 0 0 0
+God~
+God~
+#10105
+cake chemical water purifier brownish quarter ORGANIC~
+a chunk of brownish, packed chemicals~
+A chunck of brownish, crumbly material lies here.~
+   This is a large, brownish chunk, roughly the size of a large loaf of bread. 
+It feels crumbling, to the touch and has a harsh, astringent odor to it. One 
+side looks to be a rather smooth curve, while the other two ends appear rough, 
+as if broken off from a larger piece. 
+~
+72 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10106
+token barrel lakewater OTHER~
+a lakewater barrel token~
+A lakewater barrel token rests here loading up a monthly supply.~
+   This token loads up three barrels of lake water on the first day of each IC 
+month, which should be enough to supply a water system. 
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10107
+$naturalscents0 packet liquid soap OTHER~
+a small packet of thick, $naturalscents0 scented liquid~
+A small, sealed packet of thick $naturalscents0 scented liquid has been left here.~
+   This is a small, rectangular packet, the clear plastic revealing a thick, 
+light green liquid within. Its labeling indicates that it is a personal 
+cleansing product, and has uses both as body wash as well as a 
+shampoo-conditioner combo. The packet has a notch in one corner, allowing it 
+to be torn open, at which point a heavy $naturalscents scent wafts out. 
+~
+69 37752832 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10108
+syringe thin plastic clear fluid xunformatted xplot isogen OTHER~
+a thin plastic syringe filled with a clear fluid~
+A thin plastic syringe filled with a clear fluid has been left here.~
+   This slender cylindrical syringe holds approximately 5mL with a cap to avoid 
+accidental needle-sticks. The fluid is clear with a faint greenish tinge 
+visible when held to the light. A small label is stamped on the side, reading 
+'Isogen'. 
+~
+12 4198400 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 48 10109 0 0 0 0
+God~
+God~
+#10109
+syringe thin plastic clear luminescent fluid xformatted xplot isogen OTHER~
+a thin plastic syringe filled with a luminescent fluid~
+A thin plastic syringe filled with a clear, luminescent fluid has been left here.~
+   This slender cylindrical syringe holds approximately 5mL with a cap to avoid 
+accidental needle-sticks. The 3mL inside is clear and faintly luminescent with 
+a pearly white sheen when held to the light. A small label is stamped on the 
+side, reading 'Isogen'. Created for self-administration, you could #6INJECT#0 
+this #6SYRINGE#0. 
+~
+12 4198400 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 8640 10111 0 0 0 0
+God~
+God~
+#10110
+stick computer data plastic isogen xSUPPRESSOR xAnais ELECTRONIC~
+a computer data stick labelled 'isogen'~
+A computer data stick labelled 'isogen' has been left here.~
+   This is a simple computer data stick that can be inserted into the ports on 
+a laptop, handheld, or chemical processor. Labelled upon the plastic on the 
+outside of the stick is the name 'Isogen'. 
+~
+12 4198400 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10111
+syringe thin plastic clear murky brown fluid xexpired xplot isogen OTHER~
+a thin plastic syringe filled with a murky brown fluid~
+A thin plastic syringe filled with a murky brown fluid has been discarded here.~
+   This slender cylindrical syringe holds approximately 5mL with a cap to avoid 
+accidental needle-sticks. The fluid inside is a dark, murky brown with a few 
+spoiled chunks floating within. A small label is stamped on the side, reading 
+'Isogen'. Created for self-administration, you could #6INJECT#0 this 
+#6SYRINGE#0. 
+~
+12 4198400 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10112
+filled jug protruding roots rhizome OTHER~
+a filled jug with protruding roots~
+A filled jug sits here under the lights, a rhizome sprouting roots within.~
+   The pulpy tendrils suspended in the nutrient solution inside this jug have 
+begun to sprout, growing larger due to the abundance of nutrition surrounding 
+them. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+15.000000 96 10113 0 0 0 0
+God~
+God~
+#10113
+bulging jug expanding rhizomes OTHER~
+a bulging jug, filled with expanding rhizomes~
+A bulging jug, filled with expanding rhizomes sits under the bright lights of the greenhouse.~
+   The pulpy tendrils suspended in the nutrient solution inside this jug have 
+pressed up against the walls of the jug and threatened to burst it, now much 
+larger than they were originally. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10202
+stick computer data plastic isoscreen ELECTRONIC~
+a computer data stick labelled 'isoscreen'~
+A computer data stick labelled 'isoscreen' lies here.~
+   This is a simple computer data stick that is specified for use through 
+laptop ports. When reviewed, the data chip looks to have recorded audio-visual 
+information. The user could #6boot#0 the #6isoscreen#0 to access the 
+information. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10203
+mangled video recording station xcarthage ELECTRONIC~
+a mangled video recording station~
+A mangled video recording station is here, lodged inbetween fallen tables.~
+   This once looks to have been part of a bolted down recording station, but 
+time and violence has stripped the electrical components. Only one monitor 
+remains, the screen cracked, but the processes themselves appear to be intact 
+were someone with knowledge of electronics able to #6HACK#0 the #6OLD-VIDEO#0 
+footage. It appears that only one recording disc remains, half-crushed inside 
+of the machine so that it is unable to be removed. Gashes, claw marks and 
+splatters of blood have ruined the surfaces. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10204
+recorder audio corroded small xrankin OTHER~
+a small, corroded audio recorder~
+A small, corroded audio recorder has been left here, looking in a state of disrepair.~
+   This small audio device looks to have gone through some severe trauma. The 
+recording device itself looks to have been broken, even the button having 
+fallen off. The only thing intact is a small button, that would allow someone 
+to #6PRESS PLAY#0. The markings on the button itself are worn, the horizontal 
+triangle almost not detectable. It's at a state that it cannot be salvaged. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10114
+cabinet malfunctioning climate-controlled controlled OTHER~
+a malfunctioning climate-controlled cabinet~
+A malfunctioning climate-controlled cabinet sits here against the wall.~
+   Rising from the floor about seven feet in height, the thick, transparent 
+door on the front of this cabinet allows the visibility of any stored vials and 
+tubes within. A small dial on the inside of the cabinet appears to be 
+malfunctioning, the programmed temperatures incorrect. A knowledgeable chemist 
+would likely be able to fix the issue to the appropriate levels for optimum 
+storage. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10115
+package protective supplies OTHER~
+a package of protective supplies~
+A package of protective supplies is here.~
+   This package of survival supplies are the raw basics for surviving the 
+rigours of combat- containing a sturdy jerkin, cowl, and some flimsy leggings, 
+alongside a knife of possibly questionable quality. 
+
+
+Once in your possession, type #6unwrap package#0 to open it. 
+~
+12 0 1
+0 0 0 0
+6000 0.000000
+0 0 0 0 0 0 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#10201
+stick computer data plastic isoscreen xcraft ELECTRONIC~
+a computer data stick labeled 'isoscreen'~
+A computer data stick labeled 'isoscreen' lies here.~
+   This is a simple data stick that can be inserted into the ports on a laptop, 
+handheld, or chemical processor. Labelled upon the plastic on the outside of 
+the stick is the name 'Isoscreen'. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10116
+cabinet climate-controlled tall portable ELECTRONICS~
+a tall, portable, climate-controlled cabinet~
+A tall, rectangular cabinet stands here, mounted upon wheels and whirring quietly.~
+   Tall, sturdy polyprop walls make up the exterior of this cabinet, bearing a 
+dull gray color. A transparent door is set into the top half of this cabinet's 
+front, revealing a series of racks that hold a myriad of vials and tubes. A 
+faint hum emerges from the climate control machinery that fills the cabinet's 
+lower half. 
+~
+30 4096 1
+0 10117 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10117
+cabinet EMPTY portable climate-controlled tall ELECTRONICS~
+a tall, portable, and empty climate-controlled cabinet~
+A tall, portable, and empty climate-controlled cabinet is mounted upon wheels, whirring quietly.~
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10118
+algae lime-green slimy coloured ORGANIC~
+a slimy, blue-green colored algae~
+A slimy, blue-green colored algae grows here, dappling the walls and ground.~
+   Only when its surroundings are completely motionless can one see that this 
+lime-green coloured, slimy mess is alive and actively moving on its own, and 
+not by the flow of the water surrounding it. It gives off an acrid smell, 
+polluting the water surrounding it with a bitter taste, and what's worse, a 
+burning sensation to anyone who would expose their skin to it. There is quite 
+a bit of the stuff, and it would be next to impossible to move without damaging 
+it unless some kind of tool were used. Oddly, every now and then it gives off 
+a little pulse of dull green light that would barely illuminate even the 
+darkest of shadows. 
+~
+29 4096 0
+33 27 65013 2
+100 0.000000
+0 0 0
+Scooping up handfuls of the thick algae~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10119
+wand SETVAL OTHER~
+the setval wand~
+The setval wand is here.~
+   #6SETVAL <OBJ #> <SDESC/LDESC/DESC/NAME> "<FIELD/REFORMAT(if DESC)>"#0 
+
+~
+12 0 8650753
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10120
+fungi handful dark ORGANIC XJUNGLEMEDICINE~
+a handful of dark fungi~
+A handful of dark fungi lies here.~
+   This fungi holds the texture of moss, and is a dark brown - nearly black - 
+in color. 
+~
+52 4096 1
+2 -5 10 0
+100 0.000000
+0 0 0 0 0 128 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
 $~

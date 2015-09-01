@@ -1,1 +1,6510 @@
+#72000
+Sky City Base Room~
+This is the base room for Sky City.
+~
+72 65544 0
+0
+S
+#72001
+A Hallway Outside of the Boarding Bay~
+   Sweeping and spacious, the metallic sheen could be any number of alloys but 
+the polyprop intercepting and joining the well-formed pieces looks to be thick 
+and solid. The floors are corrugated, offering grip to allow for safe 
+movement. The southward leads to a continuation of hallways marked with 
+intersection. A large vaulted ceiling stretches westward, appearing to be a 
+boarding bay. 
+~
+72 65544 0
+0
+D2
+~
+~
+0 -1  0 72002
+D3
+~
+~
+0 -1  0 72269
+S
+#72002
+Through a Metallic Hallway~
+   Sweeping and spacious, the hallway bearing arc instead of hard lines, this 
+stretch carries a metallic sheen that could be a number of alloys. Polyprop 
+pieces connect the smooth line, at midway and then again at floor level. The 
+floor is corrugated, offering grip to allow for safe movement. A small sign is 
+settled into a plaque at the doorway, reading #2Westenders Pub#0. 
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72001
+D2
+~
+~
+0 -1  0 72004
+D3
+~
+~
+0 -1  0 72003
+S
+#72003
+Westenders Pub~
+   The walls crafted in muted dura-wood, this space harkens back to a 
+traditional English pub with several differences speaking of ignorance. The 
+floor is rubberized, offering a soft landing for anyone on their way down, and 
+given a tacky not requiring spilled drinks to further embellish. 'Windows' 
+that serve not as windows but as screens to different scenes shift from sifting 
+sands to waving palms to the middle of the forest. Synthetic beer smell has 
+been applied, made somehow more strange and pleasant by the hint of flowers on 
+the tail-end. 
+~
+72 65544 0
+0
+D1
+~
+~
+0 -1  0 72002
+S
+#72004
+At an Intersection~
+   The hallway splits into four directions here. The north leads back to the 
+'#2Boarding Bay#0' while the east and south move deeper into the ship. Beside 
+the door westward is a polyprop sign painted with the words, '#2Kitchen and 
+Mess Hall#0' on it. The same metallic corrugated surface makes up the floor 
+and the ceiling remains vaulted, roomy for the smaller ship. 
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72002
+D1
+~
+~
+0 -1  0 72010
+D2
+~
+~
+0 -1  0 72007
+D3
+~
+~
+0 -1  0 72005
+S
+#72005
+A Spacious Mess Hall~
+   The floors of this room have, instead of the normal corrugated metal, thick 
+rubbery polyprop for ease of cleaning. Spacious as the rest of the ship is, 
+long tables have been bolted into the floor in rows, enough for the crew and 
+passengers to eat in shifts. Stylized images of Venus and the Moon shift back 
+and forth on inner-lit screens. 
+~
+72 65544 0
+0
+D1
+~
+~
+0 -1  0 72004
+D2
+~
+~
+0 -1  0 72006
+S
+#72006
+A Shipboard Kitchen~
+   A mixture of chrion surfaces and white polyprop walls, this room appears 
+clean and sanitary. Hoods over the counters offer excellent ventilation above, 
+while the textured polyprop of the floor offers grip for movement. Stylized 
+images of Venus and the Moon shift back and forth on inner-lit screens mounted 
+into the walls, offering a dull glow. 
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72005
+S
+#72007
+Hallway~
+No Description Set.
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72004
+D2
+~
+~
+0 -1  0 72008
+S
+#72008
+Hallway~
+No Description Set.
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72007
+D3
+~
+~
+0 -1  0 72009
+S
+#72009
+Commons Lounge~
+No Description Set.
+~
+72 65544 0
+0
+D1
+~
+~
+0 -1  0 72008
+S
+#72010
+Hallway~
+No Description Set.
+~
+72 65544 0
+0
+D1
+~
+~
+0 -1  0 72011
+D3
+~
+~
+0 -1  0 72004
+S
+#72011
+Hallway~
+No Description Set.
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72012
+D1
+~
+~
+0 -1  0 72014
+D3
+~
+~
+0 -1  0 72010
+S
+#72012
+Laboratory~
+No Description Set.
+~
+72 65536 0
+0
+D2
+~
+~
+0 -1  0 72011
+D3
+~
+~
+0 -1  0 72013
+S
+#72013
+Laboratory Storage~
+No Description Set.
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72012
+S
+#72014
+Intersection of Corridors~
+   This area is simply a perpendicular convergence of two corridors, crossing 
+each other and then leading off in their respective directions. No widening of 
+the area is present, though the corners have been rounded rather than jutting 
+out at sharp points. The walls have a bright and reflective surface, with a 
+light frosting on the large, square panels to avoid the infinite mirror effect. 
+The floor is bright white and a rubberized, textured material. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72051
+D1
+~
+~
+0 -1  0 72015
+D2
+~
+~
+0 -1  0 72027
+D3
+~
+~
+0 -1  0 72011
+S
+#72015
+New Room~
+No Description Set.
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72017
+D3
+~
+~
+0 -1  0 72014
+S
+#72017
+Technologist~
+No Description Set.
+~
+72 65544 0
+0
+D1
+~
+~
+0 -1  0 72018
+D2
+~
+~
+0 -1  0 72015
+S
+#72018
+Technology Storage~
+No Description Set.
+~
+72 65544 0
+0
+D3
+~
+~
+0 -1  0 72017
+S
+#72019
+Hallway~
+No Description Set.
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72020
+D1
+~
+~
+0 -1  0 72023
+D2
+~
+~
+0 -1  0 72024
+D3
+~
+~
+0 -1  0 73025
+S
+#72020
+Hallway~
+No Description Set.
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72021
+D2
+~
+~
+0 -1  0 72019
+S
+#72025
+Hallway~
+No Description Set.
+~
+72 65544 0
+0
+D1
+~
+~
+0 -1  0 72026
+S
+#72026
+General Cargo Bay~
+No Description Set.
+~
+72 65544 0
+0
+D3
+~
+~
+0 -1  0 72025
+S
+#72027
+Corridor Aft of an Intersection~
+   Footsteps through this corridor would be muffled by the bright white, 
+rubberized floor. There is no interruption to the monotonous pattern of the 
+heavy, lightly frosted squares that make up the otherwise reflective walls. 
+Further on to the aft, there appears to be two doors pressed into the sides, 
+while the main intersection stands visible to the fore. 
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72014
+D2
+~
+~
+0 -1  0 72028
+S
+#72028
+Just Fore of a T-Junction~
+   Like the rest of the corridors, this area is composed to lightly frosted and 
+polished reflective walls, a rubberized bright white floor with texturing to 
+prevent slipping, and a ceiling that matches the bulkheads. This portion, 
+however, allows passage between two blast doors, one on each side. Further 
+towards the aftside of the ship are elevator doors, blocking the entirety of 
+the hall. 
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72027
+D1
+~
+blast-door marked with a stick figure~
+1 -1  0 72030
+D2
+~
+~
+0 -1  0 72031
+D3
+~
+blast-door marked with a stick figure in a skirt~
+1 -1  0 72029
+S
+#72029
+Shower~
+No Description Set.
+~
+72 65544 0
+0
+D1
+~
+blast-door~
+1 -1  0 72028
+S
+#72030
+Shower~
+No Description Set.
+~
+72 65544 0
+0
+D3
+~
+blast-door~
+1 -1  0 72028
+S
+#72021
+Hallway~
+No Description Set.
+~
+72 65544 0
+0
+D1
+~
+~
+0 -1  0 72022
+D2
+~
+~
+0 -1  0 72020
+S
+#72022
+Brig~
+No Description Set.
+~
+72 65544 0
+0
+D3
+~
+~
+0 -1  0 72021
+S
+#72023
+Medbay~
+No Description Set.
+~
+72 65544 0
+0
+D3
+~
+~
+0 -1  0 72019
+S
+#72024
+Hallway~
+No Description Set.
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72019
+D2
+~
+~
+0 -1  0 72025
+S
+#72031
+Just Fore of an Elevator~
+   The consistent look of lightly frosted reflective walls and rubberized, 
+white floor ends at a landing. Set into the aftside wall are sliding, thick 
+metal doors that open into the elevator. Next to them is a control console, 
+with three circles each bearing one mark: E, H, and B. Further towards the 
+fore part of the ship the corridor continues, giving little to see in that 
+direction except more of the same. 
+
+Painted on the starboard wall in bright block lettering is: "#6HABITATION 
+DECK#0". 
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72028
+D1
+~
+~
+0 -1  0 72033
+D2
+~
+~
+0 -1  0 72032
+D3
+~
+~
+0 -1  0 72034
+S
+#72032
+Recreation Room~
+No Description Set.
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72031
+D4
+~
+~
+0 -1  0 72062
+S
+#72033
+Turn in a Corridor~
+   Here, the corridor veers off abruptly towards the aft, the transition 
+softened by the fact that there are no corners. Only curves. Extending 
+further from here is the continuation of the heavy, metal panels covered in 
+artificial frost. An expanse of unbroken, almost reflective walls, save for 
+the striking white of the rubberized floor. 
+
+Blast doors are installed along the starboard wall of this lengthy corridor. 
+Painted on the wall in a sharp white are the words, "#6STARBOARD 
+DORMITORIES#0". 
+~
+72 65544 0
+0
+D1
+~
+~
+0 -1  0 72050
+D2
+~
+~
+0 -1  0 72043
+D3
+~
+~
+0 -1  0 72031
+S
+#72034
+A Turn in the Corridor~
+   Here is a rounded turn in the corridor, except for the softened corners 
+little differentiates it from the rest of the corridors. Further to starboard 
+is a straight portion, much like this one without the bend. Just further to 
+the aft it looks the same: reflective, metal walls and rubberized bright white 
+flooring. 
+
+This is the beginning of a corridor of sliding doors leading further to the aft 
+side, and painted on the wall in a sharp white is the indicative: "#6PORT 
+DORMITORIES#0". 
+~
+72 65544 0
+0
+D1
+~
+~
+0 -1  0 72031
+D2
+~
+~
+0 -1  0 72035
+D3
+~
+~
+0 -1  0 72038
+S
+#72035
+The Beginning of a Hallway~
+   On the port side of the heavy metal walls, this lengthy hallway runs 
+interrupted only by sliding doors. The textured floor is of a thick rubberized 
+material, a commercial sharp white color from end to end. The walls are 
+covered in artificial frost, otherwise reflective. 
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72034
+D2
+~
+~
+0 -1  0 72036
+D3
+~
+~
+0 -1  0 72039
+S
+#72036
+A Long Corridor~
+   The wide corridor runs to the fore and aft sides, the walls and ceiling 
+covered entirely by large metal panels artificially frosted over reflective 
+walls. The thick rubberized floor is a utilitarian sharp white, textured for 
+safe travelling. Sliding doors can be seen, flush with the port wall. 
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72035
+D2
+~
+~
+0 -1  0 72037
+D3
+~
+~
+0 -1  0 72040
+S
+#72037
+Along a Corridor~
+   The panelled hallway meets its end at yet another sliding door, another 
+placed against the lengthy expanse along the port side. The rubberized-floor 
+is a sharp white hue, providing secure footing for travel. The corners of the 
+hallway have been rounded off, a small feature of safety in the circumstance of 
+collision. 
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72036
+D2
+~
+~
+0 -1  0 72042
+D3
+~
+~
+0 -1  0 72041
+S
+#72038
+Open Bunkroom~
+No Description Set.
+~
+72 65544 0
+0
+D1
+~
+~
+0 -1  0 72034
+S
+#72039
+Open Bunkroom~
+No Description Set.
+~
+72 65544 0
+0
+D1
+~
+~
+0 -1  0 72035
+S
+#72040
+Open Bunkroom~
+No Description Set.
+~
+72 65544 0
+0
+D1
+~
+~
+0 -1  0 72036
+S
+#72041
+Open Bunkroom~
+No Description Set.
+~
+72 65544 0
+0
+D1
+~
+~
+0 -1  0 72037
+S
+#72042
+Open Bunkroom~
+No Description Set.
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72037
+S
+#72043
+A Long Corridor of Doors~
+   Composed of heavy, metal squares with artificial frost covering them, the 
+corridor's walls are otherwise reflective. Contrasting, the floor is a 
+striking white, both rubberized and textured to provide a firm step along it. 
+Sliding doors lay along the starboard wall, the hallway continuing to both the 
+fore and aft sides. Walking is muffled throughout. 
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72033
+D1
+~
+~
+0 -1  0 72049
+D2
+~
+~
+0 -1  0 72044
+S
+#72044
+Along a Corridor~
+   The frost-panelled hallway continues here, sliding doors lining the lengthy 
+expanse along the starboard wall. The rubberized-floor is a sharp white, 
+providing secure footing for travel. The corners of the hallway have been 
+rounded off, a small feature of safety in the circumstance of collision. 
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72043
+D1
+~
+~
+0 -1  0 72047
+D2
+~
+~
+0 -1  0 72045
+S
+#72045
+The Aft End of a Long Corridor~
+   The reflective corridor with the sharp white, textured and rubberized floor 
+ends at a door to the aft, another found to the starboard, as all the doors in 
+this corridor prior. The corners of the artificially frosted metal squares of 
+the walls and ceiling are all softly rounded. Footsteps are muffled hear, and 
+voices softly echo off the walls. 
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72044
+D1
+~
+~
+0 -1  0 72048
+D2
+~
+~
+0 -1  0 72046
+S
+#72046
+Open Bunk Room~
+No Description Set.
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72045
+S
+#72047
+Open Bunk Room~
+No Description Set.
+~
+72 65544 0
+0
+D3
+~
+~
+0 -1  0 72044
+S
+#72049
+Open Bunk Room~
+No Description Set.
+~
+72 65544 0
+0
+D3
+~
+~
+0 -1  0 72043
+S
+#72050
+Open Bunk Room~
+No Description Set.
+~
+72 65536 0
+0
+D3
+~
+~
+0 -1  0 72033
+S
+#72051
+Fore of an Intersection~
+   Just to the aft of here, the rounded corners give way to an intersection 
+leading in the four main directions. The walls are polished and reflective, 
+made of heavy metal squares with a light frosting over them and held in place 
+by bulkheads. It is reasonably quiet, most sounds the occasional shift of 
+something far off, or a dull thump. Footsteps are muffled by the rubberized 
+texture of the floor. 
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72052
+D2
+~
+~
+0 -1  0 72014
+S
+#72052
+Corridor Running Fore and Aft~
+   Continuing on between fore and aft uninterrupted, the sides of this hallway 
+are reflective, and they are rather nicely maintained. Each one is made up of 
+heavy metal squares covered in an artficial frost, sturdily held into place. 
+The floor, by contrast, is a bright white, rubberized and textured surface 
+allowing a good grip. 
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72053
+D2
+~
+~
+0 -1  0 72051
+S
+#72053
+The Recreation Sector~
+   Two doors are set into the metal sides of the hallway, unpainted amidst the 
+frost that covers the otherwise reflective squares that have been secured into 
+place with bulkheads. The sharp odor of chlorine could be detected to the 
+fore. Someways to the aft, an intersection branches off in all directions. 
+
+A metal plaque on the starboard door marks it as "#6SHOWERS, LOCKERS, AND 
+BATH#0" while the one on the portside door marks it as "#6GYM#0". 
+~
+72 65536 0
+0
+D0
+~
+sliding blast-door~
+1 -1  0 72061
+D1
+~
+opaque-door~
+1 -1  0 72054
+D2
+~
+~
+0 -1  0 72052
+D3
+~
+metallic-door~
+1 -1  0 72060
+S
+#72056
+Hallway~
+No Description Set.
+~
+72 67174408 20
+0
+D2
+~
+~
+0 -1  0 72055
+D3
+~
+~
+0 -1  0 72057
+S
+#72057
+Hallway~
+No Description Set.
+~
+72 67174408 20
+0
+D1
+~
+~
+0 -1  0 72056
+D2
+~
+~
+0 -1  0 72061
+D3
+~
+~
+0 -1  0 72058
+S
+#72058
+Hallway~
+No Description Set.
+~
+72 67174408 20
+0
+D1
+~
+~
+0 -1  0 72057
+D2
+~
+~
+0 -1  0 72059
+S
+#72048
+Open Bunk Room~
+No Description Set.
+~
+72 65544 0
+0
+D3
+~
+~
+0 -1  0 72045
+S
+#72061
+Elevator to Bridge~
+   This will have a press button prog. They can press down to engineering and 
+it'll say NOT ENOUGH CLEARANCE! 
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72057
+D1
+~
+~
+0 -1  0 72055
+D2
+~
+sliding blast-door~
+1 -1  0 72053
+D3
+~
+~
+0 -1  0 72059
+P
+press~
+button~
+force -1 -1 emote presses the elevator's button, and the panel screeches angrily in mechanical tones, "NOT ENOUGH CLEARANCE."
+~
+S
+#72062
+Bridge~
+No Description Set.
+~
+72 65544 0
+0
+D5
+~
+~
+0 -1  0 72032
+S
+#72072
+Menkent Task Centre~
+   Plain, grey utilitarian tiles construct the floor of this spartan building. 
+Each of the white walls of the main room are decorated with a simple, 
+minimalistic painting and a single potted plant rests beside the southern door. 
+A long counter rests near the northern edge of the room and behind it are 
+several technicians that can be found performing an array of varying office 
+duties. Several large touchscreen monitors have been mounted into the eastern 
+wall and they list a variety of different jobs, employment contracts, and 
+surface missions. 
+~
+72 65536 0
+0
+D2
+~
+metal framed door~
+1 -1  0 72074
+S
+#72071
+Menkent Shuttle Bay Entry Hall~
+   This enormous hall has a massive transparent dome over the top, supported by 
+a mass of rods of a dark grey metal with glinting veins of silver, all twisted 
+into an impressive series of sculptured looking beams. To the west, the hall 
+narrows into a large corridor that leads deeper into the facility, while the 
+city is accessible to the south through a huge set of automatic #6sliding 
+doors#0 and an impressive looking reception desk stands along the eastern wall. 
+The floor here is polycrete, buffed to a high sheen and squeaks slightly 
+underfoot, hideously fashionable with its faux-industrial feel. All available 
+wall space is taken up with advomercial screens and a number of 3D holograms 
+pop up all around, aggressively advertising an assortment of products and 
+services. 
+~
+72 65536 0
+0
+D2
+~
+sliding doors~
+1 -1  0 72073
+D3
+~
+~
+0 -1  0 72070
+E
+doors~
+It looks like if you #6approach#0 these #6doors#0, they'll open
+automatically.
+~
+P
+approach~
+door doors~
+if fighting
+vstr You can't do that while you're fighting!
+else do
+force -1 -1 emote The sliding doors hiss gently open as @ walks closer
+delay 2 emote steps through the sliding doors to outside
+delay 4 xxleavebasexx
+fi done
+~
+P
+xxleavebasexx~
+(null)~
+atecho 72073 The sliding doors hiss gently closed behind $n after they step through from inside.
+trans_group -1 72071 72073
+trans 72073
+fi done
+~
+S
+#72063
+Galactic Shuttle Launch Pad~
+   Through the plexiglass walls, a vast expanse of sky is visible, roiling 
+clouds obscuring the surface of the planet below, although a little of another 
+shuttle bay can be seen to the southeast. An archway made of sculptured metal 
+rods takes up most of the southern wall, leading deeper into the shuttle bay 
+while a number of 3D holograms demand attention, cycling through adverts for 
+various bars around the city and products offered by the many corporations. 
+~
+72 65536 0
+0
+D2
+~
+~
+0 -1  0 72064
+S
+#72064
+An Imposing, Domed Hall~
+   A corridor to the south opens up with little warning into this vast room, 
+perfectly circular with polycrete floors that have been polished to a 
+marble-like sheen. An enormous plexiglass dome covers the entire ceiling, 
+shored up with sculptured metal rods in the same style as the archways that 
+lead off to the north, east and west, a very dark grey shot through with silver 
+veins that glint slightly when they catch the light. The number of 3D 
+holograms here is nearly overwhelming and advomercials play constantly on huge 
+screens set into the curved walls between the archways, bombarding the viewer 
+with products and services. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72063
+D1
+~
+~
+0 -1  0 72066
+D2
+~
+~
+0 -1  0 72067
+D3
+~
+~
+0 -1  0 72065
+E
+dome~
+This dome is huge, made up of curved panels of plexiglass between
+metal rods laid over each other almost like some kind of sculpture,
+impressive to behold. The lights from the hall catch and sparkle in
+the glass and beyond, the vast expanse of sky can be seen.
+~
+S
+#72065
+Menkent Shuttle Bay High Speed Transit Tube Station~
+   The polished polycrete floors of this room creep right up to the edges of 
+the vast plexiglass tubes that stand in the middle, clustered together. A 
+sliding door is set into the side of each tube, opening when the high speed 
+transit shuttle that provides transport around the city arrives. The curved 
+walls here are made up of a vast number of screens set in metal surrounds, all 
+cycling through a constant stream of brightly coloured, attention-grabbing 
+advomercials that feature everything from sonic toothbrushes to jobs available 
+with the various corporations. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72064
+S
+#72066
+Surface Shuttle Launch Pad~
+   This room branches off from the main space of the bay through a sculptured 
+archway of dark grey metal rods. The curved walls are panels of plexiglass, 
+the swirling, cloud-filled sky beyond visible for miles and the curve of 
+another shuttle bay can be made out to the northwest, while set into the 
+eastern wall is a transparent door that slides aside to allow a shuttle to 
+dock. Perhaps strangely, there are no advomercial screens or 3D holograms 
+here, a commercial assault on the senses conspicuously absent. 
+~
+72 65536 0
+0
+D3
+~
+~
+0 -1  0 72064
+S
+#72067
+An Impressively Wide, Vaulted Corridor~
+   Wide enough to accommodate a crowd, this corridor stretches northwards 
+towards a sculptured metal archway. The floor underfoot is polycrete, polished 
+to high shine and walls are made up of alternating panels, some of plexiglass 
+through which other parts of the sky city can be seen, nestled amongst the 
+clouds and the rest are floor-to-ceiling advomercial screens that shamelessly 
+and endlessly flaunt their products to any and all passersby. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72064
+D1
+~
+~
+0 -1  0 72068
+S
+#72068
+A Wide, Vaulted Corridor~
+   The arched ceiling of this corridor is plexiglass, set between spokes of 
+matte metal of a very dark grey, not too far from the shade of the polished 
+polycrete floor which has an almost marble effect to it. The cloud-filled 
+skies outside visible for miles through the plexiglass panels, the scenic 
+natural beauty in direct opposition to the bright and flashing advomercials 
+that cycle on alternate panels that stretch right up to the transparent ceiling 
+above. 
+~
+72 65536 0
+0
+D1
+~
+door~
+1 -1  0 72069
+D2
+~
+~
+0 -1  0 72070
+D3
+~
+~
+0 -1  0 72067
+S
+#72069
+A Generously Sized Office~
+   This space is curved, almost circular but for the door. The walls are 
+plain, matte metal interrupted at intervals by floor-to-ceiling panels of 
+plexiglass and the floor is covered with a nanofiber carpet of a very dark 
+grey, almost black. There are no pictures or ornamentation in the room, but 
+circles of white, opaque glass that omit a pale, soft Light are set into the 
+walls. They range in size from pinprick to as large as a hand and are arranged 
+in a series of swooping spirals. 
+~
+72 65536 0
+0
+D3
+~
+door~
+1 -1  0 72068
+S
+#72070
+A Spacious, Imposing Corridor~
+   With its vaulted, transparent ceiling, this corridor is both impressive and 
+maybe a little intimidating, large enough to easy provide space for a decent 
+sized crowd. The polished polycrete underfoot has a swirling, marble-like feel 
+to it, seamless and stretching out ahead while the walls are made up entirely 
+of alternating panels, plexiglass windows interrupted by full height screens 
+that assault the eyes with a series of bright and neverending advomercials. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72068
+D1
+~
+~
+0 -1  0 72071
+S
+#72073
+Outside Menkent Shuttle Bay~
+   Looming ahead to the north is the huge structure of the shuttle bay, metal 
+girders inlaid with plexiglass, gentle curves and domes set in artfully 
+architectural juxtaposition with sharp angles and sloping roofs. Two slender, 
+willowy looking trees with delicately silvery leaves are set into circular 
+planters to either side of a pair of massive #6sliding doors#0, a brief break 
+in the duraslate tiles that make up the floor of this. They are cutting into 
+seemingly random shapes that nonetheless fit together like an enormous mosaic, 
+a myriad of soft greys, whites and almost peach hues in places. This area is 
+part of an enormous circular island, connected to other parts of the city by 
+suspended walkways, a bustling hub of activity. 
+~
+72 65536 0
+0
+D0
+~
+sliding doors~
+1 -1  0 72071
+D1
+~
+~
+0 -1  0 72074
+D2
+~
+~
+0 -1  0 72078
+P
+approach~
+door doors~
+if fighting
+vstr You can't do that while you're fighting!
+else do
+force -1 -1 emote The sliding doors hiss gently open as @ walks closer
+delay 2 emote steps through the sliding doors to outside
+delay 4 xxleavebasexx
+fi done
+~
+P
+xxleavebasexx~
+(null)~
+atecho 72071 The sliding doors hiss gently closed behind #5$n#0 after they step through from inside.
+trans_group -1 72073 72071
+trans 72071
+fi done
+~
+P
+l lo loo look ex exa exam exami examin examine~
+sli slid sliding door doors doo~
+vstr It looks like if you #6approach#0 these #6doors#0, they'll open automatically.
+~
+S
+#72074
+Alnair Island Meeting Point~
+   Alnair Island continues here, the grey and white duraslate tiles underfoot 
+mirroring the colours of the clouds that surround the floating platform. To 
+the north is small building built of black synthetic marble, very much in the 
+shadow of the glass and metal structure of its neighbour while far to the 
+southeast, another branch of buildings can be seen, connected to this island 
+via some kind of suspended walkway. Never quiet, this area seems to be 
+something of a meeting point, groups forming and then drifting apart while 
+adroids whizz around frantically, delivering a stream of personalised 
+advomercials to anybody who doesn't look busy. 
+~
+72 65536 0
+0
+D0
+~
+metal framed door~
+1 -1  0 72072
+D1
+~
+~
+0 -1  0 72075
+D2
+~
+~
+0 -1  0 72077
+D3
+~
+~
+0 -1  0 72073
+S
+#72075
+Northeast Curve Of Alnair Island~
+   This is the edge of the circular platform that makes up Alnair Island, 
+rimmed with twisted metal posts strung with metal cables that make up railings 
+that reach to a little above waist height. To the northeast, another arm of 
+the city is apparently still under construction, a number of hover cranes 
+extending up into the sky and to the southeast is the main bulk of the city. 
+Directly east, nothing but sky is visible for miles and miles, breathtakingly 
+beautiful and a break from the incessant murmurings of the adroids. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72122
+D2
+~
+~
+0 -1  0 72076
+D3
+~
+~
+0 -1  0 72074
+S
+#72076
+Southeast Curve of Alnair Island~
+   Sculptured benches rise up seamlessly out of the floor close to the curved 
+eastern edge of the platform, the greys and whites and peach hues of the tiles 
+underfoot blended together into gently swirling patterns. Beyond the metal 
+railings, the sky is uninterrupted to the east, opening out beyond the two 
+other arms of the sky city while southwards, the start of a wide, suspended 
+walkway is visible. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72075
+D2
+~
+~
+0 -1  0 72079
+D3
+~
+~
+0 -1  0 72077
+S
+#72077
+Outside The Alnair Centre~
+   The wall of the building to the south bits out into the curve of the island, 
+smooth, sleek and featureless but for the double doors on hydraulic hinges in 
+the centre and the ledge above it. A series of heavy metal letters spell out 
+'Alnair Centre' and sit on the ledge over the door, burnished to a deep black 
+tinged with purple. Westward, the plexiglass tubes of the transit system can 
+be seen and the rest of the plaza continues in the other directions. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72074
+D1
+~
+~
+0 -1  0 72076
+D2
+~
+double doors~
+1 -1  0 72118
+D3
+~
+~
+0 -1  0 72078
+S
+#72078
+Alnair Island High Speed Transit Tube Station~
+   The vast plexiglass tubes of the high speed transit system are set into the 
+western edge of the platform, a sliding door opening into each one. Not far to 
+the north, the imposing structure of the shuttle bay looms and the southern 
+part of the curve is hemmed in by a wall that acts as a view screen. With the 
+traffic from the tubes, this space is always busy and has a frantic feel, not 
+helped by the adroids, who continue their assault on the senses. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72073
+D1
+~
+~
+0 -1  0 72077
+S
+#72059
+New Room~
+No Description Set.
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72058
+D1
+~
+~
+0 -1  0 72061
+S
+#72060
+Gym~
+No Description Set.
+~
+72 65544 0
+0
+D1
+~
+metallic-door~
+1 -1  0 72053
+S
+#72055
+New Room~
+Add a door to the south, not feeling like it now.
+~
+72 65544 0
+0
+D0
+~
+~
+0 -1  0 72056
+D2
+~
+frosted-sliding-door~
+1 -1  0 72054
+D3
+~
+~
+0 -1  0 72061
+S
+#72054
+Lockers/Showers~
+Add a door to the north, not feeling like it right now.
+~
+72 65544 0
+0
+D0
+~
+frosted-sliding-door~
+1 -1  0 72055
+D3
+~
+opaque-door~
+1 -1  0 72053
+S
+#72079
+One End Of A Suspended Walkway~
+   This suspended walkway hangs from the southeastern curve of Alnair Island 
+and sweeps around to connect it to another circular platform at the end of it. 
+The smooth metal walls of a building are visible to the west although well out 
+of reach and to the east the sky stretches out beyond the gleaming metal 
+railings. The duraslate mosaic of the island gives way to textured metal tiles 
+with plenty of grip. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72076
+D2
+~
+~
+0 -1  0 72080
+S
+#72080
+Corner Of A Suspended Walkway~
+   More a curve than a corner, the suspended walkway continues here, sheltered 
+entirely by buildings to the west and south, with the open sky visible on the 
+other side of the railings. Perhaps a glimpse of some of the under workings of 
+the sky city can be caught from the right angle, just as impressive as the 
+habitable areas. Foot traffic is constant, but the walkway is more than wide 
+enough to accommodate a stream of people, even when the city is at its busiest. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72079
+D1
+~
+~
+0 -1  0 72081
+S
+#72081
+Where The End Of A Suspended Walkway Joins A Platform~
+   From here, the suspended platform of Alnair Island is visible to the 
+northwest and Epsilon Centauri Island is directly east. The curve of it is 
+marked by a band of metal, where the ground underfoot changes from the textured 
+metal tiles of the walkway to black faux-granite. Across the massive space of 
+empty sky visible to the north, another arm of the city can be seen, surrounded 
+by hover cranes and still clearly under construction. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72085
+D3
+~
+~
+0 -1  0 72080
+S
+#72093
+Outside The Holocinema~
+   Lined by plants, the dark faux-granite continues onwards past a grandoise 
+building to the east. Holoposters beg for attention from underneath a mighty 
+overhang that scrolls movie titles by in a crisp holo-text. The posters flash 
+advertisements for movies and holoplays. Between the clamoring holoposters are 
+a series of three wide double doors composed out of synthwood oak through which 
+a constant stream of civilians pass through, eagerly discussing their intended 
+film, or previous ones. Little cute-as-a-button hoverdroids whir about four or 
+five feet off the ground, accosting passers-by with taglines from movies and 
+prices for snacks. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72090
+D1
+~
+synthoak doors~
+1 -1  0 72149
+D2
+~
+plexiglass-doors~
+1 -1  0 72128
+D3
+~
+~
+0 -1  0 72092
+S
+#72083
+Epsilon Cantina Serving Area~
+   The back half of this room houses an open plan kitchen on an industrial 
+scale, black topped counters around the edge. It is separated from the other 
+half by another counter which can be accessed via a hatch, on top of which is a 
+shelving unit of many compartments that can be loaded from the kitchen. The 
+front of the compartments open automatically when a hand comes into close 
+contact, allowing customers to slide out the little trays of freshly cooked, 
+neatly packaged food in exchange for the correct payment. Further along is a 
+drinks dispenser and another unit that spits out packaged cutlery, napkins and 
+condiments after a tap of the touch screen. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72084
+S
+#72084
+Epsilon Cantina Restaurant Area~
+   The glass front of this building lets in a lot of light so this huge, 
+high-ceilinged room feels airy and larger than it really is. The floor is 
+textured, made of some kind of polyrubber of swirling red and the walls are 
+white, huge frames mounted on them in which corporation logos and brightly 
+coloured adverts cycle endlessly. Rows of long tables with benches to either 
+side of them stand neatly, their tops a vivid green and metal shaded lights 
+hang on long cables from the ceiling. Plants in pots around the edges of the 
+room add to the cheerful air of this space and hidden speakers play a variety 
+of happy but rather bland instrumentals. 
+~
+72 65536 0
+0
+D1
+~
+plexiglass door~
+3 -1  0 72088
+D3
+Double Doors
+l
+~
+~
+0 -1  0 72083
+S
+#72085
+Epsilon Centauri Island, Near A Walkway~
+   To the west, a suspended walkway joins the edge of this huge circular 
+platform. The southern part is entirely surrounded by buildings that butt 
+right up to the curve, but northern side is open to the sky and great curved 
+wall of faux-marble with elegantly carved balustrades follows the entire length 
+of it, while the top is more than wide enough to sit on. The floor here is 
+slick, black and seamless faux-granite, inlaid with stars of polished moon 
+rock, although even this grand space is at the mercy of the corporations' 
+adroids and holographic projectors, which circle passersby in a predatory 
+fashion. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72086
+D2
+~
+~
+0 -1  0 72088
+D3
+~
+~
+0 -1  0 72081
+S
+#72086
+Epsilon Centauri View Point~
+   This part of the curve extends the furthest into the sky, a blanket of 
+clouds obscuring the planet far below from view although occasional flashes of 
+green can be glimpsed through the swirling mists. The obnoxiously ostentatious 
+faux-marble wall continues here, the constantly milling crowds drawn to lean on 
+it and to gaze out over the clouds before returning to other parts of the 
+platform where other, less subtle pleasures than the view can be enjoyed. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72087
+D2
+~
+~
+0 -1  0 72089
+D3
+~
+~
+0 -1  0 72085
+S
+#72087
+Northeast Curve Of Epsilon Centauri Island~
+   Set into this part of the platform is a break in the somewhat unforgiving 
+black of the faux-granite, a raised decking area made of dark, engineered wood 
+beams built a step higher than the surrounding area. Long rectangular planters 
+built of a brushed chrion sit in sharp contrast with the smooth curves of the 
+rest of the platform, boasting an impressive array of lush green plants with 
+vividly bright flowers and too perfectly shaped leaves, bedded down in a thick 
+layer of neon green hydroponic gel. 
+~
+72 65536 0
+0
+D2
+~
+~
+0 -1  0 72090
+D3
+~
+~
+0 -1  0 72086
+S
+#72088
+Epsilon Centauri Island~
+   To the east is the vast shape of a tree rising up into the air, while a 
+building to the west follows the curve of the island, brushed chrion pillars 
+surrounding plexiglass windows, through which a bright room with rows of tables 
+can be glimpsed. The faux-granite is unbroken here, but for the expertly 
+crafted starts that are inset within it. The general hustle continues here, 
+this area seemingly a popular route to and from places, rarely entirely devoid 
+of people. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72085
+D1
+~
+~
+0 -1  0 72089
+D2
+~
+~
+0 -1  0 72091
+D3
+~
+plexiglass door~
+3 -1  0 72084
+S
+#72089
+The Centre Of Epsilon Centauri Island~
+   In the very centre of the island, the star-strewn black faux-granite 
+underfoot gives way to an enormous circular planter of brushed chrion, 
+massively thick and filled with a black, glass-like substance that encases the 
+roots of a tree. The tree itself is huge, unnaturally straight and no doubt 
+bio-engineered, its trunk dead straight and smooth until it splits into a 
+glorious crown of widely spaced branches with almost star shaped leaves of 
+silvery green leaves. Southwards, the platform is entirely surrounded by 
+buildings while to the north, the great open expanse of sky in which the city 
+is suspended can be seen. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72086
+D1
+~
+~
+0 -1  0 72090
+D2
+~
+~
+0 -1  0 72092
+D3
+~
+~
+0 -1  0 72088
+E
+tree~
+~
+S
+#72090
+Outside Muhlifain Mall~
+   To the east stands a massive structure made entirely of chrion struts and 
+diamond shaped panels of plexiglass, quite clearly an impressive and imposing 
+mall several floors high. The brightly coloured facades of shops are visible 
+within and people exiting the #6sliding doors#0 carry a variety of bags. The 
+adroids and holograms here are a positive plague, fighting for attention while 
+an enormous plasma screen has been suspended overhead, the advomercials booming 
+out aggressively. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72087
+D1
+~
+sliding doors~
+1 -1  0 72131
+D2
+~
+~
+0 -1  0 72093
+D3
+~
+~
+0 -1  0 72089
+K
+105 0 10 999 0P
+approach~
+door doors~
+if fighting
+vstr You can't do that while you're fighting!
+else do
+force -1 -1 emote The sliding doors hiss gently open as @ walks closer
+delay 2 emote steps through the sliding doors to inside
+delay 4 xxleavebasexx
+fi done
+~
+P
+xxleavebasexx~
+~
+atecho 72131 The sliding doors hiss gently closed behind #5$n#0 after they step through from outside.
+trans_group -1 72090 72131
+trans 72131
+fi done
+~
+P
+l lo loo look ex exa exam exami examin examine~
+sli slid sliding door doors doo~
+vstr It looks like if you #6approach#0 these #6doors#0, they'll open automatically
+~
+S
+#72091
+Outside The Blue Star Bar~
+   The facade of the building to the south is a sleek, matte metal, curved to 
+follow the edge of the island. The windows are enormous, textured plexiglass 
+which twists the shapes of whatever is inside although movement can still 
+clearly be seen. They sit to either side of the double doors, which open 
+outwards on hydraulic hinges, the words 'The Blue Star Bar' projected in a 3D 
+hologram that hangs above the door, shifting through a variety of colours. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72088
+D1
+~
+~
+0 -1  0 72092
+D3
+~
+double doors~
+1 -1  0 72094
+S
+#72092
+The Southern Gate~
+   The southern curve of buildings here is broken by a set of massive, 
+impressive metal gates that are set into them. The Earth and the Moon can be 
+clearly made out in the filigree of the metal that depicts the galaxy, another 
+suspended walkway visible through it, snaking further south and away from the 
+noise and bustle of the island. Black metal planters stand to either side of 
+the gate, sprouting seemingly identical saplings with poker straight trunks and 
+unnaturally symmetrical branches with clusters of soft green leaves and 
+delicate white blossoms. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72089
+D1
+~
+~
+0 -1  0 72093
+D2
+~
+set of massive metal gates~
+3 -1  0 72180
+D3
+~
+~
+0 -1  0 72091
+S
+#72094
+The Blue Star Bar~
+   The eastern wall of this space is curved, set with a pair of double doors 
+and huge windows made of textured plexiglass, a spiral staircase that leads 
+upwards nestled in the southern corner. The bar sits along the northern wall, 
+the space behind it mirrored and then lined with shelves that house a number of 
+capsules containing liquids in a myriad of hues. The countertop is unbroken 
+slab of engineered marble, edged with black and set atop a base of the same 
+dark wood as the herringbone patterned floor and the walls papered in a chalky 
+blue with subtle gold patterns. Chandeliers and a huge mirror in an ornate 
+frame lend a rather forced, ostentatiously vintage feel to this room, which 
+continues westward. 
+~
+72 67174400 0
+0
+D1
+~
+double doors~
+1 -1  0 72091
+D2
+~
+engineered wood door~
+1 -1  0 72096
+D3
+~
+~
+0 -1  0 72095
+D4
+~
+~
+0 -1  0 72100
+S
+#72095
+Deeper Into The Blue Star Bar~
+   The chalky blue and gold paper that lines the walls continues here, right up 
+to a small stage area with a black velvet curtain behind it. Another big 
+chandelier hangs from the ceiling, the light relatively dim and an elegant rig 
+of lights surround the stage. The tables and chairs are arranged around the 
+edge of the room to leave a space in the centre free for dancing and speaker 
+grills are set seamlessly into the walls to project both live and recorded 
+music as needed. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72094
+S
+#72096
+The Back Hallway Of The Blue Star Bar~
+   While the dark wood herringbone continues here, the ostentatious wallpaper 
+stops and the walls are simply painted in the same shade of blue as the rest of 
+the bar. This area is just a service hallway that links the bar to the north 
+with the room to the east, spacious enough to allow several people to pass by 
+and fairly dimly lit by a series of glass globes on the walls that emit a soft 
+light. 
+~
+72 65536 0
+0
+D0
+~
+engineered wood door~
+1 -1  0 72094
+D1
+~
+engineered wood door~
+1 -1  0 72097
+S
+#72097
+A Gleaming Chrion Kitchen~
+   Where visible, the walls of this room are painted white although much of the 
+space is taken up with chrion. Chrion panels, chrion shelves, chrion counters 
+with slick black tops and inset with gleaming electric hobs and neat little 
+sinks. Various cooking gadgets and contraptions line the walls, plenty of pans 
+neatly hanging from circular racks that hang overhead but just within reach. 
+There is one window to the south that looks out over rolling fields of clouds 
+and a complicated looking ventilation system in the eastern wall that whirrs 
+and hums endlessly. 
+~
+72 65536 0
+0
+D3
+~
+steel clad door~
+1 -1  0 72096
+D4
+~
+~
+0 -1  0 72098
+S
+#72098
+A Cozy, Secluded Staff Room~
+   Although the whirr of the ventilation system in the room below is audible, 
+it doesn't detract from the relaxed vibe of this room, which overlooks the sky 
+and more of the city through a window to the south. The walls are painted a 
+soft grey, bare but not stark and the floor is covered with a hardwearing 
+nanofibre carpet in a much darker grey. Plain and functional, it houses a few 
+sofas and chairs, plus a series of lockers against one wall and a wide plasma 
+screen on one wall. 
+~
+72 65536 0
+0
+D5
+~
+~
+0 -1  0 72097
+S
+#72099
+The Blue Star Bar Female Toilets~
+   A cozy, windowless space, this room is lined with a row of faux wood stalls 
+along one wall and a series of porcelain sinks along with other, each with a 
+gold framed mirror. The chandelier hanging from the ceiling is small and 
+rather glitzy for a bathroom, the light it provides soft and flattering. 
+Despite the old fashioned feel of the room, the fixtures and fittings are 
+clearly new and well made. 
+~
+72 65536 0
+0
+D0
+~
+engineered wood door~
+1 -1  0 72100
+S
+#72100
+Upstairs Landing Of The Blue Star Bar~
+   This spacious landing is airy, light filtering in through the massive 
+plexiglass windows which stretch up from the floor below and continue to the 
+one above. The walls are painted rather than papered but in the same shade of 
+chalky, vintage blue as the paper downstairs and the chandeliers have been 
+replaced with more modest globes of glass that glow softly. A few pictures of 
+stars hang in frames on the walls, set between two doors the same dark wood as 
+the herringbone floors, the southern one marked 'F' and the western, 'M'. 
+~
+72 65536 0
+0
+D2
+~
+'F' marked door~
+1 -1  0 72099
+D3
+~
+'M' marked door~
+1 -1  0 72101
+D4
+~
+~
+0 -1  0 72102
+D5
+~
+~
+0 -1  0 72094
+S
+#72101
+The Blue Star Bar Male Toilets~
+   This windowless room houses a row of faux wood stalls and several white 
+porcelain sinks, each set below a gold framed mirror. Light is provided by a 
+glitzy looking chandelier and the place has an old fashioned feel, despite 
+being clearly new. The walls are the same blue as the rest of the bar and the 
+floor the same dark wood herringbone that matches the stalls. 
+~
+72 65536 0
+0
+D1
+~
+engineered wood door~
+1 -1  0 72100
+S
+#72102
+The Top Hallway Of The Blue Star Bar~
+   The herringbone of lower floors gives way here to plain boards of dark, 
+engineered wood although the walls are still painted in that same vintage blue. 
+The huge windows provide light, leaving this space feeling airy, if somewhat 
+empty and plain after the lower floors, the lighting just a few simple glass 
+globes fixed to the otherwise bare walls. 
+~
+72 65536 0
+0
+D2
+~
+engineered wood door~
+1 -1  0 72104
+D3
+~
+engineered wood door~
+1 -1  0 72103
+D5
+~
+~
+0 -1  0 72100
+S
+#72103
+A Plain And Functional Lounge~
+   Clearly not intended for customer use, this lounge is plain and functional. 
+The walls have been painted grey and the floor is made of dark, wide boards of 
+engineered wood, all the knots and whorls expertly fashioned. A window in the 
+western wall overlooks sky and the shape of another building somewhere to the 
+west, entirely cut off from the rest of the city. 
+~
+72 65536 0
+0
+D1
+~
+engineered wood door~
+1 -1  0 72102
+S
+#72104
+A Plain And Peaceful Bedroom~
+Carpeted with a neutral coloured expanse of some kind of stiff nanofibred material, this room is very plain. The walls are white, as is the ceiling, which houses a series of small lights that have been recessed into it and can be dimmed via a control panel to one side of the door. The southern window is large, reaching from floor to ceiling with a series of filmy looking curtains that can be pulled back to provide privacy, the view of the clouds fairly breathtaking.
+~
+72 65536 0
+0
+D0
+~
+engineered wood door~
+1 -1  0 72102
+D1
+~
+discreet sliding door~
+1 -1  0 72105
+S
+#72105
+A Private Bathroom~
+   Unimpressive, this bathroom has white walls and grey tiles that cover the 
+floor and the space behind the shower cubicle. A toilet sits next to a sink 
+with a backlit mirror behind it, everything clean but fairly spartan. A small 
+shelf has been mounted on one wall and a window is set in another, although the 
+glass is frosted and nothing can be seen beyond it. 
+~
+72 65536 0
+0
+D3
+~
+a discreet sliding door~
+1 -1  0 72104
+S
+#72107
+New Room~
+No Description Set.
+~
+72 65536 0
+0
+D3
+~
+~
+0 -1  0 72108
+S
+#72108
+New Room~
+No Description Set.
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72107
+D3
+~
+~
+0 -1  0 72109
+S
+#72109
+New Room~
+No Description Set.
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72108
+D3
+~
+~
+0 -1  0 72110
+S
+#72110
+New Room~
+No Description Set.
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72109
+D4
+~
+~
+0 -1  0 72111
+S
+#72111
+A State Of The Art Surgery~
+   Relentlessly white, this windowless room is perfectly round, the doors 
+curved to fit its shape. The white walls are barely visible due to all the 
+equipment which is fitted to it and includes a multitude of touch screen and 
+voice activated panels, monitoring equipment, mechanised arms and other medical 
+gadgets that are all gleamingly clean. In the centre of the space is the 
+intimidatingly high-tech surgery table set under a complicated rig of bright 
+lights can be minutely adjusted via a control panel. Carefully climate 
+controlled, this room remains unfalteringly cool and entirely odourless. 
+~
+72 65536 0
+0
+D2
+~
+curved door~
+1 -1  0 72116
+D3
+~
+curved double doors~
+1 -1  0 72112
+D5
+~
+~
+0 -1  0 72110
+S
+#72112
+A Pristine Emergency Room~
+   The beds in this room are arranged carefully to leave a clear passage from 
+the swinging doors to the curved one, opaque sheets of a filmy polymesh hanging 
+from rings on railings above to allow sections to be curtained off. A 
+complicated array of medical equipment surrounds each bed and a large machine 
+mounted to one wall dispenses hyposyringes, IV lines, bandages and a number of 
+other medical miscellaneous items that might be needed. The floor is made of a 
+poured white polyresin, flawlessly smooth and the walls, where visible are also 
+a gleaming white. 
+~
+72 65536 0
+0
+D1
+~
+curved double doors~
+1 -1  0 72111
+D2
+~
+swinging doors~
+1 -1  0 72115
+S
+#72113
+A Hospital Bathroom~
+   This room is compact and extremely clean, the white polyresin floor 
+gleamingly clean and the white fixtures equally spotless. A counter runs along 
+the back wall opposite the #6door#0, seamlessly housing an oval shaped basin 
+which is moulded directly into the polyplastic, a large, softly back-lit 
+#6mirror#0 spanning the space behind it. The toilet sits discreetly on one 
+wall next to a rail to allow less able users to utilise it more easily and on 
+the other side from that is an especially large sonic shower. Encased in a 
+curved panel of plexiglass with a door to allow access, it contains another 
+rail-assisted seat within easy reach of the touch pad used to operate it. 
+~
+72 65536 0
+0
+D1
+~
+glossy white door~
+1 -1  0 72114
+P
+lock~
+doo door~
+if oexist(66991,72114)
+vstr The door is already locked.
+else do
+delay 1 emote presses a thumb to the touch pad on the door, which locks automatically with an audible click.
+atecho  72114 The western door is locked from the inside with an audible click.
+put 66991  72114
+fi done
+~
+P
+unlock~
+do doo door~
+if oexist(66991,72114)
+delay 1 emote The door unlocks automatically with an audible click after @ presses a thumb to the touch pad.
+atecho 72114 The western door is unlocked from the inside with an audible click.
+get 66991  72114
+else do
+vstr The door is already unlocked
+ fi done
+~
+P
+open ope op o~
+d do doo door~
+if oexist(66991,72114)
+vstr The door is locked. #6Unlock#0 the #6door#0.
+else do
+doitanyway -1
+fi done
+~
+P
+l lo loo look exa exam exami examin examine~
+do doo door~
+if oexist(66991,72114)
+vstr This door is a sleek, smooth and glossy white, utterly featureless but for the small thumb pad that you can use to #6unlock#0 the #6door#0
+else do
+vstr This door is a sleek, smooth and glossy white, utterly featureless but for the small thumb pad that you can use to #6lock#0 the #6door#0
+fi done
+~
+P
+l lo loo look~
+mi mir mirr mirro mirror~
+force -1 -1 emote glances towards the mirror, meeting the gaze of their reflection.
+vbr -
+vstr Staring back at you, you see...
+vbr -
+force -1 -1 look self
+fi done
+~
+S
+#72114
+A Gleaming White Hospital Ward~
+   White polyresin floors meet the glossy white walls in a gentle curve, this 
+room devoid of proper corners. Rows of beds are lined up neatly, each one 
+partitioned off from the next by filmy curtains of opaque polymesh that can be 
+pulled across for privacy. Each bed is neatly made with crisp white hygi-linen 
+and surrounded by an inordinate amount of machinery and electronics, a plasma 
+screen built into the foot of each one to display patient information. Even 
+the metal frames of the beds are coated with glossy white and the large floor 
+to ceiling windows have white shades pulled over them so that little colour 
+breaks the monotonous sterility of this space. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72115
+D3
+~
+glossy white door~
+1 -1  0 72113
+S
+#72115
+Hospital Reception And Transit Tube Area~
+   All along the northern wall and set on either side a pair of double, 
+swinging doors are the huge, tinted plexiglass surrounds of the #6transit 
+system#0, the tubes announcing their arrival or departure with a hydraulic 
+hiss. In the centre of the room stands an enormous circular desk of glossy 
+white polyprop, with the inside section raised a step or so off the ground. 
+This seeming impregnable fortress houses the hospital's computer and 
+communications systems, as well as several well trained, clearly bio-engineered 
+plants in hydroponic pots. Everything here is almost overpoweringly white, 
+from the poured polyresin floors to the walls and high ceilings, every corner 
+rounded off and smoothed away to make it easier to keep impeccably clean. 
+~
+72 65536 0
+0
+D0
+~
+swinging doors~
+1 -1  0 72112
+D1
+~
+~
+0 -1  0 72116
+D3
+~
+~
+0 -1  0 72114
+S
+#72116
+A Hospital Waiting Area~
+   The gleaming white of the rest of the hospital continues here although large 
+holoposters advertising various drugs and implants are lined up neatly on the 
+walls, giving this area a vaguely less severe feeling. Set into the northern 
+wall is an slightly curved door and along the southern one, an ergonomically 
+designed staircase allows access to the next floor. It looks somehow over 
+engineered, the corners rounded away for easy cleaning and the railing on the 
+side a moulded length of white polyplastic set on plexiglass panels. At the 
+end of the room is a a huge plexiglass window with rounded off corners, a view 
+of the rest of the city visible far away, connected only by the high transit 
+tubes which shuttle endlessly back and forth. 
+~
+72 65536 0
+0
+D0
+~
+curved door~
+1 -1  0 72111
+D3
+~
+~
+0 -1  0 72115
+D4
+~
+~
+0 -1  0 72117
+S
+#72117
+Hallway And Staircase~
+   This ergonomically designed staircase continues up and down, each step 
+rounded off and painted with some kind of substance that, while not appearing 
+any different, provides extra traction underfoot. A square window with rounded 
+corners in the southern wall provides a view of the cloud-filled sky and the 
+high speed transit tube links, a suspended walkway with its linked buildings 
+just visible far, far in the distance. The walls, floor and ceiling are white, 
+everything sterile and featureless but for two small digital plaques. The one 
+next to the north door reads 'Office' and the one next to the west proclaims it 
+to be an 'Examination Room'. 
+~
+72 65536 0
+0
+D0
+~
+door~
+1 -1  0 72134
+D3
+~
+door~
+1 -1  0 72136
+D4
+~
+~
+0 -1  0 72139
+D5
+~
+~
+0 -1  0 72116
+S
+#72118
+The Alnair Centre Lobby~
+   Square white tiles cover the floor of this room, a tiny diamond shaped grey 
+tile set at the centre of each one. This space is large, bright despite the 
+lack of windows in this area, lit by circular glass lights embedded in the high 
+ceiling. The wall space has been divided into full length panels which phase 
+slowly between images of honed, athletic bodies engaged in various different 
+kinds of sports and activities, interrupted by the inevitable advomercials of 
+associated products. 
+~
+72 65536 0
+0
+D0
+~
+double doors~
+1 -1  0 72077
+D2
+~
+~
+0 -1  0 72120
+D3
+~
+plexiglass door~
+1 -1  0 72119
+S
+#72119
+The Alnair Centre Shop~
+   Directly opposite the door is a sleek counter with a grey top the same hue 
+as the diamond shaped tiles on the floor. The front of the counter is an 
+enormous screen that cycles through adverts for the various products sold in 
+the shop, all displayed with obsessive neatness on the plexiglass shelves. 
+Those and the glass-fronted cabinets are expertly lit with an unfaltering white 
+light, while the lights overhead are slightly dimmer as if to draw attention to 
+the displays of sports related goods. 
+~
+72 65536 0
+0
+D1
+~
+plexiglass door~
+1 -1  0 72118
+S
+#72120
+At The Top Of A Wide Staircase~
+   A wide staircase leads down from here, plenty of room for four or so people 
+to ascend or descend at any one time. Past the staircase, the southern wall is 
+just one big window, a small outside area with a couple of tables visible 
+before a low wall and then a huge expanse of space and cloud with another arm 
+of the city way off in the distance to the south, a tall building with many 
+windows climbing up into the sky. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72118
+D2
+~
+sliding glass door~
+1 -1  0 72121
+D5
+~
+~
+0 -1  0 72248
+S
+#72121
+A Secluded Outdoor Patio~
+   Wide, engineered wood boards make up this decking area, which is fairly 
+small, curving outwards at the southern edge. The wall there is low, made of 
+irregular slabs of synthetic stone and reaching almost to chest height, tall 
+enough to prevent unintentional falls and probably about the right height to 
+lean on. Beyond it is sky and the swirling masses of clouds like fields that 
+carpet the space up to another arm of the city that curves around from the east 
+to the south, the furthest building away straight and tall, towering above much 
+of the rest of the surroundings. 
+~
+72 65536 0
+0
+D0
+~
+sliding glass door~
+1 -1  0 72120
+S
+#72122
+A Walkway, North Of Alnair Island~
+   To the west is the side of a building and then the shape of the shuttle port 
+towering behind that, all glass and metal and impressive from this angle. The 
+walkway continues a little further east, leaving the bustle of Alnair Island 
+behind. There seems to be activity there, but it's a different and the 
+meticulously built, careful finish of the city gives way to what looks like a 
+construction site of kinds, complete with hovercranes and the sound of building 
+work is audible, even from here. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72123
+D2
+~
+~
+0 -1  0 72075
+S
+#72123
+Entering A Construction Area~
+   This part of the walkway sticks out past the boundaries of Alnair Island, 
+the outer curve of it almost directly south along with another huge floating 
+platform past that that continues eastward. Much of the city is visible from 
+here, an abundance of plexiglass panels and windows set in buildings of 
+gleaming metal and textured faux-stone all curled around a great open space 
+where clouds bubble and brew like an ocean. North though, things are 
+different. A huge chain link fence with a gate seems to block progress in that 
+direction although a construction site can be seen through it, along with piles 
+of metal girders, piles of building materials and mysterious, wrapped pallets 
+lying around. 
+~
+72 65536 0
+0
+D0
+~
+chain link gate~
+3 -1  0 72124
+D3
+~
+~
+0 -1  0 72122
+S
+#72124
+The Start Of A Sprawling Construction Area~
+   A towering chain link fence entirely surrounds this small platform, 
+separating it from the walkway connecting it to the rest of the city. The 
+floor underfoot is just a rough layer of raw, rough polycrete, totally 
+unfinished and intended to be paved, judging by the thick synthetic stone slabs 
+which are neatly packaged in polyplastic wrappers and stacked in pallets 
+against the fence. The organised chaos of building materials continue to the 
+east, while northwards stands a compact building that seems to be some kind of 
+temporary structure. 
+~
+72 65536 0
+0
+D0
+~
+flimsy plastic door~
+1 -1  0 72106
+D1
+~
+~
+0 -1  0 72125
+D2
+~
+chain link gate~
+3 -1  0 72123
+S
+#72125
+The Corner Of A Construction Site~
+   The view of the city to the southeast is obscured by a thin plastic screen 
+that wraps around the outside of the chainlink fence, no doubt in place to keep 
+this area out of sight as much as possible. Dozens of metal panels are secured 
+under polyprop sheets and slotted into racks that stand up against the fence to 
+keep them in place, while unopened boxes are also carefully stacked up and 
+ready for use. Perhaps oddly and in a break from the otherwise fairly ordered 
+arrangement of things, a section of boxes have been pulled out and forwards 
+rather haphazardly. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72126
+D3
+~
+~
+0 -1  0 72124
+D5
+~
+~
+0 -1  0 72243
+E
+boxes~
+These boxes have been pulled away from the others, leaving a space
+behind them. Further exploration reveals a hatch set into the
+polycrete that looks like it might open...
+~
+P
+open~
+(null)~
+delay 0 emote pulls open the hatch downward, revealing a staircase downward.
+link 72125 d 72243
+~
+P
+close~
+hatch~
+delay 0 emote closes the hatch, securely.
+unlink d 72125
+~
+S
+#72126
+A Covered Section Of A Construction Site~
+   Polyprop sheeting has been suspended over a partially built frame that might 
+be the start of a building, leaving this area covered over, although it's still 
+fairly at the mercy of the wind which creeps in through all the gaps. The 
+rough polycrete floor is dirty and marked with boot prints and robot tracks 
+dragged through the dust and a couple of long tables have been dragged into 
+place here, looking somewhat out of place. 
+~
+72 65537 0
+0
+D0
+~
+~
+0 -1  0 72127
+D2
+~
+~
+0 -1  0 72125
+S
+#72127
+An Unfinished Transit Tube Platform~
+   The metal frame for the surround of a transit tube system takes up most of 
+the eastern edge of this area, the mouth currently boarded up and surrounded by 
+a complex looking system of hydraulic scaffolding. There's an area next to it 
+that looks like a docking area for a small platform that services the 
+hovercranes visible to the east, all working on some complex looking structure 
+of bristling metal girders, its shape and purpose still unidentifiable. 
+~
+72 65536 0
+0
+D2
+~
+~
+0 -1  0 72126
+S
+#72128
+Birdun Virtual Reality Centre Entrance~
+   Not very different from its storefront, holoposters have been installed all 
+throughout this portion of the Birdun Virtual Reality Centre. Any details of 
+the walls themselves are impossible to determine as they are completely 
+overtaken by holoposters that dance with color and light, aggressively 
+insistent as they endlessly scroll through their queue of advertisements. Set 
+against the southern wall is a large, vibrant monitor and console that dwarfs 
+all other screens here. A pleasant, electronic voice pitches over the hum of 
+the various posters here and audibly welcomes newcomers into the facility as 
+they continue eastwards. 
+~
+72 65536 0
+0
+D0
+~
+plexiglass-doors~
+1 -1  0 72093
+D1
+~
+~
+0 -1  0 72129
+S
+#72129
+Birdun Virtual Reality Centre~
+   Eight hexagonal platforms of durable black polyprop material litter the wide 
+inner chamber of the Birdun Virtual Reality Centre, clustering together 
+cylindrical pods in a honeycomb fashion and offsetting them only a few inches 
+from the herringbone-patterned floor. Each platform is equipped with four pods 
+that open out in the cardinal directions. The majority of the pods appear in 
+use, sliding doors closed and locked, veiling the identities of the occupants 
+inside. Overhead, several diamond-shaped lamps bathe the room in an even, 
+comfortable light. The dark walls here are barren of holoposters and the room 
+has an oddly quiet and still atmosphere. 
+~
+72 65536 0
+0
+D3
+~
+~
+0 -1  0 72128
+S
+#72130
+New Room~
+no desc
+~
+72 65536 0
+0
+S
+#72131
+Muhlifain Mall Entrance ~
+   Within a set of #6sliding doors#0 stands Muhlifain Mall in all its glory, 
+chrion struts housing diamond shaped panels of plexiglass that make up 
+impressive structure of this building. The ground underfoot is covered with 
+glossy, sparkly faux-quartz tiles laid in geometric patterns that lead the eye 
+deeper into the building and strategically towards the doors of the various, 
+immaculately appointed shops. To the north is one, its window a huge plasma 
+screen on which flawlessly dressed models endlessly parade the 
+hyper-fashionable contents within, their prancings set against a suitably 
+dramatic background of roaring flames. 
+~
+72 65536 0
+0
+D0
+~
+red-glossed door~
+1 -1  0 72132
+D1
+~
+~
+0 -1  0 72145
+D3
+~
+sliding doors~
+1 -1  0 72090
+P
+approach~
+door doors~
+if fighting
+vstr You can't do that while you're fighting!
+else do
+force -1 -1 emote The sliding doors hiss gently open as @ walks closer
+delay 2 emote steps through the sliding doors to outside
+delay 4 xxleavebasexx
+fi done
+~
+P
+xxleavebasexx~
+(null)~
+atecho 72090 The sliding doors hiss gently closed behind #5$n#0 after they step through from inside.
+trans_group -1 72131 72090
+trans 72090
+fi done
+~
+P
+l lo loo look ex exa exam exami examin examine~
+sli slid sliding door doors doo~
+vstr It looks like if you #6approach#0 these #6doors#0, they'll open automatically.
+~
+S
+#72132
+An Aggressively Fashionable Clothing Shop~
+   The walls of this shop are covered in a complicated mosaic of plexiglass 
+fronted metal cupboards which contain clothing on the very bleeding edge of 
+fashion. Each item is shrink-wrapped in a transparent envelope, rows and rows 
+stacked neatly, while the cupboards are separated by floor to ceiling 
+holoposters displaying obnoxiously attractive looking models dressed in the 
+various items. There is a round #1touch-pad#0 the same bright red as the 
+plexiglass-tiled floor that sits under each cupboard, presumably dispensing 
+them like some kind of glorified vending machine as the shop seems to lack 
+staff of any kind, the electro-pop music blaring away loudly from hidden 
+speakers stationed around the room. 
+~
+72 67174400 0
+0
+D0
+~
+hidden door~
+1 -1  0 72261
+D1
+~
+synthsilk curtain~
+1 -1  0 72146
+Q0
+100
+You see a subtle security door.
+~
+S
+#72133
+Jewelry Store Storage~
+Store 72152
+~
+72 65536 0
+0
+D4
+~
+metal hatch~
+1 -1  0 72152
+S
+#72134
+A Sleekly Decorated Medical Office~
+   Panels of glossy white, moulded polyprop cover the walls of this room, the 
+only break a window of opaque plexiglass with rounded corners. They merge into 
+the floor, which is curved up at the edges and is also white, apparently 
+resistant to scuff marks and so smooth that it gleams when the light catches 
+it. A desk, also white, is home to the computer and communications systems as 
+well as a strange looking silvery metal ornament that proudly occupies a space 
+on the left hand side. On the back wall behind the desk is a large frame with 
+a series of rotating images of Lunar landscapes that play on it. 
+~
+72 65536 0
+0
+D2
+~
+door~
+1 -1  0 72117
+E
+ornament~
+This ornament is very odd, a square, silver base with two frames,
+between which hang five silver balls on strings. You could probably
+#6pull#0 one of the #6balls#0.
+~
+P
+pull~
+ball balls~
+force -1 -1 emote approaches the desk ornament and reaches for one of the silver balls that hang on strings from the frame. They pull it upwards and then let go, the ball falling to strike at the others.
+delay 4 xxnewtonballxx
+fi done
+~
+P
+xxnewtonballxx~
+(null)~
+info rvnum room -1 vnum
+atecho &(rvnum) Seconds later, the metal ball at the other end breaks free from the others, which remain still. Once again, it sets its partner into motion and they continue to dance back and forth while the three in the middle remain stubbornly still.
+delay 4 xxnewtonendxx
+fidone
+~
+P
+xxnewtonendxx~
+(null)~
+info rvnum room -1 vnum
+atecho &(rvnum) Finally running out of momentum, the balls cease their odd, pointless dance.
+fidone
+~
+S
+#72135
+Changing Area In An Examination Room~
+   This section of the room has been partitioned off behind a polymesh curtain 
+that, while opaque, at least provides some privacy. It is entirely 
+featureless, the walls, floor and ceiling a uniform white, the only thing of 
+any interest the moulded white polyprop bench that sits on the floor. 
+~
+72 65536 0
+0
+D2
+~
+opaque polymesh curtain~
+1 -1  0 72136
+S
+#72136
+A White Examination Room~
+   An opaque polymesh curtain blocks of a space one end of this room, serving 
+as some kind of changing area. A single examination couch made of a sterile 
+white polyvinyl stands with its head against one wall to allow access on either 
+side, mounted on a hydraulic stand so that it can be raised or lowered. It's 
+perhaps a little imposing, especially with the rig of lights a huge plasma 
+screen covering the wall behind it and presumably able to display feeds from 
+the multitude of scanning equipment that shares the rounded metal base that 
+houses the lights. 
+~
+72 65536 0
+0
+D0
+~
+opaque polymesh curtain~
+1 -1  0 72135
+D1
+~
+white-coated metal door~
+1 -1  0 72117
+D3
+~
+~
+0 -1  0 72137
+S
+#72137
+A Medical Diagnostics Area~
+   Continuing on from the examination room further to the east, this space is 
+filled with complicated and gleaming looking medical equipment, refrigerated 
+cabinets and a sleek looking computer system that stands on the transparent, 
+moulded plexiglass desk. Instead of windows, the space has rounded panels with 
+lights set behind them that admit a soft glow so that even when the lights 
+above are turned off, the room is always lit. The floors, walls and ceiling 
+are all white, spotlessly clean and bare although a single leafy green plant 
+sits one corner in a pot of hydroponic gel, perhaps a little out of place while 
+a #6retina scanner#0 is installed in the wall to one side of the door. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72136
+D3
+~
+white-coated metal door~
+1 -1  0 72138
+S
+#72138
+Medical Storage Area~
+   Not large, this room features a number of shelves and cupboards, all made of 
+a white-coated metal. The doors are transparent plexiglass, allowing the 
+contents to be easily identified and one section seems to be refrigerated for 
+the storage of perishable items. The walls are plain white to match the floor 
+and ceiling, the only other feature that attracts attention the #6retina 
+scanner#0 by the door. 
+~
+72 65536 0
+0
+D1
+~
+white-coated metal door~
+1 -1  0 72137
+S
+#72139
+The Top Hallway Of The Hospital Wing~
+   At the top of the stairs, this hallway is somewhat smaller than those below, 
+the drop surrounded by glass panels with a rounded black railing on top. The 
+doors to the north and west are unmarked, the white walls and floor continuing 
+but although this area is still clean, it doesn't have the enforced sterility 
+of the lower floors and the lights are a little dimmer, making it feel somehow 
+more relaxed. 
+~
+72 65536 0
+0
+D0
+~
+door~
+1 -1  0 72140
+D3
+~
+door~
+1 -1  0 72142
+D5
+~
+~
+0 -1  0 72117
+S
+#72140
+A Generously Sized Bathroom~
+   Clearly a shared facility, this grey painted bathroom boasts a neat row of 
+stalls along one wall and a matching row of cubicles on the wall opposite. It 
+is divided in the middle by a long, double sided rectangular sink that's almost 
+like a trough, split into individual compartments with an uninterrupted length 
+of mirror to separate the two sides, space for about eight people either side. 
+The window at the far end of the room is unfaltering opaque and the floors are 
+a textured black rubberised material, non-slip but easy to clean. 
+~
+72 65536 0
+0
+D2
+~
+door~
+1 -1  0 72139
+D3
+~
+door~
+1 -1  0 72141
+S
+#72141
+On Call Dorms~
+   The walls of this room are covered with the same grey nanofibre carpet that 
+lines the floor, matching the colour of the ceiling. It acts to deaden sound 
+from all around, leaving this area very quite. The windows are covered by 
+sleek looking panels that entirely block out the light from outside, but can be 
+raised or lowered by pressing a button to one side. Lining the walls are rows 
+of compact but comfortable looking pod beds, each with a plexiglass front, half 
+of which can be slid back to allow access. They are all equipped with a small, 
+rounded light that can be dimmed, and a panel near the head of the bed with a 
+button that darkens the glass for privacy and another that links in to the 
+communications channels. 
+~
+72 65536 0
+0
+D1
+~
+door~
+1 -1  0 72140
+D2
+~
+door~
+1 -1  0 72142
+S
+#72142
+A Comfortable Lounge~
+   Soft grey walls stretch up from the black nanofibre carpet to the white 
+paneled ceiling of this reasonably spacious room. A collection of comfortable 
+looking furniture is gathered here and the windows boast white shades that 
+turns the light from outside hazy when the button is pressed to draw them into 
+place, while a couple of glossy leaved plants in heavy purple pots give this 
+place a relaxed, peaceful air. 
+~
+72 65536 0
+0
+D0
+~
+door~
+1 -1  0 72141
+D1
+~
+door~
+1 -1  0 72139
+D3
+~
+~
+0 -1  0 72143
+S
+#72143
+A Food Preparation Area~
+   This half of the room is just large enough for some basic food preparation, 
+boasting cupboards with sleek, glossy black counters that stretch around the 
+room, cupboards and drawers set beneath them. The walls are painted in a soft 
+grey that's easy on the eyes and underfoot, a hard-wearing black polyresin and 
+the plexiglass windows are frosted with swirling patterns vaguely reminiscent 
+of the clouds beyond them. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72142
+D3
+~
+door~
+1 -1  0 72144
+S
+#72144
+Medical Staff Storage~
+No Description Set.
+~
+72 65536 0
+0
+D1
+~
+door~
+1 -1  0 72143
+S
+#72145
+Deeper Into Muhlifain Mall~
+   This part of the mall is really a glorified corridor, even with its faux 
+quartz tiles and lines of plants that sit in huge polished polycrete planters 
+filled with neon green hydroponic gel. They are carefully arranged so as not 
+to be in the way of the frames which sit on the walls, advomercials within 
+competing for attention with brightly coloured depictions of their products and 
+wittily worded slogans. Many of them babble or play flashy little jingles when 
+somebody walks by, meaning this fairly busy route is never quiet and has a 
+definite air of hustle to it. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72150
+D3
+~
+~
+0 -1  0 72131
+S
+#72146
+A Red Tiled Changing Room~
+   The bright red tiles of the floor also line the walls here, all but the wall 
+opposite the black synthsilk curtain on which an enormous #6mirror#0 sits, lit 
+from behind with a series of gently glowing red lights. The space is 
+needlessly big, also housing a small table piled with a variety of fashion 
+datazines and a sleek looking couch scattered with severely square cushions. 
+~
+72 65536 0
+0
+D3
+~
+synthsilk curtain~
+1 -1  0 72132
+P
+l lo loo look~
+mi mir mirr mirro mirror~
+vstr Staring back at you, you see...
+vbr -
+force -1 -1 look self
+fi done
+~
+S
+#72147
+Holocinema Concessions~
+   Much more utilitarian than the grand entryway, this room is clearly meant 
+for easy cleaning and setup. The floor and walls are an even textured, heavily 
+polished durasteel, gleaming against the light. At the far east end is a large 
+touch-screen interface counter that sections off the last fourth of the room, 
+offering a large variety of menu options. Centered in the eastern wall, a 
+plain durasteel door swings on loose hinges. 
+~
+72 65536 0
+0
+D1
+~
+swinging door~
+1 -1  0 72148
+D3
+~
+~
+0 -1  0 72149
+S
+#72148
+Concession Storage Room~
+   Cold and spacious, this room serves as storage for the concession area. The 
+walls, floor and ceiling are cast from a dull, textured polycrete that reflects 
+very little light. Support beams sit against the walls at set intervals, 
+offering extra support to the ceiling. Vents on the walls circulate fresh air 
+through the room, whirring silently. 
+~
+72 65536 0
+0
+D3
+~
+swinging door~
+1 -1  0 72147
+S
+#72149
+Holoplex Cinema Entrance~
+   Utterly grand in appearance, this room is a wide hall meant to conjure ideas 
+of old opera houses of times long gone. The ceiling has been composed of 
+gleaming durasteel to provide unrelenting support - synthetically assembled 
+faux-mahogany planks compose the floor, to lead past a dizzying number of 
+holoposters advertising movies, installed behind lush polymesh drapes. Most of 
+the illumination is provided by the bright strip lights fixed above almost 
+every holoposter. At the corridor's end, a wide archway to the east promises 
+snacks and drinks, while the theatres can be reached by way of an 
+#6escalator#0. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72147
+D3
+~
+synth-oak doors~
+1 -1  0 72093
+D4
+~
+~
+0 -1  0 72194
+D5
+~
+~
+0 -1  0 72178
+S
+#72156
+A Secret, Abandoned Park~
+Nestled behind the mall and part of the southeastern arm of the city,
+this little space is entirely out of sight of almost anything else and
+whether due to bad planning or a mistake, it remains blissfully hidden
+and unconnected to anything else. Clearly intended to be a landscaped
+garden, the project was abandoned partway, although a few beds and paths
+have been outlined and filled with hydroponic gravel and part of a low
+wall has been built from duraslate, set in a curve to match the edge
+hemmed in by the a taller wall of carved faux-marble.
+
+Thriving bio-engineered grasses and plants with tiny, delicate flowers
+flourish in the beds and have already begun to rebel, starting to creep
+past the confines of their containers, and a couple of saplings are
+growing well. The north and eastern sides boast nearly uninterrupted
+views of the sky, just the hovercranes of the construction site sometimes
+visible through the clouds although this place has a sereneness and
+tranquility about it, even the sounds of people on the walkway past the
+metal wall to the south muffled and distant. 
+~
+72 65536 0
+0
+D2
+~
+~
+0 -1  0 72157
+S
+#72150
+Surrounding An Ostentatious Fountain~
+   In the centre of this space is a huge fountain, built within a circular 
+basin of faux-marble the same glossy white as the tiles underfoot and the 
+geometric patterns seem to come to a head here, encircling it in a complicated, 
+dizzying tangle of isometric shapes. The fountain itself is huge, reaching 
+almost to the ceiling far overhead. Made of beautifully sculpted metal, it is 
+cast in the shape of a handsome, curly-haired centaur rearing up while its 
+forelegs paw at the air. It wields an elaborately carved bow, the arrow cocked 
+to the string and drawn back, biceps bulging although the majestic effect is 
+somewhat ruined by the massive Gaiman Corp logo emblazoned on its bare, muscled 
+chest. North of here, an escalator looms into the yawning space of the floor 
+above, while this long, wide corridor continues east and west. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72151
+D1
+~
+~
+0 -1  0 72153
+D3
+~
+~
+0 -1  0 72145
+S
+#72151
+The Bottom Of A Huge Escalator~
+   The huge, diamond paneled plexiglass and chrion roof above is visible here 
+in all its glory, arched high above the space. This area is always busy, 
+people moving forwards towards the enormous #6escalator#0, which bears them 
+graciously and effortlessly aloft, the patterns on the floor subtly seeming to 
+point towards it to guide the unsuspecting consumer on towards more commercial 
+gluttony on the second tier of the mall. Another brings shoppers back to this 
+level, depositing them gently at the bottom, although not without assaulting 
+passengers in both directions with a barrage of advomercials, delivered by a 
+couple of fixed adroids who regurgitate their messages whenever somebody 
+travels past them. 
+~
+72 65536 0
+0
+D2
+~
+~
+0 -1  0 72150
+Q4
+100
+An escalator
+l
+~
+E
+escalator~
+It looks like the only way to get to the next tier of the mall is
+to #6ride#0 the #6escalator#0. You'll just have to brave the adroids.
+~
+E
+es~
+It looks like the only way to get to the next tier of the mall is
+to #5ride#0 the #5escalator0. You'll just have to brave the adroids.
+~
+P
+ri rid ride~
+es esc esca escal escala escalat escalato escalator~
+if fighting
+vstr You can't do that while you're fighting!
+else do
+force -1 -1 emote approaches the escalator and steps carefully onto the bottom step before starting to gracefully ascend towards the upper tier of the mall.
+delay 2 xxadroidxx
+fi done
+~
+P
+xxadroidxx~
+~
+vstr You feel the sensation of something watching you and before you can stop yourself, turn your head and make eye contact with an adroid, which promptly scans your retinas.
+delay 2 xxescalatoradxx
+fi done
+~
+P
+xxescalatoradxx~
+~
+delay 2 xxleaveescalatorxx
+set random 1d3
+if (random=1)
+vstr #6"Biotique, because genes are always in fashion!"#0 This statement delivered in a top-tier Atlas City purr, the adroid proceeds to beam a dizzying series of images set to electronic music at you, all of them featuring hideously good looking models draped in expensive looking, bio-engineered clothing. You feel somewhat inadequate by comparison.
+else do
+if (random=2)
+vstr You barely have time to blink before a pulse of bright blue light blocks out the surroundings and a blast of raucous electro-pop plays drowns out all other noise. #6"The Blue Star Bar,"#0 purrs a voice in your ear. #6"Find us on Epsilon Centauri Island."#0
+else do
+if (random=3)
+vstr This 3D hologram pans to show a detailed map of the mall, a #1red blip#0 indicating your current position as you travel up the escalator. Tinny, scratchy sounding music plays in your ear as the image flashes past the facades of the various shops and then flickers off, although not before whispering, #6"Muhlifain Mall,"#0 in a voice that echoes as it fades away, unguardedly suggestive.
+else do
+fidone
+~
+P
+xxleaveescalatorxx~
+~
+vstr The escalator nears the top and you quickly step off to the upper tier of the mall, free. For now...
+atecho 72182 Dodging an adroid, #5$n#0 steps off the escalator and onto onto this tier of the mall.
+trans_group -1 72151 72182
+trans 72182
+fi done
+~
+S
+#72152
+An Exclusive Jewellery Store~
+   Despite being plainly decorated, this shop somehow manages to ooze 
+exclusivity. The walls are simple panels of very dark brown, almost black 
+faux-wood inset with cubes that display the jewellery. Each piece is lit with 
+a gentle white glow, set on a small, velvety cushion the exact same shade of 
+navy blue as the extremely short pile, nanofibre carpet. Towards the back of 
+the room, a desk made of the same faux-wood as the wall panels stands, entirely 
+bare of any kind of decoration or technology but still somehow intriguing in 
+its sparsity. 
+~
+72 65536 0
+0
+D2
+~
+discreet door~
+1 -1  0 72153
+D5
+~
+metal hatch~
+1 -1  0 72133
+S
+#72153
+Outside A Discreet Store~
+   Clearly an exclusive kind of store, the window of the shop to the north is 
+entirely blacked out, attention-grabbing mainly in its utter lack of branding 
+or logos, other than 'Carbonics' written discreetly above the door in 
+tastefully plain letters. A kind of negative space against the backdrop of 
+endless, colourful adverts, even the adroids and holograms give it a wide 
+berth, no doubt due to some massively expensive contracts drawn up with other 
+corporations. Either way, this place positively screams class and the 
+stylishly blank, windowless door is nonetheless inviting. 
+~
+72 65536 0
+0
+D0
+~
+discreet door~
+1 -1  0 72152
+D1
+~
+~
+0 -1  0 72155
+D3
+~
+~
+0 -1  0 72150
+S
+#72154
+A Flashy Furniture Shop~
+   Beyond the blue tinted glass window, the mall walkway is visible along with 
+various passersby who seem to be entranced by the display. It is quite 
+impressive, gleaming furniture standing on hover-stands, everything expertly 
+lit. The floors here are a deep, dark faux-wood, the grain textured instead of 
+just printed on and the wall panels, perhaps oddly, are upholstered in some 
+kind of rough synthsilk in a tastefully soft shade of grey. 
+~
+72 65536 0
+0
+D1
+~
+hidden door~
+1 -1  0 72262
+D2
+~
+door~
+1 -1  0 72155
+Q1
+100
+You see a subtly hidden door here.
+~
+S
+#72155
+Entrance To Muhlifain Mall~
+   The window of the shop to the north covers the entire wall from the faux 
+quartz tiles to high ceiling, a very slight blue tint produced by a ring of 
+tiny lights set into the frame the only thing that alerts any would-be 
+customers to its existence. Within, painfully stylish looking furniture is 
+displayed on hover-stands and lit by individual spotlights that illuminate 
+gleaming metal and engineered leather. Further east, a set of #6sliding 
+doors#0 allow escape from the impressive chrion and plexiglass space of the 
+mall, although anybody coming in either direction finds themselves watched by 
+the sensors of many adroids, poised ready to spring. 
+~
+72 65536 0
+0
+D0
+~
+plexiglass door~
+1 -1  0 72154
+D1
+~
+sliding doors~
+1 -1  0 72157
+D3
+~
+~
+0 -1  0 72153
+P
+approach~
+door doors~
+if fighting
+vstr You can't do that while you're fighting!
+else do
+force -1 -1 emote The sliding doors hiss gently open as @ walks closer
+delay 2 emote steps through the sliding doors to outside
+delay 4 xxleavebasexx
+fi done
+~
+P
+xxleavebasexx~
+(null)~
+atecho 72157 The sliding doors hiss gently closed behind #5$n#0 after they step through from inside.
+trans_group -1 72155 72157
+trans 72157
+fi done
+~
+P
+l lo loo look ex exa exam exami examin examine~
+sli slid sliding door doors doo~
+vstr It looks like if you #6approach#0 these #6doors#0, they'll open automatically.
+~
+S
+#72157
+The Start Of Ma Wai Walk~
+   Stretching from just before the wall to the north off towards the south is a 
+well maintained street paved with squares of duracrete cut and repositioned to 
+create the image of a blazing sun that starts at the midway mark on the side of 
+the street and cutting off half of it. Adding to the effect are the colored 
+tiles ranging from dark orange for the body of the sun to the bright solar 
+flares reaching out from the globe of the sun across the road to the #6sliding 
+doors#0 of the Muhlifain Mall, down the road towards the south and even 
+climbing the wall. Unlike the flickering lines that lay flush on the street, 
+the ones traversing up the wall rise up from the surface, making it uneven to 
+the touch. 
+~
+72 65536 0
+0
+D1
+~
+door~
+1 -1  0 72158
+D2
+~
+~
+0 -1  0 72159
+D3
+~
+sliding doors~
+1 -1  0 72155
+Q0
+100
+Secret door, won't be here
+~
+E
+sun~
+   It takes close inspection to see the different tiles and how each was cut to 
+fit into the mural of the sun as a whole. Not only are the ones on the outer 
+rim of the sun cut, but the ones on the inside are also shaped and laid out in 
+such a way as to add to the effect of the rolling magma of the suns surface. 
+Blending a clever combination of shapes and colors this sun which starts at the 
+edge of the street looks very much like the one that lights the universe. The 
+solar flares are done in similar fashion though the colors are a little darker. 
+One solar flare lashes off down the street, one across the street and then 
+another loops up the wall then back to the sun itself. 
+~
+E
+chunk~
+   The hole in the wall is big enough to slide the toe of a foot in and gain 
+some leverage. Further up the wall are similiar chunks in the wall creating 
+more holes, giving the impression that someone could #6climb#0 the #6wall#0. 
+~
+E
+wall~
+   Standing at the edge of the road, the solar flares from the sun run up the 
+side of the wall and protrude about an inch from its surface. All of the wall 
+around them is dark and only makes the brilliant yellow stand out all the more. 
+Upon closer inspection, there appears to be a foot or hand sized chunk of the 
+wall missing that has been painted back on the inside so its impossible to see 
+from a distance greater than a foot and only believable when touched. 
+~
+P
+approach~
+door doors~
+if fighting
+vstr You can't do that while you're fighting!
+else do
+force -1 -1 emote The sliding doors hiss gently open as @ walks closer
+delay 2 emote steps through the sliding doors to inside
+delay 4 xxleavebasexx
+fi done
+~
+P
+xxleavebasexx~
+(null)~
+atecho 72155 The sliding doors hiss gently closed behind #5$n#0 after they step through from outside
+trans_group -1 72157 72155
+trans 72155
+fi done
+~
+P
+l lo loo look ex exa exam exami examin examine~
+sli slid sliding door doors doo~
+vstr It looks like if you #6approach#0 these #6doors#0, they'll open automatically
+~
+P
+1 climb~
+wall~
+force -1 -1 emote slides a hand into the missing chunk of the wall and clambers over onto the other side.
+atecho 72156 #5$n#0 clambers over the wall, and into the concealed garden.
+trans 72156
+atlook 72156
+~
+S
+#72158
+A Clean, Recently Renovated Building~
+   This building is mostly empty, save for a few shelves that have been 
+installed on the northern wall. From the heavy smell of paint and chemicals 
+that linger here, it is quite safe to assume that this building has gone under 
+recent renovation. The walls are pale grey in color and the dark, marble floor 
+has been gently polished. A northern window sits between shelves, and like its 
+twin on the eastern wall, they reveal the cloudy Venusian sky beyond. 
+~
+72 65536 0
+0
+D3
+~
+door~
+1 -1  0 72157
+S
+#72159
+A Curved Section Of Ma Wai Walk~
+   Reaching in from the northern side of the street are a couple brilliant 
+yellow pointed tips on the walkway that stop and leave a gap of black duracrete 
+squares before a tiny white planet appears. The surface has craters, the ones 
+furthest from the yellow tips looking to be covered in ice. The duracrete 
+pieces show no sign of wear and tear, appearing immaculately cared for. On the 
+curve around to the east rides the tail end of a white streaking comet standing 
+out against the black universe. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72157
+D1
+~
+~
+0 -1  0 72160
+E
+comet~
+   If there were stars on the street then some of the pieces of the comets tail 
+might mix and look like stars, but there are no stars here. The duracrete 
+pieces are all cut and placed so they look like tumbling pieces of white rock 
+confined into a small specified space. Some of the cuts are recognizable as 
+symbolizing rocks, but others look confusingly close to stars. The whole of 
+the commet cannot be seen, only about a foot of the tail is visible on this 
+side of the curve in the road. 
+~
+E
+mercury~
+   The entirety of this planet looks more like a moon by both color and surface 
+condition. The pieces of duracrete have been cut and placed so the surface of 
+this white planet appears to have lines running across it and many craters on 
+the surface. Inside the larger craters appears to be lined by ice and one in 
+particular actually has a sculpture that looks humanoid with a top hat and 
+wearing a three piece suit. Off on the very edge appears to be a biodome, but 
+there isn't enough of it in view to tell if there is a civilization built up in 
+it or not. 
+~
+E
+planet~
+   The entirety of this planet looks more like a moon by both color and surface 
+condition. The pieces of duracrete have been cut and placed so the surface of 
+this white planet appears to have lines running across it and many craters on 
+the surface. Inside the larger craters appears to be lined by ice and one in 
+particular actually has a sculpture that looks humanoid with a top hat and 
+wearing a three piece suit. Off on the very edge appears to be a biodome, but 
+there isn't enough of it in view to tell if there is a civilization built up in 
+it or not. 
+~
+S
+#72160
+Ma Wai Walk, Outside The Hydroponics Building~
+   Streaming in around the corner is a burning, white comet at the edge of the 
+duracrete tiled street. The teraformed planet in the center of this section of 
+the walkway appears to be out of the comets intended path. The surface of the 
+planet is done in dark green with an opaque color that obscures the actual 
+forms of the plantlife. A building to the east rises up just beyond the black 
+universe, no longer part of the mural. On the wall below a window is a square 
+planter with a short shrub growing inside that has shades of green and pink on 
+the leaves. 
+~
+72 65536 0
+0
+D1
+~
+door~
+1 -1  0 72161
+D2
+~
+~
+0 -1  0 72163
+D3
+~
+~
+0 -1  0 72159
+E
+comet~
+   This comet streaks around the corner, debris falling in a line behind it and 
+coming to be enveloped by a haze as it nears the main body that is about the 
+size of a small town on one of the planets. The entire thing is surrounded by 
+the haze as it blazes through space. 
+~
+E
+planter~
+   Upon closer inspection, this small shrub is actually a miniature tree that 
+grows up then sideways. The branches and leaves appear to recieve regular care 
+as they are well tended and shaped. While the tops of the little leaves are 
+dark green, the undersides hold a very light shade of pearl pink. 
+~
+E
+plant~
+   Upon closer inspection, this small shrub is actually a miniature tree that 
+grows up then sideways. The branches and leaves appear to recieve regular care 
+as they are well tended and shaped. While the tops of the little leaves are 
+dark green, the undersides hold a very light shade of pearl pink. 
+~
+E
+shrub~
+   Upon closer inspection, this small shrub is actually a miniature tree that 
+grows up then sideways. The branches and leaves appear to recieve regular care 
+as they are well tended and shaped. While the tops of the little leaves are 
+dark green, the undersides hold a very light shade of pearl pink. 
+~
+P
+l lo loo look pe pee peek~
+window win~
+force -1 -1 emote looks through the window above the planter.
+delay 2 xxsneakpeekxx
+~
+P
+xxsneakpeekxx~
+~
+atlook 72161
+set random 1d4
+if (random=1)
+atecho 72161 Through the window, #5someone #0glances inside.
+else do
+fidone
+~
+S
+#72161
+Hydroponics Bay~
+   The smell of foliage is strong in the crisp air here. Long rows of green 
+vegetables and herbs grow tightly together from long white tubes, each 
+organized with their respective species and stacked to the grated ceiling 
+above. The occasional ringing of footsteps can be heard with the sound of 
+gently trickling water. While the scuffed, tan floor is littered with fresh 
+and decaying plant matter, the bright, white walls that cover three sides and 
+continue eastwards past the isles of greenery to a more open area. Along the 
+northern wall is a metal grated staircase leading up to the ceiling above. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72162
+D3
+~
+door~
+1 -1  0 72160
+D4
+~
+~
+0 -1  0 72225
+K
+105 0 30 999 0P
+l lo loo look pe pee peek~
+win window~
+force -1 -1 emote looks out the window at the Ma Wai Walk.
+delay 2 xxsneakpeakxx
+~
+P
+xxsneakpeakxx~
+(null)~
+atlook 72160
+set random 1d4
+if (random=1)
+atecho 72160 #5Someone#0 glances out the window of the building.
+else do
+fidone
+~
+S
+#72162
+Hydroponic Arboretum~
+   This large room is filled with assortments of trees growing in rows. The 
+bases of these giants are emitting from long shallow water pools filled with 
+small grey stones. The canopy overhead is dotted with flowers, fruits, and 
+nuts, filling the room with natural hues and fragrances. The tan floor here is 
+dotted with fallen fruit surrounded by the remains of pruned plant matter which 
+only add to the bright white panels covering the walls and ceiling. To the 
+west you can see packed isles of small plants growing together. There is a 
+small indent in the floor in the southwest corner of the room next to a small 
+panel on the wall. 
+~
+72 65536 0
+0
+D3
+~
+~
+0 -1  0 72161
+D5
+~
+sliding-trapdoor~
+1 -1  0 72220
+K
+105 0 10 999 0S
+#72163
+Way A Bend In Ma Wai Walk~
+   The universe twists below along with the curves of the street, a slow 
+backdrop of tiny stars winking into existence. Duracrete shapes make up the 
+stars that surround the blue and green planet in the middle of this section of 
+road with a small, white moon orbiting around it. Off to the side of the road 
+a stand has been built. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72160
+D1
+~
+~
+0 -1  0 72164
+S
+#72164
+Before The Tech Lab~
+   Duracrete squares are placed in twisting patterns to place the dotting of 
+stars against the black backdrop of the road. A red planet comes into view 
+with a small smattering of buildings. Floating through space behind it is an 
+arc of rock fragments making a path across the road from the north and ending 
+like a pathway in front of the southern door. Beside the door is a sign that 
+reads 'Tech Lab' and a transparent plexiglass window. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72165
+D2
+~
+silvery magnon door~
+1 -1  0 72168
+D3
+~
+~
+0 -1  0 72163
+P
+l lo loo look pe pee peek~
+window win~
+force -1 -1 emote looks through the window next to the TECH LAB sign.
+delay 2 xxsneakpeekxx
+~
+P
+xxsneakpeekxx~
+(null)~
+atlook 72168
+set random 1d4
+if (random=1)
+atecho 72168 Through the window, #5someone #0glances inside.
+else do
+fidone
+~
+S
+#72165
+Ma Wai Walk High Speed Transit Tube Station~
+   As the road stretches on it comes to a transit tube built into the wall. 
+The duracrete street below is still covered in stars where the blackdrop can be 
+seen, but right in the center there is the largest planet in the solar system. 
+Ringed in different shades of brown and gas clouds it looks almost like a 
+sedimentary rock except for the great red spot on its surface. Unlike the 
+other planets, this one has dozens of moons orbiting it. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72167
+D3
+~
+~
+0 -1  0 72164
+D5
+~
+not really here door~
+1 -1  0 72166
+S
+#72167
+A Quiet Part Of Ma Wai Walk~
+   The lessened traffic in this area lends to the quieting of this section of 
+the road. Some sound still filters along the walkway from the western part of 
+the road. The starry backdrop of the road wraps around the bend. Pinioned on 
+the corner rests a large gaseous looking planet made out of rounded off pieces 
+of colored duracrete. A wide ring symbolizes the thousands of rings around the 
+planet and stretches around either corner of the curve in the street. 
+~
+72 65536 0
+0
+D2
+~
+~
+0 -1  0 72172
+D3
+~
+~
+0 -1  0 72165
+S
+#72168
+Tech Lab~
+   Lining the eastern wall is one long worktable with stools set out every few 
+feet. Hanging on the wall from little hooks or in wire baskets are various 
+tools and small devices and along the western wall there are different sorts of 
+equipment stored that don't fit with all the larger, advanced machines in the 
+middle of the room. There is just about everything an electrician or mechanic 
+would need held within this room. On display on the northern wall beside the 
+window are a couple of art pieces made from old time mechanical parts. 
+~
+72 65536 0
+0
+D0
+~
+silvery magnon door~
+1 -1  0 72164
+D2
+~
+~
+0 -1  0 72170
+D3
+~
+pine door~
+1 -1  0 72169
+E
+art~
+   The first item on display is what looks like a long bodied dog with a large 
+gear for its head and a flattened spraycan for its body with wire wrapped 
+around and welded in some places to hold it all together. Amusingly, there is 
+a screw in the wall from which its leash handle is hung, leaving the dog 
+dangling from its leash. 
+
+Hung on the opposite side of the window is a cat with its wire tail curled 
+around a screw in the wall. All the whiskers covering its face are done in 
+strands of twisted wire attached to a conical head. A piston has been used as 
+the body of the animal with metal tubing for the legs creating bends at the 
+knees and feet at the bottom. 
+~
+P
+l lo loo look pe pee peek~
+window win~
+force -1 -1 emote looks through the window on the northern wall.
+delay 2 xxsneakpeekxx
+~
+P
+xxsneakpeekxx~
+(null)~
+atlook 72164
+set random 1d4
+if (random=1)
+atecho 72164 Through the window, #5someone #0glances outside.
+else do
+fidone
+~
+S
+#72169
+A Large Storage Closet~
+   While obviously being designed for storage there is plenty of space in here 
+for several people to be comfortably surrounded by various shelves and lockers 
+lining the walls. The walls themselves are made from white painted duracrete, 
+so despite the mildly confined space there is a light feel to the room. On one 
+wall about five feet up from the floor is a small window looking outside. 
+~
+72 65536 0
+0
+D1
+~
+pine door~
+1 -1  0 72168
+E
+window~
+   Shifting clouds drift by occassionally obscuring the view of the blue sky. 
+Only a small portion of the ship can be seen to either side. 
+~
+S
+#72170
+A Spacious Workshop~
+   This room is organized a little different than the other tech room, but 
+seems to have much the same things in it. Lining the eastern wall is another 
+long work table with small containers stacked neatly on the other table with 
+various tech equipment on the northern side and flat drawered containers fill 
+with mechanical tools on the southern side. Along the wall there are three 
+different round windows that look out. Filling the space in the middle of the 
+room are all manner of immobile machines with the mobile machines stacked 
+neatly along the southern wall when they were not in use. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72168
+D2
+~
+polished oak door~
+1 -1  0 72171
+E
+windows~
+   Along the wall are three small windows, each olding varying shapes of clouds 
+inside each of the windows. They don't show much as the individual windows are 
+only about a foot in diameter each. 
+~
+S
+#72171
+A Cozy Conference Room~
+   Not meant for huge audiences, this room is mediocre in size. The walls are 
+done in a light creamy color with five different pictures of technology 
+combined with mechanics placed along the walls. The levels of advancement 
+increase starting from picture #6one#0 by the door and on around the room. Two 
+of the pictures frame the sides of a decent sized window at the far end of the 
+room. 
+~
+72 65536 0
+0
+D0
+~
+polished oak door~
+1 -1  0 72170
+E
+five~
+   A vision of the future, this robot is covered from head to toe in synthetics 
+to make it look like human skin. The head is topped off with tousled brown 
+hair. The lack of life in the blue eyes is the only giveaway that this is not 
+a picture of a living human. The robot is dressed in a white button-up shirt, 
+black dress slacks and a pair of black dress shoes. It stands with hands 
+clasped in front of itself and blankly staring straight foreward as if awaiting 
+command. 
+~
+E
+four~
+   Shiney titan metal has been carefully molded into the shape of a human head 
+complete with a small tuft of short hair atop the head with eyes, nose, mouth 
+and ears for the face. Permanently smiling, this android robot holds a perfect 
+posture with a straight back and head held up high. The metal casing has been 
+molded to look like the musculature of a mans body while being anatomically 
+undefined in other places. The gears and mechanisms that make the robot are 
+covered completely from from the head all the way down both arms and legs. 
+~
+E
+three~
+   Rounded and eggshaped are words the could describe the object that rests 
+atop the gears and mechanisms that make up this robotic set of arms. The 
+'head' does not contain any facial features or hair atop the head, but it is 
+placed in the middle of the mechanical shoulders and attached with a few metal 
+bars to hold it in place. Beneath a criss crossed open mesh of metal strips 
+are all sorts of old earth fashioned gears, springs and wires that would make 
+the arms attached to the shoulders work. A wooden tabletop runs across the 
+picture just below the chest of the robot with a metal plate screwed into its 
+surface to secure the robot in place. 
+~
+E
+two~
+   While no where near modern technology, this robot is slightly advanced. It 
+has the original cylinder body with one portion of the cylindar that can turn 
+and an attached camera on the moving part. Also attached to either side are a 
+set of movable 'arms' with pinchers for hands. The treads have been upgraded 
+to a trio of rotary wheels inside the tread that can flip to help climb small 
+obstacles. Currently it is positioned with the arms held up as if in surrender 
+and camera faced forward. 
+~
+E
+one~
+   Likely the oldest design of a robot, it has no arms and no face. It looks 
+like a rickety cylinder with two wheeled tread for feet. The body is made with 
+a metal that lacks any shine or special decoration like most protype robots. 
+The 'robot' is facing at a slight angle, giving sight to the side of it that 
+has a scrape on the casing as if it had fallen and been scratched. 
+~
+E
+2.picture~
+While no where near modern technology, this robot is slightly advanced.  It has the original cylinder body with one portion of the cylindar that can turn and an attached camera on the moving part.  Also attached to either side are a set of movable 'arms' with pinchers for hands.  The treads have been upgraded to a trio of rotary wheels inside the tread that can flip to help climb small obstacles.  Currently it is positioned with the arms held up as if in surrender and camera faced forward.
+~
+E
+window~
+   Through the decent sized window lots of clouds can be seen drifting by. 
+When they clear the twisting form of the mists can be seen closer to the 
+surface and on occassion there is the rare glimpse of the terraformed surface 
+of Venus. 
+~
+S
+#72172
+A Deadly Quiet Section of Ma Wai Walk~
+   The sounds of normal traffic have faded this far down the road, leaving it 
+void of any normal background sound. Any noise made here would seem to echo 
+off the walls of the surrounding buildings. Despite the lack of sound, the 
+road mural continues with the intricate artwork. Atop the backdrop of dark, 
+starry skies stands a light blue planet with a vertical equator, the opposite 
+of any other planet thus far. There are at least ten moons circling the blue, 
+landless planet. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72167
+D1
+~
+~
+0 -1  0 72173
+S
+#72173
+Walk Before The Production Centre~
+   The road wanders along till it rounds off, ending with a sign that reads 
+'Production Centre', positioned between the door and window of the building. A 
+sea blue planet takes up most of the center of the road with a horizontal flow 
+of colors to indicate the equator. A total of thirteen moons are positioned in 
+various places around the planet, the largest of which rests like a foot mat in 
+front of the door. It has delicate detail that shows a small volcano, erupting 
+with a white substance. 
+~
+72 65536 0
+0
+D2
+~
+strong manon door~
+1 -1  0 72174
+D3
+~
+~
+0 -1  0 72172
+P
+l lo loo look p pe pee peek~
+win window~
+force -1 -1 emote looks through the window next to the PRODUCTION CENTRE sign.
+delay 2 xxsneakpeekxx
+~
+P
+xxsneakpeekxx~
+(null)~
+atlook 72174
+set random 1d4
+if (random=1)
+atecho 72174 Through the window, #5someone #0glances inside.
+else do
+fidone
+~
+S
+#72174
+A Quaint Lounge~
+   While not being massive in size, the space in this room seems sufficient 
+with the furniture lining the walls in an uncluttered manner to leave the 
+middle of the floor open. Giving a view of the street outside, a decent sized 
+window takes up the center of the northern wall. The polycrete surface of the 
+wall has been painted a light blue and the floor has been carpeted with thickly 
+weaved strands of royal blue polymesh. 
+~
+72 65536 0
+0
+D0
+~
+strong manon door~
+1 -1  0 72173
+D1
+~
+~
+0 -1  0 72175
+P
+l lo loo look p pe pee peek~
+win window~
+force -1 -1 emote looks through the window along the northern wall.
+delay 2 xxsneakpeekxx
+~
+P
+xxsneakpeekxx~
+(null)~
+atlook 72173
+set random 1d4
+if (random=1)
+atecho 72173 Through the window, #5someone #0glances outside.
+else do
+fidone
+~
+S
+#72175
+An L-Shaped Workroom~
+   Built around the curve of the walkway, a titanium table is attached to the 
+wall along the northern side all the way across with a long, slender window 
+above it and several high backed chairs placed before it. Scattered along the 
+top of the table are several different types of tools for working polymesh 
+materials. Along the eastern wall are several machines used to manufacture 
+fabrics and other materials. In the corner between the doorways is some 
+shelving for storage. 
+~
+72 65536 0
+0
+D3
+~
+~
+0 -1  0 72174
+E
+chairs~
+   Molded from solid plastic, each of the chair bring their own bright color to 
+the room. Ranging in colors from yellow to pink and blue to green, its the 
+comfortable gel cushions match the pastel colors of the plastic frames. Each 
+of the chairs is welded to the floor at the base of the thirty inch pole they 
+rest on. 
+~
+E
+chair~
+   Molded from solid plastic, each of the chair bring their own bright color to 
+the room. Ranging in colors from yellow to pink and blue to green, its the 
+comfortable gel cushions match the pastel colors of the plastic frames. Each 
+of the chairs is welded to the floor at the base of the thirty inch pole they 
+rest on. 
+~
+E
+table~
+   The main body of the table is made from titanium and polished till it 
+shines. Magon is used in places to create etched motifs along the surface of 
+various clothing and armor designs. There are bars going from the floor up to 
+the underside of the table to offer further support about every five feet. 
+~
+E
+window~
+   Like looking through a very long visor slit, the view through the window 
+depends on the weather. When the clouds do not block the view, the sight of 
+the outside of the building takes up most of the scene with a glimpse of the 
+sky and undefined greenery in the far distance. 
+~
+S
+#72176
+Sky City Smithy~
+   Treated duracrete walls made to withstand the heat from the furnace rise 
+around the room in a silvery color. The floor has tiles cut into geometric 
+shapes and colored to create a mural of an ancient earth armorsmith which 
+starts at the hearth of the furnace and radiates out across the whole floor. 
+The ceiling itself also has a motif on it made out of the little squares and 
+triangles of duracrete. In the corner opposite the furnace is a workbench that 
+spans the length of one wall with all sorts of tools of the trade that could 
+come in handy. Not to mention, on the wall next to the bench are several 
+machines that could be used in the making of several types of weapons and 
+armor. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72175
+D1
+~
+heat-resistant door~
+1 -1  0 72177
+E
+ceiling~
+   Small cuts of colored duracrete span the length of the ceiling, almost 
+giving the feel of being outdoors except that it cannot be both night and day 
+outside at the same time. Starting above the furnace is a good portion of the 
+sun that is only cut off by the corners of the ceiling. The suns rays spread 
+out over nearly half of the ceiling with some clouds misting her and there till 
+it gives way to a sunset at about the middle of the ceiling. Then it fades 
+into darkness, bringing to life lots of twinkling stars. 
+~
+E
+motif~
+   Small cuts of colored duracrete span the length of the ceiling, almost 
+giving the feel of being outdoors except that it cannot be both night and day 
+outside at the same time. Starting above the furnace is a good portion of the 
+sun that is only cut off by the corners of the ceiling. The suns rays spread 
+out over nearly half of the ceiling with some clouds misting her and there till 
+it gives way to a sunset at about the middle of the ceiling. Then it fades 
+into darkness, bringing to life lots of twinkling stars. 
+~
+E
+floor~
+   Spanning out from the hearth of the furnace, small squares, triangles, 
+octagons and pentagons make an elaborate picture. A man with buldging muscles, 
+dressed it what could best be described as patch work clothes worn by humans 
+who made their clothes from animal skins back in the begining years of Earth, 
+holds a set of old fashioned 'tongs' to transfer something between the real 
+forge and an anvil that has a hammer leaning up against its side. Moving 
+outward the rest of the ramshackle shop can be seen made of trees with the 
+limbs cut off and leaves for a roof with various outdated tools scattered here 
+and there. Leaving the shop you find the brick ring and the wooden cover to a 
+well with a bucket hanging under the roof. From there the view turns into a 
+dirt road with grasslands beyond and cattle grazing on the greenery. 
+~
+E
+mural~
+   Spanning out from the hearth of the furnace, small squares, triangles, 
+octagons and pentagons make an elaborate picture. A man with buldging muscles, 
+dressed it what could best be described as patch work clothes worn by humans 
+who made their clothes from animal skins back in the begining years of Earth, 
+holds a set of old fashioned 'tongs' to transfer something between the real 
+forge and an anvil that has a hammer leaning up against its side. Moving 
+outward the rest of the ramshackle shop can be seen made of trees with the 
+limbs cut off and leaves for a roof with various outdated tools scattered here 
+and there. Leaving the shop you find the brick ring and the wooden cover to a 
+well with a bucket hanging under the roof. From there the view turns into a 
+dirt road with grasslands beyond and cattle grazing on the greenery. 
+~
+S
+#72177
+An Oversized Storage Closet~
+   This large closet offers plenty of room to store various materials in bulk. 
+One wall is lined with shelves for storing some of the smaller things. Without 
+looking up at the ceiling this would be nothing short of a plain closet with 
+white painted duracrete walls and a simply tiled floor. 
+~
+72 65536 0
+0
+D3
+~
+heat-resistant door~
+1 -1  0 72176
+E
+ceiling~
+   Someone had fun arranging the tiles on the ceiling. They are arranged in a 
+circular pattern that seems to turn before the beholders eyes though should one 
+tile be stared at it actually does not move. Moving around only seems to cause 
+the circle of tiles to spin faster. 
+~
+S
+#72179
+A High Speed Transit Tube~
+High speed transit tube. Blah.
+~
+72 65536 0
+0
+S
+#72180
+The Start Of Hadar Way~
+   Beyond the filigreed metal gates to the north, a busy plaza is visible, its 
+black faux-granite giving way here to a light, synthetic marble that glints as 
+it catches the light. This is the start of a suspended walkway, wide and 
+spacious, the swirling clouds visible over the edge of the metal railings that 
+line the edges, the bullet shaped capsules of the transit tube system visible 
+as they shuttle back and forth to the other side of the city. The walkway 
+stretches south, visible for a distance before appearing to turn a corner. 
+~
+72 65536 0
+0
+D0
+~
+set of massive metal gates~
+3 -1  0 72092
+D2
+~
+~
+0 -1  0 72203
+S
+#72181
+New Room~
+No Description Set.
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72180
+S
+#72166
+Maintenance Hatch?~
+No Description Set.
+~
+72 65536 0
+0
+D4
+~
+~
+0 -1  0 72165
+S
+#72182
+At The Top Of An Enormous Escalator~
+   Through the vaulted roof of plexiglass panels, the sky bears down in a 
+welcome escape from the barrage of visual marketing aids and special offers. 
+Benches rest alongside the expansive window, allowing respite from the bustle. 
+The view of the city peels away to the west, the shuttle bay partially visible 
+with its regular stream of traffic that from here seems so much smaller. Great 
+swathes of cloud hide the drop beneath but the industrious activity of 
+hovercranes by the dozen lends something to the horizon. An #6escalator#0 
+draws a stream of consumers up from the lower level, the geometric tiling 
+guiding their path, while on another, the descending flow clutch their new 
+purchases, moving in pairs down the broad conveyance. To the east behind the 
+downward escalator is a turnstile with a universal sign for toilets 
+holoprojected and turning slowly before it. To the west and to the south the 
+concourse continues. 
+~
+72 65536 0
+0
+D1
+~
+plexiglass door~
+1 -1  0 72191
+D2
+~
+~
+0 -1  0 72187
+D3
+~
+~
+0 -1  0 72183
+E
+reformat~
+Through the vaulted roof of plexiglass panels, the sky bears down in a 
+welcome escape from the barrage of visual marketing aids and special offers. 
+Benches rest alongside the expansive window, allowing respite from the bustle. 
+The view of the city peels away to the west, the shuttle bay partially visible 
+with its regular stream of traffic that from here seems so much smaller. Great 
+swathes of cloud hide the drop beneath but the industrious activity of 
+hovercranes by the dozen lends something to the horizon. An #6Escalators#0 draw a 
+stream of consumers up from the lower level, the geometric tiling guiding their 
+path, while the descending flow clutch their new purchases, moving in pairs 
+down the broad conveyance. To the east behind the downward escalator is a 
+turnstile with a universal sign for 'Toilets' holoprojected and turning slowly 
+before it. To the west and to the south the concourse continues. 
+~
+E
+escalator~
+You can #6ride#0 the #6escalator#0 to return to the ground floor
+of the mall, although a couple of adroids lurk not quite
+inconspicuously in wait
+~
+K
+105 0 60 999 0P
+ri rid ride~
+es esc esca escal escala escalat escalato escalator~
+if fighting
+vstr You can't do that while you're fighting!
+else do
+force -1 -1 emote approaches the escalator and steps carefully onto the top step before starting to gracefully descend towards the ground floor of the mall
+delay 2 xxadroidxx
+fi done
+~
+P
+xxadroidxx~
+(null)~
+vstr You steadfastly keep your gaze lowered to avoid eye contact with an adroid, although it dips down and sneakily projects its scanners towards your retinas before launching an all-out advomercial attack.
+delay 2 xxescalatoradxx
+fi done
+~
+P
+xxescalatoradxx~
+~
+delay 2 xxleaveescalatorxx
+set random 1d3
+if (random=1)
+vstr #6"Biotique, because genes are always in fashion!"#0 This statement delivered in a top-tier Atlas City purr, the adroid proceeds to beam a dizzying series of images set to electronic music at you, all of them featuring hideously good looking models draped in expensive looking, bio-engineered clothing. You feel somewhat inadequate by comparison.
+else do
+if (random=2)
+vstr You barely have time to blink before a pulse of bright blue light blocks out the surroundings and a blast of raucous electro-pop plays drowns out all other noise. #6"The Blue Star Bar,"#0 purrs a voice in your ear. #6"Find us on Epsilon Centauri Island."#0
+else do
+if (random=3)
+vstr This 3D hologram pans to show a detailed map of the mall, a #1red blip#0 indicating your current position as you travel up the escalator. Tinny, scratchy sounding music plays in your ear as the image flashes past the facades of the various shops and then flickers off, although not before whispering, #6"Muhlifain Mall,"#0 in a voice that echoes as it fades away, unguardedly suggestive.
+else do
+fidone
+~
+P
+xxleaveescalatorxx~
+(null)~
+vstr The escalator flattens out and you quickly step off, commercially assaulted but otherwise unharmed.
+atecho 72151 Quickly stepping off the escalator as it flattens out, ducks past an adroid and emerges onto this floor of the mall.
+trans_group -1 72182 72151
+trans 72151
+~
+S
+#72183
+Upper Muhlifain Mall~
+   The corridor is broad and clearly designed to allow large groups of people 
+to pass through. The wall space of the shop that backs onto here is the canvas 
+for infomercials about gym services, health advice, and nutrition. Opposite 
+are the expansive plexiglass window tiles that look out over cloud banks 
+masking the planet below, and in a westerly direction parts of Sky City. 
+Geometric quartz patterns guide consumers down the central space toward the 
+source of a range of piped music. The window display is taken up by the latest 
+built-in amp hybrid guitars and hologram that appears to conduct the music 
+playing at any given time. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72182
+D3
+~
+trebleclef decorated door~
+1 -1  0 72184
+S
+#72184
+A Busy Music Shop~
+   A rolling series of musical soundbites continuously plays in the background, 
+overlaid by a man's voice inviting consumers to be the next musical master or 
+extolling the virtues of the various brands instore. The display is carved up 
+amongst the instrumental categories, with brass neighbouring woodwind, 
+electronic rubbing shoulders with synth. Glass cabinets protect much of the 
+stock from the roaming hands of customers but the centre space is taken up by a 
+majestic electronic grand piano. Toward the back of the shop a triple pedal 
+drumkit has been set up with a holographic figure pretending to play. The 
+figure changes gender and race occasionally, always looking very happy with the 
+instrument. 
+~
+72 65536 0
+0
+D1
+~
+trebleclef decorated door ~
+1 -1  0 72183
+D2
+~
+sturdy security door~
+1 -1  0 72185
+E
+format~
+~
+E
+drumkit~
+A series of matte black hexagonal boxes are linked together by subtle hinges, allowing for the kit to be posed or shaped in a variety of configurations while seemingly composed of one solid piece. It's drum heads are electronically amplified with adjustable volumes, different tones, and even different instrument sounds. Cutting edge sensitivity technology means the kit need not even be struck. The holographic figure demonstrating it's use changes colours and represents different creeds and genders, pushing the idea that just about anybody can pick up and play.
+~
+E
+drum~
+~
+S
+#72185
+Music Shop Storeroom~
+Shop: 72184
+~
+72 65536 0
+0
+D0
+~
+sturdy security door~
+1 -1  0 72184
+D1
+~
+sturdy security door~
+1 -1  0 72186
+D2
+~
+~
+0 -1  0 72260
+S
+#72186
+A Quirky Gift Shop~
+An eclectic wash of colours grab at the eyes and demand attention of the 
+people milling around inside. Novelty gifts, ornate pieces of pottery, 
+personalised stuffed toys, and coloured gift boxes make up one section, while 
+another wall is taken up by a whole array of different kinds of native fauna 
+arranged into bouquets. Quaint video diaries in pastel colours are advertised 
+by a tiny hologram panda that suggests recording memories of Venus to make 
+a keepsake. 
+~
+72 65536 0
+0
+D1
+~
+colourful plexiglass door~
+1 -1  0 72187
+D3
+~
+sturdy security door~
+1 -1  0 72185
+S
+#72187
+Southern Concourse~
+   The way comes to an end here with shops either side, the patterned tiles 
+forming a convergence of swirls decorated with seating and large plants 
+spilling over with luscious plantlife. Pride of place facing the oncoming 
+crowds is a holoprojection promoting Gaiman Corp. The company logo is followed 
+by still shots of happy people, families, workers, and a vision of idyllic 
+Venus. To the east behind floor to ceiling plexiglass window displays is a 
+salon, the stylists within tending to a mix of male and female clients. To the 
+west, a thousand ideas for a nice gift are offered up by a creative window 
+display. A stuffed toy parrot perches amidst a mocked up jungle greenery with 
+a host of other stuffed toys, while fashion jewellery spills out of a gift box 
+designed like a treasure chest. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72182
+D1
+~
+advert plastered door~
+1 -1  0 72188
+D3
+~
+colourful plexiglass door~
+1 -1  0 72186
+K
+105 0 20 999 0S
+#72188
+The Reception Of A Stylish Salon~
+   Pleasant floral scents rush forth immediately upon entry, accompanied by the 
+brisk current of warmth flowing from the rear of the salon. An S-shaped desk 
+setup with the latest ranges of haircare products is set near the door. 
+Seating is set up to either side where clientele await the ministrations of the 
+stylists further toward the back of the room. A holoprojector runs short info 
+clips about the latest styles, how to care for them, and what products are 
+must-have as it hovers around the area. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72189
+D3
+~
+advert plasted door~
+1 -1  0 72187
+K
+105 0 10 999 0S
+#72189
+The Rear Of A Stylish Salon~
+   At the rear of the salon is a riot of noise and activity - chatter from the 
+hair stylists and their customers compete with the drone of expensive hair 
+beautification technology. New looks are moulded and discarded with 
+disparitive ease to the backdrop of electro-pop that occasionally raises a 
+singalong. Hair care tips are traded beside gossip with consumer suggestions 
+gently tossed in for good measure. 
+~
+72 65536 0
+0
+D0
+~
+plain white door~
+1 -1  0 72190
+D3
+~
+~
+0 -1  0 72188
+S
+#72190
+Break Room and storage closet.~
+   Row upon row of ordered metal shelves are filled with labelled boxes, 
+crates, barrels, and loose goods. Strips of halogen cast an ample amount of 
+light. To one side a table and chairs is set up, copies of the latest gossip 
+and fashion datazines are well thumbed. 
+~
+72 65536 0
+0
+D2
+~
+~
+0 -1  0 72189
+D3
+~
+~
+0 -1  0 72191
+S
+#72191
+Unisex Public Toilets~
+   Beyond the turnstiles awaits a large, busy, open plan space of quartz tile 
+and hygienic white fittings. Though the restroom is unisex, the design allows 
+for some opportunities of privacy in three blocks of cubicles and a central 
+island of basins. A chirpy little domed robot maintains the cleanliness of the 
+area, thanking visitors and reminding them to wash their hands 
+~
+72 65536 0
+0
+D3
+~
+door~
+1 -1  0 72182
+S
+#72178
+Holoplex Maintenance~
+   The hustle and bustle of the lobby above is almost inaudible down here. The 
+ceiling and walls are cast out of a very solid, tile-textured durasteel, 
+reinforced at even spacing with beams, for added support. The floor is plain 
+duracrete with a treaded texture for assisted traction. The main content of 
+this room appears to be vastly complex machinery, whirring and buzzing noisily 
+as it performs all the tasks a holo-theatre would need, from data storage to 
+projection status. To the east, a large double-door allows passage to a 
+quietly humming room. 
+~
+72 65536 0
+0
+D1
+~
+wide double-doors~
+1 -1  0 72192
+D4
+~
+~
+0 -1  0 72149
+S
+#72192
+Holoplex Security Hub~
+   This room is much smaller than the others, not much more than a cozy, 
+circular nook. Still though, every inch has been packed with monitors hooked 
+in to the walls, offering touch-screen controls. A series of buttons, switches 
+and dials run along a console mounted below each monitor, giving a large 
+variety of abilities to the use; Lighting control, temperature adjustment, 
+doorlocks, escalator direction and more importantly, a panic button to secure 
+the entire theatre in the event of a catastrophe. 
+~
+72 65536 0
+0
+D1
+~
+thick durasteel door~
+1 -1  0 72193
+D3
+~
+wide double-doors~
+1 -1  0 72178
+S
+#72193
+Holoplex Power Supply~
+   This room is under much tighter security than the rest, watched by a large 
+number of cameras. The only entrance is a think, bulky durasteel automatic 
+door to the west, which offer passage only to those in possesion of proper 
+clearance. The walls, ceiling and floor are all solid duracrete with thick 
+polyprop siding to dampen the deafening hum of the machinery contained here. 
+Massive, complex generators sit flush against the walls, peppered by glowing 
+status lights and touchscreen interface control panels, giving off an eery glow 
+that reflects from the adjacent machines. Occupying the center of the room is 
+a series of monitors, displaying control options for the holotheatres 
+themselves. 
+~
+72 65536 0
+0
+D3
+~
+thick durasteel door~
+1 -1  0 72192
+S
+#72194
+Theatre Hallway~
+   Much the same as the entrance, this hallway implies a sense of grandness, 
+though it's not as wide, or long. The floors are the same synthetic wood, 
+interspaced with artistic motifs of classic tragedy/comedy masks, made of 
+heavily polished synthmarble. The walls are lined with even more curtained 
+holoposters for movies, blaring and fighting for your attention with their 
+little displays for their respective films. The hall continues to the east 
+through a wide archway, past more posters still. In the western wall, a series 
+of #6escalators#0 carry citizens up from the lobby, or back down. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72195
+D5
+~
+~
+0 -1  0 72149
+S
+#72195
+Before The Theatre Room~
+   Continuing down the hall, the lighting grows more and more dim. Curtains 
+appear, hanging from the ceiling in long flows of elegent burgundy synthsilk. 
+The synthwood floor turns in to lush polymesh carpeting, dyed an even shade of 
+rich purple. Against the southern and northern wall, two #6escalators#0 lead 
+to and from the second story seating for the theatre room, which resides behind 
+a pair of red, tassled drapes, embroidered with twin comedy/tragedy masks 
+respectively. Potted, genetically enriched flower plants line the hallway, 
+rooted in multicolored hyrdoponic pebbles. Their leaves shimmer in a wide 
+variety of unnnatural colors, drawing attention. 
+~
+72 65536 0
+0
+D1
+~
+embroidered drapes~
+1 -1  0 72196
+D3
+~
+~
+0 -1  0 72194
+D4
+~
+~
+0 -1  0 72197
+S
+#72196
+A Quiet, Dim Theatre~
+   The theatre room is possibly the grandest of all rooms in the cinema, lit 
+with dim chandeliers affixed to the high ceiling. The floor gently slopes 
+downward as it nears the holostage, set with row after row of luxurious 
+midnight blue synthleather seats. Massive, heavy curtains hide the stage when 
+no production is in play. When there is one, they pull back seemingly of their 
+own will to reveal the barren white-painted polycrete room, where the 
+projections will appear. Above the western half of the room, an overhanging 
+platform supports the top-tier audience. 
+~
+72 65536 0
+0
+D3
+~
+embroidered drapes~
+1 -1  0 72195
+D4
+~
+~
+0 -1  0 72198
+P
+l lo loo look ex exa exam exami examin examine~
+ho hol holo holos holost holosta holostag holostage st sta stag stage~
+vstr There's a ventilation grill on the front of the stage that looks like you could slide it aside and squeeze through.
+~
+P
+sl sli slid slide sq squ sque squee squeez squeeze pu pus push o op ope open~
+gr gri gril grill thr thro throu throug through~
+if fighting
+vstr You can't do that while you're fighting!
+else do
+atecho 72082 From the theatre beyond, #5$n#0 slides the ventilation grill aside and squeezes into the space beneath the stage, closing it behind them.
+force -1 -1 emote drops into a crouch near the stage, sliding open a ventilation grill which they close behind themselves after squeezing through.
+delay 2 xxsqueezethroughxx
+~
+P
+xxsqueezethroughxx~
+(null)~
+trans_group -1 72196 72082
+trans 72082
+fi done
+~
+S
+#72197
+A Wide Entryway, Before The Theatre~
+   This room is wider than the hall below and fairly shorter. It appears to be 
+a simple landing, #6escalators#0 against the southern and northern walls 
+allowing access to it. A few rows of luxurious opera seats offer a place to 
+settle, to watch the holostage to the east. Richly colored, red curtains hang 
+between the room and the stage, embroidered with carefully detailed depictions 
+of play scenes from long ago. The floor beneath the seats is more synthwood, 
+mahogany by the looks. The rows leading around the seats are sloped gently, 
+covered by soft turf green carpeting. At the front of this viewing platform, a 
+synthwood plated durasteel rail prevents those of a clumsier nature from 
+falling to the main floor of the theatre room. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72198
+D5
+~
+~
+0 -1  0 72195
+S
+#72198
+Air Above A Theatre~
+This is the painful distance between the viewing platform and the main theatre floor. Good luck.
+~
+72 66560 0
+0
+D3
+~
+~
+0 -1  0 72197
+D5
+~
+~
+0 -1  0 72196
+S
+#72199
+SciVa Laboratories Entrance~
+   Polished to a blinding sheen, this narrow entry hall sports walls and floors 
+made from tile-sectioned durasteel plates. Laser-etched in to the wall tiles 
+are maps of various atomic structures, from caffiene to synthetic bonding 
+agents. Between the structures of tin and aluminium, on the west wall, a large 
+and durable polyprop door is marked as the exit. Farther south along the 
+pristine floor there resides another similiar door, offering access to what a 
+holosign declares to be "MAIN LABORATORY". A large holosign designed to 
+resemble a DNA sequence proclaims "SciVa Laboratories - Where Science and 
+Innovation meet!" 
+~
+72 65536 0
+0
+D2
+~
+polyprop door~
+1 -1  0 72200
+S
+#72200
+SciVa Laboratory~
+No Description Set.
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72199
+D2
+~
+~
+0 -1  0 72202
+D3
+~
+~
+0 -1  0 72201
+S
+#72201
+New Room~
+No Description Set.
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72200
+S
+#72202
+New Room~
+No Description Set.
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72200
+S
+#72016
+The Generic Tube room for Medbay~
+   This will be the generic tube room to go to the medbay. Insert description! 
+~
+72 67174408 0
+0
+P
+xxleavexx~
+(null)~
+if oexist(72019,72016)
+else do
+put 72019 72016
+fi done
+~
+S
+#72203
+An Airy Stretch Of Hadar Way~
+   The walls of the building to the west are made of panels of a smooth, 
+polished kind of stone, not dissimilar colour from the fake marble slabs 
+underfoot. A few windows made of a mirrored plexiglass are set into the front, 
+along with a rectangular shaped planter that sits on the ground, housing a 
+variety of lush, thick looking ferns mixed with bright green stalks that sprout 
+huge carmine red flowers. To the south, the suspended walkway continues, 
+another arm of the city visible far to the east while the backs of the 
+buildings of Epsilon Centauri Island are visible northward. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72180
+D2
+~
+~
+0 -1  0 72205
+D3
+~
+synthoak doors~
+1 -1  0 72204
+S
+#72204
+The Agena Learning Centre~
+   The interior of the learning centre has been lavishly decorated with 
+beautiful plants and engineered marble of a dark grey color. A fine, 
+short-cropped, maroon carpet leads the path from the door to the center of the 
+large chamber where a circular, synthoak counter rests, bordering a towering 
+machine that touches floor to ceiling. The various machines and shelves 
+throughout the centre have been methodically arranged and there is a rather 
+geometric feel to the floor plan of the chamber. Though people can be seen 
+lounging and browsing through the equipment available here, the atmosphere is 
+very quiet. Against the southern wall is a door and behind it is a staircase 
+that leads up. Holotext hovers on the door, reading 'Overlook'. Lamps, 
+diamond in shape, hang overhead and bathe the room in an even, comfortable 
+light. 
+~
+72 65536 0
+0
+D1
+~
+synthoak doors~
+1 -1  0 72203
+D4
+~
+sliding door~
+1 -1  0 72227
+S
+#72205
+Further Along Hadar Way~
+   This area of the suspended walkway is quiet but for the foot traffic that 
+travels along its length, occasional hints of music and voices visible from 
+further north and the hiss and hum of the transit tubes drifting in from the 
+south, carried by the wind. Over the railing to the east, the clouds that 
+surround the sky city are thick, just the odd glimpse of green visible far, far 
+below. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72203
+D2
+~
+~
+0 -1  0 72206
+S
+#72206
+A Corner Of Hadar Way~
+   Curling around the corner, this suspended walkway is easily wide enough to 
+accommodate multiple people walking in either direction, the rest of the city 
+visible in a huge, arching curve from the north and right around to the south 
+east. Synthetic marble makes up the slabs underfoot, and the dizzying drop to 
+the south and east is cordoned off by the metal railings that are more 
+ornamental than utilitarian with twisted rungs and a wide, smooth shaped top 
+rail perfect for leaning on. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72205
+D3
+~
+~
+0 -1  0 72207
+S
+#72207
+Outside A Pharmacy On Hadar Way~
+   On the northern side of the walkway there is an unassuming looking building, 
+its sides clad in silvery manon panels. Its windows are opaque, but shelves 
+can be made out behind them and the shape of unidentifiable products seen, 
+arranged in neat rows. The door is also opaque, but a large cross shape of 
+clear glass remains, through which the inside of a tidy looking pharmacy is 
+clearly visible. 
+~
+72 65536 0
+0
+D0
+~
+door~
+1 -1  0 72208
+D1
+~
+~
+0 -1  0 72206
+D2
+~
+~
+0 -1  0 72209
+S
+#72208
+A Spotlessly Tidy Pharmacy~
+   The opaque windows at the front of this shop let the light from outside 
+filter through, shelves with compartments built in front of them. Each 
+compartment plays host to a different kind of container, bottles, tubes, tubs 
+and packets all neatly lined up one after the other, some clever spring 
+mechanism propelling the next container in line forward when one is removed so 
+that the shelves always remain stocked. The walls are panels of moulded, white 
+coated metal and a serving counter in the same style stands opposite the door. 
+Everything is spotlessly clean, from the shelves and counter to the buffed, 
+gleaming grey tiles. 
+~
+72 65536 0
+0
+D2
+~
+door~
+1 -1  0 72207
+S
+#72209
+Hadar Way Transit Tube Station~
+   The metal railings here give way to the giant plexiglass surrounds of the 
+transit tube system, the transport containers arriving and sliding seamlessly 
+into them when summoned. People mill around and depart this area of the 
+walkway in both directions, their footsteps audible on the imitation marble 
+floor. Far to the east, the huge, towering structure of the Crux Centre can be 
+made out, the transit tubes shuttling corporation employees endlessly between 
+here, there and the various labs and other work places over on that side of the 
+city. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72207
+D2
+~
+~
+0 -1  0 72210
+K
+105 0 10 999 0S
+#72210
+The End Of Hadar Way~
+   From the north where the walkway continues, the noise of the high speed 
+transit tubes is clearly audible although it shifts in volume as the wind 
+changes. With it in the right direction and at certain times, strains of music 
+can be made out from Epsilon Centauri Island, although that section of the sky 
+city is out of sight from this angle, just the backs of the buildings around 
+its southern curve visible. To the west, the start of a neat, manicured 
+looking garden can be seen, the fishtail tiles of the path that leads through 
+it matching those of the walls of the building to the south, which boasts two 
+large windows to either side of a wide door. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72209
+D2
+~
+door~
+1 -1  0 72211
+D3
+~
+~
+0 -1  0 72212
+S
+#72211
+An Empty, Recently Renovated Building~
+   This wide, rectangular room is free of any furnishing or sources of light. 
+Though it looks to have been swept clean, there is a fine, almost invisible 
+layer of dust beginning to form on the dark, marble floor here. The walls are 
+a simple shade of pale grey and a southern, plexiglass window exposes the 
+cloudy Venusian atmosphere. 
+~
+72 65536 0
+0
+D0
+~
+door~
+1 -1  0 72210
+S
+#72212
+The Northern End Of Alpha Centauri Gardens~
+   The synthetic marble slabs end in a sharp, neat line, separated from the 
+neatly manicured, bio-engineered grass band of gold hued metal. A gently 
+winding path leads through the grass to the south, made of tiny rectangular 
+tiles arranged in a fishtail pattern, while trees and plants grow in raised 
+circular beds, each one filled with hydroponic pebbles, mostly black and grey 
+but with the occasional bead of gold. The path also leads to the door of a 
+tall, windowless building that stands to the north. 
+~
+72 65536 0
+0
+D0
+~
+engineered wood door~
+1 -1  0 72213
+D1
+~
+~
+0 -1  0 72210
+D2
+~
+~
+0 -1  0 72214
+S
+#72213
+Toliman Pod Complex~
+   Just inside the door is a smooth white reception desk with a plasma panel in 
+the front that displays the rental places for the pods which occupy the space 
+behind it. The pods are horizontal, tube shaped capsules set inside white 
+rectangular blocks, each with a small set of frosted plexiglass doors that open 
+out onto a catwalk. There are hundreds of these capsules stacked neatly on top 
+of each other, a white-painted metal staircase behind the desk providing access 
+to the levels above. Aside from the faint hum of the ventilation system, this 
+area is very quiet, barely any sounds seeming to filter through from anywhere. 
+~
+72 65536 0
+0
+D2
+~
+engineered wood door~
+1 -1  0 72212
+S
+#72214
+Alpha Centauri Fountain~
+   Here, the path bends around a wide circular fountain set in the centre of 
+it. The black marble surround is low, wide enough to provide a seat while the 
+water ripples within, trickling down from the sculpture in the centre of a 
+massive, spire shaped ship caught in flight and suspended by a spirals of 
+metal, punched with stars. A series of saplings line the path, tall and 
+willowy, each one encased in a delicate spiral of metal that supports it 
+against the buffeting wind. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72212
+D2
+~
+~
+0 -1  0 72215
+S
+#72215
+Outside The Rigel Kent Apartments~
+   The building to the west seems to be the last part of this arm of the city 
+and southwards, only the vast expanse of open sky is visible for miles and 
+miles, rolling hills of clouds stretching out as far as the eye can see. The 
+path leads up to the double doors of an impressive, tall building that climbs 
+into the sky, dotted with neat windows and built of large, artificial stone 
+blocks. The gardens continue right up to the beds that sit beneath the ground 
+floor windows, crammed full of fleshy looking, bio-engineered succulents in 
+various shades of green. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72214
+D3
+~
+double doors~
+1 -1  0 72216
+S
+#72216
+The Rigel Kent Apartments Lobby~
+   Double doors to the east lead into a large, rectangular room that stretches 
+out from here and further south. Tiles cover the floor, white with a grey 
+marble effect but for a narrow border of black a little way in from the edge of 
+the room, dipping in to follow the lines of a couple of alcoves set into the 
+walls. Fluted plinths stand in the alcoves, stone busts of famous figures in 
+Lunar history settled upon them, each one illuminated by hidden lighting. 
+~
+72 65536 0
+0
+D1
+~
+double doors~
+1 -1  0 72215
+D2
+~
+~
+0 -1  0 72217
+S
+#72217
+The Rigel Kent Apartments Reception Area~
+   In the corner of this room is a large, frosted glass tube with double doors, 
+an elevator beyond providing access to the various apartments on the floors 
+above. The white walls are hung with pictures in silver frames, all showing 
+scenes of the megacities on the Moon and the tiles on the floor are white, 
+marbled with grey. A large, round metal desk occupies a space in the centre of 
+the floor, a series of screens above it showing the current rental prices for 
+apartments in this building. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72216
+D3
+~
+door~
+1 -1  0 72218
+S
+#72218
+Manager's Office~
+No Description Set.
+~
+72 65536 0
+0
+D1
+~
+door~
+1 -1  0 72217
+D3
+~
+door~
+1 -1  0 72219
+S
+#72219
+Rigel Kent Apartments Storage~
+   All the available wall space in this room is lined with wide shelves that 
+stretch from the polycrete floor right up to the white panel clad ceiling, only 
+broken by the door. They are modular, fitted some kind of moving railing 
+system that allows them to be raised or lowered to create suitable space for 
+storing even large items of furniture. It is a large space, but the towering 
+shelving makes it feel rather claustrophobic. 
+~
+72 65536 0
+0
+D1
+~
+door~
+1 -1  0 72218
+S
+#72220
+Stairwell~
+   A tight, grated metal staircase descends down, stopping a few feet from the 
+grey faux-stone wall. The this tight room holds a doorway on the southern side 
+with a small window. The constant hum of machinery and rushing water can be 
+heard clearly here. Following the black polyprop padding, the room flows into 
+a short hall ending at a yellow railing. 
+~
+72 65536 0
+0
+D2
+~
+door~
+1 -1  0 72224
+D3
+~
+~
+0 -1  0 72221
+D4
+~
+sliding-trapdoor~
+1 -1  0 72162
+S
+#72221
+Ladderwell~
+   This short hallway is held together by grey faux-stone and a black, padded 
+polyprop floor. At the southern end is a door hold in small window in the 
+corner. The hall continues to end abruptly at a ledge across from a massive 
+vertical pipe with an arrow painted upwards. Lining the ledge is a bright 
+yellow safety rail with a small gap revealing a metal ladder. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72220
+D2
+~
+door~
+1 -1  0 72223
+D5
+~
+~
+0 -1  0 72222
+S
+#72222
+Pump Room~
+   The sound of machinery and running water is deafening. The room is 
+dominated by a massive water pump, its cylindrical shape and large size makes 
+movement difficult. The fist two of a trifecta of massive pipes branch from 
+the top of the pump and run perpendicular to each other at the eastern and 
+western sides of the room. The third runs straight with the floor towards the 
+western wall. Running up the eastern wall, a sturdy metal ladder leads its way 
+upwards. The room is made of faux-stone on all sides. 
+~
+72 65536 0
+0
+D4
+~
+~
+0 -1  0 72221
+S
+#72223
+Office~
+   This utilitarian office is surrounded by grey faux-stone on all sides. Its 
+modestly sized floor is covered in black polyprop padding. The faint sound of 
+rushing water and operating machinery fills this area. At the southern end is 
+a door with a window in the upper left corner. 
+~
+72 65536 0
+0
+D0
+~
+door~
+1 -1  0 72221
+S
+#72224
+Small Office~
+   This small room plain and utilitarian, the walls and ceiling are made up of 
+grey faux-stone. The floor is padded with a thin layer of cushy, black, 
+polyprop padding. There is a door on the northern end with a small window. 
+The faint sound of rushing water and humming machinery can be heard here 
+~
+72 65536 0
+0
+D0
+~
+door~
+1 -1  0 72220
+S
+#72225
+Hydroponic Shrubbery~
+   White pipes emit from the grate below, turning at right angles and run along 
+the floor. Growing from these pipes are different fruit and berry bushes, 
+revealing flowers and assortments of color dotting the greenery. The isles of 
+shrubbery end at the eastern side where a large white wall extends across the 
+room leaving a door in its center. There is a stairway at the northern corner. 
+~
+72 65536 0
+0
+D1
+~
+door~
+1 -1  0 72226
+D5
+~
+~
+0 -1  0 72161
+S
+#72226
+Office Overseeing an Arboretum~
+   This long rectangular office holds white walls on all sides save the eastern 
+which bears a long window overseeing a large arboretum. From the window green 
+leaves and colorful fruits can be seen growing from tall trees. Down below are 
+the pools these trees grow from. A plush, black polyprop padding lines the 
+floor here. 
+~
+72 65536 0
+0
+D3
+~
+door~
+1 -1  0 72225
+S
+#72082
+A Hidden Space Beneath The Holostage~
+   Not really tall enough to stand fully upright in, this space is nestled 
+under the holostage. The floor is unfinished polycrete, rough and left bare, 
+the stage surface resting on a platform held up by a number of pillars, 
+supports and metal struts, a ventilation grill in the front providing access to 
+the theatre beyond it. Wires and cabling trails all over the place, pinned and 
+fixed somewhat haphazardly, disappearing into holes and pipes. Dust collects 
+here, especially in the corners and the gentle hum of machinery and electronics 
+can be heard. 
+~
+72 65536 0
+0
+P
+l lo loo look ex exa exam exami examin examine~
+gr gri gril grill~
+vstr To get back to the theatre beyond, you must slide the grill open again to squeeze through.
+~
+P
+sl sli slid slide sq squ sque squee squeez squeeze pu pus push o op ope open~
+gr gri gril grill thr thro throu throug through~
+if fighting
+vstr You can't do that while you're fighting!
+else do
+atecho 72196 Suddenly, a ventilation grill in the front of the stage opens and #5$n#0 squeezes through and emerges into the theatre before sliding it shut behind themselves.
+force -1 -1 emote approaches the grill and crouches down, sliding it neatly closed behind themselves after squeezing through to the theatre beyond.
+delay 2 xxsqueezethroughxx
+~
+P
+xxsqueezethroughxx~
+(null)~
+trans_group -1 72082 72196
+trans 72196
+fi done
+~
+S
+#72227
+The Agena Overlook~
+   In much the same manner as the ground floor, the overlook has been dressed 
+with fine, marble flooring and vibrant, lively plants. Save for the southern 
+wall where the stairs descend until they meet the door at the foot of the 
+staircase, the walls are made of clear plexiglass that expose the city and 
+Venusian sky beyond this room. The furniture has been arranged in the center 
+of the overlook and it seems very likely this space is used for private 
+learning or conferences. Diamond-shaped lamps hang overhead and bathe the room 
+in an even, comfortable light. 
+~
+72 65536 0
+0
+D5
+~
+sliding door~
+1 -1  0 72204
+S
+#72229
+Science Sector Transit Plaza~
+   Three plexiglass sheets cover the west, north, ceiling respectively, through 
+which a series of similarly made pipes run throughout the air from their 
+starting points at the northern and western plexiglass walls. The last two 
+walls are duracrete with an opening leading eastward with a small plaque 
+overhead. At the center of the plaza a large globular sculpture with small 
+balls orbiting a much larger one in the center. Radiating out from the 
+sculpture is a circular pattern of brick, filling itself to the walls with the 
+remaining space in the corners is straight laid. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72230
+E
+reformat~
+~
+E
+sculpture~
+   This sculpture stands nearly twelve feet tall, starting at a wide circular 
+base which narrows until it reaches the large stone globe. Attached to the 
+globe are thin metal rods of various sizes running along tracks and reaching to 
+a dozen, much smaller globes. These smaller globes rotate slowly around the 
+larger one sticking together two at a time. 
+~
+E
+plaque~
+~
+K
+105 0 20 999 0S
+#72230
+Lobby~
+   Faux-marble covers the floor here extending itself out to the dull metal 
+wall panels. Large globular lights hang from the ceiling illuminating the 
+area. An open walkway can be seen to the west, giving sight of sculpture, 
+whereas the to the south, a large #6#6glass door#0#0 reveals a conference room. A 
+stairway to the east leads the way upwards where a #6#0sign#0#0 resides in the 
+wall, 
+~
+72 65536 0
+0
+D2
+~
+glass door~
+1 -1  0 72231
+D3
+~
+~
+0 -1  0 72229
+D4
+~
+~
+0 -1  0 72234
+E
+sign~
+   This sign is black with white etching, indicating with arrows to 
+#6Reception#0 pointing up the stairs and #6Offices#0 pointing southward 
+~
+E
+glassdoor~
+   This #6door#0 is made of transparent glass, allowing passersby to #6peek#0 
+into the room beyond 
+~
+K
+105 0 50 999 0P
+look loo lo peek pee pe check che ch~
+door doo do glass glas gla~
+force -1 -1 emote looks through the southern glass door
+delay 2 xxpeakingxx
+~
+P
+xxpeakingxx~
+(null)~
+atlook 72231
+atecho $n looks in from the northern glass door.
+fidone
+~
+S
+#72231
+Conference Room~
+   Rectangular beige walls hold the ceiling in this area. Globular lights 
+extend downward from overhead adding visibility. The carpet is made of a 
+blue-hued synth-fiber. Three doors dot the walls, the first two being plain 
+faux-wood on the western and southern side with the third being a transparent 
+#6#6glass door#0#0 at the northern side. 
+~
+72 65536 0
+0
+D0
+~
+glass door~
+1 -1  0 72230
+D2
+~
+door~
+1 -1  0 72233
+D3
+~
+door~
+1 -1  0 72232
+E
+glassdoor~
+This door is transparent, allowing someone to #6peek#0 through it
+at passersby.
+~
+P
+peek pee pe look loo lo check chec che ch~
+glass glas gla gl door doo do~
+force -1 -1 emote takes a moment to look through the glass door.
+delay 2 xxpeakingxx
+~
+P
+xxpeakingxx~
+(null)~
+atlook 72230
+set random 1d5
+if (random=1)
+atecho 72230 $n looks out behind the southern glass door.
+else do
+fidone
+~
+S
+#72232
+Office~
+   This unremarkable office holds beige walls on all sides, ending at a plain 
+faux-wood door with basic trim. The floor covered with a short nano-fiber 
+carpet showing its off-blue hue. A single globular light hangs from the beige 
+ceiling, illuminating the area. 
+~
+72 65536 0
+0
+D1
+~
+door~
+1 -1  0 72231
+S
+#72233
+Executive Office~
+   This large office bears a cushy synth-fiber carpet. Light blue paint covers 
+the walls. A dark, faux wood door stands at the northern edge. This area is 
+well lit with two globular lights, which hold electrical arcs of different 
+colors within them, moving randomly about from their spot on the blue ceiling. 
+A quadrupedal fossil is assembled in the northern corner, the skeletal remains 
+standing upon a round base with a large plaque underneath. A large window is 
+installed in the southern wall, giving sight to a vast cloud system as far as 
+the eye can see. 
+~
+72 65536 0
+0
+D0
+~
+door~
+1 -1  0 72231
+E
+fossil~
+   Short stout legs bones hold this skeletal fossil upright. It's tooth filled 
+mouth holds large canines attached to a small skull. Extending from that is a 
+narrow spine weaving its way past a large rib cage and ending at the tip of a 
+tail. 
+~
+E
+plaque~
+   This black plaque reads in etched lettering 'This fossil was found during an 
+exploratory mission to earth. It is not known what manner of creature it is, 
+nor its purpose. However, it is believed to be a failed miniaturization 
+attempt by pre-war scientists due to its disproportionate legs and skull.' 
+~
+S
+#72234
+Reception~
+   A staircase to the east reveals passages up and down. A short synth fibre 
+carpet sprawls across the floor, ending at plain, simple trim. Round globes 
+protrude from the ceiling casting a dull reflection of light off the dull metal 
+panels composing the walls. #6#0'Storage'#0#0 reads over the door to the west 
+whereas the blast door to the south reads #6#0'Natural#0 #0Science.'#0#0 
+~
+72 65536 0
+0
+D2
+~
+heavy door~
+1 -1  0 72235
+D3
+~
+blast door~
+1 -1  0 72241
+D4
+~
+~
+0 -1  0 72239
+D5
+~
+~
+0 -1  0 72230
+E
+sign~
+   This black sign indicates in white etching with arrows pointing in different 
+directions. The southward pointing arrow reads #6"Offices"#0 whereas the 
+upwards arrow read #6Reception and Labs"# 
+~
+E
+glassdoor~
+   This #6door#0 is transparent allowing passers by to #6peek#0 into it. 
+~
+S
+#72235
+Chemistry Lab~
+   Black top counters line the metal paneled walls here, providing ample 
+working space. The floorings are composed of hard plastic and dotted with 
+small movable mats. Four islands fill the center space, each with their own 
+black top and storage underneath. Small round circles are imbedded in the 
+ceiling, each providing a light within. A large heavy blast door resides at 
+the western end next to a large blue #6button#0 yet the south simply continues 
+to more lab. 
+~
+72 65536 0
+0
+D0
+~
+heavy door~
+1 -1  0 72234
+D2
+~
+~
+0 -1  0 72237
+D3
+~
+~
+0 -1  0 72236
+P
+press pres pre pr push pus pu~
+(null)~
+if link (72238,south)
+atecho 72238 A feminine voice states from the keypad #6"Closing, please wait."#0
+delay 2 xxclosedoorxx
+else do
+atecho 72238 A feminine voice states from the southern keypad #6"Decontaminating please wait."#0
+atecho 72236 A feminine voice states from overhead #6"Decontaminating, please wait."#0
+if link (72235,west)
+atecho 72235 A feminine voice states from overhead #6"Decontamination room closing, please stand back."#0
+delay 2 xxouterdoorclosexx
+else do
+delay 4 xxopendoorxx
+~
+P
+xxclosedoorxx~
+(null)~
+atecho 72238 The southern blast door closes slowly, letting out a sealing hiss.
+atecho 72236 The northern blast door closes slowly, letting out a sealing hiss.
+unlink south 72238
+delay 2 xxouterdooropenxx
+~
+P
+xxouterdooropenxx~
+(null)~
+atecho 72236 A hiss sounds as nozzles from the walls pump a white mist into the room.
+delay 3 xxrealouterdoorxx
+~
+P
+xxrealouterdoorxx~
+(null)~
+atecho 72236 A feminine voice states #6"Decontamination complete opening door."#0
+atecho 72235 A feminine voice states #6"Door opening, please stand back."#0
+delay 3 xxouteropenxx
+~
+P
+xxouteropenxx~
+(null)~
+atecho 72236 A feminine voice states #6"Door open, please procede."#0
+atecho 72235 A feminine voice states #6"Door open, please procede."#0
+link 72235 west 72236
+fi done
+~
+P
+xxouterdoorclosexx~
+(null)~
+atecho 72235 The western door closes, emitting a hiss as it seals.
+atecho 72236 The eastern door closes, emitting a hiss as it seals.
+unlink w 72235
+delay 3 xxopendoorxx
+~
+P
+xxopendoorxx~
+(null)~
+atecho 72236 A hiss sounds as nozzles from the walls pump a white mist into the room.
+delay 3 xxdecontaminatingxx
+~
+P
+xxdecontaminatingxx~
+(null)~
+atecho 72238 A feminine voice states #6"Decontamination complete, opening door."#0
+atecho 72236 A feminine voice states #6"Decontamination complete, opening door."#0
+delay 3 xxdoorisopenxx
+~
+P
+xxdoorisopenxx~
+(null)~
+atecho 72238 A feminine voice states #6"Door open, please proceed."#0
+atecho 72236 A feminine voice states #6"Door open, please proceed."#0
+link 72238 south 72236
+fi done
+~
+S
+#72236
+Decontamination Room~
+   A dark, brownish metal shines on all sides of this room. Protruding from 
+the walls are small nozzles spiking out in rows from top to bottom. A bright 
+light sits behind a plexiglass box in the ceiling. There is a large blue 
+#6button#0 between the western and northern blast doors. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72235
+E
+button~
+This red button reads over the top #6"Press for decontamination"#0 
+~
+P
+press pre pr pres push pus pu~
+button butto butt but bu~
+if link (72238,south)
+atecho 72238 A feminine voice states from the keypad #6"Closing, please wait."#0
+delay 2 xxclosedoorxx
+else do
+atecho 72238 A feminine voice states from the southern keypad #6"Decontaminating please wait."#0
+atecho 72236 A feminine voice states from overhead #6"Decontaminating, please wait."#0
+if link (72235,west)
+atecho 72235 A feminine voice states from overhead #6"Decontamination room closing, please stand back."#0
+delay 2 xxouterdoorclosexx
+else do
+delay 4 xxopendoorxx
+~
+P
+xxclosedoorxx~
+(null)~
+atecho 72238 The southern blast door closes slowly, letting out a sealing hiss.
+atecho 72236 The northern blast door closes slowly, letting out a sealing hiss.
+unlink south 72238
+delay 2 xxouterdooropenxx
+~
+P
+xxouterdooropenxx~
+(null)~
+atecho 72236 A hiss sounds as nozzles from the walls pump a white mist into the room.
+delay 3 xxrealouterdoorxx
+~
+P
+xxrealouterdoorxx~
+(null)~
+atecho 72236 A feminine voice states #6"Decontamination complete opening door."#0
+atecho 72235 A feminine voice states #6"Door opening, please stand back."#0
+delay 3 xxouteropenxx
+rpprg 5
+atecho 72236 A feminine voice states #6"Door open, please procede."#0
+atecho 72235 A feminine voice states #6"Door open, please procede."#0
+link 72235 west 72236
+fi done
+~
+P
+xxouteropenxx~
+(null)~
+atecho 72236 A feminine voice states #6"Door open, please procede"#0
+atecho 72235 A feminine voice states #6"Door open, please procede"#0
+link 72235 west 72236
+fi done
+~
+P
+xxouterdoorclosexx~
+(null)~
+atecho 72235 The western door closes, emitting a hiss as it seals.
+atecho 72236 The eastern door closes, emitting a hiss as it seals.
+unlink w 72235
+delay 3 xxopendoorxx
+~
+P
+xxopendoorxx~
+(null)~
+atecho 72236 A hiss sounds as nozzles from the walls pump a white mist into the room.
+delay 3 xxdecontaminatingxx
+~
+P
+xxdecontaminatingxx~
+(null)~
+atecho 72238 A feminine voice states #6"Decontamination complete, opening door."#0
+atecho 72236 A feminine voice states #6"Decontamination complete, opening door."#0
+delay 3 xxdoorisopenxx
+~
+P
+xxdoorisopenxx~
+(null)~
+atecho 72238 A feminine voice states #6"Door open, please proceed."#0
+atecho 72236 A feminine voice states #6"Door open, please proceed."#0
+link 72238 south 72236
+fi done
+~
+S
+#72237
+Biology Lab~
+   Brownish metal counters hug the metal paneled walls. A hardened plastic 
+covers the floor, housing movable mats. In the center is a long island with 
+the same dull brown countertops. Overhead are small circles housing lights, 
+imbedded into ceiling panels. The northern end continues onward to another 
+lab. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72235
+S
+#72238
+Clean Room~
+   White metal walls surround this area, breaking only for the blast door to 
+the south. A center island protrudes itself from the floor in the center 
+bringing slight relief from the surrounding plainness. Two vents occupy the 
+ceiling center while two others sit low at opposing sides of the floor. There 
+is a slight draft and a constant low hum of machinery and a large blue 
+#6button#0 resides at near the southern door. 
+~
+72 65536 0
+0
+E
+button~
+   This large red #6button#0 protrudes outwards, waiting for someone to 
+#6press#0 it. 
+~
+P
+press pres pre pr push pus pu~
+button butt but butto~
+if link (72238,south)
+atecho 72238 A feminine voice states from the keypad #6"Closing, please wait"#0
+delay 2 xxclosedoorxx
+else do
+atecho 72238 A feminine voice states from the southern keypad #6"Decontaminating please wait"#0
+atecho 72236 A feminine voice states from overhead #6"Decontaminating, please wait#0"
+if link (72235,west)
+atecho 72235 A feminine voice states from overhead #6"Decontamination room closing, please stand back"#0
+delay 2 xxouterdoorclosexx
+else do
+delay 4 xxopendoorxx
+~
+P
+xxclosedoorxx~
+(null)~
+atecho 72236 The southern blast door closes slowly, letting out a sealing hiss
+atecho 72238 The northern blast door closes slowly, letting out a sealing hiss
+unlink south 72238
+delay 2 xxouterdooropenxx
+~
+P
+xxouterdooropenxx~
+(null)~
+atecho 72236 A hiss sounds as nozzles from the walls pump a white mist into the room
+fidone
+~
+P
+xxouterdoorclosexx~
+(null)~
+atecho 72235 The western door closes, emitting a hiss as it seals
+atecho 72236 The eastern door closes, emitting a hiss as it seals
+unlink w 72235
+delay 3 xxopendoorxx
+~
+P
+xxopendoorxx~
+(null)~
+atecho 72236 A hiss sounds as nozzles from the walls pump a white mist into the room
+delay 3 xxdecontaminatingxx
+~
+P
+xxdecontaminatingxx~
+(null)~
+atecho 72238 A feminine voice states #6"Decontamination complete, opening door"#0
+atecho 72236 A feminine voice states #6"Decontamination complete, opening door"#0
+delay 3 xxdoorisopenxx
+~
+P
+xxdoorisopenxx~
+(null)~
+atecho 72238 A feminine voice states #6"Door open, please procede"#0
+atecho 72236 A feminine voice states #6"Door open, please procede"#0
+link 72238 south 72236
+fi done
+~
+S
+#72239
+Energy Lab~
+   This area houses a large doughnut shaped piece of machinery emitting a faint 
+hum. The machine is rigid, with metal bands and round covers all over and a 
+tube extends to the wall on the southern side, The room itself holds a metal on 
+all sides. A single light brightens the area from a spot on the ceiling. A 
+heavy blast door resides next to the tube to the south and the western edge 
+holds a small crawl space covered by a small metal blast while a staircase 
+leads the way downwards in the northeastern corner. 
+~
+72 65536 0
+0
+D2
+~
+blast door~
+1 -1  0 72240
+D3
+~
+sealed crawlspace~
+1 -1  0 72242
+D5
+~
+~
+0 -1  0 72234
+K
+105 0 10 999 0S
+#72240
+Test Room~
+   A large white tube protrudes from the northern wall here, flowing into a 
+metal ball with a pair of access tubes. Heavy metal coverings give the area a 
+dull shine in all directions. The only respite in color color is the heavy 
+blast door to the north with its attached  
+~
+72 65536 0
+0
+D0
+~
+blast door~
+1 -1  0 72239
+K
+105 0 20 999 0S
+#72241
+Storage~
+   Long lines of shelves cover the southern wall here, housing all types of 
+plastic measuring devices and tools. The northern edge holds large, round 
+machines, which suck the heat from their surroundings. The floor is covered 
+with a black polyprop padding, fighting the light from the large, hanging 
+globes overhead. The walls are made of a dull metal panels 
+~
+72 65536 0
+0
+D1
+~
+blast door~
+1 -1  0 72234
+S
+#72242
+Ventilation Access~
+   This small room is dim with light grey walls. The hard, unfinished floor 
+leads to a large piece of machinery in the middle. Two square metal tubes 
+reach from the sides of the floor, reaching the apex that is a machine in the 
+middle. The machine itself emits a constant hum from the rectangular middle, 
+leading to a cylindrical tube to the room underfoot. 
+~
+72 65537 0
+0
+D1
+~
+sealed-crawlspace~
+1 -1  0 72239
+S
+#72106
+A Temporary Office Structure~
+   This small, rectangular building is clearly just a temporary structure and 
+not intended for long term use. Flimsy walls of grey corrugated plastic do 
+little to keep the noise from outside from filtering through and the polyvinyl 
+covered floor shakes and vibrates with every footfall, almost adding the hint 
+of a bounce to each step. Despite this, the temperature seems to be regulated 
+and it's functional, if rather utilitarian. 
+~
+72 65536 0
+0
+D2
+~
+flimsy plastic door~
+1 -1  0 72124
+S
+#72243
+At The Bottom Of A Narrow Ladder~
+   A narrow ladder from a hatch above leads into space with a fairly high 
+ceiling that is unfinished, various wires and cables exposed, strapped into 
+place in metal frames although no panels have been slotted in to cover them 
+yet. The northern wall looks solid enough despite being in a similar state, 
+also left free of panels, while the western wall is covered over and houses a 
+metal door hung on heavy hinges. The floors is a level, smooth polyresin in a 
+very dark grey and the lights are just simple strips, presumably hooked into 
+the main system as there doesn't appear to be a switch to operate them. 
+~
+72 65536 0
+0
+D3
+~
+metal clad door~
+1 -1  0 72244
+D4
+~
+~
+0 -1  0 72125
+P
+close~
+hatch~
+delay 0 emote pulls the hatch securely shut.
+unlink u 72243
+~
+P
+open~
+hatch~
+delay 0 emote pushes the hatch open, revealing the construction site above.
+link 72125 d 72243
+~
+S
+#72244
+A Makeshift Basement Bar~
+   Despite the smooth polyresin of the floor, this room has an unfinished kind 
+of feel to it. The walls are covered in plain white metal panels, but several 
+are missing and the wiring beyond is visible, tightly tied bundles of cable 
+ranging in thickness to thick, almost arm width wires. A series of shelves 
+have been built from metal girders that span the whole of the western wall and 
+a bar has been constructed in front of that, the base made from duraslate 
+paving slabs cemented together while the top looks like a couple of repurposed 
+wall panels. A row of stools sit in front of the bar and a few of mismatched 
+sets of tables and chairs are scattered about. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72245
+D1
+~
+metal clad door~
+1 -1  0 72243
+S
+#72245
+The Back Room Of A Basement Bar~
+   Not really a separate room, this area of the basement nonetheless feels 
+apart from the rest due to a supporting archway of metal beams that shores up 
+the ceiling and whatever is above. More panels are missing here, wires and 
+cables visible in places, a few of them pulled out and pinned into new 
+positions. It looks like this space was originally intended to be some kind of 
+storage area, brackets mounted on the wall although no shelves are fixed to 
+them. Instead, a number of tables have been pushed back against the walls. 
+East, an unmarked door stands, clad in textured metal. 
+~
+72 65536 0
+0
+D1
+~
+metal clad door~
+1 -1  0 72246
+D2
+~
+~
+0 -1  0 72244
+S
+#72246
+A Somewhat Grimy Washroom~
+   This facility is pretty basic, just a small, square room with bare polycrete 
+floors and unfinished walls, a single, lonely looking metal sink and dryer unit 
+mounted into the wall opposite the northern door. A rather brash light is 
+provided courtesy of a single strip light fixed to the ceiling, this room 
+entirely free of any niceties beyond the absolute basics. 
+~
+72 65536 0
+0
+D0
+~
+flimsy looking door~
+1 -1  0 72247
+D3
+~
+metal clad door~
+1 -1  0 72245
+S
+#72247
+A Cramped Toilet Stall~
+   Probably just large enough to fit two in desperate and possibly slightly 
+unusual circumstances, this toilet stall is not all that pleasant. An odour of 
+stale urine seems to invade and the polycrete floor around the base of the 
+metal toilet itself is rather stained. Dusty footprints mark the floor and the 
+door is smudged with fingerprints, but this place obviously gets cleaned at 
+least every now and then and isn't entirely disgusting. 
+~
+72 65536 0
+0
+D2
+~
+flimsy looking door~
+1 -1  0 72246
+S
+#72900
+The Interior of a Cramped Sleeping Capsule~
+   This confined space is just large enough to hold a single person comfortably 
+upon the spartan mattress that dominates the interior. A few pouches line the 
+door, and there's room enough for a bag or two in the narrow gap between it and 
+the bed. A small console is set in the wall, allowing the lights and 
+temperature to be controlled within a narrow range. 
+~
+72 65536 0
+0
+S
+#72248
+The Bottom Of A Wide Staircase~
+   The wide staircase against the western room opens up to this area, which is 
+surprisingly spacious for a hallway. The floor is covered with large 
+polyrubber tiles, a slight texture worked into the surface to make them 
+non-slip. The corridor itself doesn't extend far, meeting doors to the north 
+and south as well as another to the east. Light emanates from a series of 
+triangular metal sconces on the wall, each with three horizontal lines cut 
+neatly in the front. There is a faintly chemical scent lingering and an oddly 
+dead quality to the sound that filters through from surrounding rooms. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72257
+D1
+~
+glass door~
+1 -1  0 72251
+D2
+~
+changing room door~
+1 -1  0 72249
+D4
+~
+~
+0 -1  0 72120
+S
+#72901
+A Small Foyer~
+   Separated from the outside world by a thin polyprop door, this cozy front 
+room is dully illuminated by a ceiling lamp. Rather spartan, and utterly 
+lacking in adornment, off-white polyprop walls encase the room, with the 
+exception of a slender doorway, curtained off with a sheet of cloth. Scuffed 
+flooring marks the shifting of past furnishings, whilst a mechanical hum 
+occasionally reaches through the walls. 
+~
+72 67174408 0
+0
+D0
+~
+curtain~
+1 -1  0 72902
+S
+#72902
+A Cramped Bedroom~
+No Description Set.
+~
+72 65536 0
+0
+D2
+~
+curtain~
+1 -1  0 72901
+S
+#72249
+A Roomy Changing Area~
+   A row of opaque glass stalls cover one entire wall of this room, while a 
+series of silver metal lockers occupy the one opposite, each one fitted with a 
+thumb scanner. In the centre of the room, a long, double sided, grey polyprop 
+bench splits the space in half, ergonomically moulded and drilled with a series 
+of tiny holes, probably to allow any collected water to drain through. The 
+walls are painted a bright, glossy white while the rubber tiled floor is a dark 
+grey, flecked with silver. 
+~
+72 65536 0
+0
+D0
+~
+changing room door~
+1 -1  0 72248
+D1
+~
+frosted plexiglass door~
+1 -1  0 72250
+S
+#72250
+A Blue Tiled Wet Room~
+   Small, very dark blue tiles cover the floor, walls and ceiling of this 
+rounded room. A metal shower head protrudes from one wall, a touch screen 
+panel inset beneath to operate it although it has no surround or curtain, 
+turning this whole area into a wet room. A metal toilet is set into the wall, 
+the outside of the bowl also tiled in blue while the cistern is recessed and 
+hidden away, a matching metal sink also emerging from a tiled curve in the 
+wall. The whole of the ceiling is a piece of opaque, smoked glass with lights 
+set behind it, providing a soft, noninvasive glow. 
+~
+72 65536 0
+0
+D3
+~
+frosted plexiglass door~
+1 -1  0 72249
+S
+#72251
+An Echoey Space Before A Pool~
+   Textured pale green tiles cover the floor of this space, neatly grouted. A 
+row of darker green tiles mark a border at the edge of a drop filled with 
+water, accessible via a gleaming metal ladder set to one side, or simply by 
+stepping in. The walls are also slightly tinted with green, a wavy line of 
+perfectly flat lights set around waist level around the whole room, providing 
+illumination in addition to a big glass globe suspended from the ceiling. 
+Sound echoes in here, bouncing off the hard surfaces and there's a faintly 
+chemical scent that sometimes wafts through, detectable just for a moment 
+before it disappears. 
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72252
+D3
+~
+glass door~
+1 -1  0 72248
+S
+#72252
+The Shallow End Of A Swimming Pool~
+   Overhead, the roof is slightly domed, painted a pale shade of green with a 
+series of diamond shaped lights set into the curve in a complicated, geometric 
+pattern. The water is heated but still pleasantly cool and salty to the taste, 
+shallow here but getting deeper as the tiles slope away to the north. Lights 
+glow softly underwater, enclosed in bubbles of frosted glass spaced at regular 
+intervals along the sides of the pool. 
+~
+72 65536 16
+0
+D0
+~
+~
+0 -1  0 72253
+D2
+~
+~
+0 -1  0 72251
+S
+#72253
+The Deep End Of A Swimming Pool~
+   After a gentle slope, the tiled floor drops away sharply and the water is 
+suddenly too deep to stand up in. The domed roof with its diamond shaped 
+lights stretches overhead, the edges of the pool pushed right up against the 
+edges of the wall, which provide no purchase although the way out is visible 
+further to the south via a metal ladder. 
+~
+72 65536 16
+0
+D2
+~
+~
+0 -1  0 72252
+D5
+~
+~
+0 -1  0 72254
+S
+#72254
+At The Bottom Of The Deep End Of A Swimming Pool~
+   Entirely underwater, this is the deep end of a swimming pool with floor and 
+sides made of pale green tiles. There are a few lights set into the corners 
+down here, just little strips that lead the way further westward, to some kind 
+of underwater tunnel. 
+~
+72 65536 20
+0
+D3
+~
+~
+0 -1  0 72255
+D4
+~
+~
+0 -1  0 72253
+S
+#72255
+An Underwater Tunnel~
+   The tunnel from east is short, hardly a tunnel at all. The tiled walls here 
+are round and the tunnel continues upwards, the water seeming to break just 
+overhead where another domed ceiling is visible, the lights blurry through the 
+water. 
+~
+72 65536 20
+0
+D1
+~
+~
+0 -1  0 72254
+D4
+~
+~
+0 -1  0 72256
+S
+#72256
+A Rounded Room Filled With Water~
+   A low, domed ceiling arches over this circular pool, which seems to have 
+little real purpose. There are diamond shaped lights in the ceiling, arranged 
+in a complicated pattern and a wavy line of dark green lights that break up the 
+paler green walls, but there is no way out from the salty water here. 
+~
+72 65536 16
+0
+D5
+~
+~
+0 -1  0 72255
+S
+#72257
+A Spacious Gym With A Sprung Floor~
+   The material covering the floor of this area has a definite bounce to it, a 
+kind of poured polyrubber that absorbs the shock of impact. It is a uniform 
+red, matching the stripe painted around the centre of the otherwise white wall 
+and broken only by the black outlines of several circles of varying sizes. 
+This area is wide enough to function as a training area for several combatants, 
+while racks on the wall provide places to hang equipment. 
+~
+72 65536 0
+0
+D2
+~
+glass door~
+1 -1  0 72248
+D3
+~
+~
+0 -1  0 72258
+S
+#72258
+A Cushioned Off Area Of A Gym~
+   The entire western half of this space is lined with a thick, padded kind of 
+cushioning in a soft but rubbery material, perfect for practicing falls. Other 
+than that, it is entirely unremarkable, the walls just the same white as the 
+rest of the gym, the red stripe continuing at around waist height while strip 
+lights provide illumination from above. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72257
+S
+#72228
+Surrounded by a Living Motherboard~
+Six walls of organic gadgetry comprise this cage. They flicker with self-illuminated rainbows of neon, pulsing down fiber optics and flashing free from silent klaxons. Only the sound of buzzing and beating calls challenge to the silence. A gigantic RAM chip to the east has been carved from a Kraken's femur.
+~
+72 65536 0
+0
+D1
+This enormous stick of RAM has been constructed from a Kraken's femur. You can tell by the curvature and smell of brine.
+~
+RAM chip~
+1 -1  0 72259
+S
+#72259
+In a Field of Firefly LEDs~
+No Description Set.
+~
+72 65536 0
+0
+D3
+~
+~
+0 -1  0 72228
+S
+#72260
+Gift Shop Storeroom~
+Shop: 72186
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72185
+S
+#72261
+New Room~
+No Description Set.
+~
+72 65536 0
+0
+D2
+~
+~
+0 -1  0 72132
+S
+#72262
+Furniture Shop Storeroom~
+Store: 72154
+~
+72 65536 0
+0
+D3
+~
+~
+0 -1  0 72154
+S
+#72263
+Crux Centre Transit Tube Station~
+No Description Set.
+~
+72 65536 0
+0
+D2
+~
+~
+0 -1  0 72264
+S
+#72264
+New Room~
+No Description Set.
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72263
+D1
+~
+~
+0 -1  0 72265
+D2
+~
+~
+0 -1  0 72267
+D3
+~
+~
+0 -1  0 72266
+S
+#72265
+New Room~
+No Description Set.
+~
+72 65536 0
+0
+D3
+~
+~
+0 -1  0 72264
+S
+#72266
+New Room~
+No Description Set.
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72264
+S
+#72267
+New Room~
+No Description Set.
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72264
+D2
+~
+~
+0 -1  0 72268
+S
+#72268
+New Room~
+No Description Set.
+~
+72 65536 0
+0
+D0
+~
+~
+0 -1  0 72267
+S
+#72269
+A Spacious Boarding Bay~
+   Sweeping and metallic married with polyprop, this space has a pair of 
+hydraulic doors that would open up to portside. There are rows designated for 
+cargo, for a neat lines of incoming colonists, for the removal of baggage. 
+When not docking, the lights are white. However during docking procedures, the 
+currently dull red warning lights come alive. There's a small tread to the 
+room, adding a touch more grip for the crowds that stream in and out. 
+~
+72 65536 0
+0
+D1
+~
+~
+0 -1  0 72001
+S
+#72589
+A Generous Sized Room~
+   The floor here is simple, poured polycrete, much scuffed and distinctly 
+grimy. The strip lights suspended from the ceiling look bent and out of shape, 
+perhaps salvaged from somewhere else. The space is a decent size and a frosted 
+plexiglass panel to one side allows light in from outside. The walls are 
+unpainted, clearly showing the mismatched metal and polyprop sheets from which 
+the building is constructed. 
+~
+72 65536 0
+0
+D0
+~
+battered chrion door~
+1 -1  0 75287
+S
+#72590
+A Draughty, Utilitarian Bathroom~
+   Draughts whisper in through the cracks in the metal and polyprop walls of 
+this bathroom and the floor, covered with thick, textured chrion tiles, seems 
+slightly uneven and creaks ever so slightly underfoot. Stalls with flimsy 
+looking doors line the northern and wall and a long metal trough runs almost 
+the full length of the room from east to west, providing space for a decent 
+number of people to wash at once. The trough is split in half with taps on 
+either side and a series of small strips of mirror are mounted on metal frames 
+at around eye level, a few cracked although most remain intact. A bench lines 
+the southern wall and further east, a flimsy looking door separates the shower 
+area. 
+~
+72 65536 0
+0
+D2
+~
+rickety chrion door~
+1 -1  0 75287
+S
+#72582
+A Long, Arched Bunk Room~
+   Built into the upper level of the arched hangar, this bunk room is large and 
+fairly spacious, occupying roughly two thirds of the width of the whole 
+building. It's far from cosy, draughts creeping in through the mismatched 
+panels of metal and polyprop that make up the walls and ceiling, the sounds 
+from outside sometimes filtering through. The end wall to the east has been 
+liberally coated in red paint, now flaking and peeling and underfoot, textured 
+chrion panels have been laid to cover the floor. 
+~
+72 65536 0
+0
+D2
+~
+battered chrion door~
+1 -1  0 72583
+D3
+~
+sturdy polyprop door~
+1 -1  0 75288
+S
+#72583
+A Utilitarian, Metal Walled Room~
+   The southern part of this decent sized room has been partitioned off with a 
+flimsy looking wall made of polyprop panels of a dull, slightly speckled grey. 
+Textured chrion tiles line the floor and the mismatched sheets of metal and 
+polyprop that make up the walls and ceiling are exposed, while a large, 
+extremely scratched plexiglass panel in the roof lets in whatever light 
+currently illuminates the landscape. 
+~
+72 65536 0
+0
+D0
+~
+battered chrion door~
+1 -1  0 72582
+D2
+~
+sturdy polyprop door~
+1 -1  0 72584
+S
+#72584
+A Cramped Storage Cupboard~
+   Set into the arch so that there is limited standing space, this is cupboard 
+is not large, the mismatched sheets of metal that make up the walls visible 
+along with bundles of cables that are rather unceremoniously tied to the chrion 
+support beams. They droop lazily overhead, snaking towards the lights 
+suspended from the above. Built along the walls, simple shelves provide 
+storage space. 
+~
+72 65536 0
+0
+D0
+~
+sturdy polyprop door~
+1 -1  0 72583
+S
 $~

@@ -1,1 +1,1255 @@
+#33000
+rifle RPT_Jaunt plastic assault byChelicerae PLASTIC~
+a short, odd-looking assault rifle~
+An odd-looking assault rifle with a shortened barrel has fallen here.~
+   This rifle has a distinctly odd look to it. It is uniformly a 
+matte black in color, even the magazine. The barrel is several 
+inches shorter than is usual in such weapons, and seems to be 
+thicker than the diameter of the small bore requires. The butt 
+of the stock is molded into a triangle with the interior cut out. 
+A magazine curves toward the muzzle from in front of a pistol 
+grip and trigger. 
+
+Once this weapon is picked up, the reason for its oddness becomes 
+obvious, for it is molded completely of plastic. It is very 
+lightweight, and despite its composition has a sinister, lethal 
+look to it. 
+~
+5 4096 8193
+4 2 5 3
+350 0.000000
+0 0 2 0 1000 131072 0 1
+200.000000 0 0 0 0 0 0
+God~
+God~
+#33001
+helmet RPT-JAUNT military white camouflage byChelicerae PLASTIC~
+a thick helmet with a white camouflage cover~
+A thick military helmet with a white camouflage cover lies here.~
+   This helmet covers the head down to the brow in front. It 
+curves downward along the temple to cover nearly the entire ear, 
+bulging a bit to avoid interference with hearing as much as 
+possible, and continues around the base of the skull where a 
+pouch containing a ceramic shield hangs to cover the nape of the 
+neck.. Several pads inside the helment provide some comfort, and 
+a system of straps travel between a chin-cup and four points of 
+connection on the helmet. In the front center is a white plastic 
+plate fitted with electronic and mechanical connectors for 
+various devices which might be worn on the head. A night vision 
+monocle can be flipped down from the rim of the helmet before the 
+right eye. A white and grey camouflage cover masks the basic 
+green material. 
+~
+9 4096 17
+5 2 3 0
+1925 0.000000
+0 0 0 0 220 131072 0 1
+660.000000 0 0 0 0 0 0
+A
+10016 -8
+A
+10017 -8
+God~
+God~
+#33002
+body armor RPT_JAUNT byChelicerae white camouflage field jacket vest TEXTILE~
+a suit of white camouflage body armor and a field jacket~
+A suit of white camouflage body armor lies in a pile with a field jacket.~
+   Ceramic plates inserted into the front and back of this white 
+and grey camouflage vest provide excellent protection from 
+projectiles, as do smaller plates along the sides. Even more 
+plates cover the upper arms and throat, and hang down to protect 
+the groin. Webbed straps are sewn in a grid upon the vest to 
+privide anchor points for other carried equipment. Beneath the 
+vest is a white field jacket. 
+~
+9 4096 9
+8 3 597 0
+3550 0.000000
+0 0 0 0 301 262144 0 1
+12496.000000 0 0 0 0 0 0
+A
+10016 -20
+A
+10017 -20
+God~
+God~
+#33003
+pack RPT_JAUNT white camouflage MOLLE pouches packs straps byChelicerae TEXTILE~
+a white camouflage set of modular packs and pouches~
+A pile of white camouflage cloth and straps is here.~
+   These containers made of tough white and grey camouflage cloth 
+and synthetic materials have straps and hooks for hanging from 
+the webbing on body armor. Among them is a large backpack 
+covered with many pouches, a small readily-accessible pouch for 
+first-aid supplies, and one perfectly sized for military rations. 
+Overall, they are remarkably light and sturdy. 
+~
+15 4096 1025
+7000 0 -1 0
+800 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33004
+hydration system RPT_JAUNT byChelicerae camelback tube white camouflage bladder belt TEXTILE~
+a hydration system encased in white camouflage cloth~
+White tubes and cloth lie in a heap.~
+   A long cloth pouch of white and grey camouflage has straps for 
+attaching to the web grid of battle armor. Inside is a plastic 
+bladder which can be filled with about seventy-two ounces of 
+liquid via a plastic cap on the top. A long narrow drinking tube 
+leads from the bladder and has hook-and-loop fasterners for 
+attaching to battle armor. 
+~
+17 4096 8388609
+10 10 2015 0
+300 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33005
+trousers RPT_JAUNT leggings white camouflage armored byChelicerae TEXTILE~
+a pair of white camouflage combat trousers covered by battle armor~
+Here lies a pair of white camouflage combat trousers and leg armor.~
+   A pair of sturdy white and grey camouflage trousers is covered 
+by a pair of loose leggings that cover the thighs. The leggings 
+contain pockets on the fronts, sides, and back of the thighs that 
+hold thin ceramic plates for protection from projectiles. Straps 
+at the waist of the leggings allow them to be connected to upper 
+body battle armor. 
+~
+9 4096 33
+8 3 258 0
+1000 0.000000
+0 0 0 0 264 262144 0 1
+3520.000000 0 0 0 0 0 0
+A
+10016 -8
+A
+10017 -8
+God~
+God~
+#33006
+boots RPT_JAUNT waterproof byChelicerae white TEXTILE~
+a pair of white, waterproof boots~
+A pair of white, waterproof boots sits here.~
+   Leather boots, dyed white and waterproofed, are lined with 
+warm quilted material. The soles of the boots are deeply treaded 
+for superbe traction in winter elements. Strong laces fitted 
+through dull grey metal eyelets close the boots along the shin. 
+~
+11 4096 65
+2 0 0 0
+200 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33007
+helmet balaclava RPT_JAUNT white mask byChelicerae head cap TEXTILE~
+a white balaclava helmet~
+A white balaclava helmet lies in a ball on the floor.~
+   Knitted with synthetic fibers, this warm white mask covers the 
+face and neck, leaving only the eyes exposed. It can be rolled 
+up to form a soft warm cap as well. 
+~
+9 528384 17
+6 3 0 0
+50 0.000000
+0 0 
+white masked~
+0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33008
+gloves RPT_JAUNT white byChelicerae white TEXTILE~
+a pair of white shooter gloves~
+A pair of white shooter gloves has been left here.~
+   These waterproof gloves are lined with a breathable material 
+for added warmth in harsh environments. The palm is made of a 
+synthetic leather that provides excellet grip and accurate 
+tactile sensation. Non-slip patches are sewn onto the palm and 
+all fingertips except the index finger, facilitating trigger 
+control. A hook-and-look closure at the wrist provides a snug 
+fit to keep the gloves secure and snow out. 
+~
+9 4096 257
+6 3 0 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+A
+10022 -10
+A
+10023 -10
+God~
+God~
+#33009
+rifle RPT_JAUNT carbine white assault byChelicerae METAL~
+a white and grey camouflaged carbine in basic infantry configuration~
+A white and grey camouflaged carbine has been left here.~
+   This carbine is a modular weapon that can be configured to 
+suit several jobs, and is now set up for use as a basic assault 
+rifle. The barrel features a bayonet lug just before a vented 
+polymer handguard that wraps around the rest of the barrel. A 
+sturdy handle for carrying arcs from the top of the handguard to 
+the pistol-grip receiver, where a tiny computer in the stock 
+delivers various firing information to a red-dot sight atop the 
+receiver. A slightly curved magazine inserted in front of the 
+trigger has the capacity to hold thirty rounds of caseless 5.56mm 
+ammunition. Above the trigger housing is a three-position switch 
+that rotates to select automatic, semi-automatic, and burst modes 
+of fire. The butt of the stock is adjustable to accomodate each 
+soldier's armlength. In the very front of the handguard is a 
+twistlock for mounting a bayonet. All plastic and the rifle 
+sling is camouflaged with white and ghostly grey blotches, and 
+the small amount of visible metal is a matte black. 
+
+You can FIX a BAYONET to this rifle. After you CHECK the RIFLE 
+to see if you need more ammunition, you can RELOAD the RIFLE. 
+SELECT BURST or SEMI to fire four or one rounds at a single 
+squeeze of the trigger. CHECK SELECTOR to see which position the 
+switch is in. SHOOT <target> (ooc - make sure of your target) to 
+fire the rifle. 
+~
+5 4096 8396801
+3 3 3 5
+675 0.000000
+3 0 2 0 1000 131072 0 1
+125.000000 0 0 0 0 0 0
+God~
+God~
+#33010
+rifle RPT_JAUNT carbine white assault sniper byChelicerae METAL~
+a white and grey camouflaged rifle in sniper configuration~
+A white and grey camouflaged sniper rifle has been left here.~
+   This bolt-action rifle is a modular weapon that can be 
+configured to suit several jobs, and is now set up for use as a 
+sniper rifle. The integral bipod can be flipped down from the 
+vented handguard that wraps around the rear of the long barrel. 
+A sturdy handle for carrying arcs from the top of the handguard 
+to the pistol-grip receiver, where a ballistic computer in the 
+stock delivers various firing information to a large scope atop 
+the receiver. A slightly curved magazine inserted in front of 
+the trigger has the capacity to hold thirty rounds of caseless 
+5.56mm ammunition. All plastic and the rifle sling is 
+camouflaged with white and ghostly grey blotches, and any visible 
+metal is matte black. 
+
+
+You realize that you could use this to SNIPE the GUARD. You can 
+also FIX a BAYONET, or RELOAD the RIFLE. 
+~
+5 4096 8396801
+3 2 6 3
+525 0.000000
+0 0 2 0 1000 131072 0 1
+250.000000 0 0 0 0 0 0
+God~
+God~
+#33011
+scalpel RPT_JAUNT steel sharp shining steel byChelicerae METAL~
+a sharp steel scalpel~
+A sharp steel scalpel glitters here.~
+   This small instrument is about eight inches long overall, and 
+consists of an extremely sharp, tempered steel blade locked 
+securely into a thin steel handle. 
+~
+5 4096 8193
+2 2 3 2
+150 0.000000
+4 0 1 0 1000 131072 0 1
+75.000000 0 0 0 0 0 0
+God~
+God~
+#33012
+patch RPT_JAUNT rank captain insignia grey subdued byChelicerae TEXTILE~
+a white rank patch bearing two subdued grey bars~
+A white rank patch bearing two grey bars has fallen here.~
+   This small rank patch is usually attached to the throat of a 
+uniform with hook-and-loop patches. It is white cloth 
+embroidered with a pair of subtle grey bars denoting the rank of 
+captain to those who can recognize it. 
+~
+11 4096 2097153
+0 0 0 0
+0 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33013
+blood gore RPTJAUNT byChelicerae OTHER~
+#1a large amount of blood and gore#0~
+#1A large amount of blood and gore grimly paints this area.#0~
+   Evidence of violence exists here in the form of a large 
+bloodstain. Its coppery scent rising to the nostrils is 
+unsettling. 
+~
+12 4096 0
+0 0 0 0
+0 0.000000
+0 0 0 0 30 0 0 1
+0.000000 6 0 0 0 0 0
+God~
+God~
+#33014
+tube RPT_JAUNT blueprint cardboard byChelicerae OTHER~
+a long narrow cardboard tube~
+A long, narrow cardboard tube lays here.~
+   This cardboard tube is about three feet long and three inches 
+in diameter. It has a snug cap of the same material on both 
+ends. 
+~
+15 4096 1
+100 1 0 0
+50 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33015
+sheet RPT_JAUNT blueprint paper byChelicerae OTHER~
+a large sheet of paper~
+A large sheet of paper lies here.~
+   Diagrams in multicolor ink cover this three foot by four foot 
+sheet of paper. Unless inhibited in some way, it tends to 
+arrange itself into a loose roll. 
+~
+12 4096 1
+0 0 0 0
+20 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33016
+generator RPT_JAUNT portable byChelicerae OTHER~
+a small portable generator powering a small transmitter~
+A small portable generator hums as it provides power for a small transmitter.~
+   A small yet powerful generator hums rather loudly as it runs, 
+a gauge showing that its fuel take is nearly full. There is a 
+metal toggle switch below the fuel gauge. Two insulated leads 
+attached to its connectors lead to a small black plastic box, 
+which has a stubby grey plastic-covered antenna protruding from 
+the top. A keypad on the front of the box is below a display 
+that shows a eighteen-character series of numbers and letters. 
+
+You realize that you could #6TURNOFF#0 the #6GENERATOR#0. 
+~
+12 4096 1
+0 0 0 0
+10000 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33017
+parachute RPT_JAUNT packed chute byChelicerae OTHER~
+a packed parachute~
+A packed parachute is laid here.~
+   This is a light-weight pack with strong straps that both cross 
+the shoulders and go between the legs, trapping the wearer quite 
+securely within. On the left shoulder is a grey handle attached 
+to a cable that leads into the pack. The material of the straps 
+and pack is camouflaged in white and ghostly grey. A tiny paper 
+tag is attached with fine twisted wire to one of the rings on the 
+straps, bearing a number scribbled in ink. 
+
+You realize that you could #6PULL#0 a ring to open the #6CHUTE#0. 
+You realize that you could #6PULL#0 a ring to open a #6BACKUP#0. 
+~
+12 4096 524289
+0 0 0 0
+600 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33018
+pistol RPT_JAUNT handgun silenced plastic .45 byChelicerae OTHER~
+a .45 handgun with attached suppressor~
+A .45 handgun, suppressor attached, has been left here.~
+   A little over seven inches in length, this pistol is quite 
+light due to its white polymer frame. The barrel itself is dull 
+grey metal, as is the slide and trigger, although the trigger 
+guard is also plastic. A plastic magazine is fitted into the 
+textured grip, and holds seventeen .45 rounds in a double column 
+configuration. A sleek cylindrical suppressor is screwed onto 
+the front of the barrel, the same matte grey as the other metal. 
+A microchip inside the pistol disables it if its bearer does not 
+wear U.S. military dog tags. 
+
+You realize you could RELOAD this PISTOL. You can CHECK the 
+PISTOL magazine to see how many rounds are left, and you can 
+SHOOT <TARGET>. 
+~
+5 4096 270337
+1 3 3 5
+450 0.000000
+3 0 1 0 1000 131072 0 1
+100.000000 0 0 0 0 0 0
+God~
+God~
+#33019
+magazine RPT_JAUNT full rifle white polymer plastic byChelicerae PLASTIC~
+a white polymer rifle magazine, full of cartridges~
+A full rifle magazine made of white polymer lies here.~
+   Made of translucent white polymer, this box magazine holds 
+thirty 5.56 x 45mm rifle cartridges. It is slightly curved, and 
+at the top some texture has been etched to enhance the grip of 
+the rifle mechanism. The magazine is full. 
+
+You realize you can use this magazine to RELOAD a RIFLE. 
+~
+12 4096 262145
+0 0 0 0
+50 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33020
+ladder RPT_JAUNT rope  byChelicerae OTHER~
+a rope ladder hanging from the open door of a helicopter~
+#6A rope ladder dangles down from a hovering chopper, and thrashes wildly with the whipping wind.#0~
+   Two ropes have been joined every eighteen inches by a thin rod 
+of white textured polymer. This unstable ladder dangles 
+precariously from the open door of a hovering helicopter, its 
+bottom step whipping about wildly a few feet off the ground. 
+
+You realize that you could #6CLIMB#0 this #6LADDER#0 to safety. 
+~
+12 4096 0
+0 0 0 0
+1000 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33021
+tie JAUNT_RPT clumsily knotted black byChelicerae TEXTILE~
+a narrow, clumsily-knotted black tie~
+A narrow black tie, clumsily knotted, has been left here.~
+   This long strip of cloth has been looped and clumsily knotted 
+in such a way as to leave both ends hanging long. It is made of 
+obviously quality material, but spots and wrinkles spoil its once 
+handsome looks. 
+~
+11 4096 2097153
+0 0 0 0
+50 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33022
+labcoat JAUNT_RPT white bloody Romney byChelicerae TEXTILE~
+a white labcoat, stained with blood~
+A white labcoat lays in a pile, splattered with drying blood.~
+   The bottom of this labcoat hovers right above the knees. 
+Several multicolored pens and tweaking tools protrude from a 
+plastic liner in the breast pocket. A black plastic nametag 
+pinned to the other breast says 'Romney'. Quite a lot of blood 
+has splattered upon the front of the coat. 
+~
+11 4096 524289
+0 0 0 0
+200 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33023
+parka JAUNT_RPT Russian M4 black fur-lined byChelicerae TEXTILE~
+a black fur-lined parka~
+A black, fur-lined parka has been laid here.~
+   The exterior of this mid-thigh-length black parka is entirely 
+waterproof. It is closed with a heavy-duty zip system and has a 
+full length storm flap that closes with snaps. Cords to tighten 
+the waist and bottom edge obstruct cold air access inside, and 
+internal knitted cuffs on the arms make this a very warm parka. 
+The real fur lining can be removed if need be, and the spacious 
+hood allows room for large hats to be worn underneath. It has 
+four large chest and cargo pockets, and an inner pocket for 
+documents as well. 
+~
+11 4096 9
+0 0 0 0
+400 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33050
+token xparachute OTHER~
+a parachute token~
+A parachute token is hidden here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33024
+trouser RPTJAUNT black waterproof winter Russian byChelicerae TEXTILE~
+black waterproof winter trousers~
+A pair of black waterproof winter trousers has been dropped here.~
+   The lining inside these synthetic, waterproof trousers make 
+them very warm and comfortable in frigid conditions. The belt 
+line is high to protect the waist from cold, and there are 
+several two-inch-wide belt loops sewn about its circumference. 
+Side zips at the bottom allow for easy access to footwear, and 
+there are footstraps to stop the legs riding up while putting on 
+one's boots. There are pockets on the side and hips. 
+~
+11 4608 33
+0 0 0 0
+100 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33025
+cap RPTJAUNT hat black ushanka fox fur Russian byChelicerae ORGANIC~
+a luxurious ushanka of black fox fur~
+A black fox-fur ushanka has been left here.~
+   Made of luxurious black fox fur, this cap has long flaps that 
+can be tied over the crown of the head, or under the chin to 
+provide excellent protection for the ears from the cold, or 
+around the back to provide protection for the neck while leaving 
+the ears free for listening. A flap of the fur is similarly 
+turned up in the front of the cap, and a red badge sewn here 
+displays a double headed eagle embroidered in gold thread, a 
+scepter in one claw and an orb in the other. In the center of 
+the eagle's chest is depicted a knight on a charger, holding a 
+lance. A crown is embroidered above and between the heads of the 
+eagle. At the bottom of this badge are embroidered three golden 
+five-pointed stars in a row. 
+~
+11 4608 17
+0 0 0 0
+100 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33026
+boots RPTJAUNT black gleaming pair high leather Russian byChelicerae ORGANIC~
+knee-high black leather boots~
+A pair of high leather boots sits here, gleaming.~
+   Polished to a high shine, these leather boots rise to just 
+below the knee. Their soles are made of deeply-treaded rubber 
+for superior traction in challenging environments. They fit the 
+calf snuggly, and are closed with a zipper along the outside, 
+which is hidden by a flap when closed. 
+~
+11 4096 65
+0 0 0 0
+100 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33027
+token xTimelineRPT1 guard solitary green ORGANIC~
+#5a solitary guard dressed in a green military uniform#0~
+#5A solitary guard stands watch over the compound door.#0~
+~
+12 0 1
+0 0 0 0
+2500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33028
+token xTimelineRPT1 guard corpse ORGANIC~
+the corpse of a solitary guard~
+The corpse of a guard is slumped lifelessly against the compound wall.~
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33029
+token xTimelineRPT1 bazooka defense OTHER~
+a bazooka defense token~
+A bazooka defense token is here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33030
+keypad terminal small METAL~
+a small keypad terminal~
+Set into the blastdoor is a small keypad terminal.~
+   Box-shaped, this metallic keypad is an even six inches along 
+each of its outer edges. The wiring seems to be on the fritz, 
+and the flicker LCD message indicates that the Deck Three 
+Elevator Door is on a security lockdown. 
+
+You realize that you might be able to #6HACK#0 this #6TERMINAL#0. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33031
+bayonet RPTJAUNT survival blackened metal knife byChelicerae ORGANIC~
+a blackened metal survival knife~
+A survival knife is here, gleaming dully.~
+   The blackened blade of this formidable weapon is seven inches 
+long, and slightly curved along the viciously sharpened bottom 
+edge. Along the top of the blade are many serrated, 
+rearward-raking teeth, while hear the angled tip the edge is 
+again sharpened but stronger than the lower edge. A groove runs 
+down the centerline of the blade, and there is an oblong hole 
+where the blade first becomes thickest that allows the top of the 
+tip to be used as a wire cutter in conjunction with the sheath. 
+The quillion is pierced with a large hole on one side to fit over 
+a rifle barrel, and is mounted at the center of balance of the 
+knife. The handle of the knife is round and insulated, the 
+equidistant rings indented around its barrel provide strenth and 
+improved grip. At the end of the handle are two spring clips 
+that mate with the bayonet lug of a rifle. 
+~
+5 4096 270337
+2 2 3 2
+100 0.000000
+4 0 3 0 1300 524288 0 1
+675.000000 0 0 0 0 0 0
+A
+10007 8
+A
+10002 8
+God~
+God~
+#33032
+rifle RPT_JAUNT bayonet carbine white assault byChelicerae METAL~
+a white military carbine with a fixed bayonet~
+A white military carbine fixed with a bayonet has been abandoned here.~
+   This carbine is a modular weapon that can be configured to 
+suit several jobs, and is now set up for use as a basic assault 
+rifle. A bayonet has been fixed to the barrel before a vented 
+polymer handguard that wraps around the rest of the barrel. A 
+sturdy handle for carrying arcs from the top of the handguard to 
+the pistol-grip receiver, where a tiny computer in the stock 
+delivers various firing information to a red-dot sight atop the 
+receiver. A slightly curved magazine inserted in front of the 
+trigger has the capacity to hold thirty rounds of caseless 5.56mm 
+ammunition. Above the trigger housing is a three-position switch 
+that rotates to select automatic, semi-automatic, and burst modes 
+of fire. The butt of the stock is adjustable to accomodate each 
+soldier's armlength. In the very front of the handguard is a 
+twistlock for mounting a bayonet. All plastic and the rifle 
+sling is camouflaged with white and ghostly grey blotches, and 
+the small amount of visible metal is a matte black. 
+
+You can UNFIX the BAYONET, or RELOAD the RIFLE. 
+~
+5 4096 8396801
+3 2 6 3
+450 0.000000
+1 0 4 0 1300 524288 0 1
+4000.000000 0 0 0 0 0 0
+A
+10003 8
+God~
+God~
+#33033
+rifle RPT_JAUNT bayonet sniper white assault byChelicerae METAL~
+a white and grey camouflaged rifle in sniper configuration with fixed bayonet~
+A white and grey camouflaged sniper rifle with fixed bayonet has been left here.~
+   This bolt-action rifle is a modular weapon that can be 
+configured to suit several jobs, and is now set up for use as a 
+sniper rifle. The integral bipod can be flipped down from the 
+vented handguard that wraps around the rear of the long barrel, 
+and a bayonet has been affixed to the bayonet lug near the 
+muzzle. A sturdy handle for carrying arcs from the top of the 
+handguard to the pistol-grip receiver, where a ballistic computer 
+in the stock delivers various firing information to a large scope 
+atop the receiver. A slightly curved magazine inserted in front 
+of the trigger has the capacity to hold thirty rounds of caseless 
+5.56mm ammunition. All plastic and the rifle sling is 
+camouflaged with white and ghostly grey blotches, and any visible 
+metal is matte black. 
+
+You realize that you could use this to SNIPE the GUARD. You can 
+also UNFIX the BAYONET, or RELOAD the RIFLE. 
+~
+5 4096 8396801
+3 2 4 4
+1050 0.000000
+1 0 4 0 1000 131072 0 1
+125.000000 0 0 0 0 0 0
+God~
+God~
+#33034
+scabbard RPT_JAUNT bayonet knife M9 plastic byChelicerae PLASTIC~
+a white plastic knife scabbard~
+A white plastic knife scabbard has been left here.~
+   This rectangular scabbard is made of very strong white 
+polymer. At the bottom tip is a metal device that, when used 
+with the proper bayonet knife, forms a serviceable wire cutter. 
+A sturdy A short nylon webbed strap is riveted to the top of the 
+sheath, with a narrower strap with a snap closure that functions 
+to keep the knife in place. A strong but light metal clip serves 
+to hold the scabbard to a belt or a strap on equipment. A quick 
+disconnect clip between the metal clip and web strap allows the 
+scabbard to be instantly removed if needed. 
+~
+58 4096 262145
+200 0 6 0
+30 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33035
+magazine RPT_JAUNT rifle white polymer plastic empty byChelicerae PLASTIC~
+an empty white polymer rifle magazine~
+An empty rifle magazine made of white polymer lies here.~
+   Made of translucent white polymer, this box magazine holds 
+thirty 5.56 x 45mm rifle cartridges. It is slightly curved, and 
+at the top some texture has been etched to enhance the grip of 
+the rifle mechanism. The magazine is empty. 
+~
+12 4096 262145
+0 0 0 0
+10 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33036
+magazine RPT_JAUNT pistol handgun full byChelicerae PLASTIC~
+a full handgun magazine made of white polymer~
+A full pistol magazine made of white polymer has been left here.~
+   This is a rectangular box magazine made of white translucent 
+polymer. It can hold seventeen .45 caliber pistol cartridges in 
+two columns, which are fed by a spring-driven mechanism to the 
+opening in the top of the mag. It is presently full. 
+~
+12 4608 262145
+0 0 0 0
+100 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33037
+grid token xTimeline1 OTHER~
+a timeline1RPT grid~
+A timeline1RPT grid is laid out here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33038
+magazine RPT_JAUNT pistol handgun empty byChelicerae PLASTIC~
+an empty handgun magazine made of white polymer~
+An empty pistol magazine made of white polymer has been left here.~
+   This is a rectangular box magazine made of white translucent 
+polymer. It can hold seventeen .45 caliber pistol cartridges in 
+two columns, which are fed by a spring-driven mechanism to the 
+opening in the top of the mag. It is presently empty. 
+~
+12 4096 262145
+0 0 0 0
+20 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33039
+token xTimelineRPT1 nogun field OTHER~
+a no-gun field~
+This object keeps gun progs from working in this room.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33040
+dog tags RPT_JAUNT microchip embedded -pistol uses 0 carbines1&2 - byChelicerae METAL~
+a pair of microchip-embedded dog tags~
+A pair of microchip-embedded dog tags have been dropped here.~
+   A 24 stainless steel ball chain holds one 2 by 1 oblong dog 
+tag with rounded corners. A much shorter chain looped around the 
+longer one holds another tag. The tags hold information about a 
+soldier in case he becomes a casualty and cannot identify 
+himself, such as his name, identification number, religious 
+preferences, and blood type. White rubber has been fitted around 
+their edges to dampen their rattling. A small circular black 
+silicon chip is embedded in the tag on the long chain, which 
+holds the soldier's medical records as well as a code to arm his 
+weapons. 
+~
+12 4096 2097157
+17 1 30 0
+200 0.000000
+0 0 0 0 200 131072 0 1
+37.500000 0 0 0 0 0 0
+God~
+God~
+#33041
+holster RPT_JAUNT white leather byChelicerae ORGANIC~
+a white leather pistol holster~
+A white leather pistol holster lays here.~
+   A simple holster made of tough leather died white, it has a 
+locking metal clip fashioned to hold it on a belt or strap. A 
+thin woven strap can be snapped over the pistol to hold it in 
+place. 
+
+You can HOLSTER a PISTOL with this, as well as DRAW a PISTOL. 
+~
+58 4096 262145
+10000 0 0 0
+50 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33042
+helmet RPT_JAUNT military Russian white byChelicerae PLASTIC~
+a thick helmet of white polymer~
+a heavy leather jacket~
+This helmet covers the head down to the brow in front.  The white polymer 
+curves downward along the temple to cover nearly the entire ear, 
+bulging a bit to avoid interference with hearing as much as 
+possible, and continues around the base of the skull where a 
+pouch containing a ceramic shield hangs to cover the nape of the 
+neck.. Several pads inside the helmet provide some comfort, and 
+a system of straps travel between a chin-cup and four points of 
+connection on the helmet. In the front center is a white plastic 
+plate fitted with electronic and mechanical connectors for 
+various devices which might be worn on the head. A night-vision monocle can be flipped down from the rim of the helmet before the 
+right eye. 
+~
+9 4096 17
+5 1 0 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33043
+bladder RPT_JAUNT camelback white canteen byChelicerae TEXTILE~
+a white hydration system with a plastic tube~
+A white hydration system with a plastic tube lays here.~
+   A long belt of woven white canvas has two rows of 
+white-painted eyelets for attaching individual equipment. It is 
+secured by means of a dull grey metal hook and loop buckle. A 
+bladder for holding water is fixed to it. 
+~
+17 4096 8388609
+10 10 2015 0
+300 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33044
+body armor RPT_JAUNT white Russian byChelcerae TEXTILE~
+a set of white body armor~
+a suit of white body armor lies in a pile.~
+   Ceramic plates inserted into the front and back of this white 
+vest provide excellent protection from projectiles, as do smaller 
+plates along the sides. Even more plates cover the upper arms 
+and throat, and hang down to protect the groin. Webbed straps 
+are sewn in a grid upon the vest to privide anchor points for 
+other carried equipment. Beneath the vest is a white field 
+jacket. 
+~
+9 4096 9
+3 5 0 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33045
+backpack RPT_JAUNT white shoulder pack Russian byChelicerae TEXTILE~
+a white backpack with shoulder straps~
+A backpack of white canvas is here.~
+   This stout canvas pack has sturdy shoulder straps and a strong 
+interior frame for bearing loads. Its surface bears many loops 
+and fasteners for attaching other equipment. All canvas is 
+white, and any metal is painted white. 
+~
+15 4096 8913921
+7000 0 -1 0
+800 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33046
+trousers RPT_JAUNT leggings white armored Russian byChelicerae TEXTILE~
+a pair of white combat trousers covered by battle armor~
+Here lies a pair of white combat trousers and leg armor.~
+   A pair of sturdy whitetrousers is covered by a pair of loose 
+leggings that cover the thighs. The leggings contain pockets on 
+the fronts, sides, and back of the thighs that hold thin ceramic 
+plates for protection from projectiles. Straps at the waist of 
+the leggings allow them to be connected to upper body battle 
+armor. 
+~
+9 4096 33
+3 5 0 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33047
+patch RPT_JAUNT Russian insignia white grey subdued byChelicerae TEXTILE~
+a white patch bearing an embroidered double-headed eagle~
+A white patch bearing an embroidered double-headed eagle has fallen here.~
+   This small white patch fastens to the collar of the uniform 
+with hook and loop closures. It bears a spread-winged, 
+double-headed eagle embroidered with light grey thread. 
+~
+11 4096 2097153
+0 0 0 0
+1 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33048
+rifle RPT_JAUNT assault white RUSSIAN byChelicerae METAL~
+a white assault rifle~
+A white assault rifle has been dropped here.~
+   This rifle has a stock that folds forward along the gun, and a 
+small handle on the forearm that folds down, so that the rifle 
+can be used with that and the pistol grip like a machine gun. 
+The magazine curves forward under the receiver, and holds thirty 
+rounds of 5.45 mm ammunition. All plastic and the rifle sling is 
+white, while the metal parts are dulled into a matte black. 
+Above the trigger housing is a two position switch that rotates 
+to select rate of fire. 
+
+You can FIX a BAYONET to this rifle. After you CHECK the RIFLE 
+to see if you need more ammunition, you can RELOAD the RIFLE. 
+SELECT BURST or SEMI to fire four or one rounds at a single 
+squeeze of the trigger. CHECK SELECTOR to see which position the 
+switch is in. SHOOT <target> (ooc - make sure of your target) to 
+fire the rifle. 
+~
+5 4096 8396801
+3 3 3 5
+675 0.000000
+3 0 2 0 1000 131072 0 1
+125.000000 0 0 0 0 0 0
+God~
+God~
+#33049
+magazine RPT_JAUNT full rifle white polymer Russian byChelicerae PLASTIC~
+a white plastic assault rifle magazine, full of cartridges~
+A full assault rifle magazine made of white polymer lies here.~
+   Made of translucent white polymer, this box magazine holds 
+thirty 5.45 x 39mm rifle cartridges. It is curved forward, and 
+at the top some texture has been etched to enhance the grip of 
+the rifle mechanism. The magazine is full. 
+
+You realize you can use this magazine to RELOAD a RIFLE. 
+~
+12 4608 262145
+0 0 0 0
+50 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33051
+magazine RPT_JAUNT empty rifle white polymer Russian byChelicerae PLASTIC~
+an empty white plastic assault rifle magazine~
+An empty assault rifle magazine of white polymer has been discarded here.~
+   Made of translucent white polymer, this box magazine holds 
+thirty 5.45 x 39mm rifle cartridges. It is curved forward, and 
+at the top some texture has been etched to enhance the grip of 
+the rifle mechanism. The magazine is empty. 
+~
+12 4096 262145
+0 0 0 0
+50 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33052
+dog tags RPT_JAUNT microchip embedded Russian byChelicerae METAL~
+a pair of Russian dog tags~
+A pair of Russian dog tags have fallen here.~
+   A 24 stainless steel ball chain holds one 2 by 1 oblong dog 
+tag with rounded corners. A much shorter chain looped around the 
+longer one holds another tag. The tags hold information about a 
+soldier in case he becomes a casualty and cannot identify 
+himself, such as his name, identification number, religious 
+preferences, and blood type. Black rubber has been fitted around 
+their edges to dampen their rattling. A small circular black 
+silicon chip is embedded in the tag on the long chain, which 
+holds the soldier's medical records as well as a code to arm his 
+weapons. 
+~
+9 4096 5
+5 1 30 0
+1160 0.000000
+0 0 0 0 238 131072 0 1
+217.000000 0 0 0 0 0 0
+A
+10016 -8
+A
+10017 -8
+God~
+God~
+#33053
+rifle RPT_JAUNT assault white Russian byChelicerae METAL~
+a white assault rifle with fixed bayonet~
+A white assault rifle lays here, a bayonet fixed upon its muzzle.~
+This rifle has a stock that folds forward along the gun, and a 
+small handle on the forearm that folds down, so that the rifle 
+can be used with that and the pistol grip like a machine gun. 
+The magazine curves forward under the receiver, and holds thirty 
+rounds of 5.45 mm ammunition. All plastic and the rifle sling is 
+white, while the metal parts are dulled into a matte black. 
+Above the trigger housing is a two position switch that rotates 
+to select rate of fire. 
+
+You can UNFIX the BAYONET on this rifle. After you CHECK the RIFLE 
+to see if you need more ammunition, you can RELOAD the RIFLE. 
+SELECT BURST or SEMI to fire four or one rounds at a single 
+squeeze of the trigger. CHECK SELECTOR to see which position the 
+switch is in. SHOOT <target> (ooc - make sure of your target) to 
+fire the rifle. 
+~
+5 4096 8396801
+3 2 4 4
+1050 0.000000
+1 0 4 0 1000 131072 0 1
+125.000000 0 0 0 0 0 0
+God~
+God~
+#33054
+remains mangled explosion area marred OTHER~
+the mangled remains of an explosion~
+The area is mangled, marred by a violent explosion.~
+   Spreading out from a central crater, an clear signs of an 
+explosion mar the area, mangling all around. 
+~
+12 0 0
+0 0 0 0
+10000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33055
+patch RPT_JAUNT rank PFC private first class insignia grey subdued white byChelicerae TEXTILE~
+a white patch bearing a subdued grey chevron over a rocker~
+A white patch bearing a subdued grey chevron over a rocker insignia has been left here.~
+This small rank patch is usually attached to the throat of a 
+uniform with hook-and-loop patches. It is white cloth 
+embroidered with light grey thread, a chevron over a rocker 
+denoting the rank of private first class to those who can 
+recognize it. 
+~
+12 4096 2097153
+0 0 0 0
+1 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33056
+patch RPT_JAUNT rank corporal insignia grey subdued white byChelicerae TEXTILE~
+a white patch bearing two subdued grey chevrons~
+A white patch bearing an embroidered insignia of light grey has been left here.~
+   This small rank patch is usually attached to the throat of a 
+uniform with hook-and-loop patches. It is white cloth 
+embroidered with light grey thread, two chevron denoting the rank 
+of corporal to those who can recognize it. 
+~
+12 4608 2097153
+0 0 0 0
+1 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33057
+patch RPT_JAUNT rank sergeant insignia grey subdued white byChelicerae TEXTILE~
+a white patch bearing three subdued grey chevrons~
+A white patch bearing an embroidered insignia of light grey has been left here.~
+   This small rank patch is usually attached to the throat of a 
+uniform with hook-and-loop patches. It is white cloth 
+embroidered with light grey thread, three chevron denoting the 
+rank of sergeant to those who can recognize it. 
+~
+12 4608 2097153
+0 0 0 0
+1 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33058
+patch RPT_JAUNT rank staff sergeant insignia grey subdued white byChelicerae TEXTILE~
+a white patch bearing three subdued grey chevrons over a rocker~
+A white patch bearing an embroidered insignia of light grey has been left here.~
+   This small rank patch is usually attached to the throat of a 
+uniform with hook-and-loop patches. It is white cloth 
+embroidered with light grey thread, three chevrons over a rocker 
+denoting the rank of staff sergeant to those who can recognize 
+it. 
+~
+12 4608 2097153
+0 0 0 0
+1 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33059
+patch RPT_JAUNT rank sergeant first class insignia grey subdued white byChelicerae TEXTILE~
+a white patch bearing three subdued grey chevrons over two rockers~
+A white patch bearing an embroidered insignia of light grey has been left here.~
+   This small rank patch is usually attached to the throat of a 
+uniform with hook-and-loop patches. It is white cloth 
+embroidered with light grey thread, three chevrons over two 
+rockers denoting the rank of sergeant first class to those who 
+can recognize it. 
+~
+12 4608 2097153
+0 0 0 0
+1 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33060
+patch RPT_JAUNT rank master sergeant insignia grey subdued white byChelicerae TEXTILE~
+a white patch bearing three subdued grey chevrons over three rockers~
+A white patch bearing an embroidered insignia of light grey has been left here.~
+   This small rank patch is usually attached to the throat of a 
+uniform with hook-and-loop patches. It is white cloth 
+embroidered with light grey thread, three chevrons over three 
+rockers denoting the rank of master sergeant to those who can 
+recognize it. 
+~
+12 4608 2097153
+0 0 0 0
+1 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33061
+patch RPT_JAUNT rank sergeant major insignia grey subdued white byChelicerae TEXTILE~
+a white patch bearing three subdued grey chevrons over three rockers, a star in the center~
+A white patch bearing an embroidered insignia of light grey has been left here.~
+   This small rank patch is usually attached to the throat of a 
+uniform with hook-and-loop patches. It is white cloth 
+embroidered with light grey thread, three chevrons over three 
+rockers with a star in the center denoting the rank of sergeant 
+major to those who can recognize it. 
+~
+12 4608 2097153
+0 0 0 0
+1 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33062
+flashlight OLD_RPT_ONLY black steel METAL~
+a $color, $ironalloy flashlight~
+A long, $color $ironalloy flashlight is lying here.~
+   This simple flashlight has a long, narrow $color shaft with an 
+etched check pattern for a better grip, made entirely of 
+$ironalloy. It's heavy and apart from the grip the entire 
+flashlight is smooth. The bulb is sheltered by a thick piece of 
+round glass, designed not only to protect but also to enhance the 
+light. A button sits at the end of the grip towards the head, 
+most likely the power button. 
+~
+25 33558528 262145
+1 0 1 0
+100 0.000000
+0 0 0 0 90 131072 0 1
+25.000000 0 0 0 0 0 0
+God~
+God~
+#33063
+patch RPT_JAUNT rank second lieutenant insignia yellow subdued white byChelicerae TEXTILE~
+a white patch bearing one subdued light yellow bar~
+A white patch bearing an embroidered insignia of light yellow has been left here.~
+   This small rank patch is usually attached to the throat of a 
+uniform with hook-and-loop patches. It is white cloth 
+embroidered with a single bar in light yellow thread, denoting 
+the rank of second lieutenant to those who can recognize it. 
+~
+12 4608 2097153
+0 0 0 0
+1 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33064
+patch RPT_JAUNT rank second lieutenant insignia grey subdued white byChelicerae TEXTILE~
+a white patch bearing one subdued light grey bar~
+A white patch bearing an embroidered insignia of light grey has been left here.~
+   This small rank patch is usually attached to the throat of a 
+uniform with hook-and-loop patches. It is white cloth 
+embroidered with a single bar in light grey thread, denoting the 
+rank of first lieutenant to those who can recognize it. 
+~
+12 4608 2097153
+0 0 0 0
+1 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#33065
+belt RPT_Jaunt white woven byChelicerae TEXTILE~
+a white woven belt with a dull grey buckle~
+A white web belt lays in a coil.~
+   This sturdy belt is made of woven white fibers, and is pierced 
+round about by two rows of dull grey metal eyelets for carrying 
+objects. The buckle is also dulled so as to not glint. 
+~
+11 4096 2049
+10 0 0 0
+50 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
 $~

@@ -5,7 +5,7 @@ A small paper ticket with a number is here.~
 ~
 44 0 1
 0 0 0 0
-1 0.000000
+0 0.000000
 0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 God~
@@ -17,7 +17,7 @@ A small merchandise ticket has been carelessly left here.~
 ~
 67 0 1
 0 0 0 0
-1 0.000000
+0 0.000000
 0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 God~
@@ -29,7 +29,7 @@ A head is here.~
 ~
 45 0 16385
 0 0 0 0
-10 0.000000
+0 0.000000
 0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 God~
@@ -41,7 +41,7 @@ A corpse is here.~
 ~
 15 0 1
 0 0 0 0
-1000 0.000000
+0 0.000000
 0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 God~
@@ -53,67 +53,2172 @@ A remarkably lifelike statue looms here.~
 ~
 15 0 0
 0 0 0 0
+0 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#11
+bread~
+a loaf of bread~
+a loaf of bread~
+~
+19 4096 1
+6 0 0 0
+300 0.000000
+0 7 
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#12
+skin red LEATHER~
+a red water skin~
+a leaky skin lies here.~
+~
+17 0 1
+10 10 14 0
+200 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#13
+skin~
+a water skin~
+a leaky skin lies here.~
+~
+17 0 1
+10 10 14 0
+200 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#14
+water~
+water~
+~
+~
+50 0 0
+0 2 0 0
+7 0.000000
+0 0 
+clean and refreshing.~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#16
+salve OTHER~
+some salve~
+Some salve lies here.~
+~
+32 0 1
+20073 20 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#17
+potion OTHER~
+a potion~
+A potion lies here.~
+~
+10 4096 1
+5 20073 2 4
+100 0.000000
+6 0 8 0 500 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#19
+arrow iron-tipped ash-shafted flight~
+an iron-tipped, ash-shafted flight arrow~
+An arrow has been left here.~
+~
+7 4194304 1
+1 6 0 0
+10 0.000000
+0 0 0 0 30 16 0 1
+2.500000 0 0 0 0 0 0
+God~
+God~
+#900
+flag release wraith OTHER~
+a wraith release flag~
+A wraith release flag is enabling the release of wraiths here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#500
+#6snow#0 OTHER~
+#6a covering of snow#0~
+#6A light layer of snow covers the terrain.#0~
+~
+12 0 0
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 1 501 0 0 0 0
+God~
+God~
+#501
+#6snow#0 OTHER~
+#6a covering of snow#0~
+#6A light layer of snow covers the terrain.#0~
+~
+12 0 0
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 1 502 0 0 0 0
+God~
+God~
+#502
+#6slush#0 OTHER~
+#6the chill slush#0~
+#6The ground underfoot is covered by a chill, watery slush.#0~
+~
+12 0 0
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 1 504 0 0 0 0
+God~
+God~
+#503
+#6puddles#0 OTHER~
+#6some puddles#0~
+#6Puddles of water have gathered here.#0~
+~
+12 0 0
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 96 504 0 0 0 0
+God~
+God~
+#504
+#6puddles#0 OTHER~
+#6some puddles#0~
+#6Puddles of water have gathered here.#0~
+~
+12 0 0
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 1 86 0 0 0 0
+God~
+God~
+#510
+#6snow#0 OTHER~
+#6the blanket of snow#0~
+#6A thick blanket of snow has fallen.#0~
+~
+12 0 1
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 1 511 0 0 0 0
+God~
+God~
+#511
+#6snow#0 OTHER~
+#6the blanket of snow#0~
+#6A thick blanket of snow has fallen.#0~
+~
+12 0 1
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 1 500 0 0 0 0
+God~
+God~
+#25
+toy manual charging PLASTIC~
+a plastic toy~
+A manually-charging, plastic toy lies here, uncharged.~
+~
+39 4096 1
+1 3 39 1
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#29
+vortex swirling OTHER~
+the swirling vortex~
+Colours swirl and writhe in an intricate vortex of shifting shapes crawling over a particularly large rock on the crater wall.~
+~
+12 8192 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#61
+parchment brittle PARCHMENT~
+a brittle piece of parchment~
+A piece of brittle parchment lies here.~
+~
+53 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#990
+coin tiny copper METAL~
+a tiny copper coin~
+A tiny copper coin has been left here.~
+   This tiny copper coin is barely larger than a man's thumbnail, 
+and yet despite its insignificant size still shows a regal elvish 
+head on the reverse, and a necessarily simple depiction of a tree 
+on the obverse. 
+~
+20 4194304 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 2 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
+#991
+coin weighty copper METAL~
+a weighty copper coin~
+A weighty copper coin has been left here.~
+   Fitting nicely within one's palm, this copper coin has a good 
+weight to it. The reverse is stamped with an image of the High 
+King Fingolfin of the Noldor Elves, the profile showing a jaw set 
+in determination and an aged, noble gaze. The obverse is marked 
+with a picture of ships sailing across a large body of water. 
+~
+20 4194304 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 2 0 1
+10.000000 0 0 0 0 0 0
+God~
+God~
+#992
+coin small squared silver METAL~
+a small, squared silver coin~
+A small, squared silver coin is here.~
+   The four edges of this small square coin have been slightly 
+rounded, the precious silver metal holding quite a shine when 
+polished. The profile of the previous High King Feanor covers 
+the reverse, without a crown and a fiery passion in his eyes 
+identifiable even from the coin. The obverse depicts a 
+triumphant elf standing over a mound of dead orcs. 
+~
+20 4194304 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 2 0 1
+100.000000 0 0 0 0 0 0
+God~
+God~
+#993
+coin hexagonal silver METAL~
+a hexagonal silver coin~
+A hexagonal silver coin his here.~
+   The six edges of this silver coin have been softened, the 
+glean of the metal a clear indicator of its quality. The head, 
+shoulders and upper body of High King Fingolfin arrayed in full 
+battle gear sans helmet is imprinted on the back of the coin, the 
+front occupied by an impression of a splendid mountain fortress. 
+~
+20 4194304 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 2 0 1
+500.000000 0 0 0 0 0 0
+God~
+God~
+#994
+coin eight-sided gold coin METAL~
+an eight-sided gold coin~
+An eight-sided gold coin is here.~
+   The alloy that forms this octagonal coin grants it a golden 
+yellow appearance, yet it is not as soft as a true golden coin 
+would be. Two pictures have been stamped with impressive detail 
+upon the coin. On the front, a depiction of three exquisite gems 
+sit, whilst on the reverse the glowering profile of High King 
+Feanor glares. 
+~
+20 4194304 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+1000.000000 0 0 0 0 0 0
+God~
+God~
+#995
+coin faceted ridged gold coin METAL~
+a faceted, ridged gold coin~
+A faceted, ridged gold coin is here.~
+   Intricate work has gone in to the minting of this faceted gold 
+coin, the rounded sides just a little too pronounced for the coin 
+to be truly round. High King Fingolfin stares imperially from 
+the reverse of the coin, while the observe bears a well defined 
+image of a sword crossed with a shield, details such as the 
+wiring of the sword's hilt and shield's leather strap easily 
+discernible. 
+~
+20 4194304 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 2 0 1
+5000.000000 0 0 0 0 0 0
+God~
+God~
+#30
+sign buying OTHER~
+#6the buying sign#0~
+#6For information on buying variable items, type #9#6look sign#0#6.#0~
+   For a brief primer on purchasing items, see HELP BUY. 
+
+
+As noted in that helpfile, there are some variable items in these 
+stores. To see if an item is variable, type "buy <item> 
+variable", minus the quotes. 
+
+If you see an alternative description generated, then the item is 
+variable, and you can continue to type "buy <item> variable" 
+until you see a particular item you like, or you can enter your 
+own variable flags after the variable argument in the buy 
+command. 
+
+Example: 
+   > buy sword variable cuved oak 
+
+Would lead you to be offered "a curved iron sword with a oak 
+hilt". 
+
+For multi-word variables, enclose the variable in brackets. 
+
+Example: 
+   > buy shield variable oak 'soaring eagle' 
+
+Would lead you to be offered "a oak shield emblazoned with a 
+soaring eagle." 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#69
+love-bed plush red water mattress comfy TEXTILE~
+a plush, red love-bed with a water mattress~
+Red and comfy, a plush, water-filled love-bed is here, ready for occupants.~
+~
+15 2101248 1
+5000000 0 0 0
+100 0.000000
+0 0 2 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#666
+bug OOC OTHER~
+#9#1a misloaded object#0~
+#9#1A misloaded object is here.#0~
+This object has been misloaded. Please contact an admin.
+~
+12 4202496 0
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#47
+arm $zlimb severed OTHER~
+a $zlimb severed arm~
+A severed $zlimb arm lies here.~
+   This $zlimb arm looks to have once belonged to a human, or 
+something close to it, but has undergone a horrid transformation 
+and decay. The break has occured close to shoulder, but it looks 
+as if it was not force along that ripped the arm from its owner, 
+but rather the massive decay and twisting of the flesh itself 
+that caused the limb to drop loose. 
+~
+12 33554432 1
+0 0 0 0
+600 0.000000
+0 0 0 0 0 32 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#50
+leg $zlimb severed OTHER~
+a $zlimb severed leg~
+A $zlimb severed leg lies here.~
+   This $zlimb leg looks to have once belonged to a human, or 
+something close to it, but has undergone a horrid transformation 
+and decay. The break has occured close to the top of the leg, 
+but it looks as if it was not force along that ripped the leg 
+from its owner, but rather the massive decay and twisting of the 
+flesh itself that caused the limb to drop loose. 
+~
+12 33554432 1
+0 0 0 0
+500 0.000000
+0 0 0 0 120 2097152 0 1
+17.500000 0 0 0 0 0 0
+A
+10003 -8
+A
+10005 -8
+God~
+God~
+#33
+graveyardboard board haggard hunchbacked old man OTHER~
+#5a haggard, hunchbacked old man#0~
+#5A haggard, hunchbacked old man obviously wants you to #6look#5 at him.#0~
+~
+22 8192 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#34
+casket OOCGUESTLOUNGE wooden ajar creepy OTHER~
+a creepy, ajar wooden casket~
+An ajar wooden casket sits in the center of the eerie tomb.~
+   Nails poke out from the line of the lid, evidence of someone 
+forcing it open. From the inside, a dank, musky smell wafts into 
+the otherwise still and scentless air. A peek inside would 
+reveal a wrapped corpse, the bandages appearing to still be 
+moist. The bottom of the casket glints a line of dead mummy 
+"juice", as if this one hadn't been cured properly. 
+~
+15 2105344 0
+0 0 0 0
+100 0.000000
+0 0 2 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#35
+tombstone OOCGUESTLOUNGE wide flat OTHER~
+a wide, flat tombstone~
+A wide, flat tombstone is partially hidden behing a weeping willow.~
+Weathered into a flattened state by time, this tombstone has words that can be
+read on the front:
+ 
+I. C. Ewe
+ 
+Yes, yes I do. Get the hell off of my head!
+~
+15 2105344 0
+100 0 -1 0
+300 0.000000
+0 0 2 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#36
+tombstone OOCGUESTLOUNGE slanted broken OTHER~
+a slanted, broken tombstone~
+A slanted tombstone is broken and forlorn, away from its kin.~
+Just the corner broken off of this fairly new tombstone, the inscription can
+still be read:
+ 
+I. M. Alive
+ 
+What did you do? Let me out!
+~
+15 2105344 0
+100 0 -1 0
+300 0.000000
+0 0 2 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#512
+row small plush couches TEXTILE~
+a row of small, plush couches~
+A row of small, plush couches sit here.~
+   These couches are small-- they could comfortably seat two 
+people. They are made out of a soft, red, cotton material. The 
+couches are arrayed out in neat rows of two, all facing each 
+other, all placed uniformly. 
+~
+15 2101248 0
+100 0 -1 0
+2500 0.000000
+0 0 12 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#513
+table metal small METAL~
+a small, metal table~
+A small, metal table stands here.~
+   This small table stands four feet high and is absolutely 
+plain, utterly unornamented. It has four metal chair legs, and a 
+thin metal tabletop. It appears to be able to be attached to the 
+foor by way of bolts. 
+~
+15 2101248 0
+1000 0 -1 0
+1500 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#514
+cot metal thinly-padded METAL~
+a metal cot bolted to the floor~
+A metal cot, thinly-padded, has been bolted to the floor here.~
+   This metal cot has had a thin, padded mattress laid over it, 
+lending some degree of comfort to this otherwise uncomfortable 
+piece of furniture. It has been bolted to the floor. 
+~
+15 2101248 0
+1000 0 -1 0
+1500 0.000000
+0 0 2 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#515
+shelves metal series METAL~
+a series of metal shelves~
+Metal shelves line the walls here.~
+   These metal shelves line the wall from floor to ceiling, 
+sturdily constructed, and have been directly attached to the 
+walls, making removing them all but impossible. 
+~
+15 4096 0
+50000 1 -1 0
+10000 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#516
+table long benches METAL~
+a long, metal table lined by benches~
+A long, metal table stands here, lined by benches.~
+   This metal table is long and narrow and bolts to the floor. 
+It seems capable of seating twelve or so individuals, six to a 
+bench on either side of it. These two long benches attach to the 
+table, seem to be fixed in place, and are of the same smooth, 
+glossless metal as the tabletops. 
+~
+15 2101248 0
+20000 0 -1 0
+15000 0.000000
+0 0 12 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#517
+bunk bed metal-framed METAL~
+a metal-framed bunk bed~
+A metal-framed bunk bed stands here, with an upper and lower bunk.~
+   This metal-framed bunk bed has an upper and lower bunk. A 
+thin, padded mattress rests on each bunk, with a single blanket 
+and small pillow, and offers some degree of comfort. 
+~
+15 2101248 0
+1000 0 -1 0
+1000 0.000000
+0 0 4 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#518
+footlocker $color-striped small METAL~
+a small, $color-striped footlocker~
+A small, $color-striped footlocker sits here.~
+   This small metal footlocker has had a single strip of $color 
+paint splashed across its top. It seems capable of containing a 
+fair amount of junk, and can be closed, but has no lock. 
+~
+15 35655680 1
+5000 1 -1 0
+1500 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#519
+chair padded comfortable TEXTILE~
+a comfortable, padded chair~
+A comfortable, padded chair sits here.~
+   This comfortable chair has high arm rests and a tall, thickly 
+padded backing. Its seat, too, is well-padded and a neutral gray 
+in colour. 
+~
+15 2101248 0
+900 0 -1 0
+10000 0.000000
+0 0 1 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#520
+bench long bolted METAL~
+a long, metal bench bolted to the floor~
+A long, metal bench is here, bolted to the floor.~
+   This long, metal bench has been fixed to the floor by way of a 
+series of thick bolts. It is plain and unadorned, not made at 
+all in any semblance of comfort. 
+~
+15 2101248 0
+100 0 -1 0
+2000 0.000000
+0 0 6 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#521
+locker tall METAL~
+a tall, metal locker~
+A tall, metal locker stands here against the wall.~
+   This tall metal locker looks capable of holding a fair amount 
+of equipment, and has a keycard reader on its door, enabling it 
+also to be shut and locked. A retinal scanner has been mounted 
+directly over this keycard slot, ensuring the contents are only 
+used by those authorized to do so. 
+~
+15 2101248 1
+50000 0 -1 0
+1000 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#522
+wardrobe wide METAL~
+a wide, metal wardrobe~
+A wide, metal wardrobe stands here.~
+   This large metal wardrobe has several shelves in it and a 
+metal rod for hanging clothing. It closes by way of two plain 
+metal doors and has no locks. It stands on four, squat legs. It 
+is quite wide and bulky. 
+~
+15 4096 0
+10000 1 -1 0
+300 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#523
+bed single twin-sized metal frame OTHER~
+a single, twin-sized bed with a metal frame~
+A twin-sized bed with a metal frame is here, bolted to the floor.~
+   This bed is composed of a metal frame bolted to the floor and 
+a single, twin-sized mattress. It looks relatively comfortable, 
+though not overly roomy, and clean white sheets cover it. Some 
+dust has settled on the quilted coverlet. 
+~
+15 2101248 0
+1000 0 -1 0
+9500 0.000000
+0 0 2 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#524
+nightstand undecorated plain OTHER~
+a plain, undecorated nightstand~
+A plain, undecorated nightstand sits here by the bed.~
+   This plain nightstand is undecorated and unadorned but for a 
+single brass handle at the front of its single drawer. Its 
+tabletop is polished and of some dark composite material made to 
+resemble wood. It has been bolted to the floor. 
+~
+15 2101248 0
+3000 0 -1 0
+9500 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#525
+couch wide comfortable high armrests OTHER~
+a comfortable, wide couch with high armrests~
+A wide couch with high armrests sits here, quite comfortable-looking.~
+   The frame of this wide couch is made out of some composite 
+material that is hard, brittle, and fairly weighty. Over that 
+several cushions have been laid, and the back of the couch has 
+been richly padded as well. The armrests, too, are padded, 
+making this a quite comfortable place to sit. Solid, squared 
+metal bolts fix this couch to the floor. 
+~
+15 2101248 1
+5000 0 -1 0
+12500 0.000000
+0 0 5 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#526
+table patio circular without chairs OTHER~
+a circular patio table without chairs~
+A circular patio table has been bolted to the floor here.~
+   This patio table is relatively small and has a circular 
+tabletop, made with perhaps four place settings in mind - 
+however, any chairs that may have come with this tableset have 
+been removed, as evidenced by the jagged ends of metal still 
+sticking up from the floor around the table legs, bolted to the 
+deck. Like the missing chairs, this table too is bolted to the 
+floor. 
+~
+15 2101248 0
+5000 0 -1 0
+5000 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#527
+towel white fluffy TEXTILE~
+a fluffy, white towel~
+A fluffy white towel lies in a heap here.~
+   This towel is a large, fluffy, white rectangle with hemmed 
+edges. There really isn't much else about it that warrants 
+description, though it does have the embelm of a fiery phoenix 
+sewn into one corner, its wings encircling a gray sphere. 
+~
+12 2101248 1025
+100 0 -1 0
+100 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#528
+rack coat mahogany brass hooks OTHER~
+a mahogany coat rack with brass hooks~
+A mahogany coat rack with brass hooks stands here, bolted to the floor.~
+   This coat rack is made from mahogany wood and richly stained. 
+The heavy hardwood post and base of this coat rack are accented 
+by hand-carved shells and acanthus leaves. The post is supported 
+by four feet that lead into a stepped base, which has been bolted 
+to the floor. There are four large hooks in antique brass finish 
+for hanging coats, scarves and hats. 
+~
+15 4096 0
+8000 0 -1 0
+300 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#786
+jeans xPHOENIX pair faded dark-grey TEXTILE~
+a faded pair of dark-grey jeans~
+A faded pair of dark-grey jeans lies here.~
+   This pair of jeans is rather snug, hugging the wearer at the 
+waist but relaxing only very slightly through the legs. They are 
+feminine in cut and have been dyed a dark grey in color though 
+they have been fashionably faded from front thigh to just below 
+the knee. 
+~
+15 0 33
+2000 0 0 0
+0 0.000000
+0 0 0 0 0 8192 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#787
+shirt xPHOENIX dark purple plaid TEXTILE~
+a dark purple, plaid shirt~
+A dark purple, plaid shirt lies here in a heap.~
+   This soft, cotton shirt is lightweight and comfortable, the 
+plaid a blend of dark purple and greys. Two, small pockets adorn 
+the chest and the rolled-up sleeves end at 3/4 length, a contrast 
+design on the inner fabric. The shirt slims just under the bosom 
+and at the waist, flaring out again slightly towards the hips to 
+indicate that this garment was tailored for a woman. 
+~
+15 0 9
+100 0 0 0
+0 0.000000
+0 0 0 0 0 8192 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#788
+glasses xPHOENIX pair black thick-rimmed OTHER~
+a pair of black, thick-rimmed glasses~
+A pair of black, thick-rimmed glasses lies here, forgotten.~
+   These glasses are stylish and feminine in design, the rims 
+made of thick, black plastic with small gold 'PRADA' lettering on 
+the sides. The lenses were obviously made for someone who is 
+near-sighted when worn. 
+~
+11 0 67108865
+0 0 0 0
+0 0.000000
+0 0 0 0 0 8192 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#789
+heels xPHOENIX femme black leather LEATHER~
+a pair of femme, black leather heels~
+A pair of femme, black leather heels lies here.~
+   These black heels are fiercely femme with shiny, leather 
+straps in a cut-out design all over the shoe so that the wearer's 
+skin peeks out here and there. The straps lead from just at the 
+ankle to an open-toe and the heels themselves are four and a half 
+inches in height with a one inch platform. 
+~
+11 0 65
+0 0 0 0
+0 0.000000
+0 0 0 0 0 8192 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#790
+iMac xPhoenix shiny 27 in quad core BOARD OTHER~
+a shiny, 27-in quad-core iMac~
+A shiny, 27-in quad-core iMac sits atop the desk.~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#667
+jacket bulky black denim $design TEXTILE~
+a black denim jacket with a $lightcolor $design on the back~
+A bulky black jacket lies here, a $lightcolor $design prominent on the back.~
+   This heavy jacket has been fashioned out of tough denim dyed 
+coal-black. While it doesn't grant much warmth to the soul 
+wearing it, it excels at guarding one against cold breezes and 
+harsh winds. Four large pockets are stitched on to the front of 
+the jacket, each sealed by a dull copper button, a zipper of the 
+same colour running down the length of the front of it. On the 
+back of the jacket, in a stylised, somewhat artistic fashion, a 
+$design has been stenciled on the back of the jacket in 
+$lightcolor spraypaint. 
+~
+12 33554432 1025
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#668
+canvass blank PAPER~
+a blank canvass~
+A large, blank canvass lies here.~
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#999
+trap generic OTHER~
+a generic trap~
+A generic trap is here. Please contact an admin.~
+   This is the generic trap prototype. If you see it, please 
+contact an admin to remove it. 
+~
+14 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#780
+netbook sleek matte black UNIQUE PRAGNAROK METAL~
+a sleek, matte black netbook~
+A sleek, matte black netbook lies here.~
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#781
+M4A1-Carbine chrome-detailed PRAGNAROK UNIQUE_ADMIN METAL~
+a chrome-detailed M4A1 carbine~
+A chrome-detailed M4A1 carbine lies here.~
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 1024 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#782
+magazine carbine 30 round OTHER~
+a 30-round carbine magazine~
+A 30-round carbine magazine lies here.~
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#783
+starcruiser BANGARANG UNIQUE_ADMIN PRAGNAROK METAL~
+a heavily-fortified starcruiser~
+A heavily-fortified starcruiser is here.~
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#784
+numberpad electronic lock UNIQUE_ADMIN ELECTRONIC~
+an electronic numberpad~
+An electronic numberpad is fixed upon the wall by the eastern doorway.~
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#785
+control panel flight master UNIQUE_ADMIN PRAGNAROK ELECTRONIC~
+the master flight control panel~
+A master flight control panel.~
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#52
+smear greasy blackened glass-scattered OTHER~
+a greasy, blackened smear~
+A greasy, blackened smear stains the floor, crunched glass scattered throughout it.~
+~
+12 0 1
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 96 86 0 0 0 0
+God~
+God~
+#53
+vial empty GLASS~
+an empty glass vial~
+An empty glass vial lies here.~
+~
+12 4194304 1
+0 0 0 0
+5 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#54
+vial black residue GLASS~
+a charred vial filled with black residue~
+A charred vial filled with black residue lies here.~
+~
+12 4194304 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#669
+book containing graphic illustrations sexual positions kama sutra PAPER~
+a book containing graphic illustrations of sexual positions~
+A book illustrating sexual positions is here.~
+~
+54 4104 8193
+10 0 0 0
+500 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#699
+tome leather-bound small~
+a small, leather-bound tome~
+A small tome has been left here.~
+~
+54 12 1
+25 0 0 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#998
+card cards deck pile $color $design PAPER~
+$color, $design-marked playing card~
+A $color, $design card is here.~
+   This simple playing card has the values of the card displayed 
+on the front, and a $color $design on the back. 
+~
+66 33554432 1
+16383 16383 16383 16383
+30 0.000000
+3 0 52 0 0 0 0 1
+25.000000 0 0 0 0 0 0
+God~
+God~
+#777
+cloak drab-brown NPC PRANKSTER tattered blanket TEXTILE~
+a tattered cloak made from a drab-brown blanket~
+A tattered cloak made from a drab-brown blanket lies here.~
+~
+11 524288 1025
+0 0 0 0
+100 0.000000
+0 0 
+tattered-brown-cloaked~
+0 100 1024 0 1
+30.000000 0 0 0 0 0 0
+God~
+God~
+#778
+pouch makeshirt canteen holster TEXTILE~
+a small, makeshift pouch from a canteen holster~
+A small, makeshift pouch built from a canteen holster lies here.~
+~
+15 0 264193
+2000 1 -1 0
+300 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#130
+sign ooc xHOWTOGUNS guns firearms OTHER~
+an OOC sign~
+An OOC sign explaining firearms hangs here.~
+   #3An OOC Sign on Gun Instruction Reads: 
+
+First, you can pick up and wear a gun belt and up to two 
+bandoliers by typing #6get belt#3 and #6wear belt#3 or #6get 
+bandolier#3 and #6wear bandolier#3. You can hang a holster on 
+your gun belt if you have a handgun by typing #6get holster#3 and 
+#6wear holster belt#3. Gun belts are special containers that can 
+contain gun clips. Bandoliers are special containers that can 
+contain rounds of ammunition. These special containers will 
+automatically provide clips or ammo to the #6load#3 command, 
+simplifying combat. 
+
+To load a clip: Get a clip of the correct type in one hand and 
+bullets in the other (or an empty hand to draw from a full 
+bandolier). Type the command #6load#3 and it should tell you 
+that you begin, and then end, filling the clip with the correct 
+number of bullets. It takes time based on the number of bullets 
+loaded - it takes significantly longer to load a huge sub-machine 
+gun clip than a small pistol clip, so plan ahead. Clips are 
+specific to each gun by caliber held, clip size / number of 
+bullets held, and gun type; all of these factors must match for 
+the clip to work in a particular gun (i.e. a .30 caliber, 
+large-clip rifle requires a .30 caliber, large clip rifle 
+magazine.) 
+
+To load a pistol, most rifles, or an SMG: Hold the gun in one 
+hand and a full clip in the other. Type the command #6load#3 and 
+it should tell you that it is beginning and then finishing 
+loading the weapon. If the gun has an empty clip, you must 
+#6unload#3 it first. If you have an empty hand unload will leave 
+you holding the empty clip, if your hand is full you will eject 
+it on to the ground. If you have clips on your gun belt, it 
+should take them from there. If you have clips vary in your gun 
+belt - full and empty, pistol and rifle, etc - you may need to 
+pull the correct one from the belt if it is not the next in 
+order. You can type #6look in belt#3 to see what clips you have 
+and in what order. 
+
+~
+12 12288 0
+0 0 0 0
+0 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#121
+button xHOGANSALLEY large red OTHER~
+a large red button~
+A large red button hangs on the eastern wall.~
+   A large red button about two feet across protrudes from the 
+eastern wall ominously. 
+~
+12 8192 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#505
+ozone scent whiff sharp OTHER~
+#6a whiff of ozone#0~
+#6The sharp scent of ozone hangs in the air.#0~
+~
+12 0 0
+0 0 0 0
+0 0.000000
+0 0 0 0 0 0 0 1
+0.000000 96 86 0 0 0 0
+God~
+God~
+#18
+stream foul water underground LIQUID~
+an underground stream of foul water~
+A small stream of foul water runs through a portion of the tunnel here.~
+~
+23 4096 0
+-1 100000 66 0
+25 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#131
+button creature large warning sign OTHER~
+a large button with a #1WARNING#0 sign~
+A large button is on the wall with a #1WARNING#0 sign above it.~
+   This large button is embedded in the wall with a sign above 
+that reads: #1WARNING: This button will open the breeding cages. 
+Use only with proper precaution.#0 
+
+To release small beasts, #2PRESS#0 the button #2ONCE#0. To 
+release medium beasts, #2PRESS#0 the button #2TWICE#0. To 
+release huge beasts, #2PRESS#0 the button #2THRICE#0. 
+~
+12 8192 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#2
+jacket~
+a leather jacket~
+a heavy leather jacket~
+~
+9 0 9
+3 0 0 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#3
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+5 0 1
+3 2 6 3
+450 0.000000
+0 0 4 0 1300 524288 0 1
+4000.000000 0 0 0 0 0 0
+A
+10003 8
+God~
+God~
+#529
+cupboard $color trimmer PLASTIC~
+a $color0-trimmed cupboard~
+A $color0-trimmed cupboard sits here.~
+   This cupboard is made entirely by plastic, fashioned with a 
+$color0 trim. It is used to hold stuff. Also, squat as it is, 
+it would make a nice seat. 
+~
+15 35651584 0
+10000 0 -1 0
+300 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#43
+bag shapeless polymesh TEXTILE~
+a shapeless polymesh bag~
+A shapeless bag of polymesh lies here.~
+~
+15 0 1
+10000 0 -1 0
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#4
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#5
+woad face paint OTHER~
+some woad face paint~
+Some woad face paint lies here.~
+~
+0 4096 67108865
+0 0 0 0
+500 0.000000
+0 0 0 0 200 131072 0 1
+100.000000 0 0 0 0 0 0
+A
+10007 5
+God~
+God~
+#6
+bundle sorted hides OTHER~
+a bundle of sorted hides~
+Some careless admin has left a generic object here.~
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#7
+bundle sorted clothes OTHER~
+a bundle of sorted clothes~
+Some careless admin has left a generic object here.~
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#8
+bundle sorted food OTHER~
+a bundle of sorted food~
+Some careless admin has left a generic object here.~
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#9
+bundle sorted knickknacks OTHER~
+a bundle of sorted knickknacjs~
+Some careless admin has left a generic object here.~
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#945
+trunk OTHER~
+a big trunk~
+A big trunk lies here, containing gear for your role.~
+   This is a big trunk - you guess it is pretty important to get 
+what is inside before leaving this room. Use the following 
+commands to do so: 
+   1. #6LOOK IN TRUNK#0 will show you what is in the trunk. 
+   2. #6GET <OBJECT> TRUNK#0 will get specified object from the 
+trunk. 
+   3. #6WEAR <OBJECT>#0 will put that object on. 
+
+Be sure to get everything from the trunk! You won't have a second 
+chance. 
+~
+15 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#965
+sign OTHER~
+a briefing sign~
+A briefing sign is here. Type #6LOOK SIGN#2 to see what it says.~
+   Oddly, this sign is blank. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#997
+certificate OTHER~
+a testing certificate~
+A testing certificate is here.~
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#334
+333 board testing xHolmes OTHER~
+a cybernetic arm~
+A cybernetic arm lies here, forsaken by its owner.~
+This cybernetic arm has been rather literally torn from its previous armor, the only sign of its previous owner being a number of torn connectors at the shoulder.
+~
+22 4096 270337
+0 0 0 0
+450 0.000000
+0 0 1 0 1000 131072 0 1
+100.000000 0 0 0 0 0 0
+God~
+God~
+#335
+corpse armless lunar authority tech holmes ORGANIC~
+the corpse of a lunar authority tech~
+The corpse of a lunar authority tech lies here, missing his cybernetic arm.~
+~
+12 4096 1
+55990 55990 55990 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31
+infrastructure test source OTHER~
+an infrastructure test source~
+An infrastructure test source.~
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#32
+infrastructure test line OTHER~
+an infrastructure test line~
+An infrastructure test line.~
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#37
+infrastructure test light OTHER~
+an infrastructure test light~
+An infrastructure test light.~
+~
+1 0 1
+-1 -1 20 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#55
+moustache fake ORGANIC~
+a fake moustache~
+A fake moustache lays here on the ground.~
+   This is a large, fluffly patch of hair, held together with 
+unknown magic. The back has a strip of adhesive, so it can be 
+worn as a disguise upon the upper lip. 
+~
+11 528896 67108865
+0 0 0 0
+100 0.000000
+0 0 
+moustachioed~
+0 0 524288 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#57
+turd ORGANIC~
+little turd, colloquially known as a saxo~
+A little turd sits on the ground.~
+   Just poop. I mean, seriously, do you want me to describe 
+poop? 
+~
+11 4608 17
+0 0 0 0
+100 0.000000
+0 0 0 0 0 524288 0 1
+0.000000 0 0 0 0 0 0
+S
+106 0 0 0 0
+S
+106 100 99 20 0
+God~
+God~
+#336
+magic-glasses xNOTFORPLAYERS OVAL OTHER~
+a pair of OVAL-seeing glasses~
+This pair of glasses should not be lying around. Contact an administrator.~
+   These pair of fancy glasses are utterly stylish, and definitely not fit for 
+mortals. 
+
+If you're not a mortal, feel free to use them to their full potential, #6SIGHT 
+OVAL#0 followed by the object in the room whose OVALs you'd like to see. 
+~
+12 4096 536870913
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#133
+jukebox archaic multi-colored OTHER~
+an archaic, multi-colored jukebox~
+An archaic, multi-colored jukebox sits here.~
+   This machine is clearly an antique, if there ever was one. The metal that 
+comprises this boxy machine is old, rusted, and corroded in large portions. It 
+could be considered a miracle that it works at all. Despite its old age, its 
+multi-colored plastic covering at the top still flickers inside with light, and 
+the buttons and knobs are still workable. A glass covering on one side 
+protects the cassettes inside and allows one to see the current selection. 
+~
+12 4096 0
+0 0 0 0
+1500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#134
+cassette blocky black OTHER~
+a handsized, blocky black cassette with #6ZOMBIE SONG#0 #2scrawled#0~
+A handsized, blocky black cassete sits here, scrawling on its side.~
+   This antique device is a black rectangle that fits easily in one's hand, 
+with two holes on either side of the middle. On the top, a visible filmy 
+material has been wound into its confines, and the two holes have spindles that 
+allow the filmy material to be slid. On its side is written: #6ZOMBIE SONG#0. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#56
+plushie floppy $polymesh stuffed $toy $color TEXTILE~
+a floppy, $color stuffed $toy~
+Laying forelorn on the ground is a floppy, $color stuffed $toy.~
+   This is a floppy, soft toy made out of $color-dyed $polymesh. It is the 
+likeness of $toy. The appendages are weighted, and details have been 
+embroidered in. 
+~
+12 33624064 1
+0 0 0 0
+100 0.000000
+0 0 0 0 200 131072 0 1
+2.000000 0 0 0 0 0 0
+God~
+God~
+#1
+corpse half-eaten ORGANIC~
+a half-eaten corpse~
+A half-eaten corpse is here.~
+~
+15 4108 1
+10000 0 0 0
+10000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#10
+xxxeventstarter OTHER~
+Event Starter Object "xxxeventstart"~
+This is an event starter object that runs "xxxeventstart" when a player enters the room.~
+~
+12 4100 0
+0 0 0 0
+500 0.000000
+0 0 0 0 200 131072 0 1
+100.000000 0 0 0 0 0 0
+A
+10007 5
+God~
+God~
+#20
+throne mainframe large METAL~
+a large mainframe-stylized throne~
+A large metallic throne, stylized after a mainframe, has been placed here.~
+   This large throne is made entirely of steel, and is characterized by 
+straight edges and precise cuts. It appears that the throne might have once 
+been a huge mainframe's external housing, but it has since been significantly 
+reformed. The front of the mainframe has been cut out entirely, and several 
+steps have been cut into it which lead into a simply-designed chair. Rather 
+than a typical cushion, the base of this chair hosts a very large electrical 
+socket. The sides of the throne have also been cut out, leaving the back to 
+rise several feet above where the headrest might be. 
+~
+0 2101248 1
+0 0 0 0
+50000 0.000000
+0 0 0 0 100 524288 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#21
+butler male dour NONE~
+#5A dour male butler~
+#5A dour male butler is here, taking messages for #3Alkaid#5.~
+~
+22 4104 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#22
+box electrical $color0 METAL~
+A $color0, metallic electrical box~
+A metallic electrical box, colored $color0, has been left here.~
+   This $color0 metallic box has been precisely constructed, with right angles 
+so right as to boost the rightness of anyone happening to use the item. It has 
+been designed with a cylindrical core, the sides of which bear a wide threading 
+that might fit a lightbulb of immense proportions. 
+~
+11 33558528 33
+0 0 0 0
+100 0.000000
+0 0 0 0 100 524288 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#23
+unit transport floating $color0 $metdam1 METAL~
+a floating $color0 transport unit~
+A floating, $metdam1 transport unit, colored $color0, whines here.~
+   This device seems quite advanced, if somewhat the worse for wear. 
+Constructed of a $color0 metal, it easily floats a few feet above the ground 
+with litte regard for whatever load it might be carrying. It has been damaged 
+slightly, appearing $metdam1. 
+~
+11 33558528 65
+0 0 0 0
+100 0.000000
+0 0 0 0 100 524288 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#24
+belt magnetic utility $color0 METAL~
+a $color0, magnetic utility belt~
+A $color0, magnetic utility belt has been left here in the throes of passion.~
+   A simple band of flexible metal makes up the form of this object, with 
+square plates of metal affixed along the entire length of the band. The entire 
+object seems to have been magnetized, with various plastic slots in which to 
+store objects. It has been colored $color0. 
+~
+11 570429440 2049
+0 0 0 0
+100 0.000000
+0 0 0 0 100 524288 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#26
+sheath black PLASTIC~
+a black, cylindrical plastic sheath~
+A black, cylindrical plastic sheath lies here, notably missing a belt.~
+   This sheath is constructed of a stiff, cylindrical plastic. Clearly of a 
+high quality, it bears a supple leather strap by which it can be affixed to a 
+belt. Likewise, a flap rests upon the top, covering the sheath's opening with 
+a metallic snap. 
+~
+58 4104 262145
+800 0 0 0
+200 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#27
+baton stun PLASTIC~
+a plastic stun baton~
+a long, plastic stun baton lies on the ground.~
+~
+5 4096 8193
+2 3 3 5
+292 0.000000
+3 0 0 0 1000 131072 0 1
+75.000000 0 0 0 0 0 0
+God~
+God~
+#38
+small oxygen-rich red blood cell ORGANIC~
+a small oxygen-rich red blood cell~
+A small cell lingers here, dark crimson in hue and rich with oxygen.~
+~
+11 4096 17
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#28
+button shiny PLASTIC~
+a shiny plastic button~
+A shiny plastic button is on the wall here, full of promises.~
+   This button is round, shiny, and waiting to be pressed. Right below the 
+button a small card has been taped, which reads, #6"Transport to the Assignment 
+Room!" 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#39
+toy glowing charged PLASTIC~
+a glowing, plastic toy~
+A glowing, plastic toy lies here, waiting to be used.~
+   This toy looks like oodles of fun. You have a slightly euphoric sensation 
+just holding it, and can hardly fathom what might occur should you #6PLAY#0 
+with this wonderful #6TOY#0. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#48
+patch DPCU Australian flag TEXTILE~
+a DPCU patch bearing the Australian flag~
+A small camouflage velcro patch is on the ground here.~
+   The small velcro-backed ensign is made of a sturdy material and 
+double-stitched to ensure durability. Colours of differing shades of dull 
+brown and green cover the patch in a disruptive camouflage pattern, while 
+stamped in the centre is a royal blue flag. The flag consists of a Union Jack 
+in the upper left hand corner which is flanked by a multitude of stars which 
+may be recognized as the 7-pointer star and the Southern Cross. 
+~
+11 4096 257
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#49
+shirt long sleeved DPCU camouflage TEXTILE~
+a long-sleeved, DPCU camouflage shirt~
+A green DPCU camouflage shirt is here in a crumpled heap.~
+   This shirt consists of a sturdy material which has been printed with green 
+and brown disruptive pattern camouflage. On each breast are two large 
+rectangular zip-up pockets, with a small velcro tab between them to affix a 
+rank slide, while there are small velcro rectangles are on each shoulder for 
+attaching ensigns and unit insignia. The top has been sprayed with a chemical 
+which allows it to remain passive under infra-red light, thus making the 
+camouflage uniform difficult to detect under night-vision. 
+~
+11 4096 9
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#51
+pants bloused DPCU camouflage TEXTILE~
+a pair of bloused, DPCU camouflage pants~
+A pair of bloused, DPCU camouflage pants have been left here in a heap.~
+   These are a simple, yet sturdy set of trousers, with velcro tabs around the 
+waist for fitment and elastic pullstrings about the cuffs to allow them to be 
+bloused into the top of a set of boots. The waist pockets are complimented by 
+a pair of large rectangular zip pockets which are situated along the outer 
+thighs. The disruptive camouflage material has been double-lined from just 
+above the knee down to ensure they don't tear. The pants have been sprayed 
+with a chemical which allows it to remain passive under infra-red light, thus 
+making the camouflage uniform difficult to detect under night-vision. 
+~
+11 4096 33
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#58
+boots desert tan terra GP TEXTILE~
+a pair of desert tan, terra GP boots~
+A pair of desert tan, terra GP boots have been left here.~
+   These thick-soled terra boots come up to the mid to lower calf, with a pair 
+of hardy bootstring intertwining up to to the very top. Plastic caps have been 
+inserted into the toes, but despite this, the boots are actually quite 
+comfortable. Two tiny mesh holes line the inner arch which allow for drainage 
+should the wearer submerge his feet in water or mud. 
+~
+11 4096 65
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#59
+helmet kevlar composite enhanced combat helmet DPCU cover CERAMIC~
+an enhanced combat helmet with a DPCU camouflage cover~
+A kevlar-composite helmet with a DPCU camouflage cover is sitting here.~
+   This kevlar-composite helmet is lightweight and allows for mobility, however 
+it is designed to protect the wearer from ballistic projectiles and 
+fragmentation. It is fastened onto the head by a 4-point chin and nape strap 
+system, with a black metal fastening point is attached to the front of the 
+helmet to allow for the attachment of a night-vision device. A disruptive 
+camouflage fabric has been stretched over the helmet and pinned in place. 
+~
+9 4096 262161
+8 3 8 0
+350 0.000000
+0 0 0 0 240 524288 0 1
+1232.000000 0 0 0 0 0 0
+God~
+God~
+#60
+webbing $camocolor set belt TEXTILE~
+a $camocolor set of belt webbing~
+A set of $camocolor belt webbing has been left here.~
+   This belt-webbing consists of a number of $camocolor ammunition pouches 
+fastened to a nylon belt. Running along the inside of the belt is an olive 
+drab line of padding, which stops the belt from rubbing away the flesh of the 
+wearer's waist. Each ammunition pouch is rectangular in shape, and may be used 
+to store magazines or other forms of ammunition. Two main straps run up from 
+the front of the belt, designed to run up and over the shoulders of the wearer 
+and fasten back down to the back of the belt behind the pouches, effectively 
+securing the belt webbing in place despite a heavy loadout. 
+~
+48 33554432 2049
+10 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#62
+table pool $finecolor lining OTHER~
+a pool table with $finecolor felt lining~
+A pool table with $finecolor felt lining is set in the centre of the room.~
+   The frame of this billiard table is made of flawlessly polished maplewood, a 
+number of tribal designs carved into the woodwork. The $finecolor baize lining 
+has been laid layed evenly over the surface and railing cushions, giving a 
+smooth and fast finish. The pockets are made of a loose mesh, and each of the 
+holes are lined with a bronze curve, which is bolted directly into the wood. 
+~
+15 33558528 0
+100 0 -1 0
+300 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#65
+rifle $camocolor $riflecaliber $rifleframe Steyr METAL~
+a $camocolor Steyr $riflecaliber $rifleframe~
+A $camocolor Steyr $rifleframe has been left here.~
+   Constructed of a combination of high-strength plastic and light alloys, this 
+$camocolor $riflecaliber bullpup $rifleframe is lightweight and maneuverable. 
+The gas-operated system feeds from a magazine slot which is situated behind the 
+pistol-grip and two-stage-trigger. The durable plastic polymer body is nicked 
+and worn in some places, and has been stained for camouflage purposes. The 
+barrel has been painted black, and is topped with a flash supressor, while 
+midway down the barrel assembly is a collapsible forward handgrip. A picatinny 
+rail lines the top of the firearm, and has been fitted with a slender 1.5x 
+optic sight, complete with luminescent iron sights. 
+~
+28 33558528 8921089
+3 7 0 12
+700 0.000000
+0 0 0 0 1000 131072 0 1
+400.000000 0 0 0 0 0 0
+A
+10000 0
+A
+10012 0
+God~
+God~
+#15
+paint smeared coat $camocolor striped face OTHER~
+a smeared coat of $camocolor-striped face paint~
+A coat of $camocolor-striped paint has been smeared here.~
+   A mixture of vertical and diagonal $camocolor 'tiger' stripes have been 
+streaked onto the flesh for the purpose of camouflage and concealment, giving 
+the wearer a fearsome appearance. 
+~
+11 33558528 67108865
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#132
+button big freen stats fix OTHER~
+a big green button~
+A big green button is on the wall, labeled "FIX MY STATS."~
+Built into the wall, this big green button says:
+    Type #2PRESS BUTTON#0 to get your stats reset
+    to allow you to use Hogan's Alley like a player character.
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#63
+spear polearm xGood thick hooked tentacles xFORJACK ORGANIC~
+thick, hooked tentacles~
+A set of thick, hooked tentacles lay on the ground, having been hewn from something.~
+   These are a massive pair of spindly, arachnid legs covered in black chitin. 
+Each one ends in a point, with a number of backward-facing barbs and claws on 
+each. It appears they have been hewn from whatever owned them priorly. 
+~
+5 4096 8193
+1 2 5 3
+325 0.000000
+4 0 3 0 1100 262144 0 1
+800.000000 0 0 0 0 0 0
+A
+10003 4
+God~
+God~
+#64
+branch tree splintered pointed ORGANIC~
+a splintered, pointed tree branch~
+Splintered and pointed, a tree branch lays here.~
+   Ripped violently from some sort of smooth-barked tree, this is a tree branch 
+about six feet long. One end is splintered, but also pointed and jagged. 
+~
+13 4096 1
+0 0 0 0
 1000 0.000000
 0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 God~
 God~
-#1
-METAL pistol~
-a big fucking pistol~
-a big fucking pistol is here.~
+#66
+water foul LIQUID~
+foul water~
 ~
-28 1536 8193
-1 16384 5 11
-400 0.000000
-0 0 -2 0 1200 262144 0 1
-1600.000000 0 0 0 0 0 0
-A
-10000 5
-A
-10001 5
-A
-10002 5
-A
-10003 5
-A
-10004 5
-A
-10007 5
-A
-10010 5
-A
-10011 5
+~
+50 4096 0
+0 1 0 0
+7 0.000000
+0 0 
+dirty and slightly of copper.~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
 God~
 God~
-#2
-object generic~
-a pistol magazine~
-Some careless admin has left a generic object here.~
+#100
+wrap $camocolor1 mesh TEXTILE~
+a wrap of thick, $camocolor1 mesh~
+A wrap of thick, $camocolor1 mesh has been dropped here.~
+Polymer-strengthened $polymesh has been cut in a thick band measuring roughly two feet in length. This item is designed to be wrapped about one's head, providing good, if somewhat claustrophobia-inducing, protection to the eyes, face, and head. The polymesh has been marked with $camocolor camouflage pattern.
 ~
-37 0 1
-12 12 5 0
+9 33624064 67108865
+5 2 128 8
+157 0.000000
+0 0 0 0 202 16908288 0 1
+75.000000 0 0 0 0 0 0
+God~
+God~
+#90
+small $ironalloy hand mirror METAL~
+A small $ironalloy hand mirror~
+A small $ironalloy hand mirror has been left here.~
+   This small oval mirror has been cast out of unfinished $ironalloy, simple of 
+design and of servicable quality. A slender, functional grip extends from the 
+main of the mirror to be easily held by one hand. 
+~
+5 33624064 8193
+2 3 3 5
+292 0.000000
+3 0 0 0 1000 131072 0 1
+75.000000 0 0 0 0 0 0
+God~
+God~
+#92
+table sleek $finecolor low OTHER~
+a low table of sleek $finecolor wood~
+A low table of sleek, $finecolor wood is here, freshly polished.~
+   This sleek table is painstaking crafted from wood, evenly stained a 
+$finecolor tone. A set of two slender drawers are hidden just beneath the 
+latticed side panels. It sits low to the ground, four inviting, scarlet-red 
+silk pillows set two to each side surrounding it. The polished surface is set 
+with a few grey granite coasters, one of which holds a golden-rimmed ceramic 
+cup of hot chocolate and the other which holds a fluted glass of a sparkling 
+white wine. A half-eaten package of Oreos has been left abandoned to one side. 
+The rest of the tabletop is overwhelmed by a large number of documents, poor 
+renditions of maps and simple electrical schematics. 
+~
+15 33558528 1
+100 0 -1 0
+300 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#93
+fried kelp-wrapped $pfoodshape food ORGANIC~
+some fried kelp-wrapped $pfoodshapes~
+Some kelp-wrapped $pfoodshapes have been left here, fried and hot.~
+   Kelp has been carefully wrapped around $pfoodshape0 and seared to a 
+light-brown. It is rich and steaming, releasing a $naturalscents1 aroma. 
+~
+19 33558528 1
+12 3 0 0
+300 0.000000
+0 0 
+hot~
+0 0 0 0 1
+5.000000 96 2216 0 0 0 0
+God~
+God~
+#94
+fried kelp-wrapped $sfoodshape food ORGANIC~
+a fried kelp-wrapped $sfoodshape~
+A kelp-wrapped $sfoodshape has been left here, fried and hot.~
+   Kelp has been carefully wrapped around $sfoodshape0 and seared to a 
+light-brown. It is rich and steaming, releasing a $naturalscents1 aroma. 
+~
+19 33558528 0
+12 3 0 0
+300 0.000000
+0 0 
+hot~
+0 0 0 0 1
+5.000000 96 2216 0 0 0 0
+God~
+God~
+#95
+$metalcolor1 $metdam0 hand mixer METAL~
+a $metalcolor1, $metdam0 hand mixer~
+A $metalcolor1, $metdam0 hand mixer has been left on its side here.~
+   This hand mixer is a commercial level kitchen tool. The bulk of the 
+appliance is $metdam1, and $metalcolor. The mixing attachment is chrion, but 
+still appears quite functional at the higher speed setting. 
+~
+30 33558528 0
+100 0 1 0
+300 0.000000
+0 0 0 0 0 0 0 1
+45.000000 0 0 0 0 0 0
+God~
+God~
+#99
+speaker object special OTHER~
+A special 'speaker' object~
+A special 'speaker' object has been left on the podium.~
+   This is a 'speaker' object for the Atonement Conference Theatre in the Guest 
+Lounge. Whoever holds this object is allowed to talk/emote/shout/say. No one 
+else in the Atonement Conference Theatre can speak without this object. It is 
+a a small, shiny sphere that seems to consistently swirl with embedded magic. 
+
+#3Please do not take the 'speaker' object outside of the Conference Theatre.#0 
+~
+12 4096 1
+0 0 0 0
 100 0.000000
 0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 God~
 God~
-#3
-METAL round rounds~
-a .45 caliber pistol round~
-a .45 caliber pistol round~
+#150
+token vote hidden OTHER~
+a hidden voting token~
+A hidden voting token sits here, tallying. Always tallying.~
 ~
-31 0 1
-0 0 5 0
+12 4 1
+0 0 0 0
 100 0.000000
-3 0 0 0 0 0 0 1
+0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 God~
 God~
-#4
-METAL board~
-a board for updates~
-a board for updates~
+#77
+diabolical test OTHER~
+a diabolical test~
+A diabolical test is here.~
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#344
+clawed hand ORGANIC~
+a clawed hand~
+A distorted hand ending with wicked-looking claws~
+~
+5 4096 8193
+1 2 5 3
+350 0.000000
+4 0 2 0 1000 131072 0 1
+200.000000 0 0 0 0 0 0
+God~
+God~
+#96
+cluster test ELECTRONICS~
+a cluster test~
+a cluster test is here~
+a cluster test
+~
+29 4096 1
+1 512 0 0
+100 0.000000
+0 0 0
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#343
+ARPI-themed themed tree holiday OTHER~
+an ARPI-themed Holiday Tree~
+An ARPI-themed Holiday Tree has been set up in the center of the room, it's branchy pine needles sticking out on all sides.~
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#101
+admin inhib OTHER~
+a floating, red sigil~
+A floating, red sigil is here.~
+~
+12 4612 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#996
+shimmering mop METAL~
+a shimmering, golden mop~
+A shimmering, golden mop lays here.~
+~
+5 536875008 8193
+0 2 5 3
+350 0.000000
+0 0 2 0 1000 131072 0 1
+200.000000 0 0 0 0 0 0
+God~
+God~
+#102
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#340
+keyring xskep OTHER~
+a keyring~
+A keyring is here.~
+~
+59 0 262145
+10 0 0 0
+50 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#230
+plastic cup xbooze PLASTIC~
+a plastic cup~
+A plastic cup is here, forgotten.~
+   This is a simple cup of flimsy and transparent drab gray plastic, tapered at 
+the bottom for a grip and flaring outwards slightly at the top. It could hold 
+about eight ounces of liquid within. The material has been stretched thin, 
+making it somewhat flimsy. It appears to be sold for the purpose of booze. 
+~
+17 0 1
+8 8 2070 0
+200 0.000000
+0 0 0 0 0 0 0 1
+2.500000 0 0 0 0 0 0
+God~
+God~
+#350
+POD board listing cryo numbers OTHER~
+a pod listing sits here listing cryo numbers~
+A pod sits here, listing cryo pod numbers for various PCs!~
 ~
 22 0 1
 0 0 0 0
@@ -122,156 +2227,122 @@ a board for updates~
 0.000000 0 0 0 0 0 0
 God~
 God~
-#5
-jacket~
-a leather jacket~
-a heavy leather jacket~
+#600
+sapling thriving plastic cage ORGANIC~
+a thriving sapling encased in a metal cage~
+A thriving sapling sits here, nestled in a metal cage.~
+   This small sapling has a dozen thin branches reaching upward and outward. 
+Each branch sprouts thick and thriving feathered leaves. The fledgling trunk 
+is supported by a discreet alion rod which provides additional structure and 
+support. While still small, the sapling appears hale and well-nourished in its 
+resting place in a transparent pot enclosed by a trellis of clear plastic 
+bands. A small biometric lock secures the opening at the top of the cage. 
 ~
-9 0 1073741825
-3 0 0 0
-50 0.000000
-0 0 0 0 200 131072 0 1
+12 4096 0
+0 0 0 0
+500 0.000000
+0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 God~
 God~
-#6
+#80
+stick computer gel data plastic ELECTRONIC~
+a computer data stick labelled 'gel'~
+A computer data stick labelled 'gel' lies here.~
+   This is a simple computer data stick that can be inserted into the ports on 
+a laptop, handheld, or chemistry processor. When reviewed, the data chip 
+reveals details on the chemical structure and production of a compound that is 
+a mound of gel, standard for use in catalyzing organic growth. 
+~
+12 4096 1
+0 0 0 0
+25 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#67
+hanging lamp frosted glass METAL~
+a hanging lamp with frosted glass~
+A hanging lamp with frosted glass dangles by a cord from the ceiling.~
+   Frosted glass in a oval shape makes up the under side of this
+hanging lamp.  A tarnished metal ring, colored a dull gold, grips
+the upper lip of the glass fixture and holds it in place.  Three
+inward curving metal fingers attach to the ring at one end, and
+to a white cord at the other, completing this simple hanging lamp.
+~
+1 4104 0
+0 -1 20 1
+500 0.000000
+0 0 0 0 15 131072 0 1
+40.000000 0 0 0 0 0 0
+God~
+God~
+#68
 bag~
 a rather large bag~
 a large brown bag lies here~
 ~
-15 0 1
+15 12 1
 100 0 -1 0
 300 0.000000
 0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 God~
 God~
-#10
-METAL component~
-a trap component~
-a trap component~
+#70
+sheet parchment plant fibers ORGANIC~
+a thin sheet of plant fiber parchment~
+A sheet of parchment made from plant fibers lies here.~
+   Plant fibers have been extracted and pressed together to make this thin 
+sheet of off white parchment. The surface is brittle, but still remains 
+somewhat pliable. With the right implement, the surface could easily be 
+written on. 
 ~
-4 0 1
-15 0 0 0
-100 0.000000
-0 0 0 0 0 131072 0 1
+12 4096 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
-T
-17 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-(null)~
-(null)~
-(null)~
-(null)~
-(null)~
-(null)~
 God~
 God~
-#12
-object generic~
-a generic object~
-Some careless admin has left a generic object here.~
+#71
+plant fiber sheet folded paper plane ORGANIC~
+a folded paper plane~
+A plant fiber sheet, folded into a paper plane lies here.~
+   Off-white fibers, taken from some plant material, has been pressed to make a 
+thin sheet. Feeling dry and somewhat brittle to the touch, a further hand has 
+been added in folding the surface to make a paper plane. 
 ~
-3 0 1
+7 4104 1
+1 0 0 0
+10 0.000000
+0 0 0 0 30 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#103
+skin test ORGANIC~
+a test skin~
+a test skin is here~
+~
+12 4096 1
 0 0 0 0
 100 0.000000
 0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 God~
 God~
-#15
-object generic~
-a generic object~
-Some careless admin has left a generic object here.~
+#104
+carcass test ORGANIC~
+a test carcass~
+A test carcass is here.~
 ~
-3 0 1
+12 4096 1
 0 0 0 0
-100 0.000000
+10000 0.000000
 0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
-God~
-God~
-#16
-METAL trigger~
-a trigger~
-a trigger~
-~
-4 0 1
-0 0 0 0
-100 0.000000
-0 0 0 0 2 131072 0 1
-0.000000 0 0 0 0 0 0
-T
-529 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-(null)~
-(null)~
-~
-(null)~
-(null)~
-(null)~
-God~
-God~
-#100
-object generic~
-a generic object~
-Some careless admin has left a generic object here.~
-~
-3 0 1
-0 0 0 0
-100 0.000000
-0 0 0 0 0 0 0 1
-0.000000 0 0 0 0 0 0
-God~
-God~
-#101
-object generic~
-a generic object~
-Some careless admin has left a generic object here.~
-~
-4 0 1
-0 0 0 0
-100 0.000000
-0 0 0 0 0 0 0 1
-0.000000 0 0 0 0 0 0
-God~
-God~
-#20
-METAL component~
-a trap component~
-a trap component~
-~
-3 0 1
-0 0 0 0
-100 0.000000
-0 0 0 0 0 131072 0 1
-0.000000 0 0 0 0 0 0
-T
-9 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-(null)~
-(null)~
-(null)~
-(null)~
-(null)~
-(null)~
-God~
-God~
-#999
-object generic~
-a generic object~
-Some careless admin has left a generic object here.~
-~
-3 0 1
-0 0 0 0
-100 0.000000
-0 0 0 0 0 131072 0 1
-0.000000 0 0 0 0 0 0
-T
-25 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-(null)~
-(null)~
-~
-(null)~
-(null)~
-(null)~
 God~
 God~
 $~

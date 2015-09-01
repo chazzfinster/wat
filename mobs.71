@@ -1,1 +1,203 @@
+#71000
+TerrorBird small brightly colored bird terror xFORBOO~
+a small, brightly-colored bird~
+Flapping about here awkwardly is a small, brightly-colored bird.~
+   This bird is tiny for those on the moon, small enough to fit in a person's 
+hand and be enclosed in fingers. Its back is a bright, green hue while the 
+underside is a vibrant yellow. On the back of the head is a grey-colored cap. 
+This specimen would appear to be sickly, its eyes sunken into the sockets and 
+shrunken into nothingness. One wing is turned at an odd angle, and a number of 
+spiky growths protrude from underneath of its feathers. 
+~
+536870920 4 27 73 1 5d1+50 2d5+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 3 0 0 0 0 0 0 0 0
+8 16 10 16 16 5 40 13
+0 0
+0 45 20 20 20 20 70 20 20 20
+20 20 20 20 20 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic-terror~
+0 0 0
+#71001
+Zeta1 $zetaIdesc $zetaIdeform $zeta $zetafeature xJackandJill~
+a $zetaIdesc, $zetaIdeform $zeta bearing $zetafeature~
+Roaming in a watchful hunker is a $zetaIdesc, $zetaIdeform $zeta bearing $zetafeature.~
+   The body nearly stripped away from what it once was, this would have 
+appeared to have once been human. Now it is $zetaIdesc. Its body is 
+$zetaIdeform, and the $zeta appears to no longer be in the realm of the living. 
+The form is twisted with a number of growths on its body, the face distorted 
+from its original state. A jaw with jagged and pointed teeth hangs open, with 
+a long and lewd tongue drooping out from it. Of the most notable features, 
+$zetafeature. 
+~
+2097192 4 24 2 5 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 0
+13 16 15 16 16 15 40 13
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' insect 'member' lizard 'member' zeta-strain~
+0 0 0
+#71002
+plant large dark carnivore vines~
+#2a large, dark-toned plant with writhing vines~
+#2A large, dark-toned plant with writhing vines rustles here.~
+   This plant is a mottled combination of dark browns and darker greens that 
+make it, at a passing glance or in darkness, rather difficult to perceive 
+against the large mounds of dirt it spreads from. What appears to be the nexus 
+of this plant is a large bulb, swelling up from the dirt to make an oval eight 
+feet in vertical length and nearly four feet across. Numerous tendrils emerge 
+from the base of the plant, some limply resting upon the surrounding dirt 
+whilst others writhe about in a blind exploration of their surroundings. 
+~
+270532616 33554436 54 77 11 5d1+200 2d8+5 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 655362
+22 16 22 16 16 22 40 13
+0 0
+0 90 90 90 90 90 90 90 90 90
+90 90 90 90 90 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#71003
+Zeta2 $zetahide $zeta $zetavisage $zetaface~
+a $zetahide $zeta of $zetavisage $zetaface~
+In a slow hunch and lurch roams a $zetahide $zeta of $zetavisage $zetaface.~
+   With only a few paces of sagging and pallid flesh remaining on its frame, 
+this perhaps formerly human creature is covered in $zetahide. This $zeta 
+virtually bristles with spikes, seeming chitinous and malformed - like dark 
+fingernail material, jutting at all angles from its frame. In some places, 
+they look almost like horns. Of a $zetavisage $zetaface, the eye tissue is 
+sunken, while black beady and surprisingly alive eyes stare out of the sockets. 
+Its teeth have all grown into fanglike protrusions, snaggletoothed in the 
+skull-like maw. A long, prehensile tongue droops low from the mouth and nearly 
+touches a sagging sac at the upper chest. 
+~
+40 4 36 2 7 5d1+112 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 13
+268435456 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' lizard 'member' insect 'sergeant' zeta-strain~
+0 0 0
+#71004
+ZetaArthur spiked tentacled form austere featured man Sam towering~
+the spiked, tentacled form of an austere-featured man~
+Roaming here is the towering, spiked and tentacled form of an austere-featured man.~
+   Badly twisted, contorted, and covered in numerous spikes the abused face of 
+this creature still shows the sharp, almost grim lines that some might 
+recognize. There is only the faint signs of hair, and the distinctive pattern 
+of black tattooed wings along the left side of his face, connected by a patch 
+of diamond-shaped scales. His jaw has been twisted, leaving a number of now 
+pointed teeth at odd angles, and a fleshy sac of some sort runs from just 
+underneath his jaw to his chest. The expanse of his tall height is hunched 
+over, clawed hands nearly reaching the ground and a number of spikes errupting 
+along his spine and shoulders. In between these and from his chest writhe 
+numerous tentacles, mostly lined with rending hooks. 
+~
+8 4 45 2 9 5d1+120 2d7+4 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 0
+19 16 20 16 16 20 40 13
+0 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' zeta_strain~
+0 0 0
+#71005
+Zetahalf $zetaIdesc $zetaIdeform $zetafeature grunger xplot xcure~
+a $zetaIdesc, $zetaIdeform Grunger bearing $zetafeature~
+Roaming aimlessly is a $zetaIdesc, $zetaIdeform Grunger bearing $zetafeature.~
+   The body nearly stripped away from what it once was, this form still was 
+obviously human. Tattered shreds of every phase clothing hangs from its form. 
+Now it is $zetaIdesc. Its body is $zetaIdeform, and the Grunger appears to no 
+longer be in the realm of the living. The form is twisted with a number of 
+growths on its body, the face distorted from its original state. A jaw with 
+jagged and pointed teeth hangs open, with a long and lewd tongue drooping out 
+from it. Of the most notable features, $zetafeature. 
+~
+2097192 4 15 2 5 5d1+92 2d3+1 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 0
+13 16 15 11 13 13 40 12
+268435456 0
+0 25 25 25 25 25 20 20 30 30
+30 30 30 30 30 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' insect 'member' lizard 'member' zeta-strain~
+24 86 0
 $~

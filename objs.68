@@ -1,1 +1,175 @@
+#68001
+wildlife-token sewers OTHER~
+a sewer wild-life token~
+A sewer wild-life token spits out squicks and rats.~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#68030
+xxxprowlerboard scrawny twisted-backed mutant three mouths OTHER~
+#5a scrawny, twisted-backed mutant with three mouths#0~
+#5A scrawny, twisted-backed mutant with three mouths passes along messages very quickly here.#0~
+~
+22 4096 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#68000
+canon gun plasma ruin ancient xHeadbanger xmetrorelic METAL~
+an ancient plasma canon of archaic design~
+Resting on its forward tripod, an ancient plasma canon lies untouched.~
+   Bulky and heavy by virtue of its size and length, this weapon once worked, 
+however countless years of neglect have rendered it little more than an empty 
+case. Its metallic casing is pitted with rust and brittle to touch. Leading 
+down to its raked tip, glass has been shattered and focusing discs have been 
+smashed beyond repair. Large enough for only the stronger of people to carry, 
+it is held by the oversized grip at its stock and a crudely welded handle 
+midway down its barrel. Its large, ovular bore is cracked all the way up its 
+tapered barrel. Along its full five foot length are various racial slur, the 
+only legible one being scrawled in red in #1TWO EYES OR IT DIES!#0. Inside the 
+rusted casing is little more than empty wiring that rattles loosely when moved. 
+The only two parts still working are the hinge of its forward tripod and the 
+leather strap running from handle to barrel. 
+~
+12 4097 8912897
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#68002
+corpse partially-eaten ORGANIC~
+a partially-eaten corpse~
+A corpse has been abandoned here, partially-eaten. Its face is frozen in a look of absolute fear.~
+   Only the upper torso of this corpse remains, the remains of spine and guts 
+masked only by the body's bloody, tattered clothing. There are obvious wounds 
+on the body, but it would require better lighting and equipment to conduct a 
+proper examination. The face is no longer identifiable, especially with its 
+contorted expression. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#68003
+generator echo invisible environment Peter Plot NONE~
+#3an invisible environment echo generator (Peter Plot)~
+#3An invisible environment echo generator token is here, for the "Peter Plot".~
+This token generates "horror" cues according to certain situations:
+  on_enter: (1d20)
+    1-5: You hear a scratching sound from behind you.
+    6-9: An echo of a strange growling sound reaches you.
+    10: Static. It fills your ears until you can hear nothing else.
+        It starts without volume - deafness. Then it slowly progresses,
+        getting louder, suddenly trailing off just before it threatens
+        to split your eardrums. Spots appear in your sight, dancing like
+        little lights, forming like holes burning through paper. Then,
+        nothing more.
+    11-20: (Nothing)
+-
+    * This generates static in the Doghouse in the same way 68002 does
+      on_enter. The static only occurs once every 10 minutes, in the
+      event that multiple people and groups move through this marker.
+      This marker works for both iterations of the "Doghouse static"
+      oprog.
+-
+  look: (1d15)
+    1-5: (Nothing)
+    6-9: A shadow seems to have shifted from the corner of your eye.
+    10: Your vision blurs and circles for a moment. From the growing haze
+        you see nothing, until it thickens and threatens suffocation. Just
+        when your eyes blacken, you see a large mouth with fangs dripping
+        with blood open towards you. Then you open your eyes and find
+        yourself once more.
+    11-15: (Nothing)
+-
+  emote: (1d8)
+    1-3: (Nothing)
+    4: You hear the faint sound of dripping water from behind you.
+    5-8: (Nothing)
+-
+  search: (1d10)
+    1-8: (doitanyway) + [6 sec] "...As far as you can tell."
+    9: (doitanyway) + [2 sec] "As you search, a trickle of shadow seems to fidget from the corner of your eye."
+    10: (doitanyway) + [2 sec] "Something rubs against your foot. When you turn and look, you see nothing."
+~
+12 4100 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#68004
+stopper echo invisible Peter Plot NONE~
+#3an invisible echo stopper (Peter Plot)~
+#3An invisible echo stopper token is here, for the "Peter Plot".~
+   This token is used for the Peter Plot. Its presence prevents echoes from 
+occurring. So if multiple people activate the same echo, the echo activates 
+only once. 
+~
+12 4100 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#68005
+token off invisible Peter Plot NONE~
+#3an invisible off token (Peter Plot)#0~
+#3An invisible off token deactivates all other tokens here, for the "Peter Plot".#0~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#68006
+grenade cylindrical $camocolor fragmentation METAL~
+a cylindrical, $camocolor fragmentation grenade~
+A cylindrical, $camocolor hand grenade rests on the ground here.~
+   Designed to fit within the hand of a person, this cylindrical $camocolor 
+hand grenade is an anti-personel explosive device which is intended to be 
+thrown into the vicinity of an enemy position. Packed around the explosive, 
+but beneath the plastic case, are an array of chrion fletchettes designed to 
+fragment once the explosive has detonated. The detonation process begins when 
+the split-pin on the top of the device has been twisted and pulled away, which 
+in turn releases the safety handle, which then permits the striker-mechanism to 
+detonate the primer, igniting the five second fuse. You may either #6ARM#0 or 
+#6DISARM#0 this #6GRENADE#0. 
+~
+74 33558528 262145
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#68007
+#3NEST crocodile invisible OTHER~
+#3a croc nest#0~
+#3This croc nest is sitting here, doing invisible things.#0~
+~
+30 4100 0
+100 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
 $~

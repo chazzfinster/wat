@@ -1,1 +1,221 @@
+#65001
+radio board automated tapes recording stack OTHER~
+a stack of recording tapes~
+A stack of recording tapes stands by the console.~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#65000
+top $ironalloy $jewelrytop chainmail delicate METAL~
+a delicate, $ironalloy-chainmail $jewelrytop~
+a $ironalloy-chainmail $jewelrytop lies in a heap here.~
+   This is a piece of wearable art made from numerous, $ironalloy 
+chainmail links that have been created from wire. It is delicate 
+and completely worthless as armor, only covering a tantalizing 
+portion of the wearer's form. In particular, this is 
+$jewelrytop. 
+~
+11 33558528 9
+0 0 0 0
+1000 0.000000
+0 0 0 0 200 131072 0 1
+200.000000 0 0 0 0 0 0
+God~
+God~
+#65002
+stockings $color $polymesh long pair TEXTILE~
+a pair of long, $color, $polymesh stockings~
+Bundled here is a pair of long, $color, $polymesh stockings.~
+These are a pair of long, $color stockings designed to stretch 
+and wrap a pair of legs like a complementary second skin. 
+They're made of $polymesh. Their length terminates in tight 
+bands high on the thighs and they are ideal for wear under a dress 
+or skirt while still providing the effect of showing the shape of 
+one's legs. 
+~
+11 33558528 33
+0 0 0 0
+50 0.000000
+0 0 0 0 0 0 0 1
+5.000000 0 0 0 0 0 0
+God~
+God~
+#65003
+pattern jewelry $jewelrytop PLASTIC~
+a jewelry pattern for $jewelrytop~
+Unfurled here and left is a jewelry pattern for $jewelrytop.~
+   Made of filmy plastic with basic instructions, this is a pattern for 
+$jewelrytop. 
+~
+12 33558528 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#65004
+$jewelrytop incomplete $ironalloy chainmail METAL~
+an incomplete, $ironalloy-chainmail $jewelrytop~
+Laying spread out is an incomplete, $ironalloy-chainmail $jewelrytop.~
+   This is an incomplete piece of jewelry, made of a number of delicate 
+$ironalloy chainmail links. Eventually it will be $jewelrytop. Right now it 
+looks like it has a ways to go. 
+~
+39 33558528 1
+1 5 65000 1
+1000 0.000000
+0 0 0 0 200 0 0 1
+150.000000 0 0 0 0 0 0
+God~
+God~
+#65005
+sapling potted ceramic bruised pot ORGANIC~
+a thriving sapling in a ceramic pot~
+A thriving sapling sits here, resting a small ceramic pot.~
+   This small sapling looks to be verging on full, albeit young, tree-hood. It 
+stands without help from lattice upright within a ceramic pot. Several 
+sprouting feathered leaves come off of it, shooting twiggy branches all along 
+its length. The leaves themselves are lush and brightly colored. It appears 
+to be coming to about ten inches. 
+~
+12 4096 1
+0 0 0 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 48 65008 0 0 0 0
+God~
+God~
+#65008
+thriving young willow tree ORGANIC~
+a thriving young potted willow tree~
+A thriving potted willow tree rests here, young but hale.~
+   This small willow tree has dozens of thin branches reaching upward and 
+outward. Each branch sprouts thick and thriving feathered leaves. The 
+fledgling trunk is supported by a discreet alion rod which provides additional 
+structure and support. While still small, the tree appears hale and 
+well-nourished in its resting place in a transparent pot enclosed by a trellis 
+of clear plastic bands. 
+~
+30 4096 1
+20 9016 1 0
+2000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#65009
+willow tree cutting ORGANIC~
+a delicate willow cutting~
+A delicate willow tree cutting has been left here.~
+   A feathered frond of from a willow tree rests here, draped and elegant. One 
+end has been carefully trimmed and cut, while the other end is bears feathered 
+leaves. It looks to be healthy and free from disease. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#65010
+small potted willow cutting ORGANIC~
+a small potted willow cutting~
+A small potted willow cutting rests here, stem submerged in faintly luminescent gel.~
+   A feathered frond of from a willow tree rests here, draped and elegant. One 
+end has been carefully trimmed and cut, while the other end is bears feathered 
+leaves. It looks to be healthy and free from disease. It appears to have been 
+seated within a jug of nutrient gel, a small lattice keeping it aloft. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 1440 65005 0 0 0 0
+God~
+God~
+#65011
+stick computer salicylate data plastic ELECTRONIC~
+a computer data stick labeled -Salicylate-~
+A computer data stick labeled -Salicylate- rests here.~
+   This is a simple computer data stick that can be inserted into the ports on 
+a laptop, handheld, or chemistry processor. When reviewed, the data chip 
+reveals details on the chemical structure and production of Salicylate. 
+~
+12 0 1
+0 0 0 0
+25 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#65012
+vial of clear sharp-smelling liquid OTHER~
+a vial of clear, sharp-smelling liquid~
+A vial of clear liquid has been dropped here, corked.~
+   Looking to be about the length and diameter of an average forefinger, this 
+vial is filled to corked stopper with a clear liquid. Should the stopper be 
+removed, a sharp almost medicinal scent would emerge from within. 
+~
+30 0 1
+2 86 1 0
+25 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#65013
+dollop thick blue-green paste ORGANIC~
+a dollop of thick blue-green paste~
+A dollop of thick blue-green paste has been left here.~
+   The smell of this substance is almost cloying, sweet with a burning 
+antiseptic after-scent. It is thick, opaque, and a mottled blue-green color. 
+The consistency is almost soapy slick. 
+~
+12 0 1
+0 0 0 0
+20 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#65014
+small packet filled with pale blue liquid PLASTIC~
+a small packet filled with pale blue liquid~
+A small packet has been left here, filled with pale blue liquid.~
+   This packet is filled with an aqueous solution bearing a distinctive pale 
+blue hue. It doesn't have any other distinguishing markings, the outer packet 
+crafted of sealed clear polyprop. 
+~
+12 0 1
+0 0 0 0
+20 0.000000
+0 0 0 0 0 0 0 1
+0.000000 24 65015 0 0 0 0
+God~
+God~
+#65015
+small packet filled with pale blue crystals PLASTIC~
+a small packet filled with pale blue crystals~
+A small packet has been left here, filled with pale blue crystals.~
+   This packet is crafted of clear polyprop. The contents appear to be 
+fine-grain glittering crystals, slightly iridescent but bearing a distinctive 
+pale blue hue. They smell sharply medicinal if the packet were to be opened. 
+
+You recognize you can #6APPLY CRYSTAL#0 to use it. #6OOC: The victim must be 
+holding the packet and type APPLY CRYSTAL to use it.#0 
+~
+12 0 1
+0 0 0 0
+20 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
 $~

@@ -1,1 +1,36 @@
+#61000
+gaslight LIGHT tall flickering METAL~
+a tall, flickering gaslight~
+A tall, flickering gaslight stands here, shedding light.~
+   A tall lamppost of wrought steel, this gaslight flickers as it 
+burns, natural flame within glass panes at its top. The post is 
+bolted to the ground, fed by subterranean piping. 
+~
+1 0 0
+0 -1 20 1
+2000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#61007
+workers group muck-covered shovel OTHER~
+#5a muck-covered group of workers#0~
+#5A muck-covered group of workers shovels here ceaselessly.#0~
+   Stoic and set to their task, these citizens of No-Man's Town 
+engage in their ceaseless labors by the light of the gas-lamps, 
+both through the night and through the day. Large carts mounted 
+on steel wheels and tracks take the shoveled muck and transport 
+it along the rails to the northwest, where a large glowing 
+foundry can be seen. These men, or women, are unrecognizable 
+from each other due to the amount of semi-hardened muck covering 
+their skin as they work. 
+~
+12 8192 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
 $~

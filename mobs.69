@@ -1,1 +1,884 @@
+#69000
+xrepairbot arachnoid spider robot construct blue~
+a small, blued-tinged arachnoid~
+A small, blue-tinged arachnoid construct crawls here.~
+   This small creatures is no more than a half-meter in height. Looking not 
+unlike a large spider, it seems to be made up of small, blue-tinged hexagonal 
+panels. At the fore of the small arachnoid is a rounded section from which six 
+segmented legs sprout, as well as two shorter and more delicate manipulators, 
+each made from a blue-tinged metal that seems to have been veined with quartz. 
+At the rear of the thing is a larger section that is connected to the main 
+body, a heavy hexagonal-lined carapace covering it. At the very front of the 
+thing, small holographic dots line the 'face,' each holding a position a few 
+centimeters from the surface. 
+~
+270532617 4 16 8 5 5d1+72 2d4+1 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 2 0 0 0 0 0 0 0 0
+5 12 18 12 12 8 40 16
+0 0
+0 40 0 0 0 0 40 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' survivor 'member' soldier-survivor~
+0 0 0
+#69001
+xCGT1 $zoomersized insectoid serpentine nomad~
+a $zoomersized, serpentine insectoid~
+A $zoomersized, serpentine insectoid slithers along the floor.~
+   Little more than a horrible maw of razor-sharp teeth, this small insectoid 
+looks to be rather out of proportion, $zoomersized. Its head, beyond the 
+snapping jaws, is a mass of chitin plates that merges cleanly with a serpentine 
+body, a pair of small compound eyes set just behind the jawline. Each plate 
+overlaps its neighbor, reaching back to midway down the back of the creature, 
+before shrinking into a line of protruding spikes that stretch the length of 
+the thing's fleshy tail. A dozen or so small legs are carried on the underside 
+of the insectoid, each ending with a barbed hook. 
+~
+2097192 4 12 7 3 5d1+80 2d5+0 0 8 8 0 0 0 0 0
+0 0 0 50058 0 0 56 0 0 0 1 0 0 0 0 0 0 0 0
+8 10 10 10 16 10 40 11
+268435456 0
+0 20 20 20 20 20 20 20 20 20
+20 20 20 20 20 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic_terror~
+72 86 0
+#69002
+salvadore cole monstrosity headless spiky appendages~
+a headless, towering monstrosity with spiky appendages~
+A headless, towering monstrosity is here, thrashing violently.~
+   One can still tell that this monstrosity was, at some stage, once a man by 
+its vaguely humanoid form. It towers over seven feet high, with a broad, but 
+warped frame. Everywhere over its body, chitinous growths protrude outward, 
+and particularly on its back which seems to be all but tough, gray chitinous 
+plating. Its shoulders are twisted and crooked, with its right shoulder tilted 
+upward, giving a hobbling gait to its movements. What was once arms and legs 
+are now solid trunks of chitin and flesh, with seven razor-sharp bony spikes 
+extending out like malformed fingers and toes. Most notable though is its 
+complete lack of a head; its neck stump shows signs that its head was hewn 
+forcibly and via sharp instrument. 
+~
+10 4 44 2 4 5d1+88 2d8+5 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 35 0 0 0 2 0 70 0 0 0 0 0 786432
+22 16 22 16 16 12 40 19
+0 0
+0 30 90 90 90 90 40 40 90 90
+90 90 90 90 90 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' genetic-terror~
+0 0 0
+#69003
+Librarian gentlemen older white-whiskered~
+#6a white-whiskered, older gentlemen#0~
+#6A white-whiskered, older gentlemen stands here, posture dignified.~
+   The first striking thing about this gentlemen is the dignified air about 
+him; his posture is straight-backed, his tall frame drawn up to its full 
+height, his broad shoulders squared, and his blue gaze austere. He is 
+obviously not in the prime of his youth, as his slicked back hair is all but 
+white, his features wrinkled with the ravages of time, and he has a neat, crisp 
+white beard around his thin mouth. Not too stocky or too thin, he is of 
+average frame. 
+~
+10 4 36 2 7 5d1+112 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 45 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' genetic_terror 'commander' genetic-terror~
+0 0 0
+#69004
+xCGT2-i $spidersize chitinous spiked insectoid~
+a $spidersize, chitinous spiked insectoid~
+A $spidersize, chitinous spiked insectoid scuttles here.~
+   This armored insectoid is $spidersize. Reminiscent of an armored flatworm, 
+its body is decked in thick, gray chitin, lusterless in the light. It scuttles 
+low to the ground, held up by countless chitinous legs. What's most noticeable 
+about this hunk of an insectoid is that razor-sharp, serrated spikes flare out 
+from every single inch of its body, making contact with this thing a fearsome 
+thing indeed. There are no eyes to be seen, but large mandibles that drip with 
+a yellowy, runny goo clack audibly on what is presumably the fore. 
+~
+2097192 4 24 7 7 5d1+115 2d3+0 0 8 8 0 0 0 0 0
+11168 0 0 69020 0 0 70 0 0 0 2 0 0 0 0 0 0 0 2129936
+5 16 15 16 16 15 40 7
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'private' genetic_terror~
+96 86 0
+#69005
+xCGT2-ii $zoomersized $egtivtail insectoid~
+a $zoomersized $egtivtail insectoid~
+A $zoomersized, $egtivtail insectoid prowls here.~
+   This insectoid is $zoomersized Resembling a silverfish, its cylindrical body 
+boasts of thin, segmented chitinous plates that give it a sleek look. 
+Noticeably it has a dozen, half-foot-long chitinous legs that allows it to 
+scuttle in a surprising burst of speed. The head is indicated by a thicker 
+chitinous plate in the fore of the body. On the hind plate, two of $egtivtail 
+protrude out, ever moving and twitching. Should one look closer, they'd be 
+able to see four tiny slits in the fore armor-plate, perhaps its eyes. 
+~
+2097193 4 24 7 3 5d1+80 2d6+3 0 8 8 0 0 0 0 0
+11168 0 0 69020 0 0 40 0 0 0 2 0 0 0 0 0 0 0 2129936
+16 16 15 16 16 15 40 17
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' genetic_terror~
+96 86 0
+#69006
+xCGT4 $egtvdesc $egtsize tentacle-hooked insectoid~
+a $egtvdesc, $egtsize tentacle-hooked insectoid~
+A $egtvdesc, $egtsize tentacle-hooked insectoid lurks here.~
+   This is a truly fearsome insectoid, $egtsize and $egtvdesc. It resembles 
+some sort of mutated centipede, much larger than its Terran counterpart has any 
+right to be. Spider-like legs support it upright, well off the ground, and its 
+fore, segmented half stands upright. The gray chitinous underbelly has 
+countless tentacle outgrowths, ceaselessly moving, all hooked to flay flesh 
+like a razor-sharp skinning knife. Most disturbing of all is its two soulless, 
+beady blue eyes that sit on the underbelly right above its abdomen, and a 
+gaping fleshy maw above, as large as a human head. 
+~
+2097192 4 45 7 8 5d1+150 2d7+4 0 8 8 0 0 0 0 0
+11169 0 0 69020 0 0 50 0 0 0 2 0 0 0 0 0 0 0 532544
+19 16 20 16 16 20 40 13
+268435456 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' genetic_terror~
+24 86 0
+#69007
+xCGT3 bulbous tentacled outgrowth~
+a bulbous, tentacled outgrowth~
+A bulbous, tentacled outgrowth perches here, tentacles slowly moving.~
+   This fleshy bulk has sprung up from a gooey, yellow, thick substance on the 
+ground, looking to be some kind of cross between a Terran weed and a hydra. It 
+comprises of one thick trunk and dozens of protruding, black tentacles that 
+slowly move without seemingly any purpose or design. Each tentacle has a 
+slitted opening on its end, dripping more thick yellow goo onto the ground. 
+~
+10485770 786436 24 7 5 5d1+200 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 1067016
+13 16 15 16 16 15 40 13
+0 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 60 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' genetic_terror~
+48 86 0
+#69008
+Red Queen red-headed lithe young woman~
+#6a red-headed, lithe young woman#0~
+#6A red-headed, lithe young woman stands here.#0~
+   This woman has been well endowed by nature with well-proportioned features 
+and a lithe, sinewy body. Her face is angular and high-browed, with a 
+distinctly noble appearance. Quite noticeably her eyes are a vibrant deep 
+blue, contrasting sharply with her silky, red locks of hair that drop down to 
+her shoulders. Looking as though she's never experienced much labor or 
+hardship, her skin is milky white and smooth, immaculately clean and 
+well-groomed. 
+~
+8 0 54 0 11 5d1+200 2d8+5 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 35 0 0 0 0 0 0 0 0 0 0 0 0
+22 16 22 16 16 22 40 19
+0 0
+0 90 90 90 90 90 90 90 90 90
+90 90 90 90 90 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' genetic_terror~
+0 0 0
+#69009
+xCGT3-ii crab-like $hgtclaws insectoid~
+a crablike insectoid with $hgtclaws pincers~
+A crablike, insectoid with $hgtclaws pincers scuttles here.~
+   This five-foot long monstrosity of an insectoid looks vaguely like a giant 
+crustacean, with an oblong-shaped gray shell with numerous spiky outgrowths, 
+and six two-foot long legs on either side. It boasts of two $hgtclaws pincers, 
+each as big as half a man, serrated and constantly clicking and clacking. The 
+eyes are housed on the fore of the shell itself, two round beady blue eyes that 
+stare balefully. 
+~
+2097192 4 45 7 7 5d1+130 2d6+4 0 8 8 0 0 0 0 0
+11169 0 0 69020 0 0 56 0 0 0 2 0 0 0 0 0 0 0 1064992
+19 16 20 16 16 20 40 11
+268435456 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' genetic_terror~
+48 86 0
+#69010
+xCHGT2 $hgtflavor $hgtcysts tentacle covered humanoid~
+a $hgtflavor, $hgtcysts-tentacle-covered humanoid~
+A $hgtflavor humanoid with $hgtcysts-covered tentacles looms here.~
+   Perhaps this was once a humanoid, but besides its vaguely human-like shape, 
+all the similarities end there. Where the head should be is a lump of 
+$hgtflavor sagging flesh. Indeed, this thing is little more than a cluster of 
+hooked tentacles seated on a tumorous outgrowth of flesh and limbs, all covered 
+in $hgtcysts pustules. Besides the constant writhing of tentancles and the 
+soft wet noises they make as they rub up against one another, utterly no sound 
+comes from this being. 
+~
+2097192 4 36 2 7 5d1+112 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 45 0 0 0 2 0 0 0 0 0 0 0 2163200
+16 16 18 16 16 18 40 15
+268435456 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' genetic_terror~
+0 0 0
+#69011
+xCGT0 tentacles $tentacletype mass small~
+a small mass of $tentacletype tentacles~
+A small mass of $tentacletype tentacles shifts about here.~
+   This is a gray mass with $tentacletype, writhing and constantly moving. On 
+its slimy, smooth skin are numerous spiky outgrowths, like tumors. It looks to 
+be about as small as a hand, trailing yellowy goo as it moves. 
+~
+2097160 786436 6 7 1 5d1+50 2d3+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 63 0 0 0 0 0 0 0 0 0 0 0 0
+5 16 8 16 16 8 40 9
+268500992 0
+0 10 10 10 10 10 10 10 10 10
+10 10 10 10 10 0 80 60 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic_terror~
+24 86 0
+#69012
+Rayin short icy-blue-eyed lean man~
+#6a short, icy-blue-eyed lean man~
+#6A short, icy-blue-eyed lean man is here.~
+   The first thing to be noticed about this man is his perfect symmetry in 
+proportions; his pale, noble face is immaculate and smooth, so fine to be 
+unnatural. His frame is short and lean - but not in any way that comes with 
+the awkwardness of puberty, with a toned physique that suggests moderate 
+physical activity. With a straight-backed posture, his movements are dignified 
+and austere. His eyes are of a hard icy blue, appearing inscrutable with his 
+steely demeanor. 
+~
+10 0 5 69 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic_terror~
+0 0 0
+#69013
+Ramona cinnamon-brown-haired curvaceous woman~
+#6a cinnamon-brown-haired, curvaceous woman~
+#6A cinnamon-brown-haired, curvaceous woman is here.~
+   Smooth tanned skin covers this woman's form, unseamed by scars and blushed 
+faintly. Billowing cinnamon brown locks curl and flank either side of her oval 
+face, a twist of spirals coming to her waist. Her features are symmetical: a 
+distinguished brow, a straight nose with a flared tip, and a pair of full lips 
+inked deep red. She has a subtly curvaceous form, with widening at hip and 
+breast difficult to disguise under any clothes. Her arms and legs are faintly 
+muscled and robust with health. 
+~
+10 0 5 69 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic_terror~
+0 0 0
+#69014
+Hector sharp-featured cocoa-skinned man~
+#6a sharp-featured, cocoa-skinned man#0~
+#6A sharp-featured, cocoa-skinned man is here.~
+   Rich brown hair comes to a curled and slightly long conclusion, just 
+brushing the nape of this man's neck though the front is settled back in 
+curving away from his face. His cheekbones are sharp, between a wide but 
+perfectly straight nose. His eyes are curved at the edges, dark and framed by 
+thick lashes. An uncompromising mouth settles above a strong chin and jaw. 
+His skin is likewise cocoa, undamaged, firmly muscled and well-formed. He 
+stands at about average height. 
+~
+10 0 5 69 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic_terror~
+0 0 0
+#69015
+Red-Queen Red Queen multiple-mouthed multiple mouthed tentacled creature sloped curves spidery tentacles Betty~
+a multiple-mouthed tentacled creature with sloped curves~
+A multiple-mouthed creature looms here, rising loftily on spidery limbs and thick tentacles.~
+   Three distinctive 'faces' are mashed within a single head, each yawning and 
+gnashing at air, the movements slightly out of synch with each other. They 
+share one single eye, armored instead of lidded, that rests at a dull-black and 
+covers the 'forehead.' Wrapped in sleek dark red chitin, the lithe figure 
+appears to have two segments outside of the diamond multi-faced head. The 
+center segment looks to be all one piece, unyielding and unbroken. The lower 
+segment bears overlapping plates of chitin, making it able to curl and twist 
+without exposing seams. The limbs, as they serve as arms and legs in whatever 
+capacity necessary, are numerous and spider-thin, each ending in three-fingered 
+hands, totaling eight. Numerous tentacles emerge from the line cut between the 
+center and lower segment, whipping and swirling, buoying the beast aloft. 
+~
+42 4 54 7 11 5d1+200 2d8+5 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 35 0 0 0 2 0 0 0 0 0 0 0 532544
+22 16 22 16 16 22 40 19
+0 0
+0 90 90 90 90 90 90 90 90 90
+90 90 90 90 90 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#69016
+facehugger small squid parasite~
+a small, squid-like parasite~
+A small, squid-like parasite is here, squirming about.~
+   Slick with mucous, this creature is the size of a human head with a flat 
+body and reaching, seeking tentacles. Looking somewhat squid-like, a mouth 
+rests in the very center of the underside, seeking sensitive flesh with a sharp 
+beak-like protrusion. All along the underside are hooks, some harmlessly 
+retracted but others wickedly extended, waiting to tear and rip. Vile smelling 
+gelatinous cysts quiver with every move of the creature, when popped releasing 
+acidic ooze that causes a tingly burn on contact. 
+~
+2097192 4 15 2 3 5d1+88 2d5+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 2097680
+14 16 16 16 20 12 40 20
+0 0
+0 35 10 0 0 0 40 30 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic_terror~
+0 0 0
+#69017
+kamikazi skeletal humanoid bloated gut skeleton~
+a skeletal humanoid with a bloated gut~
+A living skeleton lingers, a sac of alien skin bulging from its gut.~
+   This living skeleton still has scraps of flesh hanging from its otherwise 
+yellow-stained bones, but only in rare pieces. The obvious exception is 
+noticeable at the midsection, where patchy, mutated flesh expands outward in a 
+naked, pregnant bulge that expands slowly outward before withdrawing once 
+again. Still-used muscles cling to the warped skeletal structure of this once 
+humanoid, flexing and pulsing as the thing deigns to move. This horror brings 
+with it the wafting stench of potent sulfur. 
+~
+2097192 4 14 2 3 5d1+96 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 655364
+16 16 16 16 16 14 40 16
+0 0
+0 40 10 0 0 0 30 20 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic_terror~
+0 0 0
+#69018
+Tentacles Blighter $blightertentacle writhing grey-skinned grey skinned heavy length tentacle~
+a writhing grey-skinned $blightertentacle tentacle~
+A heavy length of writhing $blightertentacle tentacle stretches here.~
+   This is nothing more than an extension of something greater, stretching 
+along like a snake, tracking through the area. It is $blightertentacle, and 
+faintly smells like sulfur. The powerful length of it is barrel-hard, sheathed 
+in mottled grey-green 'skin' and looking like a horrible and extremely tortured 
+tongue as it licks at it's surroundings. A faint trail is left behind after 
+it, born of the ichor that seems to coat it. 
+~
+40 4 22 2 3 5d1+92 2d5+3 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 69042 0
+18 12 12 12 16 13 40 16
+268435456 0
+0 40 40 0 0 0 30 30 40 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic_terror~
+0 0 0
+#69019
+ElectricHead Blighter draconic skull like head crackling tines~
+#6the skull-like, draconic head bearing crackling tines#0~
+#6Electricity crackles between the tines of a skull-like, draconic head.#0~
+   With a mouth as broad as a man measured from toe to crown, this 
+draconic-looking head is absolutely huge. It has an elongated, almost 
+crocodilian muzzle with a severe underbite, snaggle teeth poking up to 
+partially engulf the bony upper jaw. The eyesockets deep and their depths are 
+set with almost jewel-like structures in the place of eyes, glinting like 
+malevolently glowing, faceted sapphires. All around the recessed and jagged 
+skull are a number of metallic-sheened, black chitin plates which barely cover 
+a number of pustules that seem about to burst. Hard tines, seemingly made of 
+chitin or some almost metallic material poke out all around the head, 
+especially in one large one towards the tip of the sunken muzzle. Between them 
+crackle electrical arcs, jumping between each and snapping through the air. 
+~
+10 4 40 2 6 5d1+120 2d6+2 0 8 8 0 0 0 0 0
+0 0 0 69038 0 0 50 0 0 0 1 0 30 0 0 0 0 0 525312
+19 16 20 16 16 20 40 13
+0 0
+0 60 60 60 60 75 50 50 60 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'lieutenant' genetic_terror~
+0 0 0
+#69020
+OffenseHead Blighter gigantic draconic head wide toothy mouth mouthed~
+#1the gigantic, draconic head with a #0wide, toothy mouth~
+#1The gigantic, #0wide-mouthed and toothy#1 draconic head towers above#0.~
+   With a mouth even wider than the other two, this head has a blunted muzzle, 
+perhaps half the length. It is surrounded by a thick set of heavily 
+black-plated lips, and when it opens a small gap at the base of the mouth can 
+be seen. No tongue is present, though there is a plentiful amount of serrated 
+teeth, similar to those of a shark. Most of it is still sunken and skull-like, 
+a series of bony chitinous plates sweeping back from the rear of it. Both eyes 
+are bulbous, faceted, and huge like gigantic bright sapphires. Silvery black 
+plates cover the head and neck, thicker on the underside, with obvious gaps 
+here and there. Pustules break through and burst, causing a constant layer of 
+slime. 
+~
+10 4 45 2 9 5d1+120 2d7+4 0 8 8 0 0 0 0 0
+0 0 0 69039 0 0 50 0 0 0 1 0 0 0 0 0 0 0 525312
+19 16 20 16 16 20 40 13
+0 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'lieutenant' genetic_terror~
+0 0 0
+#69021
+GasHead Blighter needle toothed elongated draconic head nasal vents~
+#3the needle-toothed, elongated draconic head with nasal vents#0~
+#3An elongated, draconic head exhales gas from its nasal vents.#0~
+   Elongated outwards with a slender, beak-like muzzle, this head looks most 
+like what Lunar humans might call a skimmer. Inside are rows of needle-like 
+teeth, similar to those of a snake and leaking faintly green fluid. All along 
+the top of the beak are a number of holes, which occasionally give off plumes 
+of yellow-green gas that rise to dissipate in the air. Just behind underneath 
+horned eye ridges, the faceted and bright blue eyes give a completely soulless 
+stare. Its skull ends in a series of horns, making an almost plated crest 
+before smaller ones run down along its body. All are a silvered black in 
+color, tightly packed except for areas that reveal bone along the dorsal side, 
+or throbbing pustules that frequently erupt with ooze. 
+~
+10 4 40 2 6 5d1+120 2d6+2 0 8 8 0 0 0 0 0
+0 0 0 69037 0 0 50 0 0 0 1 0 1000 0 0 0 0 0 525312
+19 16 20 16 16 20 40 13
+0 0
+0 60 60 60 60 75 50 50 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'lieutenant' genetic_terror~
+0 0 0
+#69022
+BlighterBody colossal many branched serpentine body~
+a colossal, many-branched serpentine body~
+A colossal, many-branched serpentine body coils around the room, conjoined with three heads and numerous stumps.~
+   The three heads link at the shape of an absolutely colossal, black-plated 
+serpentine body. It coils around the room, covered heavily in chitinous black 
+scales and plates. Thicker on the underside, these plates are jagged and 
+heavily reinforced, their color overlaid with a metallic silver sheen to them. 
+Along the dorsal side is a row of vertebrae-like bony plates, leading all the 
+way down to the tip of the tail and standing out with the color of bleached 
+bone. In between some of the larger gaps in the thickly armored hide erupt 
+various growths and pustules, all throbbing to some rhythm. Periodically one 
+of them will erupt, either spreading around ooze which seeps onto the hide and 
+floor, or a yellow-green gas which drifts lazily through the air. Branching 
+off are a number of tentacle-like appendages, writhing without any purpose, the 
+flesh at the end frayed, fizzled, and greyed as if dead. 
+~
+10 4 54 2 11 5d1+128 2d8+5 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 524416
+22 16 22 16 16 22 40 13
+0 0
+0 90 90 90 90 90 90 90 90 90
+90 90 90 90 90 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' genetic_terror~
+0 0 0
+#69023
+Gigglestick tall wiry bald man facial scars~
+a tall, wiry bald man with facial scars~
+A tall man with no hair and facial scars lingers nearby.~
+   This man is tall and hairless, his face and head as smooth as a baby's 
+bottom. He is wiry in build, thin but with lean, hard muscles and a neck that 
+looks disproportionately thick. He has a long, crooked nose and two amber eyes 
+sunken into bony eyesockets and surrounded by dark, sleepless circles. He has 
+identical scars running down from his cheekbones to his jawline on either side 
+of his face. Despite his worn appearance, he holds himself with a 
+straight-backed posture and moves with surprising fluidity. 
+~
+10 0 54 1 2 5d1+108 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+17 10 10 16 18 17 40 18
+0 0
+0 0 100 0 0 0 50 70 0 100
+100 0 0 0 0 0 70 80 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown 'member' phoenix~
+0 0 0
+#69024
+Ranger CHGTR $rangersize $rangerhide $rangertype~
+a $rangersize, $rangerhide $rangertype~
+Lurking through the trees is a $rangersize, $rangerhide $rangertype.~
+   Perhaps a human at some point, this $rangersize creature still bears the 
+upright posture, though on occasion it can be seen hunkering down and loping on 
+all fours. It is long-limbed, almost spindly, even though given its stature it 
+is still thickly built. Agains the backdrop of the trees, its $rangerhide 
+helps it blend in and avoid being spotted. Dark, spiny ridges covered with 
+growths run down this $rangertype's back, while its face juts out and yet 
+splits into four. The muzzle is almost wolfen when closed though the thorny 
+teeth inside of each section of the maw are far too numerous and needle-like 
+for a lupine. A long, split and boil-covered tongue flicks out and tests the 
+air periodically. Sunken into its face are a set of bright, crystalline blue 
+eyes. Growing out from around each forearm are a series of vicious, barbed 
+spines, with the flesh around it swollen and pulsating with greenish ooze. It 
+stands on wickedly clawed feet, and a long, prehensile tail bears a number of 
+barbs. 
+~
+8 4 24 2 5 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+13 16 15 16 16 15 40 13
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' genetic_terror~
+0 0 0
+#69025
+Vampire a large tentacled amorphous blob~
+a large, tentacled, amorphous blob~
+An amorphous blob has been born from ooze, releasing hisses of gas.~
+   Though suddenly developed, tendrils and tentacles have clipped off from the 
+central boil of the growth to lash and feel at the surrounding area. It is a 
+mottled sickly yellow brown color, barely more than a sentient film. Little 
+pockets of gas are released occasionally into the air from breaks in the 
+pulsing growth. The main danger comes in the form of the tentacles and 
+tendrils, many of which have developed hooked barbs. The creature, if one 
+could call it that, doesn't have a mouth to speak of, nor eyes. 
+~
+2097192 4 38 2 6 5d1+120 2d6+4 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 524290
+19 10 12 16 25 20 40 16
+0 0
+0 70 75 75 75 75 40 40 75 75
+75 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic_terror~
+4 86 0
 $~

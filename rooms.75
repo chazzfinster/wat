@@ -1,1 +1,6878 @@
+#75000
+RUST - BASE ROOM~
+Goto room for admins. Players not allowed.
+~
+75 65536 0
+0
+D0
+~
+mega-gate~
+1 -1  0 75001
+S
+#75001
+Before the Massive Gate to The Hyperion Platform~
+   To the south lies the foundation of Hyperion Platform, an enormous structure 
+of impregnable metal from which rises the reflective dome of the closed city. 
+It is a grim and forbidding sight, a dominant centerpiece to the haphazard 
+collection of slums and shanty towns that surrounds it on all sides. The 
+throngs of the market are thinner here, most seeming to subconsciously avoid 
+the area's menacing atmosphere. Barely visible under a layer of moondust and 
+another layer of graffiti is the faint outline of a massive hexagonal gate the 
+likeness of a blast-door, but it has clearly not been opened in ages. It is 
+eight yards in diameter with no window or visible opening mechanism from the 
+outside. 
+~
+75 65808 25
+0
+D0
+~
+~
+0 -1  0 75008
+D1
+~
+~
+0 -1  0 75002
+D2
+~
+mega-gate~
+1 -1  0 75000
+D3
+~
+~
+0 -1  0 75004
+S
+#75002
+Outside Bjork's Boozer~
+   Interspersed unevenly around the marketplace is an occasional vendor, loudly 
+hawking their wares to any that would listen, voices cut through and drowned 
+out by other voices - more vendors, louder. The loudest of these is rewarded 
+with more customers, most of them probably more annoyed than anything else, but 
+wasting their time there, regardless. Trash is littered everywhere over the 
+dirt road, kicked by the crowded traffic or otherwise pounded firmly into the 
+dirt, providing a meager pavement. 
+   The building to the south is fairly lively, with all sorts of raucous noise 
+and people spilling out, adding to the bustling traffic. 
+~
+75 65552 25
+0
+D0
+~
+~
+0 -1  0 75009
+D1
+~
+~
+0 -1  0 75003
+D2
+~
+double doors~
+1 -1  0 75267
+D3
+~
+~
+0 -1  0 75001
+S
+#75003
+By a Gate in the Corner of the Market~
+   The piecemeal walls of the market meet here to form a corner. The din is 
+less pressing in this end as no hawkers have set up shop so close to the gate, 
+but there is a steady stream of denizens entering and leaving the market. 
+Armed guards are posted by the gate, giving everyone a scrutinizing look before 
+allowing them entry. Trash and old plastic cups have been stomped into the 
+ground in such amounts as to nearly form a pavement of hard-packed garbage.
+   You must #6CALL GATEGUARD#8 to leave the market. 
+~
+75 65552 25
+0
+D0
+~
+~
+0 -1  0 75010
+D2
+~
+market gate~
+1 -1  0 75056
+D3
+~
+~
+0 -1  0 75002
+P
+call~
+gateguard~
+force -1 -1 emo knocks on the iron gate with a dull thump.
+delay 4 emo waits as they hear the thumping of footsteps.
+delay 8 x open
+fi done
+~
+P
+x~
+open~
+info rvnum room -1 vnum 
+atecho &(rvnum) #5A market guard#8 opens the gate-slit, gives #5$n#8 a scrutinizing look over, then lets them pass through the gate. The guard mutters as they step through, #6"Watch your back. The New Guard's turf is on the other side of the parkin' lot."#8
+delay 2 emote The iron gate creaks open, and @ steps into the street.
+atecho 75056 The iron gate creaks open, and #5$n#8 passes through quickly before it shuts once again.
+trans_group -1 75003 75056
+trans 75056
+~
+S
+#75004
+Hooker's Plaza~
+   This small section of the market is less crowded with vendors and stalls, 
+giving way instead to a plaza where the prostitutes of the town linger. Some 
+present themselves brazenly to market-goers, others stand meekly in the 
+background, but their purpose is clear. Denizens with children give this area 
+a wide berth, but groups of adolescents are often seen keenly "browsing" the 
+"merchandise." 
+   To the south, the many-layered market wall rises about twelve feet up, 
+consisting of all manner of metal sheets and plastic boards hammered together 
+into a crude barrier. 
+~
+75 65552 25
+0
+D0
+~
+~
+0 -1  0 75007
+D1
+~
+~
+0 -1  0 75001
+D3
+~
+~
+0 -1  0 75005
+S
+#75005
+Sparsely Crowded Area by a Gate~
+   Compared to the rest of the market, not much goes on here by the 
+south-western market gate. Guards stand idly by, opening the passageway for 
+people who want in or out of the market. There are few hawkers in the 
+vicinity, but the relative peace of this corner makes it a common meeting spot 
+for people, and there is indeed a collection of individuals spread about the 
+area looking around expectantly. 
+   To the west, a reinforced metal door with a spray-painted #3"GOLD"#8 is the 
+only alternative to the patchwork market wall. 
+   You must #6CALL GATEGUARD#8 to leave the market. 
+~
+75 65552 25
+0
+D0
+~
+~
+0 -1  0 75006
+D1
+~
+~
+0 -1  0 75004
+D2
+~
+market gate~
+1 -1  0 75121
+D3
+~
+reinforced door~
+1 -1  0 75262
+P
+call~
+gateguard~
+force -1 -1 emo knocks on the iron gate with a dull thump.
+delay 4 emo waits as they hear the thumping of footsteps.
+delay 8 x open
+fi done
+~
+P
+x~
+open~
+info rvnum room -1 vnum 
+atecho &(rvnum) #5A market guard#8 opens the gate-slit, gives #5$n#8 a scrutinizing look over, then lets them pass through the gate. The guard mutters as they step through, #6"Block Nine's turf is to the southwest. Visit the Happy Clam."#8
+delay 2 emote The iron gate creaks open, and @ steps into the street.
+atecho 75121 The iron gate creaks open, and #5$n#8 passes through quickly before it shuts once again.
+trans_group -1 75005 75121
+trans 75121
+~
+S
+#75006
+Along the Edge of the Market~
+   Traffic hurries through the markets, people with their heads bowed, nearly 
+all staring at the ground and minding their own business. At odd intervals 
+somebody stands away from the throng, surveying the wares of a haggard vendor. 
+To the north the Perimeter looms, as impenetrable as it is forboding, casting a 
+constant shadow for many yards. The ground might once have been paved with 
+asphalt - but that was a long time ago. Now it is naught but dirt and trash, 
+forced into shape by thousands of passing feet, all of it a dull grey. A pair 
+of massive double doors lead to a warehouse to the west, through which a heavy 
+flow of traffic moves. 
+~
+75 65552 25
+0
+D0
+~
+~
+0 -1  0 75016
+D1
+~
+~
+0 -1  0 75007
+D2
+~
+~
+0 -1  0 75005
+D3
+~
+set of massive double doors~
+1 -1  0 75265
+S
+#75007
+At a Sewer Grate in the Market~
+   This section of the market is more sparsely populated, with most denizens 
+passing hurriedly by. The reason is obvious: through a grate in the ground is 
+the entrance to the sewers from which the unmistakeable stench of such a place 
+periodically drifts up into this area. However, people are seen entering or 
+leaving the sewers once in a while, often carrying filth-encrusted bags or 
+armfuls of scavenged junk. 
+~
+75 65552 25
+0
+D0
+~
+~
+0 -1  0 75015
+D1
+~
+~
+0 -1  0 75008
+D2
+~
+~
+0 -1  0 75004
+D3
+~
+~
+0 -1  0 75006
+D5
+~
+sewer-grate~
+1 -1  0 52900
+S
+#75008
+The Open Hawker's Market~
+   The total absence of structures denotes this as the Hawker's Market, an area 
+for people carrying bundles, baskets, display cases or merely handfuls of wares 
+for sale. Persistently pestering anyone who gets too close, these hawkers let 
+no one pass by without informing them loudly and repeatedly of just what they 
+are selling. Strangely enough, they all seem to be selling more or less the 
+same things. 
+   South of here is the gate to Hyperion, a massive vault-like entryway that 
+has not been opened at any point in Rust's history. The southern market wall 
+gives way to the city's sheer metal foundation, above which the gigantic dome 
+of the Hyperion Platform rises sternly. 
+~
+75 65552 25
+0
+D0
+~
+~
+0 -1  0 75013
+D1
+~
+~
+0 -1  0 75009
+D2
+~
+~
+0 -1  0 75001
+D3
+~
+~
+0 -1  0 75007
+S
+#75009
+Outside the Public Clinic~
+   The market extends in all directions, ever busy and crowded with denizens. 
+Here, rising out of it like a small island, is the public clinic of Rust. The 
+occasional patient is seen coming or going - or, for an unlucky few, carried - 
+through the entrance to the squat, rectangular building. Spray-painted on the 
+front door is an unsuccesful attempt at a Caduceus, and next to it a red cross. 
+~
+75 65552 25
+0
+D0
+~
+~
+0 -1  0 75012
+D1
+~
+~
+0 -1  0 75010
+D2
+~
+~
+0 -1  0 75002
+D3
+~
+~
+0 -1  0 75008
+S
+#75010
+Along the Edge of the Market~
+   To the east, a twelve foot wall has been built of out irregular pieces of 
+sheet metal, corrugated plastic, and other boards of suitable material. This 
+barrier borders the entire market, broken only by the gates and a few doorways 
+into shops and warehouses situated along the edge of the market. The wall is 
+not quite uniform in height, but close enough, and it bears evidence of years 
+upon years of diligent repair. The buzz of the market is ever-present all 
+around, a chaotic symphony of hawking and bartering and the general hub-bub of 
+business. 
+   East of here, a large doorway leads into some industrial hall or other, and 
+heavy machinery can be seen within. 
+~
+75 65552 25
+0
+D0
+~
+~
+0 -1  0 75011
+D1
+~
+~
+0 -1  0 75264
+D2
+~
+~
+0 -1  0 75003
+D3
+~
+~
+0 -1  0 75009
+S
+#75011
+Before the East Market Gate~
+   The patchwork market wall dips a little in height to make way for a gate. 
+Armed men are posted here, the unnoficial enforcers of the Rust market 
+who keep this a neutral ground and ensure that known murderers are not allowed 
+entry. Though no merchants have set up just here, the noise of their presence 
+is still overpowering from all around, as is the constant drone of conversation 
+and movement from the hundreds of denizens milling about the market. 
+   You must #6CALL GATEGUARD#8 to leave the market. 
+~
+75 65552 25
+0
+D0
+~
+~
+0 -1  0 75017
+D1
+~
+market gate~
+1 -1  0 75027
+D2
+~
+~
+0 -1  0 75010
+D3
+~
+~
+0 -1  0 75012
+P
+call~
+gateguard~
+force -1 -1 emo knocks on the iron gate with a dull thump.
+delay 4 emo waits as they hear the thumping of footsteps.
+delay 8 x open
+fi done
+~
+P
+x~
+open~
+info rvnum room -1 vnum 
+atecho &(rvnum) #5A market guard#8 opens the gate-slit, gives #5$n#8 a scrutinizing look over, then lets them pass through the gate. The guard mutters as they step through, #6"Careful. It's rough out 'ere."#8
+delay 2 emote The iron gate creaks open, and @ steps into the street.
+atecho 75027 The iron gate creaks open, and #5$n#8 passes through quickly before it shuts once again.
+trans_group -1 75011 75027
+trans 75027
+~
+S
+#75012
+In the Busy, Crowded Market~
+   Traffic throngs through the market as crowds of people rush along, most of 
+them staring at the ground, minding their own business. The insistent calls of 
+vendors fill the air, and the occasional customer stops to survey the wares on 
+sale. To the north, the perimeter looms, impenetrable and foreboding, its dark 
+shadow crossing the marketplace when the sun is low. The ground might once 
+have been paved with asphalt, but that was a long time ago. Now it is nothing 
+but dirt and trash, beaten down by thousands of passing feet. 
+   The ring of beaten metal pulses in from the north while the market is 
+quieter to the west where the Shades fill the center of the area. To the 
+south, the ominous Hyperion Platform looms. 
+~
+75 65552 25
+0
+D0
+~
+~
+0 -1  0 75018
+D1
+~
+~
+0 -1  0 75011
+D2
+~
+~
+0 -1  0 75009
+D3
+~
+~
+0 -1  0 75013
+S
+#75013
+Center of the Market, Outside the "Shades"~
+   The center of the market is a cluster of shanties and miniature houses, some 
+rising to three cramped storeys that each seem barely high enough to stand 
+upright in. Shacks and hovels sit crammed together, forming a village of its 
+own that blocks out the traffic of the market but for a couple of narrow 
+entrances into the dark interior of this sub-district. Clusters of electrical 
+cables snake their way around the sides of the hovels and droop overhead in its 
+claustrophobically narrow passageways, and although it is situated smack in the 
+middle of the market, it nevertheless manages to seem secluded in there. 
+~
+75 65552 25
+0
+D0
+~
+~
+0 -1  0 75019
+D1
+~
+~
+0 -1  0 75012
+D2
+~
+~
+0 -1  0 75008
+D3
+~
+~
+0 -1  0 75015
+P
+enter~
+shades slum shant shanti shantie shanties~
+force -1 -1 emo ventures into *slum
+atecho 75115 Footsteps crunch on the cracked asphalt as #5$n#8 steps into the Shades.
+trans_group -1 75013 75115
+trans 75115
+~
+S
+#75015
+The Food Market~
+   The trash blanketing this area is constantly kicked about underfoot, a 
+moderate sized crowd of Rust's residents clustered about a series of 
+ramshackle stores in the Market, buying and selling various smallgoods such as 
+utensils, pots, clothes, and hides. The sour stench of garbage still pervades 
+the marketplace, but it is of secondary importance to the cries, squawks and 
+shouts of the hawkers that operate their stalls here. 
+   To the south, the gleaming dome of Hyperion rises like a gigantic, 
+half-buried crystal ball, dominating the landscape. 
+~
+75 65552 25
+0
+D0
+~
+~
+0 -1  0 75020
+D1
+~
+~
+0 -1  0 75013
+D2
+~
+~
+0 -1  0 75007
+D3
+~
+~
+0 -1  0 75016
+S
+#75016
+Before the West Market Gate~
+   Light filters through dozens of bullet holes in the scrap metal wall to the 
+west. The barrier opens up into a gate, marking the western exit of the 
+market, and a few trash cans have been placed nearby. The ground is 
+hard-packed dirt with patches of equally hard-packed garbage. There are more 
+guards here than at the other market gates, but they let people in and out all 
+the same. 
+   You must #6CALL GATEGUARD#8 to leave the market. 
+~
+75 65552 25
+0
+D0
+~
+~
+0 -1  0 75021
+D1
+~
+~
+0 -1  0 75015
+D2
+~
+~
+0 -1  0 75006
+D3
+~
+market gate~
+1 -1  0 75131
+P
+call~
+gateguard~
+force -1 -1 emo knocks on the iron gate with a dull thump.
+delay 4 emo waits as they hear the thumping of footsteps.
+delay 8 x open
+fi done
+~
+P
+x~
+open~
+info rvnum room -1 vnum 
+atecho &(rvnum) #5A market guard#8 opens the gate-slit, gives #5$n#8 a scrutinizing look over, then lets them pass through the gate. The guard mutters as they step through, #6"The Red Company's turf is down that way, y'know."#8
+delay 2 emote The iron gate creaks open, and @ steps into the street.
+atecho 75131 The iron gate creaks open, and #5$n#8 passes through quickly before it shuts once again.
+trans_group -1 75016 75131
+trans 75131
+~
+S
+#75017
+Stalls and Carts Along the Market's Edge~
+   In the shade of the market wall is a long line of stalls and carts, each 
+with its vendor and browsing customers. The cacophony of competing shouts and 
+insistent haggling all but rules out normal conversation, though the occasional 
+lull in the barrage of sound allows speech and the use of radios even here. 
+The market spreads all around save for the wall to the east, and the rhythmic 
+ringing of hammers on metal sounds constantly from the forges to the west. 
+   Through a large doorway to the east is a machinery hall, and from within 
+wafts the heavy stench of organic matter and spoiling meat. 
+~
+75 65552 25
+0
+D0
+~
+~
+0 -1  0 75022
+D1
+~
+~
+0 -1  0 75263
+D2
+~
+~
+0 -1  0 75011
+D3
+~
+~
+0 -1  0 75018
+S
+#75018
+The Forges in the Market (needs that prog from 55279)~
+   The hustle and bustle diminishes here, as most Rusters stick to the 
+perimeter of the marketplace, crowding near walls and down the occasional 
+off-shoot alleyway. Instead of letting this free space go to waste, a series 
+of forges, lathes, bellows and benches have been set up, a vibrant hub of local 
+industry producing new weapons and wares from materials scavenged from the 
+wastes. The trash on the ground is slightly less compacted, and collects in 
+potholes and around low, deteriorating concrete stumps. Even in the relative 
+calm, the murmur of the crowd is a constant drone, often punctuated by the 
+hammering or quenching of metal. 
+~
+75 65552 25
+0
+D0
+~
+~
+0 -1  0 75023
+D1
+~
+~
+0 -1  0 75017
+D2
+~
+~
+0 -1  0 75012
+D3
+~
+~
+0 -1  0 75019
+S
+#75019
+The Market Auction (needs auction stuff)~
+   The loud and varied vendors of the rest of the market are absent here in 
+favor of the Rust auction. Taking place on a slightly raised platform of 
+concrete slabs, an auctioneer periodically displays some object or other and 
+belts out his machinegun-paced routines to the interest and amazement of 
+onlooking denizens. Though it is clear that few have come to actually purchase 
+anything, it serves as a source of entertainment to the downtrodden proletariat 
+of the settlement. 
+   To the south, the peculiar district known as the Shades takes up the entire 
+center of the market, consisting of hundreds of tiny, crammed-together hovels 
+and sheds for society's poorest. 
+~
+75 65552 25
+0
+D0
+~
+~
+0 -1  0 75024
+D1
+~
+~
+0 -1  0 75018
+D2
+~
+~
+0 -1  0 75013
+D3
+~
+~
+0 -1  0 75020
+S
+#75020
+Amidst Dozens of Market Stalls~
+   Winched between the perimeter to the north and all manners of houses and 
+shanties to the other cardinal directions, the marketplace stretches across, 
+perfectly flat but for the stands of vendors, racked with all manner of things 
+one might buy. People stop by these, or just pass them on by - the decisions 
+of a few do nothing to change the decisions of the many, as the traffic 
+continues at a near-constant basis, thick, hurried, and quiet. 
+   The urgent shouting of an auctioneer filters in from the east, standing out 
+agains the rest of the market's wall of sound. 
+~
+75 65552 25
+0
+D0
+~
+~
+0 -1  0 75025
+D1
+~
+~
+0 -1  0 75019
+D2
+~
+~
+0 -1  0 75015
+D3
+~
+~
+0 -1  0 75021
+S
+#75021
+Through a Maze of Shacks and Stalls~
+   This is clearly a center for the more permanent enterprises of the market, a 
+considerable number of shacks and immobile stalls situated here, often so close 
+together as to form a maze of tiny alleyways. Signs are painted on some of the 
+doors, more often with a drawing of some object than with actual writing and 
+some of the shacks look big enough to suggest that their owners might be living 
+in the back. To the west, a large doorway leads into a sizeable hall with some 
+huge processing machinery inside. Smoke wafts from a hole in the roof, oozing 
+into the market whenever the wind turns. 
+~
+75 65552 25
+0
+D0
+~
+~
+0 -1  0 75026
+D1
+~
+~
+0 -1  0 75020
+D2
+~
+~
+0 -1  0 75016
+D3
+~
+~
+0 -1  0 75266
+S
+#75022
+Vendor's Corner~
+   Here in the northeastern corner of the market is the Vendor's Corner, a
+prime spot for selling and buying crafted goods. The throngs are especially 
+thick here, milling and jostling about in such masses that passing through is 
+nearly impossible.  Far to the south, the mountainous ome of the Hyperion
+Platform governs the horizon, taking up the entire view above the market wall.
+   The occasional lit sign hangs from the power cables that criss-cross 
+overhead, one of which invites denizens to #D"V#Ei#Ds#Ei#Dt #Et#Dh#Ee #DH#ea#Dp#Ep#Dy #EC#Dl#Ea#Dm."#8
+~
+75 65552 25
+0
+D2
+~
+~
+0 -1  0 75017
+D3
+~
+~
+0 -1  0 75023
+S
+#75023
+Market's Edge Crowded with Merchants~
+   A great variety of street merchants crowd the length of the market's edge, 
+barraging passers-by with shouted advertisement and offers. Any denizen who 
+makes the mistake of stopping is immediately approached and solicited for a 
+purchase, often rather aggressively, and some are seen shoving the more 
+persistent hawkers away. Nearer the center of the market is a perimeter of 
+more permanent businesses situated in small shacks and enclosed stalls, and 
+further yet is the small, cramped slum village known as the Shades. 
+   Beyond that, the massive silhouette of Hyperion Platform dominates the 
+landscape, towering over everything like a mountain. 
+~
+75 65552 25
+0
+D1
+~
+~
+0 -1  0 75022
+D2
+~
+~
+0 -1  0 75018
+D3
+~
+~
+0 -1  0 75024
+S
+#75024
+Outside the Northern Gatehouse~
+   A layer of trash has been trodden into the ground all around, forming a 
+pavement of sorts in the area outside the gatehouse. Though traffic in and out 
+of Rust is infrequent, the occasional group can be seen preparing to leave or 
+returning from the wasteland with freshly slain beasts (or comrades) in tow. 
+In all other directions, the vibrant dealings of the market run their course, 
+filling the area with noise and smoke. The wall to the north is thicker than 
+the rest of the market's barrier, consisting of actual concrete slabs rather 
+than mere sheet metal and plastic boards. 
+   The rapid-fire shouting of an auctioneer is a constant presence to the 
+south, and a crowd if curious denizens is gathered there. 
+~
+75 65552 25
+0
+D0
+~
+~
+0 -1  0 55001
+D1
+~
+~
+0 -1  0 75023
+D2
+~
+~
+0 -1  0 75019
+D3
+~
+~
+0 -1  0 75025
+S
+#75025
+Along the Edge of the Noisy Market~
+   A great variety of street merchants crowd the length of the market's edge, 
+barraging passersby with shouted advertisement and offers. Any denizen who 
+makes the mistake of stopping is immediately approached and solicited for a 
+purchase, often rather aggressively, and some are seen shoving the more 
+persistent hawkers away. Nearer the center of the market is a perimeter of 
+more permanent businesses situated in small shacks and enclosed stalls, and 
+further yet is the small, cramped slum village known as the Shades. 
+   An impressive mural has been painted on the concrete of the northern wall, 
+depicting a red-clad youth stomping on a tiny snowglobe-like replica of 
+Hyperion, the closed city that Rust encircles like the belt of a planet. 
+~
+75 65552 25
+0
+D1
+~
+~
+0 -1  0 75024
+D2
+~
+~
+0 -1  0 75020
+D3
+~
+~
+0 -1  0 75026
+S
+#75026
+Outside a Large Warehouse~
+   The trash blanketing this street rustles as people walk between the dingy 
+concrete buildings of the town and the high perimeter to the north. The center 
+of the road is more rash filled than the sides, nearly ankle deep with filth. 
+This thick stew of garbage forces people to step higher, crushing whatever 
+their feet hit on the down-step further into the ground, creating an ever 
+present rustle-crunch - background noise to an already noisy area. 
+   West of here, the patchy market wall opens up into a large warehouse. 
+~
+75 65552 25
+0
+D1
+~
+~
+0 -1  0 75025
+D2
+~
+~
+0 -1  0 75021
+D3
+~
+~
+0 -1  0 75261
+S
+#75027
+End of the Slums Before a Gate~
+   The gate to the marketplace stands here, occasionally allowing people in and 
+out. Dirty people loiter about the area looking pretty miserable and some 
+begging. The gate is decorated with incomprehensible graffiti and crude 
+spray-painted pictures. Looking eastward the street gets dirtier and more 
+decrepit as it goes along. The sounds of murmuring voices of the locals and a 
+dull roar of the marketplace overtakes the area, so does the smell of the poor. 
+   You must #6CALL GATEGUARD#8 to enter the market. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75028
+D3
+~
+market gate~
+1 -1  0 75011
+P
+call~
+gateguard~
+force -1 -1 emo knocks on the iron gate with a dull thump.
+delay 4 emo waits as they hear the thumping of footsteps.
+delay 8 x open
+fi done
+~
+P
+x~
+open~
+info rvnum room -1 vnum 
+atecho &(rvnum) #5A market guard#8 opens the gate-slit, gives #5$n#8 a scrutinizing look over, then lets them pass through the gate. The guard mutters as they step through, #6"You're enterin' the market, should rest a spell at Bjork's, eh?"#8
+delay 2 emote The scrap-metal gate creaks open, and @ steps into the street.
+atecho 75011 The scrap-metal gate creaks open, and #5$n#8 passes through quickly before it shuts once again.
+trans_group -1 75027 75011
+trans 75011
+~
+S
+#75028
+A Shoddy Intersection Along a Road~
+   This intersection of road is pretty well traveled by the local populace, 
+though strewn with what used to be vehicles and collapsed buildings spilling 
+into the street from the north. The road appears to have continued north a 
+little longer but is now completely covered in what used to be part of city. 
+What is not covered in debris of the past has either huddled slummers or human 
+excrement. The smell here is atrocious and it just gets worse as one goes 
+eastward. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75029
+D2
+~
+~
+0 -1  0 75044
+D3
+~
+~
+0 -1  0 75027
+S
+#75029
+A Decrepit Street Passing an Alley~
+   This road is barely a road at all, cracked apart and just a line of crumbled 
+rocks. Often there are groups of young toughs that hang around the entrance of 
+the northern alley. The southern end of the road have a few surprisingly 
+intact buildings lining the way, at least the walls. Everything here is 
+unlivable as the roofs are collapsed in, standing as a clue to what life was 
+like. Spotted along the sides of those buildings are the poor trying to use 
+them as some sort of shelter. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75032
+D1
+~
+~
+0 -1  0 75030
+D3
+~
+~
+0 -1  0 75028
+S
+#75030
+A Quiet Piece of Street~
+   This street is relatively untouched, for the slums. The road is a 
+collection of rocks of various sizes, though most of the surrounding debris has 
+manage to stay off the path. To the south there's a parking lot of some kind 
+of large one story building or at least what used to be. Looking to the east 
+is a lone standing building amongst the rubble. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75033
+D1
+~
+~
+0 -1  0 75031
+D3
+~
+~
+0 -1  0 75029
+S
+#75031
+An Old Roofless Building~
+   This building is surprising empty on the inside, some trash and scrap about 
+but nothing more then a small mess. If one is to look up they would see the 
+sky out of the roof of this three story small building. Large enough to 
+comfortably house around a half a dozen people it usually is occupied by some 
+sort of slummer. This house is nothing but a shell, four walls with a door and 
+empty windows. 
+~
+75 65536 25
+0
+D3
+~
+~
+0 -1  0 75030
+S
+#75032
+A Dark Dead End~
+   This dead end is pretty bleak, various makeshift tents spotting the dark. 
+It doesn't look like this was a dead end in the past but time has made it that 
+way. This part of the slums make the rest look clean, the people staying here 
+having very little other choice. It is very obviously the main depository of 
+human waste in this part of the city. 
+~
+75 65536 25
+0
+D2
+~
+~
+0 -1  0 75029
+S
+#75033
+Between Rundown Homes~
+   The street here is pretty clear of debris but still in horrible shape. The 
+homes on either side of the street have collapsed into what used to be their 
+front yards in a pile of useless garbage. Some slummers have made their homes 
+amongst what's left, huddled in the cracks and crevices for shelter. To the 
+northeast a large but short building can be seen, the largest and most intact 
+in the slums. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75034
+D2
+~
+~
+0 -1  0 75030
+S
+#75034
+In Front of a Dilapidated Store~
+   The street stops here and forks off in two different directions. To the 
+north a dilapidated shop sits, the only thing still standing is the front wall. 
+The letters 'S' and 'H still adorn the spot over the empty door frame, but 
+there is a lot of letters missing in between and after. Looking west the road 
+continues just a little, to the east the slums continue. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75036
+D2
+~
+~
+0 -1  0 75033
+D3
+~
+~
+0 -1  0 75035
+S
+#75035
+An Abrupt End to the Street~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75034
+S
+#75036
+Passing a Large Open Building~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75037
+D1
+~
+~
+0 -1  0 75039
+D3
+~
+~
+0 -1  0 75034
+S
+#75037
+At the Entrance to a Collapsing Metro~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75038
+D2
+~
+~
+0 -1  0 75036
+S
+#75038
+At the Entrance of a Collapsing Railway~
+No Description Set.
+~
+75 65536 0
+0
+D2
+~
+~
+0 -1  0 75039
+D3
+~
+~
+0 -1  0 75037
+S
+#75039
+South of an Open Arched Building~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75038
+D1
+~
+~
+0 -1  0 75040
+D3
+~
+~
+0 -1  0 75036
+S
+#75040
+In Some Crowded Slums~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75041
+D2
+~
+~
+0 -1  0 75042
+D3
+~
+~
+0 -1  0 75039
+S
+#75041
+A Reeking Camp of People~
+No Description Set.
+~
+75 65536 0
+0
+D3
+~
+~
+0 -1  0 75040
+S
+#75042
+Heading Through the Homeless Towards a Dead End~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75040
+D3
+~
+~
+0 -1  0 75043
+S
+#75043
+A Dank Dark Dead End~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75042
+S
+#75044
+A Bare, Eroded Parking Lot~
+   The road to the north veers into an expansive parking lot. Spreading 
+southwards like a miniature wasteland, the cracking asphalt extends a good two 
+or three hundred yards. Large sections of the surface is missing or riddled 
+with holes, and the corpses of a few ancient vehicles can be seen scattered 
+about the area. Further to the south, the enormous dome of Hyperion rises like 
+a mountain. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75028
+D1
+~
+~
+0 -1  0 75045
+D2
+~
+~
+0 -1  0 75048
+D3
+~
+~
+0 -1  0 75046
+S
+#75045
+A Parking Garage Ravaged by Fire~
+   This seems to have once been a parking garage, but fire has completely 
+destroyed it sometime in the past. There is no roof over the building and only 
+two of the blackened concrete walls remain, providing nothing of use save for a 
+convenient canvas for layer upon layer of graffiti. The parking lot is 
+bordered to the east by the backs of some densely-packed hovels. 
+~
+75 65536 25
+0
+D2
+~
+~
+0 -1  0 75047
+D3
+~
+~
+0 -1  0 75044
+S
+#75046
+Corner of a Crumbling Lot~
+   The piecemeal wall to the west meets the natural barrier of a building to 
+the north to form a corner in the parking lot. Large pieces of the asphalt are 
+missing, leaving waist-deep craters in the ground full of trash and gravel. A 
+few power cables droop overhead, leading from the market to a nearby building. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75044
+D2
+~
+~
+0 -1  0 75049
+S
+#75047
+Cracking Pavement of an Ancient Parking Lot~
+   Long, jagged cracks zig-zag throughout the asphalt of this end of the 
+parking lot. The heat has caused the surface to bulge up in places, leaving 
+the ground rippling almost like an ocean. To the east, the back of a concrete 
+building bars passage. The parking lot continues in all other directions, 
+dotted with the occasional rusted barrel or the husk of a vehicle. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75045
+D2
+~
+~
+0 -1  0 75052
+D3
+~
+~
+0 -1  0 75048
+S
+#75048
+Center of a Rubble-Strewn Parking Lot~
+   The parking lot continues in all directions like a rippling lake of trash 
+and broken asphalt. Small craters pockmark the ground, making it difficult to 
+run across the area, and the occasional rusted skeleton of an ancient vehicle 
+lends a desolate air to the bleak site. The view to the south is dominated by 
+the enormous gleaming dome of Hyperion rising solemnly from the landscape. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75044
+D1
+~
+~
+0 -1  0 75047
+D2
+~
+~
+0 -1  0 75051
+D3
+~
+~
+0 -1  0 75049
+S
+#75049
+A Makeshift Ball Court~
+   The asphalt is in slightly better shape on this stretch of the lot, leading 
+someone to have set it up as a ball court. Two pairs of old, rusted-through 
+barrels make up the opposing goals while a few faded and irregularly perforated 
+lines of paint denote the borders and center of the field. A row of ancient, 
+mangled benches line one side of the field, some clearly appropriated from 
+elsewhere, while the wall to the west is covered in all manner of vulgar 
+graffiti. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75046
+D1
+~
+~
+0 -1  0 75048
+D2
+~
+~
+0 -1  0 75050
+S
+#75050
+Under an Ancient, Faded Billboard~
+   The parking lot ends here, enclosed on one side by the crumbling side of an 
+abandoned building and on the other by the newer wall surrounding the market. 
+A path leads towards the latter, running under the shadow of an old billboard 
+with the faded letters #3P RKING ', TO 8#8. Graffiti covers every vertical 
+surface of the area, and generations of garbage have accumulated in holes and 
+crevices all around. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75049
+D1
+~
+~
+0 -1  0 75051
+D3
+~
+~
+0 -1  0 75056
+S
+#75051
+On  Large, Pitted Parking Lot~
+   The lot ends here, leading onto a winding street lined by shanties and the 
+shells of old, ruined buildings. Noise filters in from the west where a wall 
+has been erected around some busier part of the area, and north of here the 
+parking lot continues. Crumbling asphalt crunches underfoot, and trash 
+perpetually litters the area. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75048
+D1
+~
+~
+0 -1  0 75052
+D2
+~
+~
+0 -1  0 75057
+D3
+~
+~
+0 -1  0 75050
+S
+#75052
+South End of a Parking Lot~
+   The parking lot comes to a halt here, shrinking into a corner of barricades 
+from adjoining rows of shacks and shanties. A linked fence stands to the east, 
+though a large hole renders it incapable of stopping anybody. A pathway winds 
+through there, leading into the slums in that direction. Gravel and chunks of 
+dislodged asphalt crunches underfoot. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75047
+D1
+~
+~
+0 -1  0 75138
+D3
+~
+~
+0 -1  0 75051
+S
+#75053
+parking lot~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75052
+D1
+~
+~
+0 -1  0 75138
+D3
+~
+~
+0 -1  0 75054
+S
+#75054
+parking lot~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75051
+D1
+~
+~
+0 -1  0 75053
+D2
+~
+~
+0 -1  0 75057
+D3
+~
+~
+0 -1  0 75055
+S
+#75055
+parking lot~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75050
+D1
+~
+~
+0 -1  0 75054
+D3
+~
+~
+0 -1  0 75056
+S
+#75056
+A Small Alley Leading from the Market~
+   A small alley, barely wide enough for two to walk side by side, winds its 
+way from the market. The gate takes up the entire width of the alley, and 
+electrical cables are festooned across the narrow space just outside of reach, 
+feeding power from the market to the closest buildings outside of it. The 
+confined space casts the alley in a permanent gloomy shade. 
+   You must #6CALL GATEGUARD#8 to enter the market. 
+~
+75 65536 25
+0
+D0
+~
+market gate~
+1 -1  0 75003
+D1
+~
+~
+0 -1  0 75050
+P
+call~
+gateguard~
+force -1 -1 emo knocks on the iron gate with a dull thump.
+delay 4 emo waits as they hear the thumping of footsteps.
+delay 8 x open
+fi done
+~
+P
+x~
+open~
+info rvnum room -1 vnum 
+atecho &(rvnum) #5A market guard#8 opens the gate-slit, gives #5$n#8 a scrutinizing look over, then lets them pass through the gate. The guard mutters as they step through, #6"You're enterin' the market, should rest a spell at Bjork's, eh?"#8
+delay 2 emote The scrap-metal gate creaks open, and @ steps into the street.
+atecho 75003 The scrap-metal gate creaks open, and $n passes through quickly before it shuts once again.
+trans_group -1 75056 75003
+trans 75003
+~
+S
+#75057
+Winding Street Near a Parking Lot~
+   This street carves its way through the area, bending and turning through the 
+old, faltering buildings and the newer but equally squalid shanties of the 
+area. Directly to the southwest, just behind a few ruins, is the enormous 
+structure of Hyperion which rises from the center of Rust like a mountain. It 
+dominates the view in that direction, looming over the settlement like a stoic 
+giant, 
+   North of here the street expands into a parking lot while to the south it 
+extends through a battle-torn area. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75051
+D2
+~
+~
+0 -1  0 75058
+S
+#75058
+Winding Street by Bullet-Pockmarked Buildings~
+   This stretch of the street is bordered on the west side by the foot of the 
+Hyperion Platform, an immense structure of sheer metal topped with a gigantic 
+biodome. Some armed struggle has clearly taken place here as the buildings on 
+the other side of the street are absolutely riddled with the small telltale 
+craters of gunfire. The metal base of Hyperion does not appear to have 
+suffered a scratch, but everything else in the area has been completely 
+peppered with bullets, turning it into rubble and ruins. 
+   The street continues northward where it is somewhat less ravaged, and east 
+of here it widens into the main throughfare that encircles the enormous dome 
+that dominates the western view. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75057
+D1
+~
+~
+0 -1  0 75059
+S
+#75059
+Gently Curving Road Around Hyperion~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   Shanties line the road on both sides, clustered like little villages. To 
+the north is a small yard amidst the hovels. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75060
+D2
+~
+~
+0 -1  0 75061
+D3
+~
+~
+0 -1  0 75058
+S
+#75060
+In a Small Yard Between Shanties~
+   Almost entirely enclosed by shanties is a small yard. A few crates and 
+buckets stand outside the hovels, and a clothesline spans the width of the 
+yard. To the south, a narrow path leads out to the road that encircles the 
+Hyperion Platform, while the shanties bar the way in all other directions. It 
+is fairly quiet here, sheltered from the wind and the general buzz of Rust. 
+~
+75 65536 25
+0
+D2
+~
+~
+0 -1  0 75059
+S
+#75061
+Busy Section of the Main Throughfare~
+   This section of the road encircling Hyperion sees some traffic, being beset 
+on all sides by shanties and pathways. High above looms the ever-present dome 
+of the closed city, visible from anywhere in Rust. Off to the east, a winding 
+alleyway branches off from the road and into the deepths of the slum-town. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75059
+D1
+~
+~
+0 -1  0 75156
+D2
+~
+~
+0 -1  0 75062
+S
+#75062
+Main Throughfare by an Abandoned Apartment Building~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   At the side of the road is an old apartment building, fairly tall by Rust 
+standards. It rises several stories up, though it looks as if the top floors 
+have succumbed to the trials of time and disuse. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75061
+D1
+~
+~
+0 -1  0 75157
+D2
+~
+~
+0 -1  0 75063
+S
+#75063
+Long, Shanty-Lined Road Around Hyperion~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   Nothing can be seen of the city above, and the sheer metal sides of its 
+foundation cannot be scaled. If there is an entrance, it is not here. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75062
+D3
+~
+~
+0 -1  0 75064
+S
+#75064
+A Cratered Road Surrounding Hyperion~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   The worn pavement is particularly ruined along this stretch, marred by a 
+number of small craters. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75063
+D2
+~
+~
+0 -1  0 75065
+S
+#75065
+Gently Curving Road Around Hyperion~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   East of here stand the remains of an old, ruined building, an exceedingly 
+common sight throughout most of Rust. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75064
+D1
+~
+~
+0 -1  0 75066
+D2
+~
+~
+0 -1  0 75067
+S
+#75066
+Roofless Husk of An Abandoned Building~
+   Nothing remains of this building but the walls, and they barely stay 
+upright. Large sections of the interior walls have been knocked down and every 
+piece of inventory was scavenged long ago, leaving thsi an empty concrete shell 
+without even a roof. Graffiti covers what is left of the walls, and somebody 
+seems to have slept in a pile of rags in the corner. 
+~
+75 589824 25
+0
+D3
+~
+~
+0 -1  0 75065
+S
+#75067
+Long, Shanty-Lined Road Around Hyperion~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   All along the side of the road are shanties and lean-tos, the dwellings of 
+local denizens. A smaller street veers off to the east, but the main 
+throughfare continues to encircle the gigantic dome that dominates the center 
+of Rust. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75065
+D1
+~
+~
+0 -1  0 75089
+D3
+~
+~
+0 -1  0 75068
+S
+#75068
+On A Dilapidated Road Surrounding Hyperion~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   The road is in poor condition, missing large sheets of asphalt. Trash is 
+strewn about the place, and not many denizens are seen in the vicinity. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75067
+D3
+~
+~
+0 -1  0 75069
+S
+#75069
+Long, Bleak Road Encircling the Dome~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   Nobody lives along this stretch of the throughfare. The glass dome is the 
+only companion on this stretch of the road that surrounds, and rows of empty 
+ruins bar passage to the south. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75068
+D2
+~
+~
+0 -1  0 75070
+S
+#75070
+On A Road Near Some Hovels~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   Hovels and small buildings become more frequent to the west as the circular 
+throughfare passes through a shanty village. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75069
+D1
+~
+~
+0 -1  0 75071
+D3
+~
+~
+0 -1  0 75072
+S
+#75071
+In an Abandoned Building~
+   This building has just enough left of its outer structure to remain upright. 
+Large gaps have been torn in its walls and the middle of the interior is a pile 
+of rubble almost five foot high, taking up most of the floor space. Light 
+filters in through the many holes and the gaping doorway, but there is a room 
+further inside where darkness prevails, and a staircase just barely intact 
+enough to walk upon which leads upstairs. 
+~
+75 67698696 0
+0
+D1
+~
+~
+0 -1  0 75258
+D3
+~
+~
+0 -1  0 75070
+D4
+~
+~
+0 -1  0 75259
+S
+#75072
+Narrow Stretch of the Hyperion Road~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   The road narrows here as it passes through a small shanty village. The 
+occasional meaningless sign or battered trash can stands by the side of the 
+street. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75070
+D3
+~
+~
+0 -1  0 75073
+S
+#75073
+Main Throughfare by a Bullet-Riddled Area~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   A considerable firefight has taken place here at one time or another, 
+leaving the surrounding constructs full of bullet-holes. Life goes on, 
+however, and little hovels run parallel with the road until an adjacent street 
+opens up to the south. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75072
+D2
+~
+~
+0 -1  0 75074
+D3
+~
+~
+0 -1  0 75090
+S
+#75074
+A Street Leading to the Dome~
+   This street meanders through the slums, cutting a path between rows of 
+shanties on both sides. The occasional real building rises from amongst the 
+hovels, though most are in such disrepair as to be uninhabitable. To the 
+north, the view is dominated by the enormous, reflective globe of Hyperion's 
+biodome. To the south, the street continues for a distance before expanding 
+into an open lot. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75073
+D2
+~
+~
+0 -1  0 75075
+S
+#75075
+Meeting of Streets at an Open Lot~
+   Two streets meet here, crossing at a right angle. On the south end of the 
+crossing is an open lot that spreads out from the streets like oil leaking from 
+a pipe. Trash cans, signposts, rubble and other features common to Rust's 
+landscape are strewn about the place, and far to the north is the omnipresent 
+sight of the great dome of Hyperion. 
+   A few noisy people seem to be gathered down in the corner of the open aarea, 
+and east of here the street runs through a large hole in a fence. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75074
+D1
+~
+~
+0 -1  0 75076
+D2
+~
+~
+0 -1  0 75106
+D3
+~
+~
+0 -1  0 75103
+S
+#75076
+By a Fence with a Gaping Hole~
+   Large chunks of concrete run along the sides of the street here, serving as 
+caution from the random showers originating from the crumbling buildings above. 
+Derelict buildings line the northern half of the street, almost all abandoned 
+save a few that remain somewhat intact, though the southern half of the street 
+provides a stak contrast in atmosphere as all that can be seen is the vast sea 
+of shanty homes filling the area. Day or night, there is little to no traffic 
+here though violence or other, domestic sounds can be heard, drifting in from 
+nearby. To the west a chain-link fence spans the street, but a giant hole in 
+the center renders it useless. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75077
+D3
+~
+~
+0 -1  0 75075
+S
+#75077
+On a Street Through the Slums~
+   Little remains of the buildings that once lined this street. Instead, rows 
+and haphazard clusters of shantise have sprung up, forming a little village of 
+sorts through which the street runs its course. The sounds and sights of 
+poverty-stricken life are evident all around, and though there are usually a 
+few denizens outside, they tend to keep to themselves. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75078
+D3
+~
+~
+0 -1  0 75076
+S
+#75078
+Street Intersection by a Shanty Village~
+   Shanties spread out in all directions, providing squalid abodes for the 
+hundreds of denizens who call this area home. Two streets intersect here, one 
+running east to west while a smaller one branches off to the south where it 
+snakes its way through the shanty village. Poverty and depravation makes 
+itself evident to all senses here, but the locals carry on with a certain 
+doggedness. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75085
+D2
+~
+~
+0 -1  0 75079
+D3
+~
+~
+0 -1  0 75077
+S
+#75079
+Pathway Through a Shanty Village~
+   Destitution is palpable in this district, painted on the face of every 
+bypasser and on every shanty that this pathway meanders past. It snakes its 
+way vaguely north and south with many a twist and turn, its surface no more 
+than dry, hard-packed moonsoil. 
+   South of here, the path ends at the wall of a dilapidated building, but it 
+branches left and right into thin alleys. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75078
+D2
+~
+~
+0 -1  0 75080
+S
+#75080
+A T-Cross of Alleys~
+   A high scrap-metal wall brings an end to the path from the north and marks 
+the border of this shanty village, barring any further passage south. The 
+ruins of other buildings continue west and east, all collapsed and looted. 
+   West of here is a dead end while the path to the east continues for a 
+distance before making a turn. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75079
+D1
+~
+~
+0 -1  0 75082
+D3
+~
+~
+0 -1  0 75081
+S
+#75081
+Cul-de-sac in the Slums~
+   The alley comes to a blunt stop here, bordered on one side by the crumbling 
+walls of ancient buildings and on the other by a row of shacks and shanties. 
+Everything here is gray, dirty, dusty and destitute, the recipe for most of 
+Rust's outer slums. Bits of graffiti cover some of the upright surfaces, but 
+nothing very heartfelt. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75080
+S
+#75082
+Winding Path Through the Slums~
+   This path winds its way through the sea of slums like a crack in the 
+pavement, something it incidentally has plenty of. Shanties and small, rickety 
+buildings line the passage on either side, blocking most of the view save for 
+the top of a gigantic biodome some distance away to the north. Little stirs 
+here, and the few denizens who venture outside do so sparingly and with visible 
+apprehension. 
+   The path continues to the west where it crosses with an adjacent alley, and 
+to the east is a forest of hovels and shelters through which only the narrowest 
+of passageways exists. 
+~
+75 589824 25
+0
+D1
+~
+~
+0 -1  0 75083
+D3
+~
+~
+0 -1  0 75080
+S
+#75083
+Surrounded By Shanties~
+   There are shanties all around. There is not so much a path between them as 
+simply the occasional gap that one can sidle through with care. Many of the 
+hovels are so small that their inhabitants cannot stand upright in them, and 
+some are little more than lean-tos with open fronts. Others are sizeable 
+enough to possibly have two rooms, but that is the height of luxury in this 
+densely-packed shanty village. A pathway branches off to the west while a 
+small space opens up north of here. 
+~
+75 589824 25
+0
+D0
+~
+~
+0 -1  0 75084
+D3
+~
+~
+0 -1  0 75082
+S
+#75084
+Trash-Filled Back Alley~
+   This enclosed alley extends just a short distance, serving more as the 
+shared back yard to a number of shanty-homes. It also seems to serve as trash 
+disposal as piles and bags of garbage have been left here to fester, causing 
+quite a stink. Nothing else is here, not even graffiti, and there is no way 
+out save to squeeze back in between the hovels to the south. 
+~
+75 589824 25
+0
+D2
+~
+~
+0 -1  0 75083
+S
+#75085
+Long, Straight Street through Slums~
+   There is nothing terribly remarkable about this street. It cuts through the 
+slims, running right past shanties and dilapidate buildings on both sides, and 
+parts of the street are littered with debris and trash. A few cables droop 
+across the way overhead, out of each. West of here, a thicker collection of 
+shanties marks one of Rust's many little outer villages, and to the east the 
+street makes a left turn. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75086
+D3
+~
+~
+0 -1  0 75078
+S
+#75086
+Where an Alley Curves Onto the Street~
+   The street from the west comes to an abrupt end here, culminating with the 
+solitary wall of what was once a larger concrete building. Off to the side of 
+the street, a pathway curves northward into an alley that snakes further into 
+the slums. South of here is a sea of shacks and shanties clustered so closely 
+together that passage in that direction is impossible. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75087
+D3
+~
+~
+0 -1  0 75085
+S
+#75087
+Between Destitute Hovels~
+   Squalor prevails all around, ground into the very fabric of existence in 
+this part of the settlement. Miserable hovels, some of which do not even have 
+four walls, are littered throughout the area. It is quiet and fairly desolate 
+with little evidence of habitation, but the hints of residents can be found 
+here and there in stray sounds or piles of fresh garbage. There is barely a 
+street through this area, really more of a simple gap between the rickety 
+buildings. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75088
+D2
+~
+~
+0 -1  0 75086
+S
+#75088
+A Long, Slim Alley Cutting Through Slums~
+   A few people loiter in this alley where it joins with streets to the north, 
+but most who pass this way prefer to keep moving. Rusted hulks of deserted 
+buildings line the broken pavement, quietly decaying into anonymity. Far to 
+the west is the main throughfare that encircles Hyperion, the giant closed city 
+around which Rust is founded. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75089
+D2
+~
+~
+0 -1  0 75087
+S
+#75089
+Street Crossing Near the Throughfare~
+   This street is in decent condition by local standards. No huge craters mar 
+the asphalt and no buildings have collapsed into the street. It still has the 
+usual Rust decor of old, dilapidated buildings on either side, but the area is 
+more barren than squalid compared to the rest of the slums. 
+   West of here, the street melds with the long road that encircles Hyperion, 
+the elusive city whose gleaming dome is visible above the rooftops of the 
+settlement. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75159
+D2
+~
+~
+0 -1  0 75088
+D3
+~
+~
+0 -1  0 75067
+S
+#75090
+Gently Curving Road Around Hyperion~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   There is open space on both sides of the road, a gap in the many little 
+slum-towns that make up outer Rust. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75073
+D3
+~
+~
+0 -1  0 75091
+S
+#75091
+On A Dilapidated Road Surrounding Hyperion~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   The road is in poor condition, missing large sheets of asphalt. Trash is 
+strewn about the place, and not many denizens are seen in the vicinity. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75092
+D1
+~
+~
+0 -1  0 75090
+S
+#75092
+Pitted Road Encircling Hyperion~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   The asphalt is pockmarked with holes, making it a little harder to traverse 
+this stretch of the road that encircles the inaccessible domed city. 
+~
+75 65536 25
+0
+D2
+~
+~
+0 -1  0 75091
+D3
+~
+~
+0 -1  0 75093
+S
+#75093
+Long, Shanty-Lined Road Around Hyperion~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   Little square shacks and bivouac-like structures line the road on both sides 
+as it passes through a slum village. The occasional larger building forms the 
+centerpiece of these small communities. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75092
+D2
+~
+~
+0 -1  0 75094
+D3
+~
+~
+0 -1  0 75095
+S
+#75094
+Small Yard Amidst Shanties~
+   Almost entirely enclosed by shanties is a small yard. A few crates and 
+buckets stand outside the hovels, and a clothesline spans the width of the 
+yard. To the north, a narrow path leads out to the road that encircles 
+Hyperion while the shanties bar the way in all other directions. It is fairly 
+quiet here, sheltered from the wind and the general buzz of Rust. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75093
+S
+#75095
+Dome-Encircling Road Passing a Shantytown~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   A scattering of shanties mark the outskirts of one of the many slum-towns 
+centered around the main road like charms on a bracelet. To the south, a 
+street branches off the throughfare and deeper into the slums. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75108
+D1
+~
+~
+0 -1  0 75093
+D2
+~
+~
+0 -1  0 75096
+S
+#75096
+A Straight Street Approaching the Throughfare~
+   The asphalt of this street is weathered and cracked in places, missing 
+entirely in others. Most of the buildings lining the street collapsed long 
+ago, and those that remain standing are heavily boarded over. There is very 
+little traffic along this street, most of it passing to the north where the 
+main throughfare runs around the perimeter of Hyperion. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75095
+D2
+~
+~
+0 -1  0 75097
+S
+#75097
+In a Long, Sinuous Alley~
+   A few people loiter in this alley as it intersects with streets to the west 
+and north, most who pass this way prefer to keep moving. Rusted hulks of 
+deserted buildings line the broken pavement, quietly decaying into anonymity. 
+Far to the north is the main throughfare that encircles Hyperion, the giant 
+closed city around which Rust is founded. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75096
+D2
+~
+~
+0 -1  0 75098
+D3
+~
+~
+0 -1  0 75175
+S
+#75098
+At a Joining of Alleyways~
+   A mass of trash rises in a low mound here where two alleyways cross, 
+   forced into the center of the intersection by passing feet. Graffiti 
+decorates several crumbling walls, the colors now faded and dingy, though some 
+of the lines are bold and sweeping. The ground nearby has clearly been torn up 
+multiple times by an unknown force, then filled with rubble and garbage. 
+Surprisingly enough, the area doesn't smell too bad. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75097
+D1
+~
+~
+0 -1  0 75101
+D2
+~
+~
+0 -1  0 75099
+S
+#75099
+Down a Short, Crooked Alley~
+   This narrow alley cuts through behind old, concrete buildings left abandoned 
+and bare. Boarded up doors and gunshot-peppered windows line the street and 
+there is a perpetual shadow that covers the area, even during the daylight, due 
+to the looming walls to either side. The street is dead, no traffic ever 
+visible here. The alleyway bends, snaking east and north. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75098
+D1
+~
+~
+0 -1  0 75100
+S
+#75100
+Dead End by an Alleyway~
+   The side-street comes to an abrupt halt here only a few feet away from the 
+bend in the alley to the west, hardly a soul seen. No doors face in this 
+direction, the path ending as a small cul-de-sac behind the buildings that line 
+the main streets north and east of here. A considerable amount of trash has 
+gathered over time all over the area and a suspect-looking stain mars the back 
+of one building to the east. 
+~
+75 65536 25
+0
+D3
+~
+~
+0 -1  0 75099
+S
+#75101
+A Stretch of Abandoned Slum~
+   Stretching east and west, this block of the slum-town is lined on both sides 
+by dilapidated houses. These ruined homes, little more than shanties, are all 
+uninhabitable now, their ashy, metal shells ravaged by fire. Large chunks of 
+asphalt are missing from the road, making the ground uneven, and a thick layer 
+of trash is compacted underfoot. To the west, the street narrows into a mere 
+alley that twists its way between two collapsed buildings. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75102
+D3
+~
+~
+0 -1  0 75098
+S
+#75102
+On a Dark, Ominous Street~
+   There is something oppressive about this stretch of the street. The 
+buildings on either side are somewhat intact, and on their roofs are shanties 
+and other makeshift structures that lean out over the edges, half enclosing the 
+street from above. Little light makes it to the ground level, rendering the 
+area gloomy and sinister. It opens up to the east and west, though the squalor 
+only continues. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75103
+D3
+~
+~
+0 -1  0 75101
+S
+#75103
+Dilapidated Street by an Open Lot~
+   Trash, rubble and other debris litters this street, most seemingly 
+originating from the nearby shanties. Squalor is all around, though the bleak 
+surroundings open up to the south into an expansive lot. This street continues 
+to the west where it darkens, and eastward where an adjacent street branches 
+off to the north. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75075
+D2
+~
+~
+0 -1  0 75104
+D3
+~
+~
+0 -1  0 75102
+S
+#75104
+Among the Walls of a Collapsed Building~
+   A building once stood here, seemingly a residential house. The interior is 
+missing altogether while the outer walls are only halfway gone, leaving the 
+jagged teeth of half-collapsed concrete walls to form a square filled with 
+piles of rubble. Outside the ruin is a large, mostly empty yard, though some 
+sort of outdoors establishment has been erected to the southeast. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75103
+D1
+~
+~
+0 -1  0 75106
+D2
+~
+~
+0 -1  0 75105
+S
+#75105
+Empty Lot Near an Outdoors Bar~
+   Aside from a pile of garbage bags, this corner of the lot contains nothing 
+at all. It is enclosed by ruins to the south and west but opens up to the 
+north where streets depart in several directions. Further that way is the 
+massive silhouette of Hyperion, the gigantic biodome that dominates the center 
+of Rust. 
+   East of here, in the opposite corner, some locals have set up an outdoors 
+bar. It reeks of urine from that direction. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75104
+D1
+~
+~
+0 -1  0 75107
+S
+#75106
+On an Open, Featureless Lot Near an Outdoors Bar~
+   Not much is here, just the cracking pavement and typical litter throughout 
+most of this open lot. A few bent, rusty signposts populate the area, and the 
+yard is enclosed on all sides by the backs of old, crumbling buildings save for 
+the north where streets branch off into the distance. 
+   An outdoors bar has been set up south of here in the corner of the lot, 
+inhabited by a few locals. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75075
+D2
+~
+~
+0 -1  0 75107
+D3
+~
+~
+0 -1  0 75104
+S
+#75107
+The Neutral Ground~
+   The corner of this sizeable yard has been turned into an outdoors bar. 
+Bricks are stacked up to form a makeshift counter, on top of which is a long 
+board of plastic, and the sparse clientele sits on mismatched chairs and stools 
+in the vicinity. Behind the bar is the door to a dilapidated building, the 
+only one in the surrounding area that looks intact enough to live in. The 
+stench of piss is as strong as the stench of trash and booze here, coming from 
+the nearby walls that serve as convenience for this shoddy establishment. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75106
+D1
+~
+door~
+1 -1  0 75286
+D3
+~
+~
+0 -1  0 75105
+S
+#75108
+Intersection of the Main Throughfare and A Slum Street~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   West of here is a street that peels off from the main road and into the 
+deeper areas of Rust's outer slums. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75109
+D2
+~
+~
+0 -1  0 75095
+D3
+~
+~
+0 -1  0 75183
+S
+#75109
+Gently Curving Road Around Hyperion~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   The domed giant seems particularly oppressive along this stretch of the 
+road, its presence enhanced by the absence of other noteworthy features in the 
+vicinity. 
+~
+75 65536 25
+0
+D2
+~
+~
+0 -1  0 75108
+D3
+~
+~
+0 -1  0 75110
+S
+#75110
+Debris-Strewn Stretch of Main Throughfare~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   One of Rust's many old, abandoned buildings have collapsed onto the road 
+here, leaving it covered in rubble and concrete debris. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75111
+D1
+~
+~
+0 -1  0 75109
+S
+#75111
+Along the Pockmarked Road Surrounding Hyperion~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   The backs of some buildings to the west form an impassible barrier in that 
+direction while the sheer metal foundation of the domed city is an ever-present 
+companion to the other side of the road. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75112
+D2
+~
+~
+0 -1  0 75110
+S
+#75112
+Main Throughfare Passing A Garage~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   To the west yawns the entrance to what appears to be a parking garage. 
+Light filters into the building through countless broken windows, but it 
+remains gloomy and unwelcoming when viewed from outside. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75114
+D2
+~
+~
+0 -1  0 75111
+D3
+~
+~
+0 -1  0 75113
+S
+#75113
+Inside A Large, Echoing Garage~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75112
+D5
+~
+~
+0 -1  0 75251
+S
+#75114
+Long, Shanty-Lined Road Around Hyperion~
+   This road runs evenly alongside the massive foundation of Hyperion, a 
+staggeringly huge metal platform with a mountainous glass dome on top. The 
+road continues like this in both directions until it curves out of sight behind 
+the far reaches of the elusive city. 
+   All along the side of the road are shanties and lean-tos, the dwellings of 
+local denizens. A building blocks the way to the north while the main 
+throughfare continues to encircle the gigantic dome that dominates the center 
+of Rust. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75116
+D2
+~
+~
+0 -1  0 75112
+S
+#75115
+Amongst the Shanties and Hovels of the Shades~
+This is the Shades, the dense slum that takes up the center
+of Rust's market. Here reside the weakest, the poorest,
+or those who will not risk living in the shanty-towns outside
+the market. All around are rows upon rows - and layers, stacked
+two or three storeys high in many places - of small, squalid
+homes. Most consist of little more than four hammered-together
+walls of sheet metal or plastic boards, and many are scarcely
+tall enough to stand upright in. Extremely narrow alleys
+bisect the area, and a network of electric cables and water
+pipes criss-cross overhead. The slum is cast in perpetual
+gloom, allowing very little light to enter between the blocks
+of piecemeal shanties. However, a few armed folk patrol the
+place, seemingly stationed here to keep the peace and ensure
+that these dingy homes remain somewhat secure.
+~
+75 65536 0
+0
+D6
+~
+~
+0 -1  0 75013
+S
+#75116
+Narrowing Road Near the Market~
+   The road encircling Hyperion narrows here as shanties increase in density, 
+forming a large slum-town as the throughfare approaches Rust's market. Cables 
+droop overhead, feeding the more privileged of the neighbourhood's buildings 
+with precious electricity. Old, dented barrels line the sides of the road, as 
+does more and more trash the closer one gets to denser dwellings. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75117
+D3
+~
+~
+0 -1  0 75114
+S
+#75117
+Slum Street Near the Main Throughfare~
+   Little more than an alleyway, this street snakes along between buildings and 
+makeshift hovels. A waterline bridges the passageway overhead and out of 
+reach, and the traffic increases the closer one gets to the market that lies 
+north-east of here. 
+   In a building off the side of the street is a shop, a rare sight outside the 
+security of Rust's market. A sign above the door just bears the name 
+"Bayle's." 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75119
+D2
+~
+~
+0 -1  0 75116
+D3
+~
+~
+0 -1  0 75118
+S
+#75118
+In A Dirty, Sparsely-Furnished Shop~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75117
+S
+#75119
+Hovel-Filled Area West of the Market~
+   A sea of hovels and piecemeal structures fill this area. There is only a 
+single narrow street through the shanties and shacks that make up this 
+slum-town. Traffic is nevertheless high so near to the market, keeping the 
+street busy at most times. Cords and pipes criss-cross overhead, supplying the 
+better-off denizens and feeding the few real buildings in the area. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75120
+D2
+~
+~
+0 -1  0 75117
+D3
+~
+~
+0 -1  0 75122
+S
+#75120
+An Alleyway Near the Market~
+   A slim alley winds its way between the domed city's blockish foundation and 
+the pitted concrete wall of an adjacent building, funnelling traffic to and 
+from the market through an inconsiderately small passageway. The sounds and 
+scents of the market become stronger to the east, and the gate comes into sight 
+as one approaches. To the west, an expansive shanty-town spreads out over the 
+area. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75121
+D3
+~
+~
+0 -1  0 75119
+S
+#75121
+Market Gate Surrounded by Walls~
+   There is little space to loiter here, and barely even enough for the traffic 
+from the market gate to the north. Confined between the metal platform of 
+Hyperion's foundation to the south, the market wall to the east and some 
+concrete warehouse to the north, this place is rather clautrophobic even 
+without the presence of market-goers. A web of cords and cables form something 
+like a canopy overhead, adding to the closed-in sensation of this passageway. 
+   You must #6CALL GATEGUARD#8 to enter the market. 
+~
+75 65536 25
+0
+D0
+~
+market gate~
+1 -1  0 75005
+D3
+~
+~
+0 -1  0 75120
+P
+call~
+gateguard~
+force -1 -1 emo knocks on the iron gate with a dull thump.
+delay 4 emo waits as they hear the thumping of footsteps.
+delay 8 x open
+fi done
+~
+P
+x~
+open~
+info rvnum room -1 vnum 
+atecho &(rvnum) #5A market guard#8 opens the gate-slit, gives #5$n#8 a scrutinizing look over, then lets them pass through the gate. The guard mutters as they step through, #6"You're enterin' the market, should rest a spell at Bjork's, eh?"#8
+delay 2 emote The scrap-metal gate creaks open, and @ steps into the street.
+atecho 75005 The scrap-metal gate creaks open, and #5$n#8 passes through quickly before it shuts once again.
+trans_group -1 75121 75005
+trans 75005
+~
+S
+#75122
+Street Through an Old Industrial Area~
+   The buildings here are large, old and now dilapidated factories with chipped 
+and bullet-marked concrete walls and shattered or boarded up windows. The tops 
+of many walls are topped with barbed wire or have shards of glass and broken 
+bottle tops embedded in cement in a crude but effective attempt at security. 
+Overhead, bundles of coloured but now grimy wire hang, festooning themselves 
+across the trash-filled streets. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75119
+D3
+~
+~
+0 -1  0 75123
+S
+#75123
+T-Cross by a Billboard~
+   Underfoot, the asphalt of the road is heavily pock-marked, refuse collecting 
+in the cracks. It stretches out to the east and west and also branches north, 
+past an enormous curved billboard that obscures the rundown buildings behind 
+it. The plexiglass screen that once shielded the advert has long since been 
+removed and the rusted frame now holds only a confused mess of inexpert 
+graffiti. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75126
+D1
+~
+~
+0 -1  0 75122
+D3
+~
+~
+0 -1  0 75124
+S
+#75124
+Street Past the Skeleton of a Huge Vehicle~
+   The street here is wide but over half of it is taken up by the rusted 
+remains of some kind of construction vehicle, perhaps a crane. Anything useful 
+has been stripped from the machine, leaving only the rusted metal bones 
+presumably too heavy to be easily carried away for scrap. It has large tracks 
+but one of them has sunk down into a crack in the road and is twisted and 
+warped, making it utterly immovable. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75123
+D3
+~
+~
+0 -1  0 75137
+S
+#75126
+The End of a Narrow Street~
+   Cramped between buildings runs this narrow street, made narrower still by 
+the overhanging upper floor of one metal clad structure. It's dirty, grime and 
+dust coating everything, refuse and discarded junk cluttered all over the 
+floor. Southwards, the street converges with another, seeming to open out 
+again. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75127
+D2
+~
+~
+0 -1  0 75123
+S
+#75127
+A Narrow Street between Buildings~
+   This section of street is much narrower than the street to the north, 
+squeezed between the walls of the polycrete and metal structures that stand on 
+either side, obscuring the light. Wires and cables droop down and the roof 
+overhangs in places, leaving this area feeling somewhat claustrophobic. It 
+continues on southwards, meeting another road a little further on. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75128
+D2
+~
+~
+0 -1  0 75126
+S
+#75128
+Under a Billboard on a Long Street~
+   To the south, the street branches off, narrowing as it snakes off between 
+the looming, grey faces of the buildings. It continues east and west too, 
+beneath the watchful gaze of a woman pictured on a billboard that towers high 
+above the street. The picture is pitted with age, several strips of it missing 
+so that the slogan that accompanied it is now unintelligible, but the woman's 
+now faded brown eyes remain, unobscured by decay or graffiti. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75129
+D2
+~
+~
+0 -1  0 75127
+D3
+~
+~
+0 -1  0 75132
+S
+#75129
+Street Passing a Gunshot-Scarred Building~
+   Marred by bullets, the polycrete walls of the building that stands to the 
+south are crumbling, the metal wire that laces through the structure visible in 
+places although it remains standing. Another section of the wall is blackened 
+as if from some explosion but east and west, the street continues and another 
+opens up further north. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75236
+D1
+~
+~
+0 -1  0 75130
+D3
+~
+~
+0 -1  0 75128
+S
+#75130
+On a Street Leading From the Market~
+   The ground underfoot here is littered with trash, much of it collected up 
+against the walls of the buildings and caught in the wire fencing that 
+separates the street from a yard filled with the remains of rusted machines and 
+vehicles. Eastward, the walls of the market can just be seen and to the west, 
+the road stretches out through rundown, rickety structures. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75131
+D3
+~
+~
+0 -1  0 75129
+S
+#75131
+Outside the Market's Western Gate~
+   Scrap metal forms a barrier to the east, a makeshift wall with a rusted gate 
+that can be opened by the guards who linger nearby. Bullet holes mark the 
+metal, flashes of the market behind visible through the ragged gaps. The 
+asphalt peters out or is covered by dirt which has been stamped down into a 
+hard layer by many feet as people pass through frequently in both directions. 
+   You must #6CALL GATEGUARD#8 to enter the market. 
+~
+75 65536 25
+0
+D1
+~
+market gate~
+1 -1  0 75016
+D3
+~
+~
+0 -1  0 75130
+P
+call~
+gateguard~
+force -1 -1 emo knocks on the iron gate with a dull thump.
+delay 4 emo waits as they hear the thumping of footsteps.
+delay 8 x open
+fi done
+~
+P
+x~
+open~
+info rvnum room -1 vnum 
+atecho &(rvnum) #5A market guard#8 opens the gate-slit, gives #5$n#8 a scrutinizing look over, then lets them pass through the gate. The guard mutters as they step through, #6"You're enterin' the market, should rest a spell at Bjork's, eh?"#8
+delay 2 emote The scrap-metal gate creaks open, and @ steps into the street.
+atecho 75016 The scrap-metal gate creaks open, and #5$n#8 passes through quickly before it shuts once again.
+trans_group -1 75131 75016
+trans 75016
+~
+S
+#75132
+A Long, Sign-Filled Street~
+   On the north side of the street, a series of metal signs on poles bristle 
+from the ground like unnatural trees. Some are bent, all are scratched and 
+defaced, just the odd letter or a flash of colour from some now obscured 
+picture still visible. All around, the buildings of this industrial sector 
+sprawl in various states of decay, the gaps between many of the larger, older 
+buildings filled with more makeshift structures hastily constructed. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75128
+D3
+~
+~
+0 -1  0 75133
+S
+#75133
+T-Cross of Streets in an Industrial Area~
+   The street opens up a bit here and the buildings grow taller although no 
+more attractive, functional and plain, their purposes opaque. One squat but 
+imposing building on the northern side of the street stands behind a tall, 
+spiked metal fence, its bars too close set to see anything but a peek of the 
+cluttered junk yard behind. Opposite stands a dank looking workshop with a 
+slanted roof, its windows set high off the ground although not high enough to 
+avoid the graffiti that marks the front of the building. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75132
+D2
+~
+~
+0 -1  0 75134
+D3
+~
+~
+0 -1  0 75209
+S
+#75134
+Near a Meeting of Streets~
+   Northwards the streets converge but this is just an unremarkable stretch of 
+road. Buildings loom up on either side of it, grey and drab and forbidding 
+with small, mean windows, most of them barred or simply boarded up. Cables and 
+wiring protrudes from holes in the sides of many of the often squalid looking 
+structures, some with flat roofs, other with more makeshift covers of 
+corrugated metal or plastic. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75133
+D2
+~
+~
+0 -1  0 75135
+S
+#75135
+On a Long, Cleared Street~
+   This section of street seems empty, maybe a little less strewn with trash 
+than other areas although seemingly without reason. Eastwards, a large and 
+seemingly abandoned building looms, in something of a state of collapse while 
+the street itself continues to stretch out to the north and south, lined with 
+clusters of squat, bleak grey buildings that are utilitarian and ugly. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75134
+D1
+~
+~
+0 -1  0 75136
+D2
+~
+~
+0 -1  0 75137
+S
+#75136
+Outside an Ancient Fueling Station~
+   Odd structures sprout from the ruined asphalt that covers the ground, old, 
+rusted boxes with tubes and hoses still attached in places although anything of 
+value seems to have been removed, the remaining appendages filled with holes or 
+breaks. To the north, a flat-roofed building barely stands, seemingly on the 
+state of collapse with its front wall clearly warped and sagging dangerously. 
+~
+75 65536 25
+0
+D0
+~
+rickety metal door~
+1 -1  0 75260
+D3
+~
+~
+0 -1  0 75135
+S
+#75137
+At a Joining of Streets~
+   Stretching north and south is a long road, another wider street also 
+branching eastward. This area is relatively quiet although rarely entirely 
+empty as passersby filter through past neglected buildings with flat, sagging 
+roofs and grey concrete facades decorated with faded graffiti. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75135
+D1
+~
+~
+0 -1  0 75124
+D2
+~
+~
+0 -1  0 75205
+D3
+~
+~
+0 -1  0 53238
+S
+#75138
+Short Pathway From a Parking Lot~
+   This short stretch of space snakes its way between buildings on either side, 
+carving a narrow pathway east to west. In the latter direction, a linked fence 
+once barred the way but has since been dealt a gaping hole large enough for 
+anyone to duck through. East of here, the path widens into a proper street 
+that continues in that direction as far as one can see. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75139
+D3
+~
+~
+0 -1  0 75052
+S
+#75139
+The Blue Avenue~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75140
+D1
+~
+~
+0 -1  0 75144
+D3
+~
+~
+0 -1  0 75138
+S
+#75140
+Turf for Clan 1~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75141
+D2
+~
+~
+0 -1  0 75139
+S
+#75141
+Turf for Clan 1~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75142
+D3
+~
+~
+0 -1  0 75140
+S
+#75142
+Turf for Clan 1~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75143
+D3
+~
+~
+0 -1  0 75141
+S
+#75143
+Turf for Clan 1~
+No Description Set.
+~
+75 65536 0
+0
+D2
+~
+~
+0 -1  0 75146
+D3
+~
+~
+0 -1  0 75142
+S
+#75144
+Blue Avenue and Liberator's Road~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75145
+D2
+~
+~
+0 -1  0 75148
+D3
+~
+~
+0 -1  0 75139
+S
+#75145
+The Blue Avenue~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75146
+D3
+~
+~
+0 -1  0 75144
+S
+#75146
+The Blue Avenue~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75143
+D1
+~
+~
+0 -1  0 75147
+D3
+~
+~
+0 -1  0 75145
+S
+#75147
+The Blue Avenue~
+No Description Set.
+~
+75 65536 0
+0
+D2
+~
+~
+0 -1  0 75155
+D3
+~
+~
+0 -1  0 75146
+S
+#75148
+Liberator's Road~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75144
+D1
+~
+front door~
+1 -1  0 75304
+D2
+~
+~
+0 -1  0 75149
+S
+#75149
+Liberator's Road~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75148
+D2
+~
+~
+0 -1  0 75150
+D3
+~
+greenhouse door~
+1 -1  0 75292
+S
+#75150
+Liberator's Road and the New Dawn~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75149
+D1
+~
+~
+0 -1  0 75151
+D2
+~
+~
+0 -1  0 75160
+D3
+~
+~
+0 -1  0 75158
+S
+#75151
+Street of the New Dawn~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75152
+D3
+~
+~
+0 -1  0 75150
+S
+#75152
+Street of the New Dawn~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75153
+D2
+~
+~
+0 -1  0 75293
+D3
+~
+~
+0 -1  0 75151
+S
+#75153
+New Dawn and The Blue Avenue~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75154
+D3
+~
+~
+0 -1  0 75152
+S
+#75154
+The Blue Avenue~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75155
+D2
+~
+~
+0 -1  0 75153
+S
+#75155
+The Blue Avenue~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75147
+D2
+~
+~
+0 -1  0 75154
+S
+#75156
+Down a Winding Slum-town Alleyway~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75158
+D3
+~
+~
+0 -1  0 75061
+S
+#75157
+Trash-Filled Lobby of An Apartment Building~
+   Garbage is strewn about the lobby of this apartment building. It stinks of 
+rot and unwashed bodies, and the evidence of squatters is plentiful. What was 
+once a carpet has long since been scavenged, leaving the floor a rough and 
+stained concrete surface. A stairwell leads further up into the building while 
+the entryway is perpetually gaping, its doors having disappeared long ago. 
+~
+75 201392140 0
+0
+D3
+~
+~
+0 -1  0 75062
+D4
+~
+~
+0 -1  0 75241
+S
+#75158
+Along a Narrow, Claustrophobic Alley~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75150
+D3
+~
+~
+0 -1  0 75156
+S
+#75159
+On a Bleak, Run-Down Street~
+   This street has seen better days. The ancient asphalt is broken up in many 
+places, pocked with little craters and cracks. Bent and rusted metal skeletons 
+line the pavement, some from lampposts or signs and others from the mounts of 
+benches or trash cans. To the east, more organized locals have clearly made an 
+effort out of making the place somewhat presentable. 
+   The street continues east to west for some distance, remaining straight and 
+relatively free of obstacles. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75164
+D3
+~
+~
+0 -1  0 75089
+S
+#75160
+Liberator's Road~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75150
+D2
+~
+~
+0 -1  0 75161
+S
+#75161
+Liberator's Road and Glory Way~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75160
+D1
+~
+~
+0 -1  0 75171
+D3
+~
+~
+0 -1  0 75162
+S
+#75162
+Glory Way~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75161
+D2
+~
+~
+0 -1  0 75163
+S
+#75163
+Glory Way~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75162
+D1
+~
+~
+0 -1  0 75172
+D2
+~
+~
+0 -1  0 75164
+S
+#75164
+Glory Way~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75163
+D2
+~
+~
+0 -1  0 75165
+D3
+~
+~
+0 -1  0 75159
+S
+#75165
+Glory Way~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75164
+D1
+~
+~
+0 -1  0 75289
+D2
+~
+~
+0 -1  0 75166
+S
+#75166
+Glory Way~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75165
+D1
+~
+~
+0 -1  0 75168
+D2
+~
+~
+0 -1  0 75167
+S
+#75167
+Glory Way~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75166
+S
+#75168
+Turf for Clan 1~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75169
+D3
+~
+~
+0 -1  0 75166
+S
+#75169
+Turf for Clan 1~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75170
+D2
+~
+~
+0 -1  0 75290
+D3
+~
+~
+0 -1  0 75168
+S
+#75170
+Turf for Clan 1~
+No Description Set.
+~
+75 65536 0
+0
+D3
+~
+~
+0 -1  0 75169
+S
+#75171
+Turf for Clan 1~
+No Description Set.
+~
+75 65536 0
+0
+D2
+~
+~
+0 -1  0 75173
+D3
+~
+~
+0 -1  0 75161
+S
+#75172
+Turf for Clan 1~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75173
+D3
+~
+~
+0 -1  0 75163
+S
+#75173
+Turf for Clan 1~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75171
+D1
+~
+~
+0 -1  0 75174
+D3
+~
+~
+0 -1  0 75172
+S
+#75174
+NG abandoned building 2~
+No Description Set.
+~
+75 65536 0
+0
+D3
+~
+~
+0 -1  0 75173
+S
+#75175
+Widening Street Off an Alley~
+   Few people wander this stretch of street, faces downcast as they pick their 
+way along the broken, uneven pavement. The hulks of metal buildings slowly 
+dissolve on each side of the street, eaten away by rust and disuse. It widens 
+to the west, cutting into a section of gang turf in that direction. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75097
+D3
+~
+~
+0 -1  0 75176
+S
+#75176
+On a Street in the Slums~
+   This fairly typical street cuts a path through the outer slums of Rust. 
+Little traffic passes through here, but denizens are present to the west where 
+the area has clearly been claimed by organized locals. Graffiti covers the 
+walls of the squalid, crumbling buildings, but there are less shanties and more 
+actual structures in in the area than to the east. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75175
+D3
+~
+~
+0 -1  0 75177
+S
+#75177
+Turf for Clan 2~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75180
+D1
+~
+~
+0 -1  0 75176
+D3
+~
+~
+0 -1  0 75178
+S
+#75178
+Turf for Clan 2~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75177
+D3
+~
+~
+0 -1  0 75179
+S
+#75179
+Turf for Clan 2~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75178
+S
+#75180
+The Shaft~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75181
+D2
+~
+~
+0 -1  0 75177
+D3
+~
+~
+0 -1  0 75185
+S
+#75181
+New Room~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75182
+D2
+~
+~
+0 -1  0 75180
+S
+#75182
+Lila's Long Leg~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75184
+D2
+~
+~
+0 -1  0 75181
+D3
+~
+~
+0 -1  0 75195
+S
+#75183
+Barrel-Filled Street Off the Throughfare~
+   Clusters of rusted, hole-riddled alion barrels have been left out here, some 
+with smouldering fires inside. There are shanties and small, dilapidated 
+buildings on either side of the street, but further west the area seems to 
+contain more houses and real buildings. East of here is the long, curving road 
+along the perimeter of Hyperion. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75108
+D3
+~
+~
+0 -1  0 75184
+S
+#75184
+On a Street Festooned with Power Cables~
+   The ruins of concrete and metal buildings line this stretch street. A few 
+makeshift shanties rise from the toppled foundations, constructed of materials 
+salvaged from the now-skeletal remains. Excepting a few patches of worn 
+asphalt, the street underfoot is trash and gravel, from which a handful of 
+dusty weeds struggles for life. The street continues east and west, and 
+overhead is a dense web of power cables that droop across the street from one 
+building to another. Further west, the street becomes more populated and seems 
+to be the territory of organized locals. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75183
+D3
+~
+~
+0 -1  0 75182
+S
+#75185
+The Shaft~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75180
+D3
+~
+~
+0 -1  0 75186
+S
+#75186
+The Shaft~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75185
+D3
+~
+~
+0 -1  0 75187
+S
+#75187
+The Shaft~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75186
+D2
+~
+~
+0 -1  0 75297
+D3
+~
+~
+0 -1  0 75188
+S
+#75188
+The Shaft~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75189
+D1
+~
+~
+0 -1  0 75187
+S
+#75189
+Turf for Clan 2~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75192
+D1
+~
+~
+0 -1  0 75190
+D2
+~
+~
+0 -1  0 75188
+S
+#75190
+Turf for Clan 2~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75191
+D3
+~
+~
+0 -1  0 75189
+S
+#75191
+Turf for Clan 2~
+No Description Set.
+~
+75 65536 0
+0
+D3
+~
+~
+0 -1  0 75190
+S
+#75192
+Lila's Long Leg~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75193
+D2
+~
+~
+0 -1  0 75189
+S
+#75193
+Lila's Long Leg~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75194
+D3
+~
+~
+0 -1  0 75192
+S
+#75194
+Lila's Long Leg~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75196
+D1
+~
+~
+0 -1  0 75195
+D3
+~
+~
+0 -1  0 75193
+S
+#75195
+Lila's Long Leg~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75296
+D1
+~
+~
+0 -1  0 75182
+D3
+~
+~
+0 -1  0 75194
+S
+#75196
+Turf for Clan 2~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75197
+D2
+~
+~
+0 -1  0 75194
+S
+#75197
+Turf for Clan 2~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75208
+D2
+~
+~
+0 -1  0 75196
+D3
+~
+~
+0 -1  0 75198
+S
+#75198
+Street of Knives~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75200
+D1
+~
+~
+0 -1  0 75197
+D3
+~
+~
+0 -1  0 75199
+S
+#75199
+Turf for Clan 2~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75198
+S
+#75200
+Street of Knives~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75201
+D1
+~
+greenhouse door~
+1 -1  0 75298
+D2
+~
+~
+0 -1  0 75198
+S
+#75201
+Street of Knives~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75202
+D2
+~
+~
+0 -1  0 75200
+S
+#75202
+Street of Knives~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75204
+D2
+~
+~
+0 -1  0 75201
+D3
+~
+~
+0 -1  0 75203
+S
+#75203
+Outside the Happy Clam~
+   In the darkness of the looming perimeter wall to the west, this busy 
+side-street ends. Many of the businesses here seem abandoned or incredibly 
+ancient, their walls repaired with rusting sheets of metal or simply left as 
+is, showing more buildings and darkened alleys beyond. Cat-calls and whistling 
+can be heard alongside the pounding of music that beats out from the bar to the 
+north and a handful of people always mill about its entrance where faded 
+posters have been hung under the bar's electric sign, every single one of them 
+showing off a voluptuous woman, or a pair of women, in little to no clothing. 
+~
+75 65536 25
+0
+D0
+~
+door~
+1 -1  0 75273
+D1
+~
+~
+0 -1  0 75202
+S
+#75204
+Turf for Clan 2~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75205
+D3
+~
+~
+0 -1  0 75202
+S
+#75205
+Ixiblat Road~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75137
+D2
+~
+~
+0 -1  0 75206
+D3
+~
+~
+0 -1  0 75204
+S
+#75206
+Ixiblat Road~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75205
+D1
+~
+spray-painted door~
+1 -1  0 75294
+D2
+~
+~
+0 -1  0 75207
+S
+#75207
+Ixiblat Road~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75206
+D2
+~
+~
+0 -1  0 75208
+S
+#75208
+Ixiblat Road~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75207
+D2
+~
+~
+0 -1  0 75295
+D3
+~
+~
+0 -1  0 75197
+S
+#75209
+The March~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75213
+D1
+~
+~
+0 -1  0 75133
+D3
+~
+~
+0 -1  0 75210
+S
+#75210
+Turf for Clan 3~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75209
+D2
+~
+~
+0 -1  0 75211
+S
+#75211
+Turf for Clan 3~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75210
+D2
+~
+~
+0 -1  0 75212
+D3
+~
+~
+0 -1  0 75299
+S
+#75212
+Turf for Clan 3~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75211
+S
+#75213
+The March~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75214
+D2
+~
+~
+0 -1  0 75209
+S
+#75214
+The March~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75215
+D2
+~
+~
+0 -1  0 75213
+S
+#75215
+The March and the Double Barrel~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75220
+D1
+~
+~
+0 -1  0 75229
+D2
+~
+~
+0 -1  0 75214
+D3
+~
+~
+0 -1  0 75216
+S
+#75216
+The Double Barrel~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75215
+D3
+~
+~
+0 -1  0 75217
+S
+#75217
+The Double Barrel~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75218
+D1
+~
+~
+0 -1  0 75216
+D2
+~
+~
+0 -1  0 75219
+S
+#75218
+Turf for Clan 3~
+No Description Set.
+~
+75 65536 0
+0
+D2
+~
+~
+0 -1  0 75217
+S
+#75219
+Turf for Clan 3~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75217
+S
+#75220
+The March~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75221
+D2
+~
+~
+0 -1  0 75215
+S
+#75221
+The March and the Art of War~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75222
+D1
+~
+~
+0 -1  0 75224
+D2
+~
+~
+0 -1  0 75220
+S
+#75222
+The March~
+No Description Set.
+~
+75 65536 0
+0
+D2
+~
+~
+0 -1  0 75221
+D3
+~
+damaged chrion door~
+1 -1  0 75223
+S
+#75223
+A Shabby, Abandoned Building~
+   Constructed from chrion girders and polycrete, this building is just a shell 
+with only a few bits of the internal walls remaining. Old wiring pokes out 
+from walls and dangles hazardously from the ceiling and the frame of a 
+staircase lurks in one corner although the upper floor is missing, the flat, 
+hole-filled roof visible high above. Assorted junk has gathered in the corners 
+and a strong smell of urine lingers unpleasantly, a telltale dark stain marking 
+the chipped polycrete floor. 
+~
+75 65536 0
+0
+D1
+~
+damaged chrion door~
+1 -1  0 75222
+S
+#75224
+The Art of War~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75225
+D3
+~
+~
+0 -1  0 75221
+S
+#75225
+The Art of War~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75226
+D3
+~
+~
+0 -1  0 75224
+S
+#75226
+The Art of War, before a Greenhouse~
+   The buildings here are built right up against the perimeter wall, small, 
+mean constructions of polycrete, metal and polyprop sheets. Most seem dark, 
+dingy and forbidding, many of the plexiglass windows covered with metal 
+shutters, bars or wire mesh in an attempt at security. To the south side of 
+the road, a greenhouse has been built on a rare patch of relatively open space, 
+plexiglass hazy with condensation. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75227
+D2
+~
+greenhouse door~
+1 -1  0 75300
+D3
+~
+~
+0 -1  0 75225
+S
+#75227
+The Art of War~
+   This road continues to stretch from east to west, the asphalt full of pock 
+marks, in a bad state of repair. The buildings are the same, polycrete shells 
+cracked and graffitied, metal panels battered and rusting badly. The perimeter 
+wall is visible behind them to the north and another, less solid wall made of a 
+series of loose looking metal planks runs the length of the south side of the 
+road. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75228
+D3
+~
+~
+0 -1  0 75226
+E
+planks~
+Several of these planks seem to be loose enough to shift aside,
+allowing space to #6SQUEEZE THROUGH#0 to whatever is beyond.
+~
+E
+fence~
+Several of these planks seem to be loose enough to shift aside,
+allowing space to #6SQUEEZE THROUGH#0 to whatever is beyond.
+~
+P
+squeeze~
+through~
+if fighting
+vstr You can't do that while you're fighting!
+else do
+force -1 -1 emote pushes aside one of the loose planks, revealing a space large enough to squeeze through.
+atecho 75335 There's a slight squeaking noise as one of the loose planks is moved from the other side of the fence.
+delay 2 emote squeezes through the gap in the fence.
+delay 4 xxsqueezethroughxx
+fi done
+~
+P
+xxsqueezethroughxx~
+(null)~
+if fighting
+vstr You can't do that while you're fighting!
+else do
+atecho 75335 #5$n#0 squeezes through a gap in the fence.
+trans_group -1 75227 75335
+trans 75335
+~
+S
+#75228
+The Art of War~
+No Description Set.
+~
+75 65536 0
+0
+D2
+~
+~
+0 -1  0 75234
+D3
+~
+~
+0 -1  0 75227
+S
+#75229
+The Double Barrel~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75230
+D3
+~
+~
+0 -1  0 75215
+S
+#75230
+The Double Barrel~
+   Dreary and uninteresting, this section of street is much like the last, the 
+squalor not as severe as in the more slummy areas of Rust with electric cables 
+strung in bundles overhead although it's still filthy. Traffic is frequent 
+here, people trudging along this route in both directions and at all times of 
+day and night while the sounds of life press in from all around. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75231
+D3
+~
+~
+0 -1  0 75229
+S
+#75231
+The Double Barrel~
+   A few shabby looking buildings are clustered on the northern side of the 
+street, a few unsteady looking creations tucked made entirely of sheets of 
+metal sandwiched between a few grimy polycrete buildings. Between them, the 
+plexiglass structure of a greenhouse can be made out although it's inaccessible 
+from here, the way barred by wire and metal fences. East and west, the street 
+continues. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75232
+D3
+~
+~
+0 -1  0 75230
+S
+#75232
+The Double Barrel~
+   At the head of a t-junction, this road runs east to west. Along the 
+northern wall stand a series of squat, ugly polycrete buildings with flat roofs 
+and small plexiglass windows set high above the ground. The walls seems to 
+make up the back of the building as there are no doors and the large expanse of 
+polycrete has been used as the canvas for a graffitied mural of the double 
+barrel of a gun. While faded and marked with bullet holes, the painting is 
+skillfully done, exaggerated perspective leading the eye straight down the 
+shaft of the gun. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75233
+D2
+~
+~
+0 -1  0 75235
+D3
+~
+~
+0 -1  0 75231
+S
+#75233
+The Eastern End of The Double Barrel~
+   This long street finishes here, bending around in a sharp hook to the north 
+where the cracked asphalt continues on for a distance before it meets the 
+perimeter wall. Looking southwards from here, the great dome of the Hyperion 
+Platform is visible, rising up above the ill-constructed, unkempt buildings 
+that make up Rust. Graffiti is frequent although almost completely wordless, 
+aphasic message communicated through usually crude pictures. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75234
+D3
+~
+~
+0 -1  0 75232
+S
+#75234
+Turf for Clan 3~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75228
+D2
+~
+~
+0 -1  0 75233
+S
+#75235
+Approaching a T-Junction~
+   North of here the road meets another in a t-junction, a mural of the double 
+barrel of a shotgun clearly visible in the distance. The asphalt underfoot is 
+cracked and patchy and the buildings about are dingy, shabby and in a state of 
+disrepair, most only a few floors high and with a distinctly makeshift feel, 
+sheets of corrugated metal or plastic often jumbled together to form rickety 
+looking lean-tos that crowd up against the other buildings to create extra 
+space. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75232
+D2
+~
+~
+0 -1  0 75236
+D3
+~
+~
+0 -1  0 75237
+S
+#75236
+Street by a Crumbling Wall~
+   A tall wall stands to the eastern side of this relatively wide street, a 
+badly constructed slab of crumbling, pock-marked polycrete splashed with a 
+layer of red paint. The arched shape of a large, shabby looking hangar is 
+visible some distance behind it while on the other side of the road, more 
+rundown buildings loom behind tumbledown wire fences. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75235
+D1
+~
+heavy metal gate~
+1 -1  0 75014
+D2
+~
+~
+0 -1  0 75129
+S
+#75237
+A Courtyard Surrounded by Ramshackle Buildings~
+   A wide expanse of polycrete here forms a courtyard that was probably 
+intended to once form a pleasant outlook for the buildings that encircle it. 
+Time has not been kind, however and now the sagging, rundown buildings look out 
+over what is effectively a dumping ground, broken furniture, machinery and less 
+savoury objects bundled into haphazard piles through which a few paths lead to 
+the entrances to the buildings. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75235
+D2
+~
+~
+0 -1  0 75239
+D3
+~
+rickety chrion door~
+1 -1  0 75238
+S
+#75238
+A Dank, Trash-Stewn Room~
+   This ground floor room is clearly abandoned, dank and musty with spotted 
+mould growing thickly on the polycrete walls. Anything of value has been 
+ripped out including all the lights, just a few wires protruding from the 
+ceiling where they used to be. Now, this space is just a dumping ground for 
+all kinds of junk which has accumulated, occasional rustling noises audible 
+from deep within them. 
+~
+75 65536 0
+0
+D1
+~
+rickety chrion door~
+1 -1  0 75237
+S
+#75239
+Amidst Piles of Trash~
+   All around this area, assorted trash is heaped up. Here, however, some 
+effort has been made to clear it, leaving this unexpected little area of 
+scuffed polycrete. A fire pit of sorts has been fashioned from a series of 
+bricks piled into a circle and a salvaged piece of curved metal forms a half 
+moon shape that could be used as seating. 
+~
+75 65536 25
+0
+D0
+~
+~
+0 -1  0 75237
+D3
+~
+~
+0 -1  0 75240
+S
+#75240
+A Graffiti-Stricken Stairwell~
+   A polycrete staircase leads upwards from this sheltered area of this grimy 
+housing block, connecting to the walkway above. It has been liberally covered 
+in a riot of graffiti, most of it obscene, the odd letter visible but no 
+complete words. There's a pervasive and persistent smell of urine and other 
+more unpleasant scents, while an odd echo warps every footfall and other sound 
+made in the area, giving everything a vaguely eerie feel. 
+~
+75 65536 25
+0
+D1
+~
+~
+0 -1  0 75239
+D4
+~
+~
+0 -1  0 75337
+S
+#75241
+In A Crumbling Concrete Stairwell~
+   Time and disuse has started to take its toll on the concrete of this 
+stairwell, leaving it crumbling and unsightly. The stairs still seem sturdy 
+enough to use, though their condition warrants some uncertainty. Doorways lead 
+to small apartments on all sides, though half of the actual doors are missing. 
+It sells faintly of urine and vomit in here. 
+~
+75 201392136 0
+0
+D0
+~
+~
+0 -1  0 75247
+D1
+~
+stained door~
+1 -1  0 75248
+D2
+~
+~
+0 -1  0 75249
+D3
+~
+scratched door~
+1 -1  0 75250
+D4
+~
+~
+0 -1  0 75242
+D5
+~
+~
+0 -1  0 75157
+S
+#75242
+Graffiti-Covered Concrete Stairwell~
+   Generations of graffiti cover the concrete walls of the stairwell here, 
+ranging from vulgar comments to vibrant artwork and gang signs. More 
+apartments lie to all sides of the landing, but it is impossible to climb 
+further up as the stairs there have collapsed long ago. The entrances to four 
+small apartments are at a landing here, but some of the doors are missing. 
+~
+75 201392136 0
+0
+D0
+~
+battered door~
+1 -1  0 75243
+D1
+~
+warped door~
+1 -1  0 75244
+D2
+~
+~
+0 -1  0 75245
+D3
+~
+~
+0 -1  0 75246
+D5
+~
+~
+0 -1  0 75241
+S
+#75243
+In A Bloodstained Apartment~
+   Some violent altercation once took place in this apartment. Dried blood 
+spots the floor and the wall by the door, now dried to blotches of rusty brown. 
+Not much remains of the apartment's furnishings, and the paneless window shows 
+a bleak view of the slums to the north. 
+~
+75 67174408 0
+0
+D2
+~
+battered door~
+1 -1  0 75242
+S
+#75244
+In An Empty, Run-Down Apartment~
+   Nothing remains of the interior of this apartment. It is a bare room, 
+lacking even what used to be some wall-mounted shelves and cupboards. The 
+window in the eastern wall gives a dull view of shanties and old buildings. 
+Discolourations on the floor indicate where some furniture once stood, but they 
+are long gone. 
+~
+75 67174408 0
+0
+D3
+~
+warped door~
+1 -1  0 75242
+S
+#75245
+In A Soot-Blackened Apartment~
+   Fire has ravaged this apartment, destroying everything within and leaving 
+the walls charred. Shards of sooty glass remain along the edges of the window 
+frame through which a sea of hovels and abandoned ruins can be glimpsed. The 
+room still smells faintly burnt, but time has washed away the worst of the 
+stench. 
+~
+75 67174408 0
+0
+D0
+~
+~
+0 -1  0 75242
+S
+#75246
+In A Trashed Apartment~
+   This place is a mess. What was once a small but possibly cozy apartment has 
+been abused to the extreme, showing signs of every form of squatting, vandalism 
+and deterioration. A section of the exterior wall has been knocked down with a 
+sledgehammer or something, leaving a ragged, gaping hole to the world outside 
+where the reflective dome of Hyperion takes up the entire view. 
+~
+75 67174408 0
+0
+D1
+~
+~
+0 -1  0 75242
+D3
+~
+~
+0 -1  0 54387
+S
+#75247
+Graffiti-Filled Apartment Room~
+   Seemingly a frequent choice of shelter for the homeless denizens of the 
+area, this room shows signs of recent habitation. Garbage, mattresses and 
+other leavings remain, and the walls are decorated by a chaotic array of 
+graffiti. The plexiglass window is miraculously intact, but consequently so 
+scratched and dirty that one can barely see the slums outside. 
+~
+75 67174408 0
+0
+D2
+~
+~
+0 -1  0 75241
+S
+#75248
+In A Dank, Smelly Apartment~
+   The stench of waste is overpowering in this stuffy apartment. The floor is 
+damaged by moisture and the walls are covered with mildew, but both the door 
+and the window are intact -- no doubt the reason for the musty, stinking air of 
+the place. The word #9TOILET#8 has been helpfully spray-painted on the wall 
+across from the door, despite the fact that this room was never actually 
+designed to be such a thing. 
+~
+75 67174408 0
+0
+D3
+~
+stained door~
+1 -1  0 75241
+S
+#75249
+In A Bullet-Riddled Apartment~
+   The walls and ceiling of this apartment are riddled with the small, uniform 
+pockmark-like craters of gunfire. There is no telling whether a battle took 
+place or someone merely entertained themselves by shooting wildly around the 
+room, but it has cost this apartment both its window and its door, as well as 
+most of its inventory. 
+~
+75 67174408 0
+0
+D0
+~
+~
+0 -1  0 75241
+S
+#75250
+In A Reeking, Trash-Filled Apartment~
+   Piles of trash fester in the corners of this apartment. It stinks of old 
+food and unwashed bodies in here, even though the window's plexiglass pane is 
+long gone. Some of the rubbish is in seeping plastic bags, some just thrown on 
+the floor, and the buzz of insects is a constant presence. 
+~
+75 67174408 0
+0
+D1
+~
+scratched door~
+1 -1  0 75241
+S
+#75251
+Entrance to an Underground Garage~
+No Description Set.
+~
+75 65544 0
+0
+D0
+~
+~
+0 -1  0 75252
+D2
+~
+~
+0 -1  0 75253
+D4
+~
+~
+0 -1  0 75113
+S
+#75252
+In a Dark, Underground Garage~
+No Description Set.
+~
+75 65544 0
+0
+D2
+~
+~
+0 -1  0 75251
+S
+#75253
+In a Dark, Underground Garage~
+No Description Set.
+~
+75 65544 0
+0
+D0
+~
+~
+0 -1  0 75251
+D1
+~
+maintenance door~
+1 -1  0 75254
+S
+#75254
+In a Maintenance Corridor~
+No Description Set.
+~
+75 65544 0
+0
+D2
+~
+~
+0 -1  0 75255
+D3
+~
+maintenance door~
+1 -1  0 75253
+S
+#75255
+Down a Dark, Musty Corridor~
+No Description Set.
+~
+75 65544 0
+0
+D0
+~
+~
+0 -1  0 75254
+D1
+~
+door~
+1 -1  0 75256
+D3
+~
+door~
+1 -1  0 75257
+S
+#75256
+In a Small, Cramped Hideout~
+No Description Set.
+~
+75 65544 0
+0
+D3
+~
+door~
+1 -1  0 75255
+S
+#75257
+In a Tiny Utility Closet~
+No Description Set.
+~
+75 65544 0
+0
+D1
+~
+door~
+1 -1  0 75255
+S
+#75258
+A Dark, Looted Kitchen~
+   Rubble is piled up so high outside the building that nothing can be seen 
+through the windows of this kitchen. It is consequently quite dark, and 
+lighting up the long, narrow room reveals little as it has clearly been 
+plundered in the past. Empty counters and cupboards remain, covered with a 
+layer of dust, and empty spaces for a stove and refridgerator suggest that 
+someone has even made off with these. 
+~
+75 589832 0
+0
+D3
+~
+~
+0 -1  0 75071
+S
+#75259
+In a Dimly Lit Bedroom~
+   Not much is left of this bedroom, but markings on the floor reveal where the 
+furniture once stood. Dust and small chunks of debris cover the rough concrete 
+floor that once wore a carpet, and a multitude of little holes in the low 
+ceiling let in shafts of sparse light. Stairs lead down into the rest of the 
+building, but they are in poor shape. 
+~
+75 67698696 0
+0
+D5
+~
+~
+0 -1  0 75071
+S
+#75260
+Inside a Ruined, Hazardous Building~
+   The internal structure of this building has been ripped out, leaving just a 
+shell with four sagging walls. The ceiling overhead bows towards the front of 
+the building where the wall has warped, leaving it on the verge of collapse. 
+The floor is filthy, covered with dirt and grime, lighter patches just visible 
+where rows of shelving used to stand although no furniture or fittings remain 
+but for the skeleton of the counter near the door. Wires trail dangerously 
+from the ceilings and there's an unpleasant, lingering smell of decay that 
+clings to the room. 
+~
+75 65536 0
+0
+D2
+~
+rickety metal door~
+1 -1  0 75136
+S
+#75261
+Public Manufacturing Facility~
+This will be the public crafting hall thing.
+~
+75 201392144 0
+0
+D1
+~
+~
+0 -1  0 75026
+S
+#75262
+The Gold Rush~
+   This shop is quite secure by Rust standards. A sturdy, reinforced door 
+keeps out most anyone if locked, and a metal counter provides potential cover 
+for the owner. A large titon safe is embedded in the wall behind said counter, 
+and the whole place has a general air of painstaking protectivity. 
+   Under the safety-glass countertop is a row of gold blocks in different 
+carats, all polished and laid out on a piece of cloth. 
+~
+75 67174428 0
+0
+D1
+~
+reinforced door~
+1 -1  0 75005
+S
+#75263
+The Organic Firebreathing Hall (needs firebreather objs/progs and the crate thing)~
+   As large as this warehouse is, it still does not quite seem large enough to 
+hold everyone that wishes to be within it. A massive crowd of people is 
+constantly on the move, clambering for their turn to give the workers their 
+organic goods. These workers form three parties: the first are burly men who 
+take the offered materials, the second are the men that stand atop the 
+Firebreather, mashing the materials down with thick legs and large feet, and 
+the last party are the men that pass out the recycled portions, most of whom 
+have one or no legs. The first two parties occasionally switch out, the 
+stompers getting a much-needed break every now and then. Bodies, carcasses, 
+and other assorted organic materials constantly run through this simple 
+production line, offering the men no rest as the traffic of the town flows 
+constantly around them, unending. 
+~
+75 201916444 0
+0
+D3
+~
+~
+0 -1  0 75017
+S
+#75264
+The Fabric Firebreathing Hall (needs firebreather objs/progs and the crate thing)~
+   This room is a flurry of activity as raw cloth material is processed and fed 
+into the Firebreather: a crocodile-like machine with cloth-spines protruding 
+out. Here workers are constantly switched in in alternating shifts, carrying 
+crates to and from the Firebreather, feeding the material through its maw. It 
+is rather busy and cramped, as business always rages. The air is thick and 
+hot. 
+~
+75 67698716 0
+0
+D3
+~
+~
+0 -1  0 75010
+S
+#75265
+The Metal Firebreathing Hall (needs firebreather objs/progs and the crate thing)~
+   The interior of this large building is never empty - there are always a 
+number of people coming and going, a handful more people loitering to carry on 
+conversation, and others that just wait silently for their turn. Perpetually 
+here are the workers that tend the Firebreather; barrel-chested, burly men that 
+collect metal scrap from the townsfolk and feed it into the mechanical monster, 
+then divvy out the materials produced. These men are a blend of denizens, 
+mutations, and cybernetics, and all are covered in soot. The thick layer of 
+ash makes all the men equal - walking black giants with indistinguishable 
+features that lug the offered scraps of metal to and fro. The atmosphere that 
+surrounds the salvaging activities is somewhat claustrophobic, but everyone 
+inside appears to generally be at ease, despite the cramped space that the 
+large crowd causes. 
+~
+75 67698716 0
+0
+D1
+~
+set of massive double doors~
+1 -1  0 75006
+D3
+~
+~
+0 -1  0 75272
+S
+#75266
+The Plastic Firebreathing Hall (needs firebreather objs/progs and the crate thing)~
+   While the traffic here is thick, it is not quite as thick as the traffic 
+that runs through the other Firebreather buildings. This is, perhaps, owing to 
+the haze of black smoke that hangs around inside the building and the chemical 
+smell of burning plastic. The smoke and smell come from behind the roped-off 
+firebreather, pouring out in thick layers that a large hole in the ceiling 
+ultimately fails to ventilate. Around the Firebreather are the Plastic 
+Burners, bulky figures covered head-to-toe in thick, black leather, with faces 
+obscured by crudely made gas masks. Faceless, these figures march about their 
+duties in an organized fashion, offering nothing else in the warehouse any 
+attention but the mechanical lizard. Curiously, some of these figures are 
+missing a single hand or foot, with nothing but an empty glove or boot covering 
+it. If one were to pay enough attention, they would notice gruesome scarring 
+beneathe the layers of leather that the Plastic Burner wear - as if their skin 
+were melted off the bone and poorly healed. The thick black smoke chokes out 
+much of the light, but it is still possible to see through for anyone 
+determined enough to stay a while. 
+~
+75 67698716 0
+0
+D1
+~
+~
+0 -1  0 75021
+S
+#75267
+The Barroom of Bjork's Boozer~
+   Though comfortable enough, this dimly-lit barroom has an underlying tension 
+to it. Tables are scattered throughout the locale, and it is clear that 
+members of Rust's larger factions prefer to sit with their own and often glower 
+pointedly at rival tables. Patrons wander freely in and out of the bar, and 
+most are jovial enough by Ruster standards. Spray-painted above an open 
+doorway to the south is a plain picture of a toilet. The building itself seems 
+incredibly old, made of concrete that has been patched so many times that there 
+might not be anything left of the original building material. Coats of chipped 
+paint lend some measure of life to the walls, but they are different colours. 
+Scratchy music rattles from an old radio somewhere by the bar. 
+~
+75 67699100 0
+0
+D0
+~
+double doors~
+1 -1  0 75002
+D2
+~
+~
+0 -1  0 75268
+S
+#75268
+A Dimly-Lit Hallway~
+   Just like the commons, this hallway is fairly ancient; the paint on the 
+walls somewhat less faded albeit in the same, chipped state. The waxy sheen on 
+the floor is incredibly dull here due to the heavy traffic coming in and out of 
+the kitchen door to the south. Signs are set above the other doors - one is 
+that of a stick figure, the other a stick figure with a skirt. 
+~
+75 201392280 0
+0
+D0
+~
+~
+0 -1  0 75267
+D1
+~
+women's restroom door~
+1 -1  0 75269
+D2
+~
+kitchen door~
+1 -1  0 75271
+D3
+~
+men's restroom door~
+1 -1  0 75270
+S
+#75269
+A Worn-Down Women's Restroom~
+   Glazed tiles cover the floor of this restroom, though every tenth or so is 
+missing. The walls are bare concrete, liberally stained and doodled on but 
+otherwise in decent shape. Three scratched metal sinks line one wall, but only 
+one has an intact mirror above it. Three toilet stalls occupy the opposite 
+wall parallel with the sinks, with rickety doors and locks that have not worked 
+in living memory. 
+~
+75 67174552 0
+0
+D3
+~
+women's restroom door~
+1 -1  0 75268
+S
+#75270
+A Filthy Men's Restroom~
+   This restroom is a disaster. Generations of careless use and vandalism have 
+rendered it barely capable of fulfilling its purpose, and recent visitors have 
+clearly improvised with the utilities. A long, tarnished urinal clings 
+crookedly to one wall while one lonesome toilet stall remains where there once 
+were three. The door to the stall is missing, the plastic walls have been shot 
+at several times, and somebody has spray-painted a gigantic phallus on the wall 
+above the dented, scratched and thoroughly abused metal toilet itself. Other 
+graffiti cover practically every inch of the bare concrete walls, and some of 
+the ceiling as well. There are no sinks to be found, nor any mirrors, and the 
+floor that was once covered in tiles now has perhaps two score of them left. 
+~
+75 201392280 0
+0
+D1
+~
+men's restroom door~
+1 -1  0 75268
+S
+#75271
+Kitchen of Bjork's Boozer ~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+kitchen door~
+1 -1  0 75268
+S
+#75272
+The Bullet Firebreathing Hall (needs firebreather objs/progs and the crate thing)~
+   The metal panels lining the walls have a layer of soot, scrubbed and 
+recoated time and again. Dust filters across the rubberized, dark grey floor, 
+scuffed from heavy objects and the tread of traffic across it. The interior of 
+this large chamber would fit a number of people, even with the mechanical 
+monster taking up the majority of the room. A small metal plate is bolted into 
+the wall near the western doorway. 
+~
+75 67698712 0
+0
+D1
+~
+~
+0 -1  0 75265
+S
+#75273
+The Happy Clam~
+   Music constantly blares from a speaker on the stage which is the main focus 
+of the entire room, spotlights highlighting a silver stripper pole set before a 
+wall of mirrors. Two smaller stages are set to the right and left but are lit 
+only half as bright with a string of chairs arranged along the edge of all 
+three performance areas. The rest of the room is cast in dim lighting or near 
+darkness where other tables or seating have been placed for customers to view 
+the scantly-clothed dancers. A bar runs along one wall, out of the way and 
+near the entrance, with a few hundred bottles, empty and filled, lining the 
+shelves. There is a constant flow of activity throughout the room with some of 
+the dancers disappearing upstairs with paying customers or north to where a 
+private viewing area is blocked off. 
+~
+75 67699096 0
+0
+D0
+~
+door~
+1 -1  0 75274
+D1
+~
+~
+0 -1  0 75275
+D2
+~
+door~
+1 -1  0 75203
+D4
+~
+~
+0 -1  0 75278
+S
+#75274
+A Private Den~
+   Curtains of thick, black fabric section off padded booths along the walls of 
+this den, allowing paying customers to spend some private time with the dancer 
+of their choosing. Against the far wall, a small, circular stage has been 
+built with only a few comfortable seats circling it, the lighting in the whole 
+room soft and atmospheric. The music is quieter here though it can still be 
+heard drifting in from the main area of the club to the south and there are 
+significantly less patrons. 
+~
+75 67174664 0
+0
+D2
+~
+door~
+1 -1  0 75273
+D4
+~
+door~
+1 55228  0 75280
+S
+#75275
+A Long, Dark Hallway~
+   This hallway has been painted entirely black, creating an almost sinister 
+feel to the already dark passageway. A single door to the north bears the sign 
+'Employees Only' and the only other exit is towards the music-filled room of 
+the Happy Clam to the west. 
+~
+75 201392136 0
+0
+D0
+~
+kitchen-door~
+1 55228  0 75276
+D3
+~
+~
+0 -1  0 75273
+S
+#75276
+A Grimy Kitchen~
+   Grime and dirt have been caked into the very cracks on the cement walls and 
+floor of this kitchen. Though the counters and shelves seem to have been 
+well-maintained, the rest of the room is in ill-repair with creaky cupboards 
+and a small hole in the corner of the western wall, allowing the music of the 
+club to be easily heard. There is a dual stove and oven against one wall that 
+seems to have been rarely used but beside it is a large rack for bottles of 
+alcohol. A small door to the north opens up into a pantry while the door to 
+the south leads out into the hall. 
+~
+75 67698696 0
+0
+D2
+~
+kitchen-door~
+1 55228  0 75275
+S
+#75277
+New Room~
+No Description Set.
+~
+75 65536 0
+0
+D3
+~
+~
+0 -1  0 75275
+S
+#75278
+A Hallway Above the Happy Clam~
+   The sound of the music from the club below drifts up into the hall while a 
+red-shaded lamp casts an eerie glow throughout the length of the passageway. 
+Doors lead to private rooms save to the north where the hallway continues. 
+There is a third floor to the building, but the stairs are gone and that part 
+of the building is inaccessible. 
+~
+75 201392136 0
+0
+D0
+~
+~
+0 -1  0 75279
+D1
+~
+door~
+1 55226  0 75282
+D2
+~
+door~
+1 55225  0 75283
+D3
+~
+door~
+1 55230  0 75284
+D5
+~
+~
+0 -1  0 75273
+P
+e ea eas east~
+(null)~
+if (&(1)=!)
+doitanyway -1
+else do
+if clan(-1,adult_consent)
+doitanyway -1
+else do
+vstr #6[ooc] This is an adult room. If you wish to enter,#8
+vstr #6please type #Eeast !#8 #6to proceed.#8
+fi done
+fi done
+~
+P
+s so sou sout south~
+(null)~
+if (&(1)=!)
+doitanyway -1
+else do
+if clan(-1,adult_consent)
+doitanyway -1
+else do
+vstr #6[ooc] This is an adult room. If you wish to enter,#8
+vstr #6please type #Esouth !#8 #6to proceed.#8
+fi done
+fi done
+~
+P
+w we wes west~
+(null)~
+if (&(1)=!)
+doitanyway -1
+else do
+if clan(-1,adult_consent)
+doitanyway -1
+else do
+vstr #6[ooc] This is an adult room. If you wish to enter,#8
+vstr #6please type #Ewest !#8 #6to proceed.#8
+fi done
+fi done
+~
+S
+#75279
+At the End of the Hallway~
+   The sound of the music from the club below drifts up into the hall while a 
+red-shaded lamp casts an eerie glow throughout the length of the passageway. 
+Doors lead to private rooms save to the south where the hallway continues. 
+~
+75 67174408 0
+0
+D0
+~
+office-door~
+1 -1  0 75280
+D1
+~
+door~
+1 55227  0 75281
+D2
+~
+~
+0 55228  0 75278
+S
+#75280
+A Small Office Above the Private Den~
+   This office is extremely bare with only a shelf and a desk for furniture and 
+there is absolutely no decor save for the nicks and dents upon the desktop. 
+When the wall lamp is lit, it only illuminates the dirt that has accumulated 
+over the years between the grayed tiles of the floor. There is a bare window 
+on the far wall with a large crack in the glass, the curtain rod gone from its 
+hooks. 
+~
+75 67698952 0
+0
+D2
+~
+office-door~
+1 55228  0 75279
+D5
+~
+door~
+1 55228  0 75274
+S
+#75281
+A Clothing-Lined Dressing Room~
+   The music of the club downstairs vibrates through the dirty, tile floors of 
+this small dressing room. Cubbies line one wall with hooks inside bearing 
+frilly robes and undergarments while the wall directly opposite the door has 
+been turned into a series of make-up stations, mirrors hung above short tables 
+covered in bottles of perfume and makeup in a variety of colors and types. A 
+series of lightbulbs have been affixed along the top of the stations, casting a 
+bright glow around the entire room and the only exit is a thin door to the 
+west. 
+~
+75 67174664 0
+0
+D3
+~
+door~
+1 55227  0 75279
+S
+#75282
+A Pink, Private Room with Neon Lights~
+   This room is old and weathered, the walls cracked and painted in a faded, 
+pale pink that has chipped in many places. The focus of the room is the 
+queen-sized bed placed right in the center with a neon sign of '1' casting a 
+soft glow around the entire room. The pounding of music can be heard coming up 
+from the club below and a single door to the west leads back out into the 
+hallway. 
+~
+75 201392136 0
+0
+D3
+~
+door~
+1 55226  0 75278
+S
+#75283
+A Pink, Private Room with Neon Lights~
+   This room is old and weathered, the walls cracked and painted in a faded, 
+pale pink that has chipped in many places. The focus of the room is the 
+queen-sized bed placed right in the center with a neon sign of '2' casting a 
+soft glow around the entire room. The pounding of music can be heard coming up 
+from the club below and a single door to the north leads back out into the 
+hallway. 
+~
+75 201392136 0
+0
+D0
+~
+door~
+1 55225  0 75278
+S
+#75284
+New Room~
+   This room is old and weathered, the walls cracked and painted in a faded, 
+pale pink that has chipped in many places. The focus of the room is the 
+queen-sized bed placed right in the center with a neon sign of '3' casting a 
+soft glow around the entire room. The pounding of music can be heard coming up 
+from the club below and a single door to the east leads back out into the 
+hallway. 
+~
+75 201392136 0
+0
+D1
+~
+door~
+1 55230  0 75278
+S
+#75285
+New Room~
+No Description Set.
+~
+75 65536 0
+0
+D2
+~
+~
+0 -1  0 75274
+S
+#75286
+Backroom for The Neutral Ground~
+No Description Set.
+~
+75 65536 0
+0
+D3
+~
+door~
+1 -1  0 75107
+S
+#75014
+In Front of an Arched, Patchwork Hangar~
+   Surrounded by a tall, ill-constructed wall of crumbling polycrete, this yard 
+houses a building made entirely of mismatched sheets of assorted metal, 
+polyprop and plexiglass, all coaxed into an enormous arch-shaped hangar, the 
+front of which has been liberally coated in now peeling red paint. The yard 
+itself has been paved after a fashion with cracked faux-stone slabs, one area 
+replaced with chipped polycrete and the entire thing is thick with moon dust, 
+grime and trash. 
+~
+75 65536 25
+0
+D1
+~
+set of hangar doors~
+1 -1  0 75125
+D3
+~
+heavy metal gate~
+1 -1  0 75236
+S
+#75125
+Inside an Arched, Patchwork Hangar~
+   This space is large, utilitarian and functional. The floor is a grimy, 
+poured and uneven polycrete and the walls and ceiling are made up of sheets of 
+polyprop and assorted metals all pinned to the industrial looking chrion ribs 
+which form an arch high above. Occasional panels of grubby plexiglass form 
+windows at irregular windows but most of the light is provided by the long rows 
+of lights that are suspended from the roof, bundles of multicoloured wires 
+coiled around the roof beams. East of here, a second floor has been 
+constructed, a rickety looking staircase connecting to the upper level while an 
+internal wall divides the space in half. 
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75287
+D3
+~
+set of hangar doors~
+1 -1  0 75014
+D4
+~
+~
+0 -1  0 75288
+S
+#75287
+A Metal Clad Hangar Room~
+   Split off from the main hangar, this area is much narrower with doors 
+leading off into rooms behind the north and south walls. As a result, it's 
+much less draughty although darker too, only one frosted plexiglass panel in 
+the end wall functioning as a window. Lights are mounted on the ceiling, power 
+cables running in thick, multicoloured bundles overhead, occasionally branching 
+out down the flimsy walls to burrow down into holes bored in the chrion tiles 
+on the floor. 
+~
+75 65536 0
+0
+D0
+~
+sturdy polyprop door~
+1 -1  0 75336
+D2
+~
+battered chrion door~
+1 -1  0 72589
+D3
+~
+~
+0 -1  0 75125
+S
+#75288
+A Rickety Chrion Walkway~
+   This walkway spans the width of the hangar, a railing separating it from the 
+drop down to the main bay. A somewhat unsteady staircase has been joined to 
+one end, quite clearly salvaged from somewhere else as it doesn't quite fit 
+right and there's a slightly awkward distance between the top step and the 
+walkway. In the centre, a door provides access to the room that lies to the 
+east. 
+~
+75 65536 0
+0
+D1
+~
+sturdy polyprop door~
+1 -1  0 72582
+D5
+~
+~
+0 -1  0 75125
+S
+#75291
+A Breezy Shower Room~
+   Set down a step from the room above, this space functions as a shower large 
+enough for several people. The cracks in the walls of this room have been 
+left, little effort put into turning it into a comfortable space and the murmur 
+of wind from outside is frequent and breezy. Mounted on the walls, a number of 
+simple shower heads ring the room, a small drain set into the floor beneath 
+each one. 
+~
+75 65536 0
+0
+D3
+~
+flimsy sliding door~
+1 -1  0 75336
+S
+#75289
+The Glory Hole~
+No Description Set.
+~
+75 65536 0
+0
+D3
+~
+~
+0 -1  0 75165
+S
+#75290
+NG abandoned building 1~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75169
+S
+#75293
+NG abandoned building 3~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75152
+S
+#75292
+Entrance to a Humid Greenhouse~
+   Thick plates of plexiglass separate this greenhouse from the outside world, 
+plates that would be see-through if it was not for the heavy moisture built 
+upon them. The entire room is kept uncomfortably humid, and the sound of 
+dripping water leads a constant assault against the ears. Many rows of troughs 
+run the length of the greenhouse, filled with thick plants. The room is kept 
+fairly hot also, adding to the general discomfort of the small space. 
+~
+75 67174408 0
+0
+D0
+~
+~
+0 -1  0 75301
+D1
+~
+greenhouse door~
+1 -1  0 75149
+S
+#75294
+Narrow Staircase Into a Basement~
+   Little care has been taken to maintain the interior of this basement. The 
+concrete walls are darkened with dirt and moisture, scarred by numerous cracks, 
+and even has the occasional bullethole. The air is dank and stuffy, but it is 
+also mixed with the scents of food, smoking, and general living. Noises filter 
+up from the deeper portions of the basement, and the occasional pipe or cable 
+has been taped to the ceiling of the corridor. The door to the west is covered 
+in graffiti and next to it is a bioscanner, clearly installed long after the 
+place was constructed. 
+~
+75 201392136 0
+0
+D1
+~
+office door~
+1 -1  0 75319
+D2
+~
+~
+0 -1  0 75316
+D3
+~
+spray-painted door~
+1 -1  0 75206
+S
+#75295
+Niners abandoned building 1~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75208
+S
+#75296
+Niners abandoned building 2~
+No Description Set.
+~
+75 65536 0
+0
+D2
+~
+~
+0 -1  0 75195
+S
+#75297
+Niners abandoned building 3~
+No Description Set.
+~
+75 65536 0
+0
+D0
+~
+~
+0 -1  0 75187
+S
+#75298
+Entrance to a Humid Greenhouse~
+   Thick plates of plexiglass separate this greenhouse from the outside world, 
+plates that would be see-through if it was not for the heavy moisture built 
+upon them. The entire room is kept uncomfortably humid, and the sound of 
+dripping water leads a constant assault against the ears. Many rows of troughs 
+run the length of the greenhouse, filled with thick plants. The room is kept 
+fairly hot also, adding to the general discomfort of the small space. 
+~
+75 67174408 0
+0
+D0
+~
+~
+0 -1  0 75302
+D3
+~
+greenhouse door~
+1 -1  0 75200
+S
+#75299
+Reds abandoned building 1~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75211
+S
+#75300
+Entrance to a Humid Greenhouse~
+   Thick plates of plexiglass separate this greenhouse from the outside world, 
+plates that would be see-through if it was not for the heavy moisture built 
+upon them. The entire room is kept uncomfortably humid, and the sound of 
+dripping water leads a constant assault against the ears. Many rows of troughs 
+run the length of the greenhouse, filled with thick plants. The room is kept 
+fairly hot also, adding to the general discomfort of the small space. 
+~
+75 67174408 0
+0
+D0
+~
+greenhouse door~
+1 -1  0 75226
+D2
+~
+~
+0 -1  0 75303
+S
+#75301
+Deep in a Stifling Greenhouse~
+   This room is long and narrow, running from north to south, only about a 
+dozen feet wide, but almost twice as long. The walls and ceiling of the room 
+are made up of well-constructed alion scaffold. The rods of iron alloy cross 
+each other at evenly spaced distances, each support neatly welded to the other 
+at every junction. Within the large gaps of the scaffolding, large squares of 
+thin, translucent green polyprop have been fused to the frame, keeping the room 
+safe from the weather outside, while allowing large amounts of sunlight in. 
+Bundles of equipment, wires and piping run throughout the greenhouse, all 
+helping to support the crops growing within. 
+~
+75 67174408 0
+0
+D2
+~
+~
+0 -1  0 75292
+S
+#75302
+Deep in a Stifling Greenhouse~
+   This room is long and narrow, running from north to south, only about a 
+dozen feet wide, but almost twice as long. The walls and ceiling of the room 
+are made up of well-constructed alion scaffold. The rods of iron alloy cross 
+each other at evenly spaced distances, each support neatly welded to the other 
+at every junction. Within the large gaps of the scaffolding, large squares of 
+thin, translucent green polyprop have been fused to the frame, keeping the room 
+safe from the weather outside, while allowing large amounts of sunlight in. 
+Bundles of equipment, wires and piping run throughout the greenhouse, all 
+helping to support the crops growing within. 
+~
+75 67174408 0
+0
+D2
+~
+~
+0 -1  0 75298
+S
+#75303
+Deep in a Stifling Greenhouse~
+   This room is long and narrow, running from north to south, only about a 
+dozen feet wide, but almost twice as long. The walls and ceiling of the room 
+are made up of well-constructed alion scaffold. The rods of iron alloy cross 
+each other at evenly spaced distances, each support neatly welded to the other 
+at every junction. Within the large gaps of the scaffolding, large squares of 
+thin, translucent green polyprop have been fused to the frame, keeping the room 
+safe from the weather outside, while allowing large amounts of sunlight in. 
+Bundles of equipment, wires and piping run throughout the greenhouse, all 
+helping to support the crops growing within. 
+~
+75 67174408 0
+0
+D0
+~
+~
+0 -1  0 75300
+S
+#75304
+In a Long, Spacious Lobby~
+This long, open foyer must once have been quite stylish. Efforts
+have been made to cling to that, but time has had the upper hand in
+bringing forth the wear and tear of the building. The lobby remains
+in decent shape, however, and the faded blue paint on the walls
+seems frequently renewed. To the west is the sturdy front door while
+the foyer continues eastward to a hallway with stairs at the end.
+Light fixtures illuminate the place adequately, and textured plastic
+has been laid down on the floor.
+   You must #6HANDSCAN WEST#8 to leave that way.
+~
+75 201392136 0
+0
+D1
+~
+~
+0 -1  0 75305
+D3
+~
+front door~
+1 -1  0 75148
+S
+#75305
+First Floor of a Once Stately Building~
+   The hallway turns west and south at a right angle, creating ample space for 
+the stairway in the northeast corner, as well as minor storage or the presence 
+of multiple individuals. The floor is covered in a textured layer of scuffed 
+plastic and the walls have been painted a pale blue, clearly one coat atop many 
+others of varying colours. To the west is a long lobby and to the south is 
+what appears to be a large office filled with tables, and the stairs themselves 
+extend upwards more than just one floor. 
+~
+75 201392136 0
+0
+D2
+~
+~
+0 -1  0 75306
+D3
+~
+~
+0 -1  0 75304
+D4
+~
+~
+0 -1  0 75308
+S
+#75306
+In a Table-Filled Former Office~
+   What used to be a rather large office has since been cleared of its office 
+interior and filled with tables and chairs. Eating utensils have been left on 
+some of the tables which, together with the smells from the kitchen to the 
+west, suggest the purpose of this repurposed room. There is ample space for 
+more than three dozen individuals to sit here at once should they wish to, and 
+people do indeed come and go quite frequently, most through the doorway to the 
+north. The walls are decorated with paintings and memorabilia, a tall hat here 
+and an old weapon there, hung between the windows that allow copious light into 
+this hall. 
+~
+75 67698952 0
+0
+D0
+~
+~
+0 -1  0 75305
+D3
+~
+~
+0 -1  0 75307
+S
+#75307
+In a Small, Open Kitchen~
+   Despite the small size of this kitchen, it has been built roomy and open to 
+encourage ventilation. The large window to the street is always open and the 
+doorway to the east has no door in it, preventing the kitchen from filling with 
+smoke. A counter runs the length of one wall while a sink and stove setup 
+takes up the other, and cupboards line the room overhead. The walls are 
+whitewashed and stained, and although the floor is tiled, several of them have 
+gone missing to reveal the bare concrete underneath. 
+~
+75 67698696 0
+0
+D1
+~
+~
+0 -1  0 75306
+S
+#75308
+Second Floor of a Once Stately Building~
+   The stairs continue in both directions, leading down to the ground floor or 
+up to the third. It is clear from the looks of the place that it was once an 
+impressive building, but even a good effort to keep it in decent state has not 
+been able to completely mask the age and deterioration of the structure. It 
+remains serviceable and has been given an enthusiastic coat of paint here and 
+an umpteenth repair there. To the west of the landing is a scratched door 
+while the offices to the south seem to have been repurposed into a workshop. 
+~
+75 201392136 0
+0
+D2
+~
+~
+0 -1  0 75310
+D3
+~
+bathroom door~
+1 -1  0 75309
+D4
+~
+~
+0 -1  0 75312
+D5
+~
+~
+0 -1  0 75305
+S
+#75309
+A Large Communal Bathroom~
+   Long and rectangular shaped, this room is pretty plain, made of polycrete 
+all around. Like the walls, the floor is bland and grey, though has raised 
+areas and grooves to allow a better grip. Along one portion of the walls run a 
+series of shower heads with knobs, no curtains to be seen. Adjacent and off in 
+one corner are several bathroom stalls with toilets and open fronts. Though 
+the age of the building is evident, this restroom is kept in reasonable 
+condition. At the far end of the facility is a sliding door for an enclosed 
+bathing alcove. 
+~
+75 67174408 0
+0
+D1
+~
+bathroom door~
+1 -1  0 75308
+S
+#75310
+Tool-Filled Office-Turned-Workshop~
+   This was clearly once a large office for multiple occupants. It remains 
+divided by cubicles, the walls of which are heavily stained and worn but mostly 
+intact, and the walls are lined with recepacles for tools, plugs for electrical 
+appliances, and other assorted workshop interior. The room is well lit and has 
+ample space, but the air is thick with the unpleasant smells of burnt plastic 
+and tanned leather. The doorways to the west and north are open, the doors 
+themselves having been removed, and chatter frequently filters in from the 
+hallway. 
+~
+75 67174408 0
+0
+D0
+~
+~
+0 -1  0 75308
+D3
+~
+~
+0 -1  0 75311
+S
+#75311
+In a Noisy Machinery Room~
+   Much of the buildig's machinery has been situated in this room. They churn, 
+grind and rumble with much heat and noise, making the room uncomfortable to be 
+in for long. A window to the south overlooks the street below while a doorless 
+doorway to the east leads into the adjacent workshop. All along the north wall 
+is a lengthy counter with smaller utensils for use with the machines and 
+apperatuses that take up most of the rest of the space. 
+~
+75 67174408 0
+0
+D1
+~
+~
+0 -1  0 75310
+S
+#75312
+Third Floor of a Once Stately Building~
+   Much use and inexpert maintenance has rendered these stairs creaky and a 
+little shaky, but they remain intact and lead all the way to the top of the 
+building. Here the landing opens up into an angled hallway, both ends 
+culminating in doors. The walls are blotched and worn, and the occasional 
+loose wire or cracked bit of plaster stand out like wrinkles on the building's 
+old visage. A bioscanner has been installed next to the door to the south, 
+clearly a more recent addition to the place. 
+   You must #6HANDSCAN SOUTH#8 to go that way.
+~
+75 201392136 0
+0
+D2
+~
+reinforced door~
+1 -1  0 75314
+D3
+~
+door~
+1 -1  0 75313
+D5
+~
+~
+0 -1  0 75308
+S
+#75313
+In a Spacious Chamber Filled with Bunks~
+   This large, rectangular chamber has been fille to capacity with bunk beds 
+and lockers, leaving very little space for anything else. The walls are 
+covered in drawings, satchels, and clothes hung up to dry. There is a 
+perpetually busy air about the room and it seems never to be empty, but there 
+is scarcely room for anything except laying in bed. The floor is heavily 
+scuffed and scratched, and though the walls have been given what seems to be a 
+hundred coats of faded blue paint, the cracks and dents still peek through to 
+reveal the age of the building. 
+~
+75 67698952 0
+0
+D1
+~
+door~
+1 -1  0 75312
+S
+#75314
+A Shelf-Lined Storage Room~
+   Shelves have been hammered up all along the walls of this room, creating 
+ample surface space on which to store things. A single overhead light 
+illuminates the place, though the shelves and other contents scatter shadows 
+all about. A scanning device has been added beside the northern door long 
+after the building's creation, and in the western wall is a smaller door with 
+the holder for an office plaque that is long gone. 
+   You must #6HANDSCAN SOUTH#8 to leave that way.
+~
+75 67698696 0
+0
+D0
+~
+reinforced door~
+1 -1  0 75312
+D3
+~
+office door~
+1 -1  0 75315
+S
+#75315
+In a Small, Dimly-Lit Office~
+   Located inconveniently behind the storage room, this diminutive office has 
+room for little more than a desk and a few chairs. A solitary window lets 
+light in from the west, but not very much, and the lamp in the corner adds 
+little to the dim atmosphere of this chamber. It has a private, lived-in air, 
+and though the inventory is in relatively decent shape, everything is marked by 
+wear and tear. The felt carpet, perhaps once green, has gained large grey 
+blotches where feet have worn away the surface fabric. Neatly concealed in a 
+corner is a fold-out cot allowing the owner to sneak a nap without having a bed 
+in the office, something for which there is just no room. 
+~
+75 67698952 0
+0
+D1
+~
+office door~
+1 -1  0 75314
+S
+#75316
+A Hazy, Cluttered Hangout~
+   Scattered, mismatched furniture fills this area of the basement, making for 
+a hangout spot that might have been cozy in less squalid surroundings. The 
+waterdamaged concrete walls have been decorated with spray-painted pictures and 
+even the occasional phrase, and some of the floor is covered in pieces of 
+patchwork carpeting. The air is a haze of smoke and the place never seems to 
+be empty, with people chatting here or eating there and even a few sleeping in 
+the furniture or the corners. The area is not very enclosed but has a sort of 
+natural border where the furniture ends and the drab basement continues. 
+~
+75 67436808 0
+0
+D0
+~
+~
+0 -1  0 75294
+D1
+~
+~
+0 -1  0 75320
+D2
+~
+~
+0 -1  0 75317
+S
+#75317
+Down a Paint-Streaked Corridor~
+   Chaotic artworks cover the walls of this narrow corridor, often little more 
+than flung streaks of paint. Pipes and wires cross overhead and the floor is 
+raw concrete, so darkened by moist and grime as to be nearly black. A solitary 
+lightbulb hangs from the ceiling to poorly illuminate the corridor, and it 
+comes to an end after about fifteen feet with nothing but a doorway to the left 
+with a curtain to concel the room beyond. 
+~
+75 201392136 0
+0
+D0
+~
+~
+0 -1  0 75316
+D1
+~
+ragged curtain~
+1 -1  0 75318
+P
+e ea eas east~
+(null)~
+if (&(1)=!)
+doitanyway -1
+else do
+if clan(-1,adult_consent)
+doitanyway -1
+else do
+vstr #6[ooc] This is an adult room. If you wish to enter,#8
+vstr #6please type #Eeast !#8 #6to proceed.#8
+fi done
+fi done
+~
+S
+#75318
+Mattress-Strewn Couples' Room~
+   The purpose of this room is quite obvious. Mattresses have been scattered 
+all over the floor, making the entire room into something like one big bed. 
+The walls are liberally decorated with tags and murals of varying degrees of 
+lewdness, and the naked lightbulb hanging from the ceiling has been painted a 
+faded red, bathing this nest in a soft pink glow. Nothing else is here save 
+for the faint scent of sweat and bodies. 
+~
+75 201392136 0
+0
+D3
+~
+ragged curtain~
+1 -1  0 75317
+S
+#75319
+A Dingy Manager's Office~
+   This small, spartan office seems designed for the manager of whatever 
+building used to stand above this basement complex. A small electrical relay 
+and a counter for water usage remains on one wall, harrowed by disuse but more 
+or less intact. A desk is bolted to the floor and wall, and the drab grey 
+walls do nothing to produce the illusion of space or luxury. Streaks of 
+moisture creep down the concrete and the floor is darkened by generations of 
+ingrained dirt. The door to the west seems sturdy enough and must have been 
+replaced more recently. 
+~
+75 67698952 0
+0
+D3
+~
+office door~
+1 -1  0 75294
+S
+#75320
+The Mural Room~
+   An impressive mural covers the entire east wall of this room. It seems to 
+be the compound work of many artists, depicting something like a cartoon that 
+portrays the history of Rust. The other walls are liberally decorated as well, 
+but not as formally or skillfully. The room itself does not seem dedicated to 
+any specific purpose except for the stairs in the corner that descend further 
+underground. Noise drifts in from the west where a gathering of furniture 
+forms an open den. 
+~
+75 67174408 0
+0
+D3
+~
+~
+0 -1  0 75316
+D5
+~
+~
+0 -1  0 75324
+S
+#75321
+In a Dark, Moist Basement~
+   The corridor from the west opens up into a wider cellar. It is untidy and 
+poorly lit, the dull polycrete walls stained in places and streaked with 
+moisture in others. The scuffed floor is almost black with ingrained dirt and 
+crunches faintly underfoot, and a faint echo follows in the wake of every 
+sound. North of here is a door while the southern end of the cellar is host to 
+what appears to be a workshop. Near the far wall is a hatch in the floor. 
+~
+75 67174408 0
+0
+D0
+~
+battered door~
+1 -1  0 75322
+D2
+~
+~
+0 -1  0 75323
+D3
+~
+~
+0 -1  0 75324
+D5
+~
+hatch~
+1 -1  0 75325
+S
+#75322
+In a Haphazard Sleeping Den~
+   This messy chamber is evidently a sleeping room, but not a very organized 
+one. Mattresses have been scattered all over the floor together with some 
+footlockers, and the rest of the floorspace is taken up by boxes, piles of 
+clothes and other clutter. The walls are discoloured and there are several 
+spray-painted depictions here and there, one of which resembles a cigarette 
+with a red X across it. To the south is an old, worn door with no locking 
+mechanism. There are no windows in here, but the room is lit by a long, 
+flickering ceiling light and there is a ventilation shaft high upon the wall. 
+~
+75 67174664 0
+0
+D2
+~
+battered door~
+1 -1  0 75321
+S
+#75323
+Untidy Workshop with Flickering Lights~
+   Not much has been done to maintain order in this workshop. Though it 
+appears to have most of what belongs in such a place, it has been piled up here 
+and there or pushed into boxes at random. A few pieces of larger machinery 
+line one wall and a large table occupies the other, and on the walls are 
+receptacles and plugs for all manner of tools. There is a faint smell of 
+chemicals and burnt plastic here, and the walls bear several sooty marks from 
+fire. 
+~
+75 67174408 0
+0
+D0
+~
+~
+0 -1  0 75321
+S
+#75324
+In a Graffiti-Covered Stairwell~
+   A short spiral of unsteady metal stairs descends from above into this level 
+of the underground complex. The dreary polycrete walls are covered in sloppy 
+graffiti, very little of which qualifies as more than mere tagging, and the air 
+is heavy and damp. A few pipes and wires streak overhead and further down the 
+corridor where it opens up into a wider space. 
+~
+75 67174408 0
+0
+D1
+~
+~
+0 -1  0 75321
+D4
+~
+~
+0 -1  0 75320
+S
+#75325
+A Waterdamaged Underground Tunnel~
+   Dust and dampness burdens the heavy air of this underground tunnel, adding 
+to the unpleasant atmosphere of the place. A hatch allows access from above 
+via a wall-mounte ladder, and the tunnel itself extends about twelve yards. 
+There is a door in both ends, one of which has had a bioscanner installed next 
+to it. The walls are dappled with large, dark blotches from water damage, and 
+the polycrete has begun to crumble in places. 
+   You must #6HANDSCAN SOUTH#8 to go through there. 
+~
+75 67174408 0
+0
+D1
+~
+door~
+1 -1  0 75327
+D2
+~
+sturdy door~
+1 -1  0 75326
+D4
+~
+hatch~
+1 -1  0 75321
+S
+#75326
+In a Storage Cellar~
+   This room is fairly plain and seems to have been kept in better condition 
+than the rest of the basement. Water damage has been repaired and the door is 
+reinforced, clearly a more recent addition to the complex. In here, shelves 
+line the walls while much of the floor is taken up by crates and bins. It is 
+eerily silent in the room, not the slightest echo or muffled sound entering 
+from outside, and any noise made in here is subdued by the structure of this 
+cellar. 
+   You must #6HANDSCAN NORTH#8 to go that way. 
+~
+75 67174408 0
+0
+D0
+~
+sturdy door~
+1 -1  0 75325
+S
+#75327
+A Dim, Squalid Toilet~
+   Bland beige tiles are placed on the floor here, though many are cracked or 
+missing. The walls are bare concrete, stained and streaked, and there is 
+nothing positive to say about this restroom. There are two stalls to one side, 
+their battered walls and doors barely holding together, and a sink next to the 
+door above which is the outline for a mirror that has gone missing. It smells 
+of musty toilet and chemicals in here, and the place is poorly lit by a 
+flickering lamp that hangs lopsidedly from the ceiling. 
+~
+75 67174408 0
+0
+D3
+~
+door~
+1 -1  0 75325
+S
+#75328
+Niners elevator to 75329~
+No Description Set.
+~
+75 65536 0
+0
+D3
+~
+~
+0 -1  0 75327
+S
+#75329
+Niners elevator to 75328~
+No Description Set.
+~
+75 65536 0
+0
+D1
+~
+~
+0 -1  0 75251
+S
+#75330
+RUST - NEW GUARD HQ~
+Goto room for admins. Players not allowed.
+~
+75 65536 0
+0
+D5
+~
+~
+0 -1  0 75304
+S
+#75331
+RUST - RED COMPANY HQ~
+Goto room for admins. Players not allowed.
+~
+75 65536 0
+0
+D5
+~
+~
+0 -1  0 75014
+S
+#75332
+RUST - BLOCK NINE HQ~
+Goto room for admins. Players not allowed.
+~
+75 65536 0
+0
+D5
+~
+~
+0 -1  0 75294
+S
+#75333
+RUST - BJORK'S BAR~
+Goto room for admins. Players not allowed.
+~
+75 65536 0
+0
+D5
+~
+~
+0 -1  0 75267
+S
+#75334
+RUST - WEST GATE~
+Goto room for admins. Players not allowed.
+~
+75 65536 0
+0
+D5
+~
+~
+0 -1  0 75137
+S
+#75335
+A Scrubby Patch of Land~
+   Somehow overlooked as potential building space, this small area of poured 
+polycrete stands behind a metal plank fence, a thin strip of land sandwiched 
+between the wall of the southern building and the plexiglass structure of the 
+condensation-filled greenhouse to the west. The sounds of the surrounding 
+streets filter through but it's otherwise peaceful here, the only window that 
+seems to overlook this space securely boarded up. Even so, it hasn't escaped 
+the ever-pervasive trash that fills Rust, the battered remains of some 
+unidentifiable machine dumped in one corner while other litter is scattered 
+about. 
+~
+75 65536 25
+0
+E
+plants~
+Several of these planks seem to be loose enough to shift aside,
+allowing space to #6SQUEEZE THROUGH#0 to whatever is beyond.
+~
+E
+fence~
+Several of these planks seem to be loose enough to shift aside,
+allowing space to #6SQUEEZE THROUGH#0 to whatever is beyond.
+~
+P
+squeeze~
+through~
+if fighting
+vstr You can't do that while you're fighting!
+else do
+force -1 -1 emote pushes aside one of the loose planks, revealing a space large enough to squeeze through.
+atecho 75227 There's a slight squeaking noise as one of the loose planks is moved from the other side of the fence.
+delay 2 emote squeezes through the gap in the fence.
+delay 4 xxsqueezethroughxx
+fi done
+~
+P
+xxsqueezethroughxx~
+(null)~
+if fighting
+vstr You can't do that while you're fighting!
+else do
+atecho 75227 #5$n#0 squeezes through a gap in the fence.
+trans_group -1 75335 75227
+trans 75227
+~
+S
+#75336
+A Draughty, Utilitarian Bathroom~
+   Draughts whisper in through the cracks in the metal and polyprop walls of 
+this bathroom and the floor, covered with thick, textured chrion tiles, seems 
+slightly uneven and creaks ever so slightly underfoot. Stalls with flimsy 
+looking doors line the northern and wall and a long metal trough runs almost 
+the full length of the room from east to west, providing space for a decent 
+number of people to wash at once. The trough is split in half with taps on 
+either side and a series of small strips of mirror are mounted on metal frames 
+at around eye level, a few cracked although most remain intact. A bench lines 
+the southern wall and further east, a flimsy looking door separates the shower 
+area. 
+~
+75 65536 0
+0
+D1
+~
+flimsy sliding door~
+1 -1  0 75291
+D2
+~
+sturdy polyprop door~
+1 -1  0 75287
+S
+#75337
+The Walkway of a Decrepit Housing Block~
+   This walkway looks over the junk-filled courtyard below and provides access 
+to the poor excuses for homes in this area. Many of the doors and windows have 
+heavy chrion bars, a few have shutters and more still are boarded up entirely. 
+Graffiti in all colours marks the walls but entirely fails to lend any cheer to 
+this grimy, filthy place. 
+~
+75 65536 25
+0
+D5
+~
+~
+0 -1  0 75240
+S
 $~

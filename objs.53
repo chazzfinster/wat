@@ -1,1 +1,751 @@
+#53800
+pile rubble OTHER~
+a pile of rubble~
+A pile of rubble lies here.~
+   A pile of rubble lies here, containing broken rocks of varying 
+sizes and shapes. 
+~
+12 4096 0
+3 0 0 0
+3500 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53801
+veiny green algae OTHER~
+a veiny green algae~
+A veiny green algae grows here.~
+   This green algae creeps along here, its reach veiny and 
+spidery. It is wet and moist to the touch, and has the texture 
+of fine hair. 
+~
+12 4096 0
+0 0 0 0
+700 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53802
+crates pile broken OTHER~
+a pile of broken crates~
+A pile of broken crates lies scattered here, its contents strewn across the floor.~
+   A pile of plasteel crates lies scattered on the floor, each of 
+different dull colors and labeled differently; some are labeled 
+as 'rations', other as 'electric tools', and other varying 
+categories. Many of them lie shattered or tipped on their sides, 
+broken by some trauma. 
+~
+12 4096 0
+0 0 0 0
+1500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53806
+battered radio OTHER~
+a battered radio~
+A battered radio lies here.~
+   This piece of machinery appears simple and utilitarian. It 
+resembles a simple gray box made from an iron alloy, installed 
+with speakers and knobs to adjust channels, volume and the like. 
+A wealthy amount of rust has begun to corrode the metal casing, 
+indicating this radio's old age. 
+~
+12 4096 1
+0 0 0 0
+700 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53803
+bed simple metal-framed bunk METAL~
+a simple, metal-framed bunk bed~
+A metal-framed bunk bed stands against one wall here.~
+   This metal-framed bunk bed is built to accommodate two people 
+comfortably and features a top and bottom bunk. It lacks in any 
+ornamentation and is simple in design - the sheets and mattress 
+are an utilitarian grey and, made from a synthetic coarse cotton, 
+is rough to the touch. 
+~
+15 2101248 0
+60000 0 -1 0
+2500 0.000000
+0 0 3 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53100
+vines stage1 mound barely recognizable dark green $vinetype ORGANIC~
+a barely recognizable corpse covered in dark green $vinetype vines~
+A corpse-shaped mound lies here, covered in dark green $vinetype vines.~
+   Still discernible as a corpse of a once-living thing, other 
+details are lost below the veritable cocoon of $vinetype vines 
+that now root in its rapidly-putrifying flesh. Dark green in 
+color, the vines shift and move of their own volition, snaking 
+out with slender rootlets and unfurling, probing tendrils. 
+~
+72 33554432 1
+0 0 0 0
+1000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 192 53101 0 0 0 0
+S
+16 100 100 100 100
+God~
+God~
+#53101
+mound vines stage2 thriving young $vinetype ORGANIC~
+a thriving mound of young $vinetype vines~
+A thriving mound of young $vinetype vines waves its tendrils.~
+   Dark-green vines shift and move of their own volition, 
+encapsulated around a mass of organic material, now mostly 
+consumed. Many $vinetype vines snake out with slender rootlets 
+and unfurling, probing tendrils, still young and growing rapidly. 
+Curled leaves have begun to sprout along the smooth, defectless 
+shoots, not yet unfurled. 
+
+You realize you could #6SMASH#0 the #6VINES#0. 
+
+~
+12 33554432 0
+0 0 0 0
+10000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53200
+soil single body shallow mound pile loamy organic bones ORGANIC~
+a mound of loamy, organic soil and bones~
+A shallow pile of loamy, organic soil is here, bones protruding from it.~
+An oddly-shaped mound of organic soil is here, thin atop the ground. Tiny green shoots from air-blown seeds dot its surface with the promise of new life, while the stained bones of someone now deceased poke through, barely covered. 
+
+You realize you could #6GATHER#0 this #6PILE#0.
+~
+12 0 0
+0 0 0 0
+5000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53102
+smell vine cloyingly-sweet OTHER~
+#6a cloyingly-sweet smell#0~
+#6A cloyingly-sweet smell permeates the area.#0~
+~
+12 4194304 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 1 86 0 0 0 0
+God~
+God~
+#53103
+token maturing seed vine OTHER~
+a maturing vine seed token~
+A maturing vine seed token lies here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 720 53104 0 0 0 0
+God~
+God~
+#53104
+token mature seed vine OTHER~
+a mature vine seed token~
+A mature vine seed token lies here, about to pop.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53105
+vines dead small crawling mound ORGANIC~
+an small mound of dead vines~
+A small mound of dead vines lies here, unmoving.~
+   A small pile of young tendrils from a crawling vine lies here, 
+now lifeless and wilting. The pile spreads around in a circle, 
+once a sea of moving young shoots and tendrils now lying still. 
+The leaves lie flacid, slain before it could flower, now rapidly 
+decaying. 
+~
+29 0 1
+33 4 53108 1
+1500 0.000000
+53109 0 2
+(null)~
+0 0 0 0 1
+0.000000 192 86 0 0 0 0
+God~
+God~
+#53106
+vines dead large crawling mound ORGANIC~
+a large mound of dead vines~
+A large mound of dead vines lies here, unmoving.~
+   A large pile of vines has collapsed upon itself, now lifeless 
+and wilting. The pile rises about two feet off the ground, 
+spreading around in a circle, once a sea of moving tendrils now 
+lying still. The leaves and flowers lie flacid, rapidly 
+decaying. 
+~
+29 0 1
+33 4 53108 2
+5000 0.000000
+53109 0 5
+(null)~
+0 0 0 0 1
+0.000000 192 53103 0 0 0 0
+God~
+God~
+#53107
+vines dead gargantuan crawling mound ORGANIC~
+a gargantuan mound of dead vines~
+A gargantuan mound of dead vines lies here, unmoving.~
+   A massive pile of vines has collapsed upon itself, now 
+lifeless and wilting. The pile rises about four feet off the 
+ground, spreading around in a wide circle, clearly an impressive 
+amount of vegetative growth. The leaves and flowers lie flacid, 
+rapidly decaying. 
+~
+29 0 1
+33 4 53108 5
+10000 0.000000
+53109 0 15
+(null)~
+0 0 0 0 1
+0.000000 192 53103 0 0 0 0
+God~
+God~
+#53108
+rhizomes vine crawling pulpy moist ORGANIC~
+a handful of pulpy, moist rhizomes~
+A handful of pulpy, moist rhizomes lie on the ground.~
+   These pulpy, moist tendrils are the rhizomes of a crawling 
+vine. The rubbery exterior snaps easily to reveal gelatinous, 
+pungent-smelling compounds within. 
+~
+12 4194304 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53109
+tendril hunk scrap chopped ORGANIC~
+a hunk of chopped vine tendril~
+A hunk of chopped vine tendril lies on the ground.~
+   This is a large hunk of tendril from a crawling vine. Though 
+thick and fibrous, this tendril was selected for not being as 
+woody as the tougher vinestem, making it have a higher organic 
+content for recycling. 
+~
+72 4198400 1
+0 0 0 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 2880 86 0 0 0 0
+God~
+God~
+#53110
+haze herbicide acrid OTHER~
+#6an acrid haze#0~
+#6An acrid haze hangs in the air, low to the ground.#0~
+~
+12 0 0
+0 0 0 0
+0 0.000000
+0 0 0 0 0 0 0 1
+0.000000 2 86 0 0 0 0
+God~
+God~
+#53201
+soil spread out thin layer shallow pile loamy organic ORGANIC~
+a layer of organic soil~
+A thin layer of organic soil covers the ground.~
+   A layer of organic soil is here, spread over the rocky, 
+unforgiving moonscape. Tiny green shoots from air-blown seeds 
+dot its surface with the promise of new life. 
+~
+30 0 0
+10 0 0 0
+5000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53202
+dirt lifeless soil heap layer pile ORGANIC~
+a heap of lifeless dirt~
+A heap of lifeless dirt mounds here.~
+   This is regular dirt, brown-black in color and crumbly to the 
+fingers. It has lost its loamy consistency and no seedlings 
+sprout from it, the microbial and biological elements somehow 
+missing. 
+~
+12 4194304 1
+0 0 0 0
+5000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53203
+skull human $skullsize0 $skulldamage1 OTHER~
+a $skullsize0, $skulldamage1 human skull~
+A $skullsize human skull lies here, $skulldamage.~
+This human skull is pure bone. All skin has decayed off or been removed by some other means. It is $skullsize in size. Noticeably, $skulldamage.
+~
+45 37748736 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 120 86 0 0 0 0
+God~
+God~
+#53204
+human bone $skullsize0 $bonesize1 $bonedamage2 OTHER~
+a $bonedamage2, $skullsize0 human $bonesize1~
+A $skullsize0 human $bonesize1 lies here, $bonedamage2.~
+This is a $skullsize human $bonesize. It is all white and jaundiced bone, the skin and flesh having been removed. Noticeably, $bonedamage.
+~
+13 37748736 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 120 86 0 0 0 0
+God~
+God~
+#53205
+soil handful small pile loamy organic ORGANIC~
+a small pile of loamy, organic soil~
+A small pile of loamy, organic soil mounds here.~
+   This is a small heap of organic soil. Brown-black in color, 
+it is loamy and rich with a fragrant scent, rich with the promise 
+of life. 
+~
+30 4198400 1
+1 1 0 0
+500 0.000000
+0 0 0 0 0 0 0 1
+5.000000 0 0 0 0 0 0
+God~
+God~
+#53000
+furrows massive OTHER~
+massive furrows~
+Massive furrows mar the ground where something tunneled near the surface.~
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 96 86 0 0 0 0
+God~
+God~
+#53001
+Engine big derelict xWINDMILL METAL~
+a big, derelict engine~
+A big, derelict engine is set into the eastern wall, offline.~
+   This massive engine takes up the entirety of the eastern wall, 
+covering the old concrete with just-as-old steel. The engine is 
+pockmarked, rusty, and dented here and there, but it is otherwise 
+intact. For the most part it is covered in levers and buttons 
+and a big display screen set right in the middle of it. The 
+display is cracked, the screen is blank, and the machine is dead. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53002
+Engine big blinking xWINDMILL METAL~
+a big, blinking engine~
+A big engine takes up the eastern wall, display blinking dully.~
+   This massive engine takes up the entirety of the eastern wall, 
+covering the old concrete with just-as-old steel. The engine is 
+pockmarked, rusty, and dented here and there, but it is otherwise 
+intact. For the most part it is covered in levers and buttons 
+and a big display screen set right in the middle of it. The 
+display blinks dully, with letters and numbers crawling across 
+the screen beneath the cracked glass - mostly just readouts of 
+the engine's work. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53003
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53004
+meteor WILDERNESS_SCENERY mammoth hole-strewn remains ORGANIC~
+a mammoth, hole-strewn meteor~
+The remains of a mammoth, hole-strewn meteor tower here.~
+   Towering certainly above some of the highest buildings on the 
+moon, this meteor is the remnants of some gigantic astroid shower 
+of the past. In places its surface has been cracked in vast 
+chasms, home now to a variety of animal from lizards to beetles. 
+Its surface is scarred with massive craters. Its shape is that 
+of a sharp, tapered block which shoots off into the air at a 
+diagonal. 
+~
+0 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53005
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+60 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53006
+rock moon $rockshape WILDERNESS OTHER~
+a $rockshape0 moon rock~
+A $rockshape0 moon rock lies here.~
+This $rockshape.
+~
+12 33558528 1
+0 0 0 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53301
+corpse worm slug-like dead OTHER~
+the slug-like corpse of a dead worm~
+The slug-like corpse of a dead worm oozes fluids into the soil.~
+   Rapidly putrifying, this corpse is from a deceased annelid, 
+its boneless, meatless body beginning to collapse inward on 
+itself. There is nothing redeemable about this stinking, mess of 
+offal and slime. 
+~
+12 4198400 1
+0 0 0 0
+5000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 720 86 0 0 0 0
+S
+34 200 200 2 0
+S
+34 20 20 2 0
+God~
+God~
+#53007
+bridge old retracted mechanical METAL~
+a retracted, old mechanical bridge~
+An old mechanical bridge is here at the edge of the crater, retracted.~
+   This is a blocky, rusted device mounted at the edge of the 
+crater, a flat platform retracted half-way across the crater. A 
+small control panel is installed into the base of it. 
+
+~
+12 0 1
+0 0 0 0
+20000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53008
+stone smooth METAL~
+a smooth massive stone~
+A smooth, massive stone sits here up against the rock-face.~
+This is a massive stone that sits against the moon rock face. It looks unnaturally smooth and shaped by man-made power. Upon closer inspection, you see a discolored part of the rock face. Maybe you can #6PRESS#0 #6DEPRESSION#0.
+~
+12 0 0
+0 0 0 0
+50000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53009
+misshapen blue doll TEXTILE~
+a blue, misshapen, many-limbed doll~
+A blue doll, lumpy and bearing several limbs, lies here.~
+This doll, crafted of sewn, raggedy cloth, wears its hair long
+and has been given exaggeratedly feminine features. Its skin, or
+at least the cloth representing it, is blue. Sprouting from its
+lumpy form are several arms, though its legs are only a couple.
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53999
+small scarred datapad METAL~
+a small, scarred datapad~
+A small, scarred datapad lies here.~
+This is a small datapad, filled with scrolling text. Its casing
+is scarred and pitted. Try #6READ DATAPAD#0 to see what it says.
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53770
+line live power xUTILITY OTHER~
+a live power line~
+A live power line runs along the wall.~
+~
+12 12292 0
+55990 55990 55990 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53771
+line dead power xUTILITY OTHER~
+a dead power line~
+A dead power line runs along the wall.~
+~
+12 12292 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53772
+light $color GLASS~
+a $color light~
+A $color light has been mounted on the ceiling.~
+A simple, ceiling-mounted light with a $color bulb.
+~
+1 33558528 1
+-1 -1 20 1
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53773
+light $color GLASS~
+a $color light~
+a $color light is here, casting no light.~
+A $color light.  It is currently off.
+~
+1 33558528 1
+0 0 20 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53010
+rope tied-off top $color $polymesh TEXTILE~
+a tied-off rope~
+The top end of a rope is tied off to the railing here.~
+   Tied off here to the railing is a rope dangling down. It is 
+$color-colored and made of fabric that is $polymesh. 
+~
+12 33554432 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53011
+rope dangling bottom  TEXTILE~
+a dangling rope~
+A rope dangles from the catwalk above.~
+   Dangling from above is a rope, securely tied to the railing of 
+the catwalk. It is $color-colored and made of fabric that is 
+$polymesh. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53740
+terminal RPT CARTER_LOGS computer PLASTIC~
+a computer terminal~
+A computer terminal resides here, its screen softly glowing.~
+~
+12 4096 0
+1 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53012
+new phoenix research facility keycard red black stripe PLASTIC~
+a small, red keycard with a solid black stripe~
+A small, red keycard with a solid black stripe is here.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53013
+terminal RPT_LUPOV_LOGS computer PLASTIC~
+a computer terminal~
+A computer terminal resides here, its screen softly glowing.~
+~
+12 4096 0
+1 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53014
+terminal RPT_MAINFRAME_LOGS computer PLASTIC~
+a computer terminal~
+A computer terminal resides here, its screen softly glowing.~
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53015
+Plains-GT-Nest throbbing pile dead wildlife OTHER~
+#3a throbbing pile of dead wildlife#0~
+#3A throbbing pile of dead wildlife is heaped here.#0~
+   The first thing one would notice about this heap of dead animals is that, 
+namely, it is not dead. Bits of bugs and lizards twitch about here and there, 
+and the entire rotting pile seems to move in sync with itself - throbbing, 
+almost as if it is breathing. Every now and then a static pop can be heard. 
+~
+30 4096 0
+100 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53016
+Mountains-GT-Nest big pile dead wildlife OTHER~
+#3a big pile of dead wildlife#0~
+#3A big pile of dead wildlife is heaped here.#0~
+   The first thing one would notice about this heap of dead animals is that, 
+namely, it is not dead. Bits of goats and lizards twitch about here and there, 
+and the entire rotting pile seems to move in sync with itself - throbbing, 
+almost as if it is breathing. Every now and then a static pop can be heard. 
+~
+30 4096 0
+100 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53017
+Junkyard-GT-Nest pile wildlife churning rotting dead stinking OTHER~
+#3a churning pile of rotting wildlife#0~
+#3A pile of wildlife is here, dead, rotting, stinking, and twitching.~
+   The first thing one would notice about this heap of dead animals is that, 
+namely, it is not dead. Bits of barkers and spiders twitch about here and 
+there, and the entire rotting pile seems to move in sync with itself - 
+throbbing, almost as if it is breathing. Every now and then a static pop can 
+be heard. 
+~
+30 4096 0
+100 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53900
+worm-nest hollow larvae OTHER~
+a hollow worm-nest~
+A hollow worm-nest roils with larvae, its top caved in.~
+   Hidden beneath the surface of the sand is a slimy, bulbous egg sac, once 
+left in the wake of a crawling worm and now buried in the sun-warmed sands. It 
+has a thick, gooey membrane and numerous tiny worm larvae roil within, awaiting 
+their opportunity to burst out and begin their lives. This sac appears to have 
+been ruptured by careless prospecting, releasing its captives unfortuitiously. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 1 86 0 0 0 0
+God~
+God~
+#53018
+guards contingent heavily armed large Gaiman xjunkyard OTHER~
+#5a large contingent of heavily armed guards#0~
+#5A large contingent of heavily armed guards patrols the area in front of the gate.#0~
+   Standing before the northern gates is a large contingent of heavily armored 
+guards, bearing advanced weaponry. For those keenly observant, a white 
+embroidered GC is present upon their armors. Taking up an aggressive poise, 
+they patrol with pure professionalism. Overhead, the occasional hovercopter 
+shadows the area, a reminder of the backup nearby. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#53019
+generator echo invisible token xjunkyard OTHER~
+#3an invisible GC echo generator#0~
+#3an invisible GC echo generator is here, generating echos#0~
+~
+12 4100 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
 $~

@@ -1,1 +1,1967 @@
+#50001
+mob new~
+test~
+test~
+testestyest
+~
+8 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' terror~
+0 0 0
+#50000
+guy~
+a guy~
+A guy is here.~
+(null)~
+8 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#50002
+guy~
+a guy~
+A guy is here.~
+(null)~
+8 0 43 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 10 0 100 0 0 16 16 100 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#50003
+HGT1 regular $zombieone $zombietwo $zombiename~
+a $zombieone, $zombietwo $zombiename~
+A $zombieone, $zombietwo $zombiename is here.~
+   Despite the $zombieone and $zombietwo nature of this 
+$zombiename, you can still recognise this person as human, 
+although the vacant gaze of their fused-open eyes and slack 
+hanging jaw are clear indications that they are clearly beyond 
+any help. A persistent, guttural groaning issues forth from 
+their ruined gullet, hands twitching often of their own accord. 
+Most movements are shuffling and awkward, save the occasional 
+savage gesture of speed. Strange growths and boils have broken 
+out across their skin, and a heavy thumping, as if a gargantuan 
+heart beat slowly, echoes from its chest. 
+~
+136314920 2052 24 2 5 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 64 0 0 0 0 0 16843272
+13 6 15 10 10 15 40 13
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic-terror~
+144 86 0
+#50100
+Nietzsche skinny middle aged man wild white hair~
+a skinny middle-aged man with wild white hair~
+A skinny middle-aged man with wild white hair is here, slightly hunched.~
+   A dusting of stringy white hair covers this man's skull, 
+straying haphazardly in all directions. His eyes are a rich 
+brown in hue and are almond in shape, with a subtle tilt upwards 
+at the outer corners. He stands at a middling height, neither 
+tall or short, and his body is rather thin by design, a display 
+of small bone structure. His nose is flat, his cheekbones are 
+high, and the color of his skin has beige undertones. Gentle 
+flecks of dirty white and brown hair create a stubbly beard that 
+peppers his face and jaw completely beneath the bridge of his 
+nose. His fingers are especially long and tapered, with uncut 
+nails that hide a noticeable share of dirt and grime. 
+~
+10 0 28 1 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 30 60 0 0 0 40 35 0 40
+0 40 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 60 40 40 70 0 50
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' survivor 'member' scientist_survivor~
+0 0 0
+#50101
+Two woman brown-haired deep-set eyes xAlphaSoldier~
+a brown-haired woman with deep-set eyes~
+A brown-haired woman with deep-set eyes stands with her jaw set, firmly.~
+   Standing tall and stick thin, this woman has a somewhat 
+haunted look with her brown, deep-set eyes and yellow-hued skin 
+tone. A lack of color has left her olive skin tone washed out, 
+but despite her jaundiced appearance, she actually seems quite 
+sturdy. Her long and tenuous limbs are steady, and her posture 
+is upright. The hair crowning her head is a rather mousy shade 
+of brown, and it falls quite straight and limp down to her 
+shoulders. 
+~
+10 4 37 2 2 5d1+104 2d8+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 2 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 45 0 55 65 0 60 65 0 55
+60 0 0 0 60 65 50 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 50
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' soldier_survivor~
+0 0 0
+#50102
+Eleven man short young dark hair xAlphaSoldier~
+a short young man with dark hair~
+A short young man with dark hair watches on with wary eyes.~
+   This young man is short in stature and slightly built, making 
+him seem smaller than he actually is. Wisps of straight, dark 
+brown hair hang onto his forehead and down over his ears, each 
+strand unevenly shorn. His brows are heavy and thick, giving him 
+a rather cloudy expression by default, despite his mood. Thin 
+lips, a nondescript nose, and rounded cheeks make his face, along 
+with a set of small blue eyes that are a bit close together. 
+~
+10 0 41 1 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 55 0 70 0 0 50 70 0 65
+65 0 0 0 0 0 60 40 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 50
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' soldier_survivor~
+0 0 0
+#50103
+Mohinder man swarthy-skinned dark features xAlphaMedic~
+a swarthy-skinned man with dark features~
+A swarthy-skinned man with dark features looms here.~
+   Standing tall and straight, this man has skin that is a soft 
+brown hue. His pitch hair is long enough to be swept neatly 
+back, but it curls at the ends by his ears and along the nape of 
+the neck. His eyes are as dark as his hair, each one greatly 
+defined by a dark lashline and brow. His face is cleanly cut, 
+set with a straight nose and a mouth that is prone to flash white 
+teeth that stand out due to the hue of his skin. His body is 
+trim and his hands are long, capable, and neatly kept. 
+~
+1073741834 0 21 1 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+1 0
+50120 50191 1.500000 0.500000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 131071
+8023 8020 10002 33011 8017 10006 10001 10003 10004 10005 10007 10008 10009 10010 10012 10013 10016 -1
+0 0 0 0 0 0 0 0 0 0
+0 30 60 0 0 0 45 45 0 0
+0 60 0 0 0 60 0 0 0 0
+0 0 0 0 0 0 0 0 0 75
+0 0 0 0 60 0 0 60 0 70
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#50104
+Gray woman blonde-haired shapely figure xAlphaBartender~
+a young, blonde-haired woman with a shapely figure~
+A young, blonde-haired woman with a shapely figure is here.~
+   A tumble of ash-blonde hair falls to hang around this young 
+woman's shoulders and down her back in a riot of waves. Her eyes 
+are a light sage color in hue, the green irises touched with and 
+muted by a mix of grey. Each brow is darkened and defined, and 
+the features of her face are neat by design, finished with a 
+generous mouth. Slender of frame, the lines of her body are 
+accented by obvious feminine charms. 
+~
+10 0 43 1 0 5d1+104 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+1 0
+50136 50190 1.500000 0.500000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 131071
+5011 5014 9005 9003 3005 1059 8000 1046 1060 5002 5001 5005 1001 8001 8002 1057 8030 1058 8025 1016 8031 8034 8033 4018 8013 4031 2006 5024 5019 5016 2008 2009 2010 2007 8046 4030 8036 -1
+0 0 0 0 0 0 0 0 0 0
+0 50 60 75 0 0 70 65 70 0
+0 0 0 0 0 50 72 70 55 80
+0 0 0 0 0 80 0 0 0 0
+0 0 0 0 0 0 0 0 0 50
+100 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' soldier_survivor~
+0 0 0
+#50105
+variable xAlphaSurvivor1~
+variable xAlphaSurvivor~
+variable xAlphaSurvivor~
+   This survivor wanders around with their chin tucked downward, 
+casting furtive sidelong glances at other people moving past. 
+Though their eyes are wary, their overall expression is rather 
+blank, as if they are lost, confused, or just very much elsewhere 
+in their mind. Each step is weighted and dragging, and their 
+general direction is a bit off, as if they are lacking aim or 
+purpose. 
+~
+8 0 16 1 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+268435456 0
+0 27 25 28 22 25 26 26 20 26
+26 21 24 27 23 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' scientist_survivor~
+0 0 0
+#50106
+variable xAlphaSurvivor2~
+variable regular xAlphaSurvivor~
+variable xAlphaSurvivor~
+   This survivor is ambling along, keeping a good passing 
+distance between themself and others that move by. Overall, they 
+seem somewhat skittish and withdrawn, taken with their own 
+thoughts. Occasionally, a passer-by will catch their attention, 
+but they seem reluctant to make solid eye contact. Shuffling 
+steps move them along, putting them much at pace with others that 
+wander by. 
+~
+10 0 17 1 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+268435456 0
+0 30 21 28 22 21 29 30 27 23
+29 24 27 22 21 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' soldier_survivor~
+0 0 0
+#50004
+Jamario thickly built dark skinned man~
+a thickly-built, dark-skinned man~
+A thickly-built, dark-skinned man stands here.~
+   This black man is tall, broad-shouldered, and muscular. His 
+head bears a thin layer of coarse hair, growing down into a chin 
+strap and a small moustache. His brow slopes over two dark brown 
+eyes set beneath thin eyebrows and on either side of a bulbous 
+nose. His thick neck leads down to a barrel chest, and his arms 
+are thickly-muscled; his dark skin seems barely able to hold his 
+muscles back when he moves, and scars run all over. Overall, 
+this man appears no stranger to hard work or harsh conditions. 
+~
+10 0 44 1 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 60 0 80 0 0 60 70 0 70
+75 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' anarchs 'commander' jcrew 'member' soldier_survivor~
+0 0 0
+#50005
+York burly black haired man~
+a burly, black-haired man~
+A burly, black-haired man stands here.~
+   This large man has hard, chiseled features, long black hair, a 
+lantern jaw, and a great big bushy beard. His beady green eyes 
+are set far back in his thick skull, and his nose is particularly 
+large. While not particularly tall, this man is quite stout. 
+His arms and legs are muscular and scarred, his chest is large 
+and covered with hair. This man nearly has muscles on top of his 
+muscles, and he appears accustomed to using them frequently. 
+~
+10 0 38 1 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 50 0 70 0 0 50 60 0 60
+65 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' soldier_survivor~
+0 0 0
+#50006
+Brittney short lean dead woman~
+a short, lean dead woman~
+A short, lean dead woman shambles about here, her torso twisted.~
+   Short and lean, this woman has a tomboyish air. She has red 
+hair, green eyes, and extremely pale skin with a scar under her 
+right eye. Her face is round and her features are mousy and 
+haggard - her hair is cut at the shoulders and she sports bangs 
+that end at her eyebrows. Her body, while lean, is still 
+muscular and fairly curvey. Her spine appears to be slightly 
+twisted, causing her torso to be twisted at an odd, unnatural 
+angle. Her eyes are sunken in and the color of their irises are 
+pale, as though they had been blended with translucent water. 
+~
+10 0 40 1 0 5d1+104 4d4+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 2 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 55 0 70 0 55 60 70 0 60
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' soldier_survivor~
+0 0 0
+#50007
+Stephan gangly bug eyed man ACTIONEER-MERCHANT~
+a gangly, bug-eyed man~
+A gangly, bug-eyed auctioneer stands here, jingling lightly.~
+   This man's head is covered in a crop of straight blonde hair, 
+swept back to hand down near his thin shoulders. His forhead is 
+fairly large, and his bright blue eyes are constantly wide, 
+almost bugging out of his skull. His nose is short, bulbous, and 
+slightly crooked, and he has a pencil-thin moustache. His jaw 
+slants down to his prominent chin. The rest of him is tall and 
+lanky, all knobbly bones covered in a layer of muscle. 
+~
+50331658 0 28 1 0 5d1+88 1d2+0 0 8 8 1 0 0 0 0
+0 50050 0 50133 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+14 10 12 10 18 12 45 16
+0 0
+0 35 60 50 0 0 16 40 0 40
+0 35 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 50 0 0 50 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' soldier_survivor~
+0 0 0
+#50008
+Jada sienna skinned sienna-skinned jet haired jet-haired young girl~
+a sienna-skinned, jet-haired young girl~
+A sienna-skinned, jet-haired young girl is here.~
+    This girl is young, though her age cannot be judged in certainty.
+Perhaps she has seen as few as eight years, or as many as eleven. Her
+dark eyes glimmer with a clarity beyond those years, however many.
+Her hair is a deep, straight black, and is surprisingly well-kept.
+The color of her hair is darker than would be expected of one with
+her light brown skin. Her features are small save for a wide, though
+otherwise average nose.
+~
+10 0 5 1 0 5d1+64 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+10 10 10 10 12 6 45 12
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#50009
+Betty Queen EGT5 black winged tentacled behemoth human facial features~
+a black-winged, tentacled behemoth with human facial features~
+A black-winged, tentacled behemoth with human facial features looms above.~
+   Dark, nearly pitch-black chitinous exoskeleton protects the 
+domed surface of this fourteen foot-long insectoid creature's 
+external shell. With a body resembling a centipede's, the thorax 
+segment at the rear lies parallel to the floor and is covered in 
+tiny curved legs encased in the same dark chitin. The front 
+portion of the body pulls up from the ground to expose 
+surprisingly humanoid features etched into the silvery 
+underbelly. With two small black eyes lacking irises and a 
+smashed nose that rests above a small mouth, it looks like a 
+small girl has become encased inside this monstrosity. The mouth 
+hangs open and drools some kind of yellowish liquid. The front 
+of the exposed underbelly just below its human 'face' sports 
+several dozen writhing tentacles, some of them ending in sharp 
+bards and others tipped with suckers. Just above the face, the 
+insectoid frame comes to a rounded end with giant wing-like 
+structures that descend from the back of the shell. Made of the 
+same chitinous material as the shell, these small flaps seem to 
+be bathed in a viscious, green substance that is secreted from a 
+number of small orifices that dot the surface. 
+~
+10 4 54 7 11 5d1+200 2d8+5 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 0
+22 16 22 16 16 22 45 13
+0 0
+0 90 90 90 90 90 90 90 90 90
+90 90 90 90 90 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' genetic-terror~
+0 0 0
+#50010
+ship trigger puller~
+the Ship Trigger-Puller~
+The Ship Trigger-Puller is here, pulling triggers.~
+(null)~
+134217738 786434 22 5 100 5d1+140 1d1+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 25 45 16
+0 0
+0 10 0 0 0 0 100 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 100 100 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#50011
+HGT2 grotesquery $hgtbuild $hgtflesh regular~
+a $HGTbuild, $HGTflesh-fleshed grotesquery~
+A $HGTbuild, $HGTflesh-fleshed grotesquery prowls here, drooling.~
+   This $HGTbuild person has mutated to an incredible extent: 
+$HGTflesh flesh hangs off of $HGTscales scales, hands have 
+transformed into $HGTclaws claws, and the creature seems far 
+from being recognizably "human." It prowls, drool running from a 
+$HGTjaw jaw, $HGTtongue tongue lolling obscenely. Wherever 
+skin isn't there is some sort of mutation and these mutations are 
+covered by a $HGTlayer of $HGTliquid. Several $HGTtumor 
+tumors and $HGTflavor cysts also cover the majority of its 
+remaining flesh. This $HGTflavor creature has a large bulge 
+dominating its upper chest, running all the way up to end at its 
+goiter, the flesh ballooning grotesquely outwards. From the 
+bulge comes a deep, thrumming bass - as if from a gigantic heart.
+~
+136314920 4 30 2 6 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 64 0 4 0 0 0 21004544
+13 16 15 16 16 15 40 13
+268435456 0
+0 50 40 39 36 34 50 50 50 50
+50 31 39 34 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' genetic-terror~
+96 86 0
+#50012
+EGT1 insectoid insection $oneegtone teadrop shaped newbie~
+a $oneegtone, teardrop-shaped insectoid~
+A $oneegtone, teardrop-shaped insectoid with a thick exoskeleton creeps nearby.~
+   The nebulous mass of this insectoid creature resembles a  tumor-ridden teardrop. Its chitinous exoskeleton is made of a  shiny black substance with such a bright sheen that appears  metallic in nature. Two dangerous-looking mandibles extend from  the rounded end of the teardrop, coated in some viscous, green  substance that $oneegtone to the ground periodically. Hundreds of  singly-jointed legs of the same black chitin as the shell line  the underbelly of this creature, moving in wave-like unison  whenever it scuttles about. At the front of the underbelly, just  beneath the mandibles, a row of interlocking teeth line the maw  of the creature, which seems to track down along the spine.
+~
+134217768 264196 12 7 3 5d1+80 2d5+0 0 8 8 0 0 0 0 0
+50218 0 0 50058 0 0 50 0 0 0 1 0 30 0 4 0 0 0 0
+8 16 10 16 16 10 45 13
+268435456 0
+0 20 20 20 20 20 20 20 20 20
+20 20 20 20 20 30 28 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'recruit' genetic-terror~
+144 86 0
+#50013
+trigger light changing~
+a light-changing trigger~
+A light-changing trigger does its job here.~
+(null)~
+10 786434 5 0 100 5d1+104 1d1+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 100 100 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#50014
+DrazeNPC fibrous scarred tattooed steel man~
+a fibrous, grotesquely-scarred, tattooed man with one eye~
+A fibrous, tattooed, one-eyed man shambles about, grotesquely scarred.~
+   Of average height and light build, this man's body is riddled 
+with scars. Pockmarks and slashes cover the majority of his 
+frame, and his back and left shoulder are covered in one large 
+burn scar; a scar that obvious signs of skin-grafting and other 
+surgeries have ultimately failed to hide. His right forearm is 
+covered by a tattoo sleeve - it starts at the inside of his wrist 
+with a grinning skull, a dagger stuck in its eye. The skull is 
+on fire, and the flames weave up and around his arm, forming 
+various patterns and pictures. The tattoo ends at his neck, the 
+flames licking at his jugular. Upon his head is sat a mess of 
+thick black hair, reaching just to one hazel eye, his right eye 
+nothing more than a grotesque hole. His nose is crooked, as if 
+broken long ago, and sits above thin lips and a squared jaw. 
+Overall, this man hasn't an ounce of fat on him, his weathered 
+and beaten body is muscular, though wasted slightly from unuse. 
+~
+10 4 16 2 2 5d1+88 2d8+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 2 0 0 0 0 0 0 0 0
+18 11 12 10 17 12 45 12
+0 0
+0 31 41 0 0 0 28 40 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic-terror~
+0 0 0
+#50116
+doorguard variable xWestLocker~
+doorguard locker-room variable~
+A locker-room variable doorguard is here.~
+   This survivor is standing guard, keeping a good distance 
+between themself and others that move by. Overall, they seem 
+somewhat skittish and withdrawn, taken with their own thoughts. 
+Occasionally, a passer-by will catch their attention, but they 
+seem reluctant to make solid eye contact. They just go about 
+their business, silently. 
+~
+10 0 16 1 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 18 40 16
+268435456 0
+0 27 27 26 22 25 27 28 24 26
+24 26 25 23 22 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' secops~
+0 0 0
+#50107
+doorguard viarable xNorthLocker~
+doorguard locker-room variable~
+A locker-room variable doorguard is here.~
+   This survivor is standing guard, keeping a good distance 
+between themself and others that move by. Overall, they seem 
+somewhat skittish and withdrawn, taken with their own thoughts. 
+Occasionally, a passer-by will catch their attention, but they 
+seem reluctant to make solid eye contact. They just go about 
+their business, silently. 
+~
+10 0 15 1 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 18 40 16
+268435456 0
+0 28 23 30 28 29 24 22 23 22
+21 23 28 25 20 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' robotics~
+0 0 0
+#50108
+doorguard viarable xEastLocker~
+doorguard locker-room variable~
+A locker-room variable doorguard is here.~
+   This survivor is standing guard, keeping a good distance 
+between themself and others that move by. Overall, they seem 
+somewhat skittish and withdrawn, taken with their own thoughts. 
+Occasionally, a passer-by will catch their attention, but they 
+seem reluctant to make solid eye contact. They just go about 
+their business, silently. 
+~
+10 0 17 1 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 18 40 16
+268435456 0
+0 23 24 28 22 20 21 28 30 24
+22 29 27 23 22 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' rf_coalition~
+0 0 0
+#50109
+doorguard variable xSouthLocker~
+doorguard locker-room variable~
+A locker-room variable doorguard is here.~
+   This survivor is standing guard, keeping a good distance 
+between themself and others that move by. Overall, they seem 
+somewhat skittish and withdrawn, taken with their own thoughts. 
+Occasionally, a passer-by will catch their attention, but they 
+seem reluctant to make solid eye contact. They just go about 
+their business, silently. 
+~
+10 0 18 1 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 18 40 16
+268435456 0
+0 25 26 30 30 25 30 29 24 30
+21 22 30 28 26 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' the_circle 'commander' new_group~
+0 0 0
+#50015
+EGT2 insectoid large teadrop shaped regular~
+a large, teardrop-shaped insectoid~
+A large, teardrop-shaped insectoid with a ridged exoskeleton creeps nearby.~
+   This insectoid creature resembles a tumor-ridden teardrop, 
+about four to five feet long and maybe a foot and a half high, 
+with a shiny, hard, black chitinous exoskeleton. There is a 
+bright, metallic sheen to the shell, and it appears to be ridged. 
+Two dangerous-looking mandibles extend from the rounded end of 
+the teardrop, coated in some viscous, green substance that drips 
+to the ground periodically. Thousands of singly-jointed legs of 
+the same black chitin as the shell line the underbelly of this 
+creature, moving in wave-like unison whenever it scuttles about. 
+At the front of the underbelly, just beneath the mandibles, a row 
+of interlocking teeth line the maw of the creature, which seems 
+to track down along the spine. These teeth are long, thin, 
+curved and serrated. 
+~
+134217768 524292 24 7 5 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+50218 0 0 50058 0 0 50 0 0 0 1 0 50 0 4 0 0 0 0
+13 16 15 16 16 15 45 13
+0 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 40 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' genetic-terror~
+120 86 0
+#50016
+HGT3 $hgtIIIdescrip mass $hgtIIIhide $hgtIIIsize humanoid form veteran xhgt3~
+a $hgtIIIdescrip mass of $hgtIIIhide on a $hgtIIIsize humanoid form~
+A $hgtIIIdescrip mass of $hgtIIIhide on a $hgtIIIsize humanoid form roams, faceless and terrible.~
+   If human this once was, it is no longer - sexless, faceless, and almost 
+fleshless, it stands $hgtIIIdescrip. In place of skin, $hgtIIIhide. Where the 
+face once was has now been stripped of flesh, leaving only a grinning and 
+bleached white skull. Dried blood clots form in the cavities that once held 
+eyes, a nose, an inner ear - and all of it runs, sticky and warm, down the 
+sides of this thing's head. Out of the maw twists, curls, and seeks an 
+obscenely long red tongue covered in pustules and seeping liquid. A great 
+goiter runs from under the remainder of the jaw, and stretches to mid-chest, 
+bulging and constantly moving as if something is beneath. A few remnants of 
+humanity remain in $hgtIIIsize. 
+~
+136314920 4 36 2 7 5d1+112 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 68 0 0 0 0 50309 20979856
+16 16 18 16 16 18 40 13
+268435456 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' genetic-terror~
+0 86 0
+#50017
+xtrigger xpuller xdeckthree~
+a deck three trigger-puller~
+A deck three trigger-puller is here.~
+(null)~
+10 786434 19 0 100 5d1+104 1d1+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 10 0 0 0 0 88 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 100 100 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' genetic_terror~
+0 0 0
+#50018
+Changying slender ebony-haired woman asian~
+#6a slender, ebony-haired asian woman#0~
+#6A slender, ebony-haired asian woman lingers here, spectrally.#0~
+   Pale, tawny flesh covers this woman's face and her somewhat 
+compressed facial features. A flattened nose hangs just above 
+her thin, pinkish lips and separates her two eyes with black 
+irises. The epicanthic folds on her eyelids and her thin, black 
+eyebrows suggest asian descent. Her straight black hair is tied 
+meticulously into a tight ponytail at the back of her head. Her 
+unremarkable, but quite skinny body is interrupted by a small 
+bulge of deflated fat near the lower half of her abdomen, 
+suggesting significant weight loss in a short period of time. 
+The delicate fingers on her tiny hands are marred with massive 
+calluses that give the skin a nearly see-through off-white 
+colour. 
+~
+10 0 19 1 100 5d1+104 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 88 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic-terror 'member' survivor~
+0 0 0
+#50019
+Abriana buxom lady hourglass-shaped body hedgehog-styled hair~
+#6a buxom lady with an hourglass figure#0~
+#6A buxom lady with an hourglass figure flickers in and out of view here.#0~
+   There is very little about this lady that cannot be described 
+as voluptuously curvaceous. Her round face bears a prominent 
+roman nose that is shadowed on either side by high, defined 
+cheekbones. Soft hazel-coloured eyes peek out from behind a mass 
+of baggy skin and light brown eyebrows. Her hair is 
+painstakingly styled into clumps of spiky hair that reflect a 
+brilliant, nearly-blinding sheen. Despite the evident femininity 
+of her curves, strong shoulders, muscled forearms and 
+barrel-shaped thighs suggest significant physical strength. 
+However, the most prominent feature of her body are her 
+pendulously large breasts that seem out of place, even on a woman 
+of her bulk. 
+~
+10 0 19 1 100 5d1+104 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 88 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic-terror 'member' survivor~
+0 0 0
+#50020
+some dude~
+Some guy~
+(null)~
+(null)~
+8 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#50021
+XProf Ndegwa Adeyemi waspish man curiously mixed-race racial background indefinable~
+a waspish man of curiously mixed-race~
+A waspish man of indefinable racial background stands here.~
+   The light mahogany colour of this man's skin is peppered 
+around his pocketed cheeks, distributed in an uneven smattering 
+pattern. Shaped into a compact, bucket-fro, this man's deeply 
+brown hair maintains its consistency, but is not sufficiently 
+wiry to prevent his hair from bouncing about loftily on his scalp 
+as he moves. Small, beady eyes with irises that are so black 
+they are nearly indistinguishable from the pupils are hidden 
+under thinly folded eyelids and sparse black brows. His waspish 
+figure is bent slightly near where his spine meets his neck, 
+forcing him to bend his neck sharply in order to look upward. 
+The liver-spotted flesh that dangles loosely from his angular 
+bits is wrinkled and purples faintly near his fingertips. 
+~
+10 0 5 1 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+10 21 15 18 11 16 45 13
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#50023
+Draze fibrous scarred tattooed steel man~
+#6a fibrous, scarred, tattooed man#0~
+#6A fibrous man stands here, covered in scars and tattoos.#0~
+   Of average height and light build, this man's body is riddled 
+with scars. Pockmarks and slashes cover the majority of his 
+frame, and his back and left shoulder are covered in one large 
+burn scar; a scar that obvious signs of skin-grafting and other 
+surgeries have ultimately failed to hide. His right forearm is 
+covered by a tattoo sleeve - it starts at the inside of his wrist 
+with a grinning skull, a dagger stuck in its eye. The skull is 
+on fire, and the flames weave up and around his arm, forming 
+various patterns and pictures. The tattoo ends at his neck, the 
+flames licking at his jugular. Upon his head is sat a mess of 
+thick black hair, reaching just to his hazel eyes. His nose is 
+crooked, as if broken long ago, and sits above thin lips and a 
+squared jaw. Overall, this man hasn't an ounce of fat on him, 
+his weathered and beaten body is muscular, though wasted slightly 
+from unuse.
+~
+2097162 0 19 1 100 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 88 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' survivor~
+0 0 0
+#50022
+crewmember variable elite upper deck sneaky~
+a sneaky elite upper deck crewmember~
+A sneaky elite upper deck crewmember is here.~
+   This human has hardened, grizzled features that suggest that 
+they have survivored through desperate circumstances; they bear 
+scars, or missing eyes and fingers, or have a hardened and wary 
+glint in their watchful eyes. They are physically rugged and fit 
+as well, despite whatever their genetic demeanor and disposition 
+may be. They stand, act, or move about with a slow routine that 
+is faintly inhuman. 
+~
+10 0 35 1 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 12 16 16 18 16 40 16
+268435456 0
+0 55 52 57 60 54 58 51 52 59
+52 50 59 51 52 0 50 50 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' jcrew 'member' crew11 'member' survivor~
+0 0 0
+#50024
+bot cleaning rat-sized~
+#2a rat-sized, scuttling cleaning bot#0~
+#2A rat-sized cleaning bot scuttles about busily.#0~
+   This robotic arthropod is about four-to-six inches long and 
+has two pairs of metallic wheel-legs that seem to retract out of 
+a rubber track covered lower body. Its upper body has various 
+compartments lining each side of it, each most likely serving its 
+own purpose. It is no larger than a big rat, moves quickly and 
+blends in with the floor and hall of the deck surprisingly well. 
+~
+270532616 786436 18 8 2 5d1+104 1d4+0 0 8 8 0 0 0 0 0
+5018 0 0 50096 0 0 24 0 0 0 1 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 10 0 0 0 0 80 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 50 40 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' survivor~
+0 0 0
+#50025
+Felix Ramon Ortega Mole muscular young man bald head~
+a muscular young man with a bald head~
+A muscular young man stands here, with no hair atop his shiny head.~
+   This young man has smooth skin the colour of burnt caramel. 
+He is muscular and fit, smooth-faced, and his hair has been 
+shaven to show the entirety of his rounded, shiny bald head. He 
+has a tattoo on his left upper arm, well above the elbow, on the 
+meat of his bicep; it depicts the Bird, Ball and Chain of the 
+United States Marine Corps. He has very little hair on his body: 
+an almost hairless chest, and sparsely hairy arms. His eyes are 
+so intensely light in hue, that they appear to be a nearly 
+translucent blue. 
+~
+10 0 44 1 0 5d1+112 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+22 16 16 16 16 18 45 16
+0 0
+0 70 0 0 0 80 70 70 0 70
+70 0 80 0 0 0 80 0 0 0
+0 0 96 96 0 0 0 0 0 0
+0 0 80 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' survivors~
+0 0 0
+#50026
+EGT3 insectoid $egtsize $egtIVhide $egtIVtail tail~
+a $egtsize, $egtivhide insectoid~
+A $egtsize, $egtivhide insectoid trails slime along its crawling path.~
+   Of a $egtsize, this creature bears perhaps thousands of multi-jointed legs 
+along its segmented body, each bristling with tiny, razor-sharp wires. It is 
+shaped like an elongated teardrop and resembles some sort of insect between a 
+centipede, millipede, and silverfish. The head is at the rounded end, bearing 
+rows of serrated teeth on the underside and jointed mandibles at the front. 
+Sticky green goo constantly drips from its maw. A distance above the mouth sit 
+two forward-facing, lidless eyes - completely crystal-blue and bearing no 
+emotion. Its entire shape is pitch black in color, with a shiny and faintly 
+metallic sheen. The hide itself is formed into $egtIVhide. At the back, 
+pointed end of the body is $egtIVtail, dripping a thick, translucent green 
+liquid. 
+~
+40 4 36 7 7 5d1+120 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 50058 0 0 50 0 0 0 2 0 70 0 0 0 0 50417 0
+16 16 18 16 16 18 45 13
+268435456 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 20 20 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' genetic-terror~
+72 86 0
+#50027
+EGT4 $egtvdesc $egtvfeature insectoid sets $egtvwing wings elite~
+a $egtvdesc, $egtvfeature insectoid with sets of $egtvwing wings~
+A $egtvdesc, $egtvfeature insectoid with sets of $egtvwing wings is here.~
+   Even though it is twelve feet long, this insectoid resembles some bastard 
+child of a centipede, millipede, and a silverfish. It is long, segemented, and 
+many-legged with a size that is $egtvdesc. Like a terran insectoid magnified 
+to absolutely horrific levels. A few outstanding features are in $egtvfeature. 
+Each body segment is hard, oily black chtiin that as a glossy high shine. In 
+between each plate is a tough, but lean, rubbery hide that is marbled pink and 
+black. The barbed tip of a vaguely scorpion-like tail oozes slimy green 
+liquid, syrupy and thick. Its head is snout-like, one long and grotesque, 
+jagged nose with mandibles that secrete that same liquid slime. The jaw itself 
+is long and serrated, without any proper teeth. On either side, facing 
+forward, are half-sphere eyes in a translucent crystal-blue hue. Along its 
+back, on every segment, are three pairs of $egtvwing wings. They run the 
+length of the back and are in constant motion: flapping, flexing, folding, or 
+unfurling. 
+~
+40 2052 45 7 9 5d1+150 2d7+4 0 8 8 0 0 0 0 0
+0 0 0 50058 0 0 50 0 0 0 2 0 76 0 0 0 0 50424 0
+19 16 20 16 16 20 45 13
+268435456 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' genetic-terror 'commander' genetic_terror 'captain' genetic_terrors~
+0 86 0
+#50028
+Phoenix golden fiery winged wings AI~
+#6a golden, fiery-winged phoenix#0~
+#6A golden phoenix hovers here, wings ablaze.#0~
+   Enormous in size, the feathers of this bird are golden in 
+color, and emit a soft, outward glow. Serene blue eyes are on 
+either side of its head, providing a sharp contrast to the 
+glorious gold, red, and orange that make up the rest of the 
+avian's colors. Its massive wings and elongated tail are wrapped 
+in flames, fed from a source unseen, licking at the air. The 
+source of all light in this area, this awe-inspiring creature 
+floats with ease. 
+~
+2097162 0 48 0 15 5d1+140 3d10+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 2 0 0 0 0 0 0 0 0
+25 16 16 16 16 25 45 16
+0 0
+0 90 0 0 0 0 80 40 0 70
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' survivors~
+0 0 0
+#50029
+figure distorted blood bathed~
+a distorted, blood-bathed figure~
+A distorted, vaguely humanoid figure looms here, drenched in blood.~
+   Blood drips from this colossal figure's form, pools around its disfigured 
+feet, and no light seems to touch it. It takes the shape of a man - but its 
+shape is imperfect. Polygons jut at odd angles from its distorted face, their 
+sharpened, often second-dimension tips dripping dark crimson. Offset eyes glow 
+like coals, unblinking, from the depths of a too-heavy brow. The figure's 
+frame, however, is muscular and powerful - its barrel chest and tree-trunk arms 
+are clearly distinguishable, even through the occasional torn polygon. Covered 
+head-to-toe in blood that has no source, this monstrous figure looms, absorbing 
+light, casting shadows. 
+~
+2097160 0 34 0 6 5d1+104 2d8+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 60 0 0 0 0 60 16 0 50
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 10
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#50030
+Jonathan Yamada thin middle-aged asian male~
+#6a thin, middle-aged asian male#0~
+#6A thin, middle-aged asian male#0 is hunched over here, shaking slightly.~
+   Skinny and aging, this light-skinned man's joints are knobby 
+and awkwardly-angled. He is balding, but some thin wisps of 
+solid white hair still cling to the sides of his head, combed 
+neatly down. His features are blunted and wrinkled and a little 
+squished, seemingly pulled to the center of his face. 
+~
+2097162 0 19 1 100 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 88 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' survivor 'member' genetic-terror~
+0 0 0
+#50031
+Doczombie hulking mutated plain bay-haired man~
+the hulking, mutated form of a plain, bay-haired man~
+The hulking, mutated form of a plain, bay-haired man roams nearby.~
+   Standing a little above normal height, this man has shaggy bay 
+colored hair in a straight style, coming to rest wildly at the 
+middle of his neckline. A set of slightly curved eyebrows lay 
+before chocolate brown eyes, set in an oval shape. Aquiline in 
+shape, a nose sits above thin lips. This man's shoulders are 
+broad and lopsided, and his frame is twisted with knotted muscle. 
+Two lanky arms rest by a well-built chest and torso. Turned 
+inwards, the left of them possibly broken, his legs come down 
+with multiple scars scattered across his thighs, knees and 
+calves. His face and form are covered in blood, and his 
+boil-covered tongue vibrates constantly from where it hangs 
+outside of his broken mouth. 
+~
+2097162 4 42 2 10 5d1+140 3d6+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 2 0 0 0 0 0 0 0 0
+25 16 16 16 16 25 45 16
+0 0
+0 80 0 0 0 0 70 60 0 60
+0 70 80 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' survivor~
+20008 10 0
+#50139
+echomaker echo maker~
+an echo maker~
+An echo maker hides by the blastdoor.~
+(null)~
+10 524290 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#50315
+robot rough blocky two-legged legged xALPHA METAL~
+a rough, blocky, two-legged robot~
+A rough, blocky, two-legged robot rests here.~
+   This rough robot is composed of welded and soldered pieces of 
+scrap metal and unidentifiable remelted plastics. The clicking 
+of gears can be heard inside, while the occasional blue spark 
+shows through the cracks in the exterior as the recobbled wiring 
+and chipsets arc. This robot has a blocky and utilitarian shape, 
+placing function over form. It stands upright on two articulated 
+legs, balanced by gyros, giving realistic humanoid movement.
+~
+134217736 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 40 40 0 0 0 0 0 0
+0 0 0 0 0 52 53 0 0 42
+56 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#50316
+robot crude blocky four-legged xALPHA METAL~
+a crude blocky, four-legged robot~
+A crude blocky, four-legged robot rests here.~
+   This rough robot is composed of welded and soldered pieces of 
+scrap metal and unidentifiable remelted plastics. The clicking 
+of gears can be heard inside, while the occasional blue spark 
+shows through the cracks in the exterior as the recobbled wiring 
+and chipsets arc.It has a blocky and utilitarian shape, placing 
+function over form and stands sturdily on four solid limbs which 
+connect to animalian hip-joints. 
+~
+134217736 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 40 40 0 0 0 0 0 0
+0 0 0 0 0 52 53 0 0 42
+56 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#50317
+robot wobbly round spybot four-wheeled wheeled xALPHA METAL~
+a wobbly, round, four-wheeled robot~
+A wobbly, round, four-wheeled robot rests here.~
+   This rough robot is composed of welded and soldered pieces of 
+scrap metal and unidentifiable remelted plastics. The clicking 
+of gears can be heard inside, while the occasional blue spark 
+shows through the cracks in the exterior as the recobbled wiring 
+and chipsets arc. It is more or less flattened on the top and 
+bottom to reduce its clearance, its sides rounded into a circular 
+shape and rests upon four wide wheels distributed over two drive 
+axles, providing a sturdy platform and powerful movement. A hole 
+is cut in the frame on the robot's front where the lens of a boxy 
+security camera protrudes. 
+~
+134217738 524288 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 1 0 0 0 0 0 0 0 0
+8 8 8 8 16 16 45 24
+65536 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 40 40 0 0 0 0 0 0
+0 0 0 0 0 52 53 0 0 42
+56 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#50318
+robot spheroid two-legged legged xALPHA METAL~
+a spheroid, two-legged robot~
+A spheroid, two-legged robot rests here.~
+   This rough robot is composed of welded and soldered pieces of 
+scrap metal and unidentifiable remelted plastics. The clicking 
+of gears can be heard inside, while the occasional blue spark 
+shows through the cracks in the exterior as the recobbled wiring 
+and chipsets arc. It is smoothed and rounded like a ball, small 
+hatches popping open to allow thin appendages to emerge and 
+stands upright on two articulated legs, balanced by gyros, giving 
+realistic humanoid movement. 
+~
+134217736 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 40 40 0 0 0 0 0 0
+0 0 0 0 0 52 53 0 0 42
+56 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#50319
+robot simple round treaded xALPHA METAL~
+a simple, round, treaded robot~
+A simple, round, treaded robot rests here.~
+This simple robot is composed of welded and soldered pieces of 
+scrap metal and unidentifiable remelted plastics. The clicking 
+of gears can be heard inside, while the occasional blue spark 
+shows through the cracks in the exterior as the recobbled wiring 
+and chipsets arc. This robot is more or less flattened on the 
+top and bottom to reduce its clearance, its sides rounded into a 
+circular shape. It rests upon a solid base, where interlinked 
+metal treads run in heavy, clanking belts over an array of small 
+drive-wheels visible from the side. 
+~
+134217736 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 40 40 0 0 0 0 0 0
+0 0 0 0 0 52 53 0 0 42
+56 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#50032
+Jenkins weedy green eyed man~
+a weedy, green-eyed man~
+A weedy, green-eyed man stands here.~
+   Average in height, this man is particularly scrawny, his 
+joints knobbly. He has a rather haggard look about him - his 
+dark hair reaches to his shoulders and is pulled back, wrapped 
+into a loose ponytail with a bit of cloth. A full beard, brown, 
+adorns his face, several inches long and unwashed. Bright green 
+eyes peer from beneath thin eyebrows, and his nose is crooked, 
+broken once a time before. His body does, however, sport a bit 
+of muscle, as well as its own share of scars. 
+~
+10 0 38 0 0 5d1+96 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+17 15 14 10 17 14 45 17
+0 0
+0 50 0 70 0 70 55 70 50 50
+70 0 60 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' rf_coalition~
+0 0 0
+#50033
+brute towering bald mahogany man Imam~
+a towering bald man of mahogany hue~
+A bald, mahogany brute towers here.~
+   This man towers over most others, approaching six and a half 
+feet tall with the build of a barbarian. He has very little body 
+fat apparent, and thick layers of muscle dominate his upper body 
+and legs. There is a hard look in his coal eyes that belies an 
+ever-wary expression. He is entirely bald, though thick black 
+eyelashes and a surprisingly well-kept black beard give stark 
+contrast to his otherwise blemishless face. His nose is wide and 
+flat and his ears are large and round. The man appears to be 
+mature, but not past the last stages of youth. His lips are 
+large and brown, and his entire skin tone is a wash of dark brown 
+and red. 
+~
+10 0 36 0 0 5d1+120 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+18 11 10 10 16 18 40 16
+0 0
+0 60 0 0 0 70 55 55 0 55
+50 0 0 50 0 0 0 0 0 0
+0 0 0 50 50 30 0 0 0 0
+0 0 0 0 0 0 0 0 30 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' anarchs 'member' vultures 'member' wilmingtons 'member' survivor 'member' grungetown~
+0 0 0
+#50034
+Robot GaimonCorp xSurveillancex spheroid antenna~
+a spheroid robot with long antenna~
+A spheroid robot with long antenna hovers here.~
+   This small, spheroid robot hovers here with a low hum on 
+anti-grav engines, a single exhaust port running along it's back 
+side. Four long antenna sprout from it's circumference, 
+extending three feet behind the robot. At its front, a single 
+red lens, several inches in diameter, observes its surroundings. 
+On it's right side, a stylized "GC" is visible. 
+~
+807403530 4 0 8 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#50035
+Robot GaimonCorp xSurveillancex arachnid spider minuscule~
+a minuscule robotic arachnid~
+A minuscule robotic arachnid skitters about here.~
+   This minuscule robotic arachnid is hardly larger than the palm 
+of one's hand, eight wire-thin legs stretching out from a 
+matte-black spheroid body. A tiny red lens stares out from the 
+front of the robot, while on its back a small, stylized "GC" is 
+visible. 
+~
+270532618 4 0 8 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 7 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 55 55 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#50036
+Angelique blonde teen young girl big blue eyes xBetty xQueen xForHAL~
+a young teen girl with big, blue eyes~
+A young teen girl with big, blue eyes stands here watching.~
+   Just in the early stages of puberty, this young girl would appear to be 
+around twelve or so. She is beginning to gain some height, but is still quite 
+a bit shorter than an adult, with a slender body just beginning to fill out. 
+Freckles dot her small nose, but are barely visible against the backdrop of her 
+browned skin. Blonde hair tumbles in an unruly fashion down to her shoulders, 
+framing a round face with a pair of large, crystal blue eyes. 
+~
+10 0 24 5 5 5d1+100 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+13 16 15 10 16 15 40 13
+0 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 100 100 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' genetic-terror~
+0 0 0
+#50037
+QueenAngelique Angelique colossal metallic sheened insectoid exotic facial features Angie Queen3 EGT5 xHAL_RPTDONOTTOUCH~
+a colossal, metallic-sheened insectoid with exotic facial features~
+A colossal, metallic-sheened insectoid with exotic facial features rears up, tentacles and tail held poised to strike.~
+   Absolutely huge, this arthropod is roughly the length of three men - or 
+about thirteen feet long. Numerous segments make up its body, the ones behind 
+the head thicker, broader, and more domed while towards the rear they gradually 
+get smaller and flatter. Eventually, they turn into an almost scorpion-like 
+tail which is held curled over the back, ending in a wicked barb covered in 
+viscuous, green liquid. Armored legs sprawl out from each segment starting 
+halfway down the body, growing smaller and ending just before the tail's base. 
+Along each segment are chitinous flaps - three pair to each - which are capable 
+of flipping up to reveal small wings covered in a light coating of green slime. 
+The tops of the shell have numerous ridges, and scaly patches, the chitin a 
+pitch-black with a faint metallic silver sheen. Past chinks in the body armor 
+can be seen rubbery hide underneath, marbled in pink, grey, and black. On the 
+upper half of the body, legs become a number of tentacles lined with hooks or 
+suckers; except for two, which are long, slender pincers. The head itself is 
+somewhat flattened, with two large, globular eyes in a brilliant blue. Small 
+mandibles are at the front, but flanked by larger, pincer like ones that drip 
+more of the green liquid. Above, a pair of antennae are in constant activity, 
+whipping this way and that. The underside is considerably softer than the 
+back, the translucent metallic scales almost snakelike. Pushing out against 
+the ones right beneath the insectoid head is the distorted, exotic-featured 
+face of a woman. There are darker, deeper lines around her crystalline blue 
+eyes, and her features are pulled into a sneer. Some might recognize the 
+visage as formerly belonging to a dusky-skinned woman with kohl-lined eyes. 
+~
+262154 4 54 7 11 5d1+200 2d10+5 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 1638672
+22 20 22 16 20 22 40 13
+0 0
+0 90 90 90 90 90 90 90 90 90
+90 90 90 90 90 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' genetic-terror~
+0 0 0
+#50038
+HGThalf regular grunger $zombieone $zombietwo~
+a $zombieone $zombietwo Grunger~
+A $zombieone, $zombietwo Grunger stumbles about here.~
+   Despite the $zombieone and $zombietwo nature of this $zombiename, you can 
+still recognize this person as human. Although the vacant gaze of their 
+fused-open eyes and slack hanging jaw are clear indications that they are 
+likely beyond any help. A persistent, guttural groaning issues forth from 
+their ruined gullet, hands twitching off of their own accord. Most movements 
+are shuffling and awkward, save for the occasional savage gesture of speed. 
+Strange growths and boils have broken out across their skin, and a heavy 
+thumping, as if a gargantuan heart beats slowly, echoes from its chest. 
+Tattered shreds of what looks like every phase Grunger clothing hangs from 
+their body, torn apart from their malformations. 
+~
+136314920 2052 15 2 5 5d1+92 2d3+1 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 64 0 0 0 0 0 16843272
+13 16 15 11 13 13 40 12
+268435456 0
+0 25 25 25 25 25 20 20 30 30
+30 30 30 30 30 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' genetic-terror~
+24 86 0
+#50200
+miniscule camera xtubecamera xsbs~
+#2a miniscule circular camera#0~
+#2A miniscule circular camera in the ceiling observes the surroundings#0.~
+   Set within a protective double-paned plexiglass container, the camera itself 
+lays flush with the ceiling. The singular, unblinking lens is colored an 
+unpenetrable matte black. 
+~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 60 2 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 100 100 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#50040
+robot blocky durable humanoid bot~
+a durable, blocky humanoid robot~
+A durable, blocky humanoid robot idles here.~
+   This robot is nothing if not solid. Designed for carrying things from place 
+to place, this robot is a little smaller than your average human, but noticably 
+stronger. There's not a lot of grace to its movements, but there is a lot of 
+power. It's clearly seen better days. The metal its made of is corroded, and 
+some wires stick out from various joints. The face is vaguely humanoid as 
+well, though the dented features and backlit eyes lend an unsettling look to 
+it. 
+~
+8 0 24 0 5 5d1+100 2d5+3 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 0
+13 16 15 16 16 15 40 13
+0 0
+0 0 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 40 40 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
 $~

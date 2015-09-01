@@ -1,1 +1,2937 @@
+#67000
+A Cavernous Lobby~
+   By Grungetown standards this room would be considered cavernous. Wide open 
+and constructed of a blend of steel-grey concrete and moonrock inlaid with 
+veins of high grade white polyprop that present a marbled effect, this spacious 
+chamber is home to a single desk set at the far end that serves as the 
+reception area. The wall behind the faux-woodgrain, polyprop reception station 
+is dominated by #2an immense#0 #1red 'W'#0 #2set within a circle#0. The floor 
+is tition-alloy and textured in a gridwork pattern bare of any manner of 
+covering. Inlaid in the floor's surface, before the desk at the far end, is a 
+mirror image of the wall design. In the southwestern corner of the room a 
+security checkpoint sits before a reinforced doorway leading to polycrete 
+stairs beyond, #2a small sign#0 bolted next to the doorway reading, 
+#9"AUTHORIZED PERSONNEL ONLY"#0. Similarly, in the southeast corner of the 
+room, polycrete stairs descend below. The rest of the room is bare, save for a 
+solitary potted plant that rests atop the reception desk. 
+
+The northern metal doors have been reinforced with a magnon bars. A 
+#2biometric handscanner#0 is bolted against the wall. 
+~
+67 65800 0
+0
+D0
+~
+metal double-doors~
+1 -1  0 67076
+D1
+~
+grey-door~
+1 67000  0 67002
+D2
+~
+~
+0 -1  0 67010
+D3
+~
+grey-door~
+1 -1  0 67001
+D4
+~
+security-door~
+1 5151  0 67016
+D5
+~
+~
+0 -1  0 67057
+E
+handscanner~
+   The biometric handscanner is bolted to the northern wall, near the 
+reinforced metal double-doors. You could #6HANDSCAN NORTH#0 to leave the 
+complex. 
+~
+E
+sign~
+   Composed of chrion-alloy and bolted into a nearby wall, this 
+sign reads, #9"AUTHORIZED PERSONNEL ONLY"#0. 
+~
+E
+small~
+Composed of chrion-alloy and bolted into a nearby wall, this sign reads, #9"AUTHORIZED PERSONNEL ONLY"#0.
+~
+P
+request~
+md1~
+if clanrank(Wilmingtons,Lieutenant)
+delay 1 emote converses with *secretary, requesting a spare key to one of the rooms, and promptly receiving it.
+put 67007 67000
+force -1 -1 get md1
+else do
+vstr You do not have the proper rank to request a key.
+~
+P
+request~
+md2~
+rpprg 1
+if clanrank(Wilmingtons,Lieutenant)
+delay 1 emote converses with *secretary, requesting a spare key to one of the rooms, and promptly receiving it.
+put 67002 67000
+force -1 -1 get md2
+else do
+vstr You do not have the proper rank to request a key.
+~
+P
+request~
+md3~
+rpprg 1
+if clanrank(Wilmingtons,Lieutenant)
+delay 1 emote converses with *secretary, requesting a spare key to one of the rooms, and promptly receiving it.
+put 67003 67000
+force -1 -1 get md3
+else do
+vstr You do not have the proper rank to request a key.
+~
+P
+request~
+md4~
+rpprg 1
+if clanrank(Wilmingtons,Lieutenant)
+delay 1 emote converses with *secretary, requesting a spare key to one of the rooms, and promptly receiving it.
+put 67004 67000
+force -1 -1 get md4
+else do
+vstr You do not have the proper rank to request a key.
+~
+P
+request~
+mpr1~
+if clanrank(Wilmingtons,Lieutenant)
+delay 1 emote converses with *secretary, requesting a spare key to one of the rooms, and promptly receiving it.
+put 67005 67000
+force -1 -1 get mpr1
+else do
+vstr You do not have the proper rank to request a key.
+~
+P
+request~
+mpr2~
+if clanrank(Wilmingtons,Lieutenant)
+delay 1 emote converses with *secretary, requesting a spare key to one of the rooms, and promptly receiving it.
+put 67001 67000
+force -1 -1 get mpr2
+else do
+vstr You do not have the proper rank to request a key.
+~
+P
+request~
+fd1~
+if clanrank(Wilmingtons,Lieutenant)
+delay 1 emote converses with *secretary, requesting a spare key to one of the rooms, and promptly receiving it.
+put 67006 67000
+force -1 -1 get fd1
+else do
+vstr You do not have the proper rank to request a key.
+~
+P
+request~
+fd2~
+if clanrank(Wilmingtons,Lieutenant)
+delay 1 emote converses with *secretary, requesting a spare key to one of the rooms, and promptly receiving it.
+put 67008 67000
+force -1 -1 get fd2
+else do
+vstr You do not have the proper rank to request a key.
+~
+P
+request~
+fd3~
+if clanrank(Wilmingtons,Lieutenant)
+delay 1 emote converses with *secretary, requesting a spare key to one of the rooms, and promptly receiving it.
+put 67009 67000
+force -1 -1 get fd3
+else do
+vstr You do not have the proper rank to request a key.
+~
+P
+request~
+fd4~
+if clanrank(Wilmingtons,Lieutenant)
+delay 1 emote converses with *secretary, requesting a spare key to one of the rooms, and promptly receiving it.
+put 67010 67000
+force -1 -1 get fd4
+else do
+vstr You do not have the proper rank to request a key.
+~
+P
+request~
+fpr1~
+if clanrank(Wilmingtons,Lieutenant)
+delay 1 emote converses with *secretary, requesting a spare key to one of the rooms, and promptly receiving it.
+put 67011 67000
+force -1 -1 get fpr1
+else do
+vstr You do not have the proper rank to request a key.
+~
+P
+request~
+fpr2~
+if clanrank(Wilmingtons,Lieutenant)
+delay 1 emote converses with *secretary, requesting a spare key to one of the rooms, and promptly receiving it.
+put 67012 67000
+force -1 -1 get fpr2
+else do
+vstr You do not have the proper rank to request a key.
+~
+P
+handscan~
+north nort nor no n~
+force -1 -1 emote stands perfectly still, laying their hand on the biometric scanner. The northern door opens to provide outside access.
+atecho 67076 The southern door slides open as #5$n#0 steps out from the compound.
+trans_group -1 67000 67076
+trans 67076
+~
+S
+#67001
+An Expansive Data Library~
+   Though sparsely decorated, this room has clearly been set up 
+as a memorial to Dom Wilmington. Murals covering every wall 
+depict the patriarch of the Wilmington family, in various stages 
+of his life, engaged in a myriad of philanthropic and heroic 
+activities. One depicts Dom Wilmington singlehandedly defending 
+a group of terrified orphans from a rampaging lagato, while 
+another depicts the Wilmington patron dispensing food and 
+medicine to a gathering of lower-class women and children and a 
+third shows an older Dom reading to a group of scientists from a 
+blackboard full of complicated equations. The actual contents of 
+the room are far more practical; rows of computer workstations 
+line one wall while the others are home to racks of labelled data 
+sticks and holodiscs. There is even a shelf containing a number 
+of old-world books. The library is carefully climate controlled 
+to prevent the compromise of its contents. 
+~
+67 65544 0
+0
+D1
+~
+grey-door~
+1 -1  0 67000
+S
+#67002
+The Wilmington Guard Front Office~
+   This space here is slightly widened, paved in what may have 
+once been moonrock but now shaved smooth and set with gleaming 
+ivory-painted polyprop tiles violently kept to a shine. #2A 
+large, #9W-faced#0 #2shield#0 encompasses the floor, implanted 
+meticulously into the tiles. To the south the room continues 
+down a narrow hallway, opening up into a large chamber while a 
+titon-reinforced doorway is embedded in the eastern wall. 
+~
+67 65544 0
+0
+D1
+~
+heavy-door~
+1 67001  0 67003
+D2
+~
+security-door~
+1 67000  0 67004
+D3
+~
+grey-door~
+1 67000  0 67000
+P
+test~
+test~
+info curroom room -1 vnum
+atwrite 67004 couple "Rent Delinquency" "Location: &(curroom)" 
+~
+S
+#67003
+A Spacious Office~
+   Under a panelled ceiling, this spacious office has been built 
+from stained black polyprop beams, nailed and affixed to the rock 
+outcropping, screwed in with large rusting iron bolts. Shelves 
+and benches are set here, where equipment and tools have been 
+left for those who work here. While the maple-panelled partition 
+stretches north-south about the western door and rises to half 
+the height of the room, at the opposite side of this space the 
+ceiling plunges and a stone block wall sports a stylish black W. 
+Cold and damp, the stone floor here shows bumps and ridges, where 
+stalagmites have been sorn and rubbed flat, dripstones split by 
+picks not long ago and set flat. 
+
+Through the square window, the well-illuminated exterior of the 
+entrance to the complex can be seen. 
+~
+67 65544 0
+0
+D3
+~
+heavy-door~
+1 67001  0 67002
+P
+l lo loo look~
+w wi win wind windo window~
+atlook 66291
+atlook 67076
+~
+S
+#67004
+Wilmington Guard Operations Center~
+   Walking through the doorway from the northern chamber, it is 
+quickly noticed that this large, spacious room is designed with a 
+Gothic-style architecture in mind. Extravagant, carved pillars 
+made of white stone line the length of the room from north to 
+south, jutting out from the dark, marbled-painted polyprop floor 
+to brace against the arched ceiling. The windowless-provided 
+darkness of the room is illuminated with the golden light from 
+the antique-looking lamps hung on hooks upon stone pillar. The 
+ceiling itself is a mass of tracery, very complex and extravagant 
+in design, in which circles, squares, octagons and other figures 
+appear, with bosses and great pendants at the intersections. 
+Each pillar in the room is carved in a scrolling, precise design, 
+each with carved ivy and leaves, mixing and mingling with the 
+room-darkened real ivy growing up all along the walls to present 
+an even more archaic setting. 
+
+#2A small intercom pad#0 has been set into the western wall, 
+which you realize allows you to #6PRESS INTERCOM#0 followed by 
+any message you would wish to relay throughout the entire 
+Wilmington center. 
+
+A magnon-reinforced door is set in the western wall, a biometric 
+scanner installed. You realize with proper permissions, you can 
+#6HANDSCAN WEST#0. 
+~
+67 65544 0
+0
+D0
+~
+security-door~
+1 67000  0 67002
+D1
+~
+cell-door~
+3 67000  0 67005
+D2
+~
+security-door~
+1 67000  0 67007
+D3
+~
+vault-door~
+1 5151  0 67006
+E
+intercom~
+   Little more than a push-button and a small speaker, this 
+quaint device appears to act as the receiver and transmitter for 
+an intercom system. A small red, 'W' has been imprinted upon its 
+plastic surface. 
+~
+E
+pad,~
+   Little more than a push-button and a small speaker, this 
+quaint device appears to act as the receiver and transmitter for 
+an intercom system. A small red, 'W' has been imprinted upon its 
+plastic surface. 
+~
+P
+xopen~
+west~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Identification verified. Access granted." 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 67004 The reinforced door creaks open on its own accord, and $n passes through quickly before it shuts once again.
+trans_group -1 67004 67006
+trans 67006
+~
+P
+xfail~
+west~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Necessary Identification unverified. Access denied." 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 67004 A cold, computerized voice speaks: "Warning. Unverified room entry attempted."
+~
+P
+handscan~
+w we wes west~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(wilmguard,corporal)
+delay 8 xopen west
+else do 
+delay 8 xfail west
+fi done
+~
+P
+press~
+intercom~
+atecho 67000-67078 After a 'bzzt' of static, the hidden loudspeakers blare out in an electronic voice:
+atecho 67000-67078 #6"... &(1) &(2) &(3) &(4) &(5) &(6) &(7) &(8) &(9) &(10) &(11) &(12) &(13) &(14) &(15) &(16) &(17) &(18) &(19) &(20) &(21) &(22) &(23) &(24) &(25) &(26) &(27) &(28) &(29) &(30) ..."#0
+~
+S
+#67005
+A Cramped Holding Cell~
+   This cell is relatively small and cramped, room enough for 
+three persons at most. It is lined with hard, titon-reinforced 
+and colorless polyprop walls on each wallside except to the west, 
+where a large iron-banded reinforced door has been placed. A 
+secured makeshift shutter has been implanted into the door about 
+five feet off the ground but otherwise this room remains clean 
+and otherwise dull. 
+~
+67 65800 0
+0
+D3
+~
+cell-door~
+3 67000  0 67004
+S
+#67006
+A Heavily-Reinforced Armory~
+   This vault is made primarily of reinforced, thick 
+titon-and-magnon-weaved polycrete, titon plates incorporated into 
+the walls, floors and ceiling to slow down any would-be 
+safe-crackers who may attempt to tunnel into the vault. 
+Vibration and sound detectors pepper the walls and accumulate 
+sounds and set off an alarm if a lot of noise is made over a 
+period of hours. The vault is locked with a secured with a heavy 
+circular door about three feet thick, unlocked and opened with a 
+retractable set of magnon bars along its side. As one steps into 
+the room, dull flourescent lights flicker on to reveal firearm 
+and weapons racked neatly along each wall whilst safe deposit 
+boxes lay beneath, one every twelve inches. 
+
+A magnon-reinforced door is set in the eastern wall, a biometric 
+scanner installed. You realize with proper permissions, you can 
+#6HANDSCAN EAST#0. 
+~
+67 65544 0
+0
+D1
+~
+vault-door~
+1 5151  0 67004
+P
+handscan~
+e ea eas east~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(wilmguard,corporal)
+delay 8 xopen east
+else do 
+delay 8 xfail east
+fi done
+~
+P
+xopen~
+east~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Identification verified. Access granted." 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 67006 The reinforced door creaks open on its own accord, and $n passes through quickly before it shuts once again.
+trans_group -1 67006 67004
+trans 67004
+~
+P
+xfail~
+east~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Necessary Identification unverified. Access denied." 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 67006 A cold, computerized voice speaks: "Warning. Unverified room entry attempted."
+~
+S
+#67007
+A Faux-Wood Paneled Courtroom~
+   Plastic faux-wood paneling vertically line the four walls 
+surrounding, symbols of #3a golden scale#0 in uniform positions 
+along the walls adding a bit of tasteful decor to the room. A 
+series of four benches lines the northern half of the room, while 
+opposite a raised rich mahogany desk sits prominently upon a 
+piece of polycrete. Seperated from the rest of the room by a 
+partition of wooden railing and bulletproof glass, the judge's 
+bench, the tables for the plaintiff, the defendant, and their 
+respective counsel sit sectioned off from the public whom are 
+offered benches to sit, the each corner bolted to the floor. 
+~
+67 65544 0
+0
+D0
+~
+security-door~
+1 67000  0 67004
+D2
+~
+ornate-door~
+1 67000  0 67008
+D3
+~
+ornate-double-doors~
+1 5151  0 67012
+E
+reformat~
+Plastic faux-wood paneling vertically line the four walls surrounding, symbols of #6a #3golden #6scale#0 in uniform positions along the walls adding a bit of tasteful decor to the room. A series of four benches lines the northern half of the room, while opposite a raised rich mahogany desk sits prominently upon a piece of polycrete. Seperated from the rest of the room by a partition of wooden railing and bulletproof glass, the judge's bench, the tables for the plaintiff, the defendant, and their respective counsel sit sectioned off from the public whom are offered benches to sit, the each corner bolted to the floor.
+~
+S
+#67008
+Faux-Wood Paneled Chambers~
+   Made in a similar fashion as the Courtroom, this small, 
+utilitarian chamber is enveloped faux-wood paneling surrounding a 
+single large desk and well-crafted, black polyplastic chair. #3A 
+large, golden scale#0 is etched masterfully into the backround of 
+the desk, encompassing most of the southern wall. Vents overhead 
+circulate air, tinged with a slightly sweet smell, to provide a 
+cool and relaxing atmosphere throughout. 
+~
+67 65544 0
+0
+D0
+~
+ornate-door~
+1 67000  0 67007
+D3
+~
+ornate-door~
+1 67000  0 67014
+S
+#67010
+A Busy Hallway~
+   Titon-alloy flooring, textured in a gridwork pattern bare of 
+any manner of covering results in a muted, nearly contant clamor 
+as the pitter-patterings of passers by bounce readily off of the 
+walls constructed of a blend of steel-grey concrete and moonrock 
+inlaid with veins of high grade white polyprop that present a 
+marbled effect. A single row of lights cast a warm amber glow 
+off of the area, shadows cast awkwardly by the reflection. To 
+the west #6a small stack of chips#0 has been painted next to a 
+plain doorway, while the hallway itself allows passage to the 
+north and south. 
+~
+67 65544 0
+0
+D0
+~
+~
+0 -1  0 67000
+D2
+~
+~
+0 -1  0 67012
+D3
+~
+plain-door~
+1 67011  0 67011
+S
+#67011
+The Wilmington Commerce Office~
+   Square and drab, this cramped office comes with little in the 
+way of decoration, its four walls constructed purely of polycrete 
+and adorned only with a smattering of hastily scribbled notes 
+here and there. On the floor below a large, worn rug constructed 
+of layered red polymesh fabric helps to offset the gloom, but 
+only slightly. Two small desks backed up near the north and 
+south walls, each with a small computer bolted onto their 
+surfaces, are set facing each other. Upon the western wall is 
+#2a small portrait#0 of #5a blocky, pear-headed man#0. 
+~
+67 65560 0
+0
+D1
+~
+plain-door~
+1 67011  0 67010
+E
+portrait~
+   Small and unobtrusive, this painting depicts the features of 
+#5a blocky, pear-headed man#0 in complex detail. He sits 
+cross-legged in a small, wooden chair, his hands folded in his 
+lap as he looks off to the left at something unseen. 
+~
+S
+#67012
+A Busy Hallway~
+   Titon-alloy flooring, textured in a gridwork pattern bare of 
+any manner of covering results in a muted, nearly constant clamor 
+as the pitter-patterings of passers by bounce readily off of the 
+walls constructed of a blend of steel-grey concrete and moonrock 
+inlaid with veins of high grade white polyprop that present a 
+marbled effect. A single row of lights cast a warm amber glow 
+off of the area, shadows cast awkwardly by the reflection. A 
+large set of expertly crafted double-doors sit below #2a small 
+painting#0 of #3a large, golden scale#0, while an ornate doorway 
+to the west sits unmarked. 
+~
+67 65544 0
+0
+D0
+~
+~
+0 -1  0 67010
+D1
+~
+ornate-double-doors~
+1 5151  0 67007
+D2
+~
+~
+0 -1  0 67014
+D3
+~
+ornate-door~
+1 67005  0 67013
+E
+painting~
+Framed centrally within four strips of handcrafted faux-wood, this intricately crafted painting depicts #7a large, golden scale#0 set atop a mahogany desk with a fireplace burning in the background.
+~
+S
+#67013
+A Brightly-Lit Conference Room~
+   Large rows of bright lights set into the polycrete ceiling 
+above cast a steady amber glow over this room, its walls and 
+floor panelled in a textured and polished white polyprop, lending 
+an air of sophistication to the area despite its utilitarian 
+decor. Centered within the room is a long, white conference 
+table, surrounded by well-crafted, black polyplastic chairs. 
+Vents overhead circulate air, tinged with a slightly sweet smell, 
+throughout the room with surprising effectiveness. 
+~
+67 65544 0
+0
+D1
+~
+ornate-door~
+1 67005  0 67012
+S
+#67014
+A Busy Hallway~
+   Titon-alloy flooring, textured in a gridwork pattern bare of 
+any manner of covering results in a muted, nearly contant clamor 
+as the pitter-patterings of passers by bounce readily off of the 
+walls constructed of a blend of steel-grey concrete and moonrock 
+inlaid with veins of high grade white polyprop that present a 
+marbled effect. A single row of lights cast a warm amber glow 
+off of the area, shadows cast awkwardly by the reflection. An 
+unmarked doorway sits to the east while, to the south, solid 
+metal double doors sit below a carefully painted section of 
+letters, reading #6"Council Chambers"#0. 
+~
+67 65544 0
+0
+D0
+~
+~
+0 -1  0 67012
+D1
+~
+ornate-door~
+1 67000  0 67008
+D2
+~
+metal-double-doors~
+1 -1  0 67015
+D3
+~
+heavy-door~
+1 67005  0 67078
+S
+#67015
+Spartan Council Chambers~
+   This vast and spartan chamber contains little in the way of 
+creature comforts. The center of the semi-circular room is 
+sunken in the fashion of an an amphitheater, complete with raised 
+rows of bench seating constructed of bleached concrete. #2A 
+massive gold W set within a circle#0 dominates the back wall of 
+the room, a plainly visible reminder to those present of the 
+wealth and influence of the Wilmington family. Serving as the 
+centerpiece of the chamber, a dais of Utopian marble rises from 
+the floor. Atop it, a semicircular desk of polished glass rests, 
+a high-backed wooden chair behind it. 
+~
+67 65544 0
+0
+D0
+~
+metal-double-doors~
+1 -1  0 67014
+S
+#67016
+A Spartan Stairwell~
+   A small outcropping in the stairwell serves as a security 
+checkpoint, with a small 'L' shaped desk affixed into the 
+southwestern corner of the arena. Bright lights shine down from 
+above, illuminating all within their area of focus, while a 
+security camera mounted into the ceiling above serves a similar 
+purpose. An ornate doorway is visible further up the stairwell, 
+while a hallway presents itself to the south. 
+~
+67 134283276 0
+0
+D2
+~
+~
+0 -1  0 67017
+D4
+~
+ornate-door~
+1 -1  0 67046
+D5
+~
+security-door~
+1 5151  0 67000
+S
+#67017
+A Utilitarian Hallway~
+   This hallway is reminiscent of a very old cave - formed of 
+polycrete cast in varying shades of gray. It smells of eons-old 
+sweat and chemicals, unmasked by anything but the passage of 
+time. There is no interior decoration here, just bare concrete, 
+coldly utilitarian. A low mechanical hum - and an occasional 
+rattle - persists in the background, seeming to emanate from 
+everywhere at once, like a tangible presence in itself. The 
+hallway itself leads from the northern security checkpoint to the 
+south. To the west, beyond metal double-doors sitting beneath an 
+illustration of food packets, the clamor of socializing and 
+dining is audible. To the east a reinforced metal doorway sits 
+beneath a stencilled "G.B.". 
+~
+67 65544 0
+0
+D0
+~
+~
+0 -1  0 67016
+D1
+~
+reinforced-door~
+1 -1  0 67018
+D2
+~
+~
+0 -1  0 67022
+D3
+~
+metal-double-doors~
+1 -1  0 67020
+S
+#67018
+Guard Barracks~
+   Polycrete walls painted in a drab olive green form the 
+framework this large, rectangular room. Spartan bunks are 
+aligned uniformly along the walls, with the occasional poster of 
+a pin-up girl tacked behind them and footlockers set perfectly in 
+front of each. Several large fans set into the ceiling above do 
+little to dissipate the odor of intermingled sweat and stale air 
+inherent to the conditions of mass living. A plain, plastic 
+doorway allows entrance into the hallway to the south, while the 
+barracks itself continues northwards. 
+~
+67 65800 0
+0
+D0
+~
+~
+0 -1  0 67019
+D3
+~
+reinforced-door~
+1 -1  0 67017
+S
+#67019
+Guard Barracks~
+   Polycrete walls painted in a drab olive green form the 
+framework this large, rectangular room. Spartan bunks are 
+aligned uniformly along the walls, with the occasional poster of 
+a pin-up girl tacked behind them and footlockers set perfectly in 
+front of each. Several large fans set into the ceiling above do 
+little to dissipate the odor of intermingled sweat and stale air 
+inherent to the conditions of mass living. On the northern side 
+of the room sits a small study area, consisting of two small 
+desks set beneath #1a massive 'W', painted in red#0 upon the 
+northern wall, while the barracks itself continues to the south. 
+~
+67 65800 0
+0
+D2
+~
+~
+0 -1  0 67018
+S
+#67020
+A Sterile Mess Facility~
+   Sterile and unwelcoming, this bare, concrete room is little 
+more than a glorified holding area that has been converted into a 
+cafeteria-style dining facility. Lined with rows of long tables 
+and utilitarian seating, there are few creature comforts to be 
+found save for the ironic presence of what can only be described 
+as ambient elevator music punctuated by brief announcements 
+relevant to the goings on within the building. #2A large 
+portrait#0 portraying #5a gangly, dairk-haired man#0 sits to the 
+left of #2a massive#0, #1red-painted 'W'#0 painted upon the 
+western wall, while #2a large portrait#0 of #5a wiry, thin-limbed 
+older man#0 sits to its right. A single queue leading to a food 
+service station snakes along the western wall of the room, 
+leading to a long metal counter behind which bored-looking food 
+service workers stand ready to dispense meals. 
+
+A magnon-reinforced door is set in the northern wall, a biometric 
+scanner installed. You realize with proper permissions, you can 
+#6HANDSCAN NORTH#0. 
+~
+67 65800 0
+0
+D0
+~
+metal-door~
+1 67000  0 67021
+D1
+~
+metal-double-doors~
+1 -1  0 67017
+D3
+~
+~
+0 -1  0 67061
+E
+wiry~
+   Framed within carefully crafted faux-wood, intricately etched 
+in allowance for a deepened sense of realism, this portrait is 
+obviously the product of an incredibly skilled hand. Within the 
+depths of the painting, #5a wiry, thin-limbed older man#0 sits in 
+a large, brown leather executive chair as he looks slightly to 
+the right, his body facing straight forward. A cane rests just 
+to the side of the chair, his right hand delicately keeping its 
+place upon it while the other adjusts the breast of a dark blue, 
+pinstriped suit set atop a crisp, white-collared shirt. 
+~
+E
+older~
+   Framed within carefully crafted faux-wood, intricately etched 
+in allowance for a deepened sense of realism, this portrait is 
+obviously the product of an incredibly skilled hand. Within the 
+depths of the painting, #5a wiry, thin-limbed older man#0 sits in 
+a large, brown leather executive chair as he looks slightly to 
+the right, his body facing straight forward. A cane rests just 
+to the side of the chair, his right hand delicately keeping its 
+place upon it while the other adjusts the breast of a dark blue, 
+pinstriped suit set atop a crisp, white-collared shirt. 
+~
+E
+2.portrait~
+   Framed within carefully crafted faux-wood, intricately etched 
+in allowance for a deepened sense of realism, this portrait is 
+obviously the product of an incredibly skilled hand. Within the 
+depths of the painting, #5a wiry, thin-limbed older man#0 sits in 
+a large, brown leather executive chair as he looks slightly to 
+the right, his body facing straight forward. A cane rests just 
+to the side of the chair, his right hand delicately keeping its 
+place upon it while the other adjusts the breast of a dark blue, 
+pinstriped suit set atop a crisp, white-collared shirt. 
+~
+E
+gangly~
+   Framed within carefully crafted faux-wood, intricately etched 
+in allowance for a deepened sense of realism, this portrait is 
+obviously the product of an incredibly skilled hand. Delicate 
+brushstrokes accent even the most minute details upon the 
+features of #5a gangly, dark-haired man#0 as he stands next to a 
+fireplace, one arm placed atop the mantle while the other is 
+extended in welcoming fashion. A cigar in his lips, his mouth is 
+curled in an ever-present smile, the warmth of his demeanor 
+nearly matching that of the fire set within the fireplace. 
+~
+E
+portrait~
+   Framed within carefully crafted faux-wood, intricately etched 
+in allowance for a deepened sense of realism, this portrait is 
+obviously the product of an incredibly skilled hand. Delicate 
+brushstrokes accent even the most minute details upon the 
+features of #5a gangly, dark-haired man#0 as he stands next to a 
+fireplace, one arm placed atop the mantle while the other is 
+extended in welcoming fashion. A cigar in his lips, his mouth is 
+curled in an ever-present smile, the warmth of his demeanor 
+nearly matching that of the fire set within the fireplace. 
+~
+P
+handscan~
+n no nor nort north~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(wilmingtons,private)
+delay 8 xopen north
+else do 
+delay 8 xfail north
+fi done
+~
+P
+xopen~
+north~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Identification verified. Access granted." 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 67020 The reinforced door creaks open on its own accord, and $n passes through quickly before it shuts once again.
+trans_group -1 67020 67021
+trans 67021
+~
+P
+xfail~
+north~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Necessary Identification unverified. Access denied." 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 67020 A cold, computerized voice speaks: "Warning. Unverified room entry attempted."
+~
+S
+#67021
+An Industrial Kitchen~
+   This is a modern, industrial kitchen that would fit into any 
+higher end restaurant. Spacious and meticulously organized, it 
+is filled with rows of preparation stations, ovens, heat lamps 
+and various other implements used in the production of fresh 
+food. Each row of equipment is separated by a sienna colored 
+tiled floor, allowing easy movement between stations. Though 
+obviously designed for the creation of scratch dishes rather than 
+prepack, a reconstitution unit, complete with water line and a 
+series of microwave ovens are present, sticking out among the 
+more traditional food prep appliances like a sore thumb. 
+Dominating the north end of the room is a spacious walk-in, home 
+to all manner of fresh meat and produce. 
+
+A magnon-reinforced door is set in the southern wall, a biometric 
+scanner installed. You realize with proper permissions, you can 
+#6HANDSCAN SOUTH#0. 
+~
+67 65544 0
+0
+D2
+~
+metal-door~
+1 67000  0 67020
+P
+handscan~
+s so sou sout south~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(wilmingtons,private)
+delay 8 xopen south
+else do 
+delay 8 xfail south
+fi done
+~
+P
+xopen~
+(null)~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Identification verified. Access granted." 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 67021 The reinforced door creaks open on its own accord, and $n passes through quickly before it shuts once again.
+trans_group -1 67021 67020
+trans 67020
+~
+P
+xfail~
+south~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Necessary Identification unverified. Access denied." 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 67021 A cold, computerized voice speaks: "Warning. Unverified room entry attempted."
+~
+S
+#67022
+A Utilitarian Hallway~
+   This hallway is reminiscent of a very old cave - formed of 
+polycrete cast in varying shades of gray. It smells of eons-old 
+sweat and chemicals, unmasked by anything but the passage of 
+time. There is no interior decoration here, just bare concrete, 
+coldly utilitarian. A low mechanical hum - and an occasional 
+rattle - persists in the background, seeming to emanate from 
+everywhere at once, like a tangible presence in itself. Forming 
+a 't' intersection, the hallway allows passage in the four 
+cardinal directions. To the west an 'F' has been painted above a 
+black arrow pointing westward, while a similar arrow points 
+eastward with an 'M' painted above it upon the eastern wall. 
+~
+67 65544 0
+0
+D0
+~
+~
+0 -1  0 67017
+D1
+~
+~
+0 -1  0 67023
+D2
+~
+~
+0 -1  0 67041
+D3
+~
+~
+0 -1  0 67032
+S
+#67023
+A Utilitarian Hallway~
+   This hallway is reminiscent of a very old cave - formed of 
+polycrete cast in varying shades of gray. It smells of eons-old 
+sweat and chemicals, unmasked by anything but the passage of 
+time. There is no interior decoration here, just bare concrete, 
+coldly utilitarian. A low mechanical hum - and an occasional 
+rattle - persists in the background, seeming to emanate from 
+everywhere at once, like a tangible presence in itself. From 
+here the hallway continues east and west. 
+
+#6M.D. 1#0 has been painted over the doorway to the north, while 
+#6M.D. 2#0 has been painted over the doorway to the south. 
+~
+67 65544 0
+0
+D0
+~
+door~
+1 67007  0 67024
+D1
+~
+~
+0 -1  0 67026
+D2
+~
+gray-door~
+1 67002  0 67025
+D3
+~
+~
+0 -1  0 67022
+S
+#67024
+A Comfortable Dorm Room~
+   Light blue plastic paneling has been layered in carefully laid 
+strips over the walls and ceiling in this comfortably-spaced room 
+containing two bunkbeds on the eastern and western walls, lending 
+it an air of calmness. A pastel-colored rug sits atop similar 
+paneling which covers the floors beneath, painted in the 
+convincing guise of terran marble. A plastic fan whirrs 
+overhead, helping to circulate air pushed into the room through a 
+ventilation shaft in the ceiling above, seemingly infused with 
+the sickly sweet smell of processed air. A single desk sits 
+along the northern wall, with #2a well-painted portrait of#0 #5a 
+gangly, dark-haired man#0 centered on the wall above, seemingly 
+keeping watch on the innards of the area. 
+~
+67 65800 0
+0
+D2
+~
+gray-door~
+1 67007  0 67023
+E
+portrait~
+   #5A gangly, dark-haired man#0's features have been expertly 
+captured in this large portrait, set within a poly-plastic frame. 
+Dark brown hair frames his face perfectly, accenting his green 
+eyes in a light which could almost be described as angelic. He 
+smiles warmly at the unseen viewer, his teeth white and perfectly 
+straight betwixt taught cheekbones. 
+~
+S
+#67025
+A Comfortable Dorm Room~
+   Light blue plastic paneling has been layered in carefully laid 
+strips over the walls and ceiling in this comfortably-spaced room 
+containing two bunkbeds on the eastern and western walls, lending 
+it an air of calmness. A pastel-colored rug sits atop similar 
+paneling which covers the floors beneath, painted in the 
+convincing guise of terran marble. A plastic fan whirrs 
+overhead, helping to circulate air pushed into the room through a 
+ventilation shaft in the ceiling above, seemingly infused with 
+the sickly sweet smell of processed air. A single desk sits 
+along the northern wall, with #2a well-painted portrait of#0 #5a 
+gangly, dark-haired man#0 centered on the wall above, seemingly 
+keeping watch on the innards of the area. 
+~
+67 65800 0
+0
+D0
+~
+gray-door~
+1 67002  0 67023
+E
+portrait~
+   #5A gangly, dark-haired man#0's features have been expertly 
+captured in this large portrait, set within a poly-plastic frame. 
+Dark brown hair frames his face perfectly, accenting his green 
+eyes in a light which could almost be described as angelic. He 
+smiles warmly at the unseen viewer, his teeth white and perfectly 
+straight betwixt taught cheekbones. 
+~
+S
+#67026
+A Utilitarian Hallway~
+   This hallway is reminiscent of a very old cave - formed of 
+polycrete cast in varying shades of gray. It smells of eons-old 
+sweat and chemicals, unmasked by anything but the passage of 
+time. There is no interior decoration here, just bare concrete, 
+coldly utilitarian. A low mechanical hum - and an occasional 
+rattle - persists in the background, seeming to emanate from 
+everywhere at once, like a tangible presence in itself. From 
+here the hallway continues east and west. 
+
+#6M.D. 3#0 has been painted over the doorway to the north, while 
+#6M.D. 4#0 has been painted over the doorway to the south. 
+~
+67 65544 0
+0
+D0
+~
+gray-door~
+1 67003  0 67027
+D1
+~
+~
+0 -1  0 67029
+D2
+~
+gray-door~
+1 67004  0 67028
+D3
+~
+~
+0 -1  0 67023
+S
+#67027
+A Comfortable Dorm Room~
+   Light green plastic paneling has been layered in carefully 
+laid strips over the walls and ceiling in this comfortably-spaced 
+room containing two bunkbeds on the eastern and western walls, 
+lending it an air of calmness. A pastel-colored rug sits atop 
+similar paneling which covers the floors beneath, painted in the 
+convincing guise of terran marble. A plastic fan whirrs 
+overhead, helping to circulate air pushed into the room through a 
+ventilation shaft in the ceiling above, seemingly infused with 
+the sickly sweet smell of processed air. A single desk sits 
+along the northern wall, with #2a well-painted portrait of#0 #5a 
+gangly, dark-haired man#0 centered on the wall above, seemingly 
+keeping watch on the innards of the area. 
+~
+67 65800 0
+0
+D2
+~
+gray-door~
+1 67003  0 67026
+E
+portrait~
+   #5A gangly, dark-haired man#0's features have been expertly 
+captured in this large portrait, set within a poly-plastic frame. 
+Dark brown hair frames his face perfectly, accenting his green 
+eyes in a light which could almost be described as angelic. He 
+smiles warmly at the unseen viewer, his teeth white and perfectly 
+straight betwixt taught cheekbones. 
+~
+S
+#67028
+A Comfortable Dorm Room~
+   Light blue plastic paneling has been layered in carefully laid 
+strips over the walls and ceiling in this comfortably-spaced room 
+containing two bunkbeds on the eastern and western walls, lending 
+it an air of calmness. A pastel-colored rug sits atop similar 
+paneling which covers the floors beneath, painted in the 
+convincing guise of terran marble. A plastic fan whirrs 
+overhead, helping to circulate air pushed into the room through a 
+ventilation shaft in the ceiling above, seemingly infused with 
+the sickly sweet smell of processed air. A single desk sits 
+along the northern wall, with #2a well-painted portrait of#0 #5a 
+gangly, dark-haired man#0 centered on the wall above, seemingly 
+keeping watch on the innards of the area. 
+~
+67 65800 0
+0
+D0
+~
+gray-door~
+1 67004  0 67026
+E
+portrait~
+   #5A gangly, dark-haired man#0's features have been expertly 
+captured in this large portrait, set within a poly-plastic frame. 
+Dark brown hair frames his face perfectly, accenting his green 
+eyes in a light which could almost be described as angelic. He 
+smiles warmly at the unseen viewer, his teeth white and perfectly 
+straight betwixt taught cheekbones. 
+~
+S
+#67029
+A Utilitarian Hallway~
+   This hallway is reminiscent of a very old cave - formed of 
+polycrete cast in varying shades of gray. It smells of eons-old 
+sweat and chemicals, unmasked by anything but the passage of 
+time. There is no interior decoration here, just bare concrete, 
+coldly utilitarian. A low mechanical hum - and an occasional 
+rattle - persists in the background, seeming to emanate from 
+everywhere at once, like a tangible presence in itself. From 
+here the hallway continues west. 
+
+#6M.B.#0 has been painted above doorway to the east, while 
+#6M.P.R. 1#0 has been painted over the doorway to the north, and 
+#6M.P.R. 2#0 has been painted over the doorway to the south. 
+~
+67 65544 0
+0
+D0
+~
+ornate-door~
+1 67005  0 67030
+D1
+~
+plain-door~
+1 -1  0 67073
+D2
+~
+ornate-door~
+1 67001  0 67031
+D3
+~
+~
+0 -1  0 67026
+S
+#67030
+Elegant, Private Quarters~
+   Moonrock intermingled with carefully tiled and textured 
+polycrete has been expertly tiled on the floor below, with 
+neither chip nor scuff evident upon the faux-granite's 
+well-polished surface. Overhead a polyplastic fan whirs quietly, 
+pushing aromatic air cooly throughout the room before it 
+recirculates into the inlaid vents set into the ceiling above. 
+The walls have been carefully painted in artistic strokes, 
+creating a mural depicting a hilly terran landscape set around an 
+inviting lake, small mammals and birds illustrated sparingly 
+throughout. #2A faux-fireplace#0 has been built into the eastern 
+wall, with a small switch allowing for it to be turned an off set 
+just above a temperature control knob. Upon the fireplace's 
+mantle sits #2a small portrait#0 of #5a gangly, dark-haired man#0 
+smiling warmly at whomever looks his way. 
+~
+67 67174664 0
+0
+D2
+~
+ornate-door~
+1 67005  0 67029
+E
+portrait~
+   Delicately crafted faux-wood stained the color of a rich, deep 
+mahogany frames this incredibly detailed portrait, obviously the 
+product of an expert hand. With brown hair groomed in a 
+professional and almost presidential manner set atop his head, 
+#5a gangly, dark-haired man#0 looks to the viewer with a friendly 
+glint in his green eyes, small creases at the edges of his 
+eyelids adding a sense of sincerity to his demeanor. His lips 
+lift upwards in a confidant smile, his brilliantly white teeth 
+flashing like a row of polished dominoes. 
+~
+E
+fireplace~
+   Scultped polycrete, painted in the hue of a deep mahogany 
+wood, frames this faux-fireplace in convincing fashion with two 
+greco pillars rising on either side, leading up to a mantle which 
+juts out from the wall about a foot and a half. A small screen 
+composed of titon-alloy links serves as a barrier between the 
+faux-fire itself and those within the quarters beyond. Inside, 
+several small projectors have been set into the inner walls of 
+the faux-fireplace, which also contains several small faux-wood 
+logs stacked atop a metal cradle. When turned on, a small amount 
+of dense gas resembling smoke blows from a small vent at the 
+bottom as the projector's light mingles within, providing the 
+illusion of fire while hot air is pumped in from beyond. 
+~
+S
+#67031
+Elegant, Private Quarters~
+   Moonrock intermingled with carefully tiled and textured 
+polycrete has been expertly tiled on the floor below, with 
+neither chip nor scuff evident upon the faux-granite's 
+well-polished surface. Overhead a polyplastic fan whirs quietly, 
+pushing aromatic air cooly throughout the room before it 
+recirculates into the inlaid vents set into the ceiling above. 
+The walls have been carefully painted in artistic strokes, 
+creating a mural depicting a dense rainforest with a small stream 
+slithering through. #2A faux-fireplace#0 has been built into the 
+eastern wall, with a small switch allowing for it to be turned an 
+off set just above a temperature control knob. Upon the 
+fireplace's mantle sits #2a small portrait#0 of #5a gangly, 
+dark-haired man#0 smiling warmly at whomever looks his way. 
+~
+67 65800 0
+0
+D0
+~
+ornate-door~
+1 67001  0 67029
+E
+portrait~
+   Delicately crafted faux-wood stained the color of a rich, deep 
+mahogany frames this incredibly detailed portrait, obviously the 
+product of an expert hand. With brown hair groomed in a 
+professional and almost presidential manner set atop his head, 
+#5a gangly, dark-haired man#0 looks to the viewer with a friendly 
+glint in his green eyes, small creases at the edges of his 
+eyelids adding a sense of sincerity to his demeanor. His lips 
+lift upwards in a confidant smile, his brilliantly white teeth 
+flashing like a row of polished dominoes. 
+~
+E
+fireplace~
+   Scultped polycrete, painted in the hue of a deep mahogany 
+wood, frames this faux-fireplace in convincing fashion with two 
+greco pillars rising on either side, leading up to a mantle which 
+juts out from the wall about a foot and a half. A small screen 
+composed of titon-alloy links serves as a barrier between the 
+faux-fire itself and those within the quarters beyond. Inside, 
+several small projectors have been set into the inner walls of 
+the faux-fireplace, which also contains several small faux-wood 
+logs stacked atop a metal cradle. When turned on, a small amount 
+of dense gas resembling smoke blows from a small vent at the 
+bottom as the projector's light mingles within, providing the 
+illusion of fire while hot air is pumped in from beyond. 
+~
+S
+#67032
+A Utilitarian Hallway~
+   This hallway is reminiscent of a very old cave - formed of 
+polycrete cast in varying shades of gray. It smells of eons-old 
+sweat and chemicals, unmasked by anything but the passage of 
+time. There is no interior decoration here, just bare concrete, 
+coldly utilitarian. A low mechanical hum - and an occasional 
+rattle - persists in the background, seeming to emanate from 
+everywhere at once, like a tangible presence in itself. From 
+here the hallway continues east and west. 
+
+#6F.D. 1#0 has been painted over the doorway to the north, while 
+#6F.D. 2#0 has been painted over the doorway to the south. 
+~
+67 65544 0
+0
+D0
+~
+gray-door~
+1 67006  0 67033
+D1
+~
+~
+0 -1  0 67022
+D2
+~
+gray-door~
+1 67008  0 67034
+D3
+~
+~
+0 -1  0 67035
+S
+#67033
+A Comfortable Dorm Room~
+   Light pink plastic paneling has been layered in carefully laid 
+strips over the walls and ceiling in this comfortably-spaced room 
+containing two bunkbeds on the eastern and western walls, lending 
+it an air of calmness. A pastel-colored rug sits atop similar 
+paneling which covers the floors beneath, painted in the 
+convincing guise of terran marble. A plastic fan whirrs 
+overhead, helping to circulate air pushed into the room through a 
+ventilation shaft in the ceiling above, seemingly infused with 
+the sickly sweet smell of processed air. A single desk sits 
+along the northern wall, with #2a well-painted portrait of#0 #5a 
+gangly, dark-haired man#0 centered on the wall above, seemingly 
+keeping watch on the innards of the area. 
+~
+67 65800 0
+0
+D2
+~
+gray-door~
+1 67006  0 67032
+E
+portrait~
+   #5A gangly, dark-haired man#0's features have been expertly 
+captured in this large portrait, set within a poly-plastic frame. 
+Dark brown hair frames his face perfectly, accenting his green 
+eyes in a light which could almost be described as angelic. He 
+smiles warmly at the unseen viewer, his teeth white and perfectly 
+straight betwixt taught cheekbones. 
+~
+S
+#67034
+A Comfortable Dorm Room~
+   Light purple plastic paneling has been layered in carefully 
+laid strips over the walls and ceiling in this comfortably-spaced 
+room containing two bunkbeds on the eastern and western walls, 
+lending it an air of calmness. A pastel-colored rug sits atop 
+similar paneling which covers the floors beneath, painted in the 
+convincing guise of terran marble. A plastic fan whirrs 
+overhead, helping to circulate air pushed into the room through a 
+ventilation shaft in the ceiling above, seemingly infused with 
+the sickly sweet smell of processed air. A single desk sits 
+along the northern wall, with #2a well-painted portrait of#0 #5a 
+gangly, dark-haired man#0 centered on the wall above, seemingly 
+keeping watch on the innards of the area. 
+~
+67 65800 0
+0
+D0
+~
+gray-door~
+1 67008  0 67032
+E
+portrait~
+   #5A gangly, dark-haired man#0's features have been expertly 
+captured in this large portrait, set within a poly-plastic frame. 
+Dark brown hair frames his face perfectly, accenting his green 
+eyes in a light which could almost be described as angelic. He 
+smiles warmly at the unseen viewer, his teeth white and perfectly 
+straight betwixt taught cheekbones. 
+~
+S
+#67035
+A Utilitarian Hallway~
+   This hallway is reminiscent of a very old cave - formed of 
+polycrete cast in varying shades of gray. It smells of eons-old 
+sweat and chemicals, unmasked by anything but the passage of 
+time. There is no interior decoration here, just bare concrete, 
+coldly utilitarian. A low mechanical hum - and an occasional 
+rattle - persists in the background, seeming to emanate from 
+everywhere at once, like a tangible presence in itself. From 
+here the hallway continues east and west. 
+
+#6F.D. 3#0 has been painted over the doorway to the north, while 
+#6F.D. 4#0 has been painted over the doorway to the south. 
+~
+67 65544 0
+0
+D0
+~
+gray-door~
+1 67009  0 67037
+D1
+~
+~
+0 -1  0 67032
+D2
+~
+gray-door~
+1 67010  0 67036
+D3
+~
+~
+0 -1  0 67038
+S
+#67036
+A Comfortable Dorm Room~
+   Light purple plastic paneling has been layered in carefully 
+laid strips over the walls and ceiling in this comfortably-spaced 
+room containing two bunkbeds on the eastern and western walls, 
+lending it an air of calmness. A pastel-colored rug sits atop 
+similar paneling which covers the floors beneath, painted in the 
+convincing guise of terran marble. A plastic fan whirrs 
+overhead, helping to circulate air pushed into the room through a 
+ventilation shaft in the ceiling above, seemingly infused with 
+the sickly sweet smell of processed air. A single desk sits 
+along the northern wall, with #2a well-painted portrait of#0 #5a 
+gangly, dark-haired man#0 centered on the wall above, seemingly 
+keeping watch on the innards of the area. 
+~
+67 65800 0
+0
+D0
+~
+gray-door~
+1 67010  0 67035
+E
+portrait~
+   #5A gangly, dark-haired man#0's features have been expertly 
+captured in this large portrait, set within a poly-plastic frame. 
+Dark brown hair frames his face perfectly, accenting his green 
+eyes in a light which could almost be described as angelic. He 
+smiles warmly at the unseen viewer, his teeth white and perfectly 
+straight betwixt taught cheekbones. 
+~
+S
+#67037
+A Comfortable Dorm Room~
+   Light purple paneling has been layered in carefully laid 
+strips over the walls and ceiling in this comfortably-spaced room 
+containing two bunkbeds on the eastern and western walls, lending 
+it an air of calmness. A pastel-colored rug sits atop similar 
+paneling which covers the floors beneath, painted in the 
+convincing guise of terran marble. A plastic fan whirrs 
+overhead, helping to circulate air pushed into the room through a 
+ventilation shaft in the ceiling above, seemingly infused with 
+the sickly sweet smell of processed air. A single desk sits 
+along the northern wall, with #2a well-painted portrait of#0 #5a 
+gangly, dark-haired man#0 centered on the wall above, seemingly 
+keeping watch on the innards of the area. 
+~
+67 65800 0
+0
+D2
+~
+gray-door~
+1 67009  0 67035
+E
+portrait~
+   #5A gangly, dark-haired man#0's features have been expertly 
+captured in this large portrait, set within a poly-plastic frame. 
+Dark brown hair frames his face perfectly, accenting his green 
+eyes in a light which could almost be described as angelic. He 
+smiles warmly at the unseen viewer, his teeth white and perfectly 
+straight betwixt taught cheekbones. 
+~
+S
+#67038
+A Utilitarian Hallway~
+   This hallway is reminiscent of a very old cave - formed of 
+polycrete cast in varying shades of gray. It smells of eons-old 
+sweat and chemicals, unmasked by anything but the passage of 
+time. There is no interior decoration here, just bare concrete, 
+coldly utilitarian. A low mechanical hum - and an occasional 
+rattle - persists in the background, seeming to emanate from 
+everywhere at once, like a tangible presence in itself. From 
+here the hallway continues east. 
+
+#6F.B.#0 has been painted above the doorway to the west, while 
+#6F.P.R. 1#0 has been painted above the door to the north, and 
+#6F.P.R. 2#0 has been painted above the door to the south. 
+~
+67 65544 0
+0
+D0
+~
+ornate-door~
+1 67011  0 67039
+D1
+~
+~
+0 -1  0 67035
+D2
+~
+ornate-door~
+1 67012  0 67040
+D3
+~
+plain-door~
+1 -1  0 67074
+S
+#67039
+Elegant, Private Quarters~
+   Moonrock intermingled with carefully tiled and textured 
+polycrete has been expertly tiled on the floor below, with 
+neither chip nor scuff evident upon the faux-granite's 
+well-polished surface. Overhead a polyplastic fan whirs quietly, 
+pushing aromatic air cooly throughout the room before it 
+recirculates into the inlaid vents set into the ceiling above. 
+The walls have been carefully painted in artistic strokes, 
+creating a mural depicting a sandy beach, encroached upon by the 
+turquoise blue water of an expansive ocean. #2A faux-fireplace#0 
+has been built into the eastern wall, with a small switch 
+allowing for it to be turned an off set just above a temperature 
+control knob. Upon the fireplace's mantle sits #2a small 
+portrait#0 of #5a gangly, dark-haired man#0 smiling warmly at 
+whomever looks his way. 
+~
+67 65800 0
+0
+D2
+~
+ornate-door~
+1 67011  0 67038
+E
+portrait~
+   Delicately crafted faux-wood stained the color of a rich, deep 
+mahogany frames this incredibly detailed portrait, obviously the 
+product of an expert hand. With brown hair groomed in a 
+professional and almost presidential manner set atop his head, 
+#5a gangly, dark-haired man#0 looks to the viewer with a friendly 
+glint in his green eyes, small creases at the edges of his 
+eyelids adding a sense of sincerity to his demeanor. His lips 
+lift upwards in a confidant smile, his brilliantly white teeth 
+flashing like a row of polished dominoes. 
+~
+E
+fireplace~
+   Scultped polycrete, painted in the hue of a deep mahogany 
+wood, frames this faux-fireplace in convincing fashion with two 
+greco pillars rising on either side, leading up to a mantle which 
+juts out from the wall about a foot and a half. A small screen 
+composed of titon-alloy links serves as a barrier between the 
+faux-fire itself and those within the quarters beyond. Inside, 
+several small projectors have been set into the inner walls of 
+the faux-fireplace, which also contains several small faux-wood 
+logs stacked atop a metal cradle. When turned on, a small amount 
+of dense gas resembling smoke blows from a small vent at the 
+bottom as the projector's light mingles within, providing the 
+illusion of fire while hot air is pumped in from beyond. 
+~
+S
+#67040
+Elegant, Private Quarters~
+   Moonrock intermingled with carefully tiled and textured 
+polycrete has been expertly tiled on the floor below, with 
+neither chip nor scuff evident upon the faux-granite's 
+well-polished surface. Overhead a polyplastic fan whirs quietly, 
+pushing aromatic air cooly throughout the room before it 
+recirculates into the inlaid vents set into the ceiling above. 
+The walls have been carefully painted in artistic strokes, 
+creating a mural depicting a mountainous landscape, capped by 
+snowy peaks. #2A faux-fireplace#0 has been built into the 
+eastern wall, with a small switch allowing for it to be turned an 
+off set just above a temperature control knob. Upon the 
+fireplace's mantle sits #2a small portrait#0 of #5a gangly, 
+dark-haired man#0 smiling warmly at whomever looks his way. 
+~
+67 65800 0
+0
+D0
+~
+ornate-door~
+1 67012  0 67038
+E
+portrait~
+   Delicately crafted faux-wood stained the color of a rich, deep 
+mahogany frames this incredibly detailed portrait, obviously the 
+product of an expert hand. With brown hair groomed in a 
+professional and almost presidential manner set atop his head, 
+#5a gangly, dark-haired man#0 looks to the viewer with a friendly 
+glint in his green eyes, small creases at the edges of his 
+eyelids adding a sense of sincerity to his demeanor. His lips 
+lift upwards in a confidant smile, his brilliantly white teeth 
+flashing like a row of polished dominoes. 
+~
+E
+fireplace~
+   Scultped polycrete, painted in the hue of a deep mahogany 
+wood, frames this faux-fireplace in convincing fashion with two 
+greco pillars rising on either side, leading up to a mantle which 
+juts out from the wall about a foot and a half. A small screen 
+composed of titon-alloy links serves as a barrier between the 
+faux-fire itself and those within the quarters beyond. Inside, 
+several small projectors have been set into the inner walls of 
+the faux-fireplace, which also contains several small faux-wood 
+logs stacked atop a metal cradle. When turned on, a small amount 
+of dense gas resembling smoke blows from a small vent at the 
+bottom as the projector's light mingles within, providing the 
+illusion of fire while hot air is pumped in from beyond. 
+~
+S
+#67041
+A Slightly Humid Latrine Junction~
+   A bucket and a brush have been painted above the open frame 
+leading from the hallway into an east-west junction here. The 
+air is thick and humid here, carrying with it the faint smell of 
+chemicals. Polished polycrete tiles compose the floor beneath, 
+leading off eastwards towards a small entryway with an 'M' 
+painted above it, while a similar entryway to the east has had an 
+'F' painted above it. 
+~
+67 65544 0
+0
+D0
+~
+~
+0 -1  0 67022
+D1
+~
+~
+0 -1  0 67043
+D3
+~
+~
+0 -1  0 67042
+S
+#67042
+A Female Latrine~
+   The faint sickly sweet smell of cheap perfume lingers in the air within this 
+room formed of cheap, textured pink polyprop tiling. Upon the western wall 
+sits a row of toilets with comfortably padded, floral-pattern-decorated, seats. 
+Large vanity mirrors hang above white, polyprop sinks set into the eastern 
+wall. To the south a slight mist and the reek of industrial bleach betrays 
+showers beyond. 
+~
+67 65544 0
+0
+D1
+~
+~
+0 -1  0 67041
+D2
+~
+~
+0 -1  0 67045
+S
+#67043
+A Male Latrine~
+   Polycrete is set upon the floor beneath caked in an ever-present layer of 
+hardened grime composed of dingy grayish-greens and blacks despite scuff marks 
+betraying obvious efforts to polish its surface. The reek of industrial bleach 
+from the retreated water of the showers to the south rules here, but hints of a 
+stale, slightly foul odor lingers in the air here, a mix of sweat, feces and 
+humidity. A single row of open toilets, devoid of stalls or privacy of any 
+manner, sits upon the eastern edge of the room while sinks have been bolted 
+into the west. To the south a spartan shower room can be seen. 
+~
+67 65544 0
+0
+D2
+~
+~
+0 -1  0 67044
+D3
+~
+~
+0 -1  0 67041
+S
+#67044
+Male Showers~
+   Four large, metal poles have been set in the polycrete tile from floor to 
+ceiling, warm to the touch as a set of four shower heads juts out from each. A 
+water spigot is connected to city piping above while a large tank is attached 
+with a pull-chain to allow the chemicals within to mix with the water flow. 
+The tank label reads, #6"CAUTION: CAUSTIC BLEACH CONCENTRATE"#0 on its side. 
+Cramped and borderline uncomfortable, this space is humid and warm, fueled by 
+the constant barrage of showers taken by the unclean masses - although how 
+clean one can become from a shower of the greyish water that reeks of 
+industrial bleach is questionable. 
+~
+67 65544 0
+0
+D0
+~
+~
+0 -1  0 67043
+E
+reformat~
+zsave 67
+l
+~
+K
+131 1 1000 200 50S
+#67045
+Female Showers~
+   Four large, metal poles have been set in the polycrete tile from floor to 
+ceiling, warm to the touch as a set of four shower heads juts out from each. A 
+water spigot is connected to city piping above while a large tank is attached 
+with a pull-chain to allow the chemicals within to mix with the water flow. 
+The tank label reads, #6"CAUTION: CAUSTIC BLEACH CONCENTRATE"#0 on its side. 
+Cramped and borderline uncomfortable, this space is humid and warm, fueled by 
+the constant barrage of showers taken by the unclean masses - although how 
+clean one can become from a shower of the greyish water that reeks of 
+industrial bleach is questionable. 
+~
+67 65544 0
+0
+D0
+~
+~
+0 -1  0 67042
+K
+131 1 1000 200 50S
+#67046
+At the Top of a Spartan Stairwell~
+   A faintly sweet smell lingers at the top of the staircase 
+rising from below, its ascension ending here at the very 
+beginnings of a hallway panelled with polished white polyplastic, 
+textured below for traction. To the north it appears as if a 
+balcony has been converted into some sort of makeshift 
+observation post, while the hallway itself leads southwards. 
+~
+67 65544 0
+0
+D0
+~
+~
+0 -1  0 67047
+D1
+~
+ornate-door~
+1 67048  0 67048
+D2
+~
+~
+0 -1  0 67049
+D5
+~
+ornate-door~
+1 -1  0 67016
+S
+#67047
+Guard Bunker Overlooking the Market~
+   Set upon what appears to originally have been a balcony formed 
+of polycrete and metal framing, this area has been converted into 
+a reinforced bunker of sorts. Bags filled with moondust and 
+rubble have been stacked atop one another, small polycrete blocks 
+interspersed within. Hastily welded chrion forms a slit about 
+two feet tall and four feet wide, allowing those within to look 
+down upon the section of market set before the Wilmington 
+Municipal Building, passers by coming and going with little 
+awareness of this lofty perch. 
+~
+67 65544 0
+0
+D0
+~
+metal-slit~
+3 5000  0 67076
+D2
+~
+~
+0 -1  0 67046
+S
+#67048
+A Large, Neutral-Colored Room~
+   While the furnishings are finely-made and well-kept, they lack 
+color and personalization, instead boasting only neutral tones. 
+Plush carpet softens the steps of those walking across it, the 
+deep color of it hiding any dirt or mess that might otherwise be 
+apparent. There are no windows, the only light that of the lamps 
+that have been situated about the office. A single door leads 
+out into the hallway in the western direction. 
+~
+67 65544 0
+0
+D3
+~
+ornate-door~
+1 67048  0 67046
+S
+#67049
+An Elegant Hallway~
+   Softly glowing lights sit overhead, casting a warm glow over 
+the reflective white poly-plastic panelling set into the walls 
+and floor of the hallway. Vents gently whir overhead, 
+recirculating air and lending it an almost fresh scent, tinged 
+with a slight sweetness. A clear plastic doorway, marked with a 
+small plant upon its edge, allows passage westward, directly 
+across from an ornately crafted doorway to the east. 
+~
+67 65544 0
+0
+D0
+~
+~
+0 -1  0 67046
+D1
+~
+ornate-door~
+1 67048  0 67050
+D2
+~
+~
+0 -1  0 67054
+D3
+~
+clear-plastic-door~
+1 -1  0 67051
+S
+#67050
+A Large, Ornate Room~
+   A large window bring an airy quality to this small room built 
+of whitewashed stone. A brightly colored, woven carpet covers 
+much of the stone floor slabs. Though small, the room is 
+adequate enough to hold a few choice pieces of furniture. A 
+strong titon-alloy door in the western wall is the only means of 
+exit from this room. 
+~
+67 65544 0
+0
+D3
+~
+ornate-door~
+1 67048  0 67049
+S
+#67051
+A Rooftop Greenhouse~
+   This enclosed rooftop garden is constructed of clear, 
+high-grade polyprop panes set in a titon-alloy frame. Designed 
+in the shape of large fractal dome, it houses many deep troughs 
+of soil arranged into rows that run the length of the building. 
+Water lines run to each trough from a central tank, supplying all 
+of the growing organics with a nutrient infused water supply. At 
+the center of the structure rests a bank of advanced machinery; a 
+water purifyer, irrigation flow-control regulator and climate 
+control and monitoring station all designed to replicate and 
+maintain an ideal hothouse climate. Also present, though in a 
+distinctly smaller quantity, are a quantity of hydroponic farming 
+tanks. 
+~
+67 65544 0
+0
+D0
+~
+~
+0 -1  0 67052
+D1
+~
+clear-plastic-door~
+1 -1  0 67049
+S
+#67052
+A Rooftop Greenhouse~
+   The clear dome of polyprop panes and titon-alloy frame allows 
+a softened view at the unforgiving sunlight of the lunar days, or 
+orange-red expanse of Earth on a backdrop of stars through the 
+nights. Below, the air is warm and humid, almost stifling and 
+rich with the scent of damp earth and growing plants. Multiple 
+troughs of soil and growing greenery line the length of the 
+building, with space to walk in between. Along with the control 
+center and water purifier, someone has added a slight artsy 
+flare: a small fountain off to one side, surrounded by chunks of 
+grey moonrock that are positioned out of reach of the water. 
+Almost immediately, the water is cycled back into the system, and 
+out to the plants. 
+~
+67 65544 0
+0
+D2
+~
+~
+0 -1  0 67051
+S
+#67053
+Pumping Station~
+   Pipes run throughout the walls, ceiling and floor of this 
+cramped room, the occassional drip plunking into ever-expanding 
+puddles on the polycrete floor beneath. The faint smell of 
+mildew and humidity hangs heavy in the air here, made all the 
+worse by its confined and windowless nature. Constantly abuzz 
+with the churning of machinery, it is quite obvious that this 
+area is used to pump and reclaim water from the facility. 
+~
+67 65560 0
+0
+S
+#67054
+An Elegant Hallway~
+   Softly glowing lights sit overhead, casting a warm glow over 
+the reflective white poly-plastic panelling set into the walls 
+and floor of the hallway. Vents gently whir overhead, 
+recirculating air and lending it an almost fresh scent, tinged 
+with a slight sweetness. An ornately crafted doorway sits within 
+the eastern wall, while a massive set of double doors sits to the 
+south with #2a large#0 #1red 'W'#0 painted above. 
+~
+67 65544 0
+0
+D0
+~
+~
+0 -1  0 67049
+D1
+~
+ornate-door~
+1 67048  0 67055
+D2
+~
+massive-double-doors~
+1 67048  0 67056
+S
+#67055
+A Large, Ornate Room~
+   A large window bring an airy quality to this small room built 
+of whitewashed stone. A brightly colored, woven carpet covers 
+much of the stone floor slabs. Though small, the room is 
+adequate enough to hold a few choice pieces of furniture. A 
+strong titon-alloy door in the western wall is the only means of 
+exit from this room. 
+~
+67 65544 0
+0
+D3
+~
+ornate-door~
+1 67048  0 67054
+S
+#67056
+A Grand Bedroom~
+   Intricately etched, white polyplastic panels depicting murals 
+of terran lands long unseen have been laid over the solid 
+polycrete walls of this room. A fan whirrs softly overhead, 
+casting a freshness into the air. The floor below is composed of 
+moonrock and polycrete mix, giving it a marbled appearance which 
+lends an aire of elegance to the area, combining well with #2a 
+large faux fireplace#0 which has been set into the eastern wall. 
+Soft, classical music plays constantly from some source unseen. 
+~
+67 65544 0
+0
+D0
+~
+massive-double-doors~
+1 67048  0 67054
+S
+#67057
+A Harshly-Lit Security Checkpoint~
+   Harsh, bright lights shine down from all corners of this 
+cramped space formed of metal reinforced polycrete, obviously 
+intended as a chokepoint, pushing out the shadows that would be. 
+A video camera has been mounted into the ceiling above, a few 
+small wires piercing back into the polycrete and to some unknown 
+origin. A small, metal, 'L'-shaped desk has been fitted into the 
+southwestern corner alongside a reinforced security door with #2a 
+small sign#0 bolted next to it which reads, #9"AUTHORIZED 
+PERSONNEL ONLY"#0. Meanwhile, polycrete stairs lead into the 
+area above. 
+~
+67 134283276 0
+0
+D2
+~
+security-door~
+1 5151  0 67058
+D4
+~
+~
+0 -1  0 67000
+E
+sign~
+   Composed of chrion-alloy and bolted into a nearby wall, this 
+sign reads, #9"AUTHORIZED PERSONNEL ONLY"#0. 
+~
+S
+#67058
+An Underground Hallway~
+   Solid polycrete reinforced by the occassional metal support 
+set within the nearby walls gives this corridor a decidedly solid 
+feeling, each footstep echo'ing against the unreleting surface 
+underfoot. A long, single row of lights shines down in a 
+familiar white-blue fluorescent, casting trick shadows throughout 
+the surrounding area. Overhead vents, pipes and electrical cords 
+combine in a twisted entanglement of utility and space-saving 
+function, setting the entire corridor abuzz with a constant, low 
+hum. To the north is a security checkpoint, while the hallway 
+itself 'T's off here, allowing for passage east - past a 
+beaker-marked sign -, west - past a lightning-bolt-marked sign -, 
+and south. 
+~
+67 65544 0
+0
+D0
+~
+security-door~
+1 5151  0 67057
+D1
+~
+~
+0 -1  0 67064
+D2
+~
+~
+0 -1  0 67071
+D3
+~
+~
+0 -1  0 67059
+S
+#67059
+An Underground Hallway~
+   Solid polycrete reinforced by the occassional metal support 
+set within the nearby walls gives this corridor a decidedly solid 
+feeling, each footstep echo'ing against the unreleting surface 
+underfoot. A long, single row of lights shines down in a 
+familiar white-blue fluorescent, casting trick shadows throughout 
+the surrounding area. Overhead vents, pipes and electrical cords 
+combine in a twisted entanglement of utility and space-saving 
+function, setting the entire corridor abuzz with a constant, low 
+hum. To the north, thick eletrical wires pierce through the 
+polycrete into the unseen beyond, while southwards a small broom 
+has been illustrated alongside the plain doorway. 
+~
+67 65544 0
+0
+D0
+~
+plain-door~
+1 -1  0 67062
+D1
+~
+~
+0 -1  0 67058
+D2
+~
+plain-door~
+1 -1  0 67063
+D3
+~
+~
+0 -1  0 67060
+S
+#67060
+An Underground Hallway~
+   Solid polycrete reinforced by the occassional metal support 
+set within the nearby walls gives this corridor a decidedly solid 
+feeling, each footstep echo'ing against the unreleting surface 
+underfoot. A long, single row of lights shines down in a 
+familiar white-blue fluorescent, casting trick shadows throughout 
+the surrounding area. Overhead vents, pipes and electrical cords 
+combine in a twisted entanglement of utility and space-saving 
+function, setting the entire corridor abuzz with a constant, low 
+hum. To the north a small lightning-bolt has been painted next 
+to the plain doorway, while to the south #2a small sign#0 reads, 
+#9"Secure Storage - Authorized Personnel Only"#0. 
+
+A magnon-reinforced door is set into both the southern and 
+northern walls, a biometric scanner installed in each. You 
+realize with proper permissions, you can #6HANDSCAN SOUTH#0 or 
+#6HANDSCAN NORTH#0. 
+~
+67 65544 0
+0
+D0
+~
+reinforced-door~
+1 5151  0 67077
+D1
+~
+~
+0 -1  0 67059
+D2
+~
+reinforced-door~
+1 5151  0 67075
+D3
+~
+~
+0 -1  0 67080
+P
+xopen~
+south~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Identification verified. Access granted." 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 67075 The reinforced door creaks open on its own accord, and $n passes through quickly before it shuts once again.
+trans_group -1 67060 67075
+trans 67075
+~
+P
+xfail~
+south~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Necessary Identification unverified. Access denied." 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 67060 A cold, computerized voice speaks: "Warning. Unverified room entry attempted."
+~
+P
+handscan~
+south sout sou so s~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(wilmingtons,sergeant)
+delay 8 xopen south
+else do 
+delay 8 xfail south
+fi done
+~
+P
+xfail~
+north~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Necessary Identification unverified. Access denied." 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 67060 A cold, computerized voice speaks: "Warning. Unverified room entry attempted."
+~
+P
+handscan~
+n no nor nort north~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(wilmingtons,corporal)
+delay 8 xopen north
+else do 
+delay 8 xfail north
+fi done
+~
+P
+xopen~
+north~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Identification verified. Access granted." 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 67075 The reinforced door creaks open on its own accord, and $n passes through quickly before it shuts once again.
+trans_group -1 67060 67077
+trans 67077
+~
+S
+#67062
+A Noisy Generator Room~
+   Wires and all manners of utility have been crammed into this 
+room constructed of dense, drab polycrete. The air wafting 
+through the area smells of chemicals mixed with a metallic 
+substance, lending itself to nausea over long periods of 
+exposure. Meanwhile, the constant din of mechanical movements 
+unseen in the walls beyond sets the room constantly abuzz. 
+~
+67 65544 0
+0
+D2
+~
+plain-door~
+1 -1  0 67059
+S
+#67063
+A Cramped Utility Room~
+   Little more than a closet, this spartan room houses various 
+shelves and racks of maintenance equipment used for the upkeep of 
+the complex. It is also home to the building's conduits to 
+Grungetown's water supply and electrical grid. Beyond that, its 
+only other contents of note are the controls to the climate 
+regulating system for the building. 
+~
+67 65560 0
+0
+D0
+~
+plain-door~
+1 -1  0 67059
+D5
+~
+metal-grate~
+1 -1  0 68020
+S
+#67064
+An Underground Hallway~
+   Solid polycrete reinforced by the occassional metal support 
+set within the nearby walls gives this corridor a decidedly solid 
+feeling, each footstep echo'ing against the unreleting surface 
+underfoot. A long, single row of lights shines down in a 
+familiar white-blue fluorescent, casting trick shadows throughout 
+the surrounding area. Overhead vents, pipes and electrical cords 
+combine in a twisted entanglement of utility and space-saving 
+function, setting the entire corridor abuzz with a constant, low 
+hum. 
+
+#6A small beaker#0 has been painted next to the northern doorway. 
+#6A thick, metal wrench#0 has been painted alongside the eastern 
+doorway. #6A tiny robot with antennae#0 has been meticulously 
+painted next to the southern doorway. 
+~
+67 65544 0
+0
+D0
+~
+reinforced-door~
+1 -1  0 67065
+D1
+~
+reinforced-door~
+1 -1  0 67069
+D2
+~
+reinforced-door~
+1 -1  0 67067
+D3
+~
+~
+0 -1  0 67058
+S
+#67065
+A Well-Equipped Biochemistry Laboratory~
+   Pristine and spacious, this lab houses an abundance of 
+research equipment used in the study and manufacture of 
+biological and chemical compounds. Work tables are set evenly 
+across the floor space, each home to sets of implements designed 
+with scientific research in mind. Climate controlled cabinets 
+line the walls, each containing various materials, solutions and 
+agents used in the research and manufacturing processes carried 
+out here. Another area of the room is home to several larger 
+pieces of research machinery; a chromatogram, several different 
+imaging devices, a centrifuge, spectroscopes and many other 
+important devices. Yet another area is devoted to biological 
+research and contains dissection stations, specimen holding 
+tanks, a DNA sequencer and two autopsy stations. 
+~
+67 65544 0
+0
+D1
+~
+plain-door~
+1 -1  0 67066
+D2
+~
+reinforced-door~
+1 -1  0 67064
+S
+#67066
+A Utilitarian Storage Room~
+   Drab polycrete walls form the four walls of this cramped 
+space, a single light overhead providing adequate light for the 
+entire area. A nearly overwhelming odor of chemicals and 
+biological compounds fill the windowless area despite an overhead 
+vent's continual efforts to suck and circulate air in and from 
+the room. 
+~
+67 65544 0
+0
+D3
+~
+plain-door~
+1 -1  0 67065
+S
+#67067
+A Slightly Chaotic Robotics Lab~
+   The irony of this workroom is that, despite its obvious 
+function as a robotics lab, there does not appear to be a single 
+operational robot present. All of the work is carried out by 
+technicians with tools ranging from primitive to newtek. 
+Pristine programming stations complete with complicated 
+calibration and diagnostic computers sit directly beside grimy 
+workbenches littered with scraps of bot armor, grease and 
+disassembled drive mechanisms. Despite the appearance of 
+organized chaos, there does not appear to be any spill-over from 
+station to station and the technicians present all appear to be 
+in sync with one another as projects move seamlessly from stage 
+to stage of progress and finally to completion. The floor at the 
+far end of the room houses a test area painted in a pattern of 
+alternating diagonal yellow and black stripes and surrounded by a 
+metal railing. 
+~
+67 65544 0
+0
+D0
+~
+reinforced-door~
+1 -1  0 67064
+D1
+~
+plain-door~
+1 -1  0 67068
+S
+#67068
+Robotics/Elec. Storage~
+   Wires and circuits are splayed over shelves and workbenches 
+throughout this small room, along with various electrical devices 
+in various states of disrepair. Overhead a single light shines 
+down upon the rest of the room in all of its semi-dimmed 
+splendor. 
+~
+67 65544 0
+0
+D3
+~
+plain-door~
+1 -1  0 67067
+S
+#67069
+An Ozone-Scented Workshop~
+   The acrid scent of ozone permiates the air of this extremely 
+active machine shop. Numerous workstations are manned by plasma 
+torch wielding technicians, maintenance crew and artisans busily 
+engaged in activities ranging from the repair of complicated 
+mechanical devices to the manufacture of firearms. Despite the 
+climate control equipment, the heat from the sweltering central 
+forge is all but overpowering as it glows white hot among the 
+constant activity. The walls are covered in displays ranging 
+from blueprints to safety warnings and a bevy of half-completed 
+projects, devices in the process of being cannibalized for parts 
+and completed projects awaiting final inspection and approval 
+occupy large areas of the room. 
+~
+67 65544 0
+0
+D0
+~
+plain-door~
+1 -1  0 67070
+D3
+~
+reinforced-door~
+1 -1  0 67064
+S
+#67070
+A Utilitarian Storage Room~
+   Splotches of oil and grease have been smattered over the walls 
+and floor in this area despite obvious attempts to clean them. A 
+single overhead light provides illumination for the area, largely 
+comprised of shelves and benches used for the storage of parts 
+and pieces necessary to the work of an engineer or mechanic. 
+~
+67 65544 0
+0
+D2
+~
+plain-door~
+1 -1  0 67069
+S
+#67071
+An Underground Hallway~
+   Solid polycrete reinforced by the occassional metal support 
+set within the nearby walls gives this corridor a decidedly solid 
+feeling, each footstep echo'ing against the unreleting surface 
+underfoot. A long, single row of lights shines down in a 
+familiar white-blue fluorescent, casting trick shadows throughout 
+the surrounding area. Overhead vents, pipes and electrical cords 
+combine in a twisted entanglement of utility and space-saving 
+function, setting the entire corridor abuzz with a constant, low 
+hum. From here the corridor continues north while #9a large 
+'X'#0 has been painted above the southern doorway. 
+
+A magnon-reinforced door is set in the southern wall, a biometric 
+scanner installed. You realize with proper permissions, you can 
+#6HANDSCAN SOUTH#0. 
+~
+67 65560 0
+0
+D0
+~
+~
+0 -1  0 67058
+D2
+~
+reinforced-door~
+1 5151  0 67072
+P
+handscan~
+s so sou sout south~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(wilmingtons,corporal)
+delay 8 xopen south
+else do 
+delay 8 xfail south
+fi done
+~
+P
+xopen~
+south~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Identification verified. Access granted." 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 67071 The reinforced door creaks open on its own accord, and $n passes through quickly before it shuts once again.
+trans_group -1 67071 67072
+trans 67072
+~
+P
+xfail~
+south~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Necessary Identification unverified. Access denied." 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 67072 A cold, computerized voice speaks: "Warning. Unverified room entry attempted."
+~
+S
+#67072
+A Chilled Server Room~
+   Spartan and unadorned, this cramped, climate controlled room 
+houses banks of computer servers, all humming in a low, 
+sub-audible drone as they record, backup and transmit data. The 
+majority of the room is dominated by a massive mainframe computer 
+that serves as the nerve center of the complex, with all of the 
+building's major functions routed through and tied into it. A 
+large bank of monitors resides above the mainframe, suspended 
+from the ceiling in a semi-circle, and allowing the operator 
+access to an endless stream of data, indecipherable to any but 
+those with a trained eye. The only other features of note are 
+the purposefully obtrusive security cameras in each corner of the 
+room. 
+
+A magnon-reinforced door is set in the northern wall, a biometric 
+scanner installed. You realize with proper permissions, you 
+#6HANDSCAN NORTH#0. 
+~
+67 65560 0
+0
+D0
+~
+reinforced-door~
+1 5151  0 67071
+P
+handscan~
+n no nor nort north~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(wilmingtons,corporal)
+delay 8 xopen north
+else do 
+delay 8 xfail north
+fi done
+~
+P
+xopen~
+north~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Identification verified. Access granted." 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 67072 The reinforced door creaks open on its own accord, and $n passes through quickly before it shuts once again.
+trans_group -1 67072 67071
+trans 67071
+~
+P
+xfail~
+north~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Necessary Identification unverified. Access denied." 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 67071 A cold, computerized voice speaks: "Warning. Unverified room entry attempted."
+~
+S
+#67073
+A Large, Open Barracks~
+   Cast in an unwelcoming polycrete gray, this room is little 
+except for functional - purely utilitarian in nature judging by 
+the obvious lack of decoration. Rows of bunks are intermingled 
+uncomfortably close, lending to the stale air indicative of 
+too-cramped living conditions. Long rows of light are set 
+overhead, perpetually on due to the coming's and going's of those 
+who have made this area their home, much to the dismay of those 
+attempting to sleep. 
+~
+67 65800 0
+0
+D3
+~
+plain-door~
+1 -1  0 67029
+S
+#67074
+A Large, Open Barracks~
+   With its polycrete walls spottily-painted in a faint shade of 
+pink, this room is little except for functional - purely 
+utilitarian in nature judging by the obvious lack of decoration. 
+Rows of bunks are intermingled uncomfortably close, lending to 
+the stale air indicative of too-cramped living conditions. Long 
+rows of light are set overhead, perpetually on due to the 
+coming's and going's of those who have made this area this home, 
+much to the dismay of those attempting to sleep. Along the 
+northern wall sits a row of couches and a small table, perfect 
+for the uncaring converser. 
+~
+67 65800 0
+0
+D1
+~
+plain-door~
+1 -1  0 67038
+S
+#67075
+An Expansive Storage Area~
+   This rectangular polished white storage room is wide and 
+expansive, lined all with lockers and crates of all sizes. All 
+of them have been arranged neatly, and the room is kept in good 
+working order. 
+
+A magnon-reinforced door is set in the northern wall, a biometric 
+scanner installed. You realize with proper permissions, you can 
+#6HANDSCAN NORTH#0. 
+~
+67 65544 0
+0
+D0
+~
+reinforced-door~
+1 5151  0 67060
+P
+xopen~
+north~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Identification verified. Access granted." 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 67075 The reinforced door creaks open on its own accord, and $n passes through quickly before it shuts once again.
+trans_group -1 67075 67060
+trans 67060
+~
+P
+xfail~
+north~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Necessary Identification unverified. Access denied." 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 67075 A cold, computerized voice speaks: "Warning. Unverified room entry attempted."
+~
+P
+handscan~
+north nort nor no n~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(wilmingtons,sergeant)
+delay 8 xopen north
+else do 
+delay 8 xfail north
+fi done
+~
+S
+#67061
+A Spacious Lounge~
+   Polycrete walls panelled with a white polyplastic occupy the 
+four cardinal directions of this space, with #2posters depicting 
+Wilmington family members doing good deeds#0 plastered 
+sporadically throughout. Prominent upon the western wall is 
+#1giant red 'W'#0, painted with obvious care. The floor beneath 
+has been covered with plush, faded red carpeting, the scent of 
+moondust laden heavily within its surface. Groups of Wilmington 
+family members are interspersed throughout, swapping stories and 
+relaxing. 
+~
+67 65800 0
+0
+D1
+~
+~
+0 -1  0 67020
+E
+posters~
+   Posters of varying sizes and shapes have been plasted over the 
+walls of this room, depicting Wilmington family members 
+conducting all manner of good deeds. Some hand out food packets 
+to those in need. Others clear rubble from a collapsed building. 
+Still more can be seen in various battle poses, fighting off the 
+all manner of wasteland creature. 
+~
+S
+#67076
+An Polycrete Courtyard Before the Wilmington Headquarters~
+   High polycrete walls topped by razor-wire surround this courtyard which 
+seems almost entirely functional in nature, composed of little more than a 
+large section of flattened earth with gritty polycrete poured atop, marred by 
+the passage of people and time. In the center of the courtyard stands #2a 
+tall, metal flagpole#0 which bears #2a large, black flag marked in the center 
+with a#0 #1red 'W'#0. A solid metal-gate sits to the north, either restricting 
+or allowing access for the throngs of people which come and go. Likewise, to 
+the south, a large three-story building constructed of moonrock and polycrete 
+rises up, a set of metal double-doors dominant upon the building's northern 
+face. Just to the right of the southern doorway a #2well-crafted plaque#0 has 
+been bolted into the polycrete. 
+
+To the west, a long, narrow building has been marked above its entryway with a 
+large, red cross. To the south, the metal doors look to have been recently 
+reinforced with magnon bars and a #2biometric handscanner#0 has been bolted to 
+the wall. Above it is a small metal plaque that reads #1Authorized Wilmington 
+Personnel Only#0. 
+~
+67 65556 25
+0
+D2
+~
+metal double-doors~
+1 -1  0 67000
+D3
+~
+polyplastic-door~
+1 -1  0 67009
+E
+handscanner~
+   The biometric handscanner is bolted to the southern wall, near the 
+reinforced metal double-doors. Authorized personnel could #6HANDSCAN SOUTH#0 
+for entry into the complex. 
+~
+E
+flagpole~
+   Constructed of magnon-alloy, this flagpole rises approximately 
+20 feet into the air, a small metallic ball set at the top while 
+a white cord, currently stopped by a small lock, allows for the 
+raising and retiring of an attached flag. 
+
+Currently, #2a large, black flag marked in the center with#0 #1a 
+red 'W'#0 has been raised to the top, constructed of a 
+high-quality, thick fabric which has seemed to withstand the 
+harshness of the environment quite well. A burst of wind 
+occassionally serves as cause for it to flitter and spread out to 
+its full-length, serving as a constantly dominant presence within 
+the courtyard. 
+~
+E
+plaque~
+   Molded from high-quality titon-alloy, this plaque measures 
+roughly 16 inches long by 12 inches wide. An embossed depiction 
+of #5a bald-headed man with dark eyes#0 sits next to left of the 
+words: 
+
+The Wilmington Municipal Center - Constructed 148 SF 
+
+Designed By: Harlan Quinn, a Brilliant Mind and an Esteemed 
+Wilmington 
+~
+S
+#67077
+A Dreary Communications Room~
+   Dingy polycrete walls compose the four sides of this room, the 
+burnishes and pockmarks inherent within undoubtedly indicative of 
+recycled materials and their previous uses. The air within 
+smells almost chemically stale, a feature made all the more 
+cumbersome by the constant noise buzzing about the walls from the 
+nearby utility rooms. Sound within the room itself seems to thud 
+dully against the walls as the lights overhead do little to 
+lighten the mood. 
+
+#2A small intercom pad#0 has been set into the eastern wall, 
+which you realize allows you to #6PRESS INTERCOM#0 followed by 
+any message you would wish to relay throughout the entire 
+Wilmington center. 
+
+A magnon-reinforced door is set in the southern wall, a biometric 
+scanner installed. You realize with proper permissions, you can 
+#6HANDSCAN SOUTH#0. 
+~
+67 65544 0
+0
+D2
+~
+reinforced-door~
+1 5151  0 67060
+E
+intercom~
+   Little more than a push-button and a small speaker, this 
+quaint device appears to act as the receiver and transmitter for 
+an intercom system. A small red, 'W' has been imprinted upon its 
+plastic surface. 
+~
+E
+pad~
+   Little more than a push-button and a small speaker, this 
+quaint device appears to act as the receiver and transmitter for 
+an intercom system. A small red, 'W' has been imprinted upon its 
+plastic surface. 
+~
+P
+handscan~
+s so sou sout south~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(wilmingtons,corporal)
+delay 8 xopen south
+else do 
+delay 8 xfail south
+fi done
+~
+P
+xopen~
+south~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Identification verified. Access granted." 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 67077 The reinforced door creaks open on its own accord, and $n passes through quickly before it shuts once again.
+trans_group -1 67077 67060
+trans 67060
+~
+P
+xfail~
+south~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Necessary Identification unverified. Access denied." 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 67077 A cold, computerized voice speaks: "Warning. Unverified room entry attempted."
+~
+P
+press~
+intercom~
+atecho 67000-67077 After a 'bzzt' of static, the hidden loudspeakers blare out in an electronic voice:
+atecho 67000-67077 #6"... &(1) &(2) &(3) &(4) &(5) &(6) &(7) &(8) &(9) &(10) &(11) &(12) &(13) &(14) &(15) &(16) &(17) &(18) &(19) &(20) &(21) &(22) &(23) &(24) &(25) &(26) &(27) &(28) &(29) &(30) ..."#0
+~
+S
+#67078
+A Neat, Respectable Office~
+   This room, though of no great size, appears spacious due to a 
+lack of things to fill it. The floor is made of square metal 
+tiles, which lends a sterile feeling to the room. This is 
+softened somewhat by the plush yellow rug in the center of the 
+room, upon which rests a stark metal desk. The walls in this 
+room are a plum color, artistically applied to give variation in 
+the depth of the color. Upon the wall opposite the door is #2a 
+large, stylized golden yellow 'W'#0 that crowns #2a portrait of#0 
+#5a gangly, dark-haired man#0. The room is brightly lit, and all 
+of the furniture is arranged so that it is perfectly square and 
+aligned to the borders of the room, giving everything a very neat 
+and organized look. 
+~
+67 65544 0
+0
+D1
+~
+heavy-door~
+1 67005  0 67014
+E
+portrait~
+   #5A gangly, dark-haired man#0's features have been expertly 
+captured in this large portrait, set within a poly-plastic frame. 
+Dark brown hair frames his face perfectly, accenting his green 
+eyes in a light which could almost be described as angelic. He 
+smiles warmly at the unseen viewer, his teeth white and perfectly 
+straight betwixt taught cheekbones. 
+~
+S
+#67009
+A Sterile Infirmary~
+   This long and narrow building has been constructed of 
+tightly-fitting bricks made of moon-rock. To be more 
+aesthetically pleasing, however, the interior walls have been 
+coated with white plastic textured to look like plastic. The 
+floor is composed of tightly-fitting white polyprop tiles, 
+helping to achieve the room's look of both bright and sterile. 
+Sheets of clear, translucent plastic hang from the ceiling to 
+divide the evenly-spaced cots throughout the room, which do 
+little for privacy except perhaps blurring the view. Arranged in 
+a semicircle above the door is the word "INFIRMARY" along with 
+the image of a red cross. Set beside the northern door is a 
+biometric reader, which one could use to #6HANDSCAN NORTH#0. 
+~
+67 65800 0
+0
+D0
+~
+reinforced-door~
+1 67000  0 67079
+D1
+~
+polyplastic-door~
+1 -1  0 67076
+P
+handscan~
+n no nor nort north~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(wilmingtons,corporal)
+delay 8 xopen north
+else do 
+delay 8 xfail north
+fi done
+~
+P
+xopen~
+north~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: #6"Identification verified. Access granted."#0
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 67079 The reinforced door creaks open on its own accord, and #5$n#0 passes through quickly before it shuts once again.
+trans_group -1 67009 67079
+trans 67079
+~
+P
+xfail~
+north~
+atecho &(rvnum) A cold, computerized voice speaks: "Necessary Identification unverified. Access denied." 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 67079 A cold, computerized voice speaks: "Warning. Unverified room entry attempted."
+~
+S
+#67079
+A Cramped Storage Closet~
+   If this closet is lacking in anything, it's space. It was not 
+overly large to begin with, and shelves occupy nearly all of the 
+additional space in this room, allowing maybe two people to stand 
+amongst them. Supplies and equipment cover the shelves from 
+floor to ceiling, in states that vary from grimy to clean and 
+primitive to modern. A panel inset into the wall of the closet 
+next to the door allows one to #6HANDSCAN SOUTH#0. 
+~
+67 65544 0
+0
+D2
+~
+reinforced-door~
+1 67000  0 67009
+P
+handscan~
+s so sou sout south~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(wilmingtons,corporal)
+delay 8 xopen south
+else do 
+delay 8 xfail south
+fi done
+~
+P
+xopen~
+south~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Identification verified. Access granted." 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 67009 The reinforced door creaks open on its own accord, and $n passes through quickly before it shuts once again.
+trans_group -1 67079 67009
+trans 67009
+~
+P
+xfail~
+south~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Necessary Identification unverified. Access denied." 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 67009 A cold, computerized voice speaks: "Warning. Unverified room entry attempted."
+~
+S
+#67080
+An Underground Stairwell~
+   Solid polycrete reinforced walls end abruptly here, leading to a dimly lit 
+stairwell, recently constructed from melded alloys. The hallways gleams with 
+light back towards the east but there is a hushed tone set here, the visibility 
+lowered and quiet whispers coming from below barely reaching up to the entrance 
+of the descent. Along the far wall a very thick and bulky set of conduits 
+drop, along with dark-blue plumbing, giving the impression that although 
+secluded, this section is alive with activity. White lab coats are about the 
+only noticeable article of clothing worn by anyone venturing this far into the 
+labs. The stairwell leads down into the depths, the lighting too low to lend 
+much vision as to what's there. Back towards the east is more artificial 
+lighting and footsteps, the dull chatter of less reserved technicians. 
+~
+67 65544 0
+0
+D1
+~
+~
+0 -1  0 67060
+D5
+~
+~
+0 -1  0 67081
+S
+#67081
+The Beginnings of a Construction Site~
+   The dank stairwell leads down for what seems to be a very long distance, the 
+repetitious metal-tapping heard alongside the dull hum of the intermittent 
+lighting the only sounds to be heard, passer bys remaining silent and brief as 
+they transverse to the top or bottom. Before you is a small underground area, 
+marked off in various places with spraypaint. Materials are gathered and 
+stored in one area, with sitting and planning facilities nearby. 
+~
+67 65544 0
+0
+D4
+~
+~
+0 -1  0 67080
+S
+#67082
+In a Dusty Truck Bed~
+   Low metal railings line the sides of this truck bed while a tailgate can be 
+secured to close off the end, but the bed itself is open. Benches run the 
+length of both sides of the space, seating at least a dozen people. The 
+truck's cabin can be seen through a narrow strip of bulletproof plexiglass with 
+a small speaker below it. Everything is rather worn and dented, and every 
+surface is covered in a stifling layer of dull grey moondust. 
+~
+67 67174656 25
+0
+S
+#67083
+In an Enclosed Truck Bed~
+   A thick, dust-grey tarp covers the back of this large truck, leaving only 
+the tail end open to the world outside. The area is rather dark and 
+claustrophobic, moreso when occupied by more than a few people. Benches line 
+both edges of the truck bed, easily seating twenty people or more. A 
+rectangular window of bulletproof plexiglass allows scant vision into the 
+cabin, and below is a small speaker. 
+~
+67 67174656 0
+0
+S
+#67084
+In an Old, Cluttered Truck Bed~
+   This truck was likely pulled out of retirement, and the bed reflects this. 
+Considerable wear and tear makes occupation somewhat hazardous, with edges that 
+have been worn sharp or loose screws threatening to snag garments. Battered 
+boxes and other assorted junk litters the floor, even stacked waist-high in 
+corners, while a series of metal footlockers have been chained to the sides 
+below the railing of the bed to serve as makeshift benches. A heavily 
+scratched plexiglass window allows a blurry look into the cabin, and below is a 
+small speaker. 
+~
+67 67174656 25
+0
+S
 $~

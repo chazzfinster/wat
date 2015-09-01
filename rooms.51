@@ -1,1 +1,1076 @@
+#51000
+THAT THERE CHASM~
+It's the Chasm.
+~
+51 65536 0
+0
+S
+#51001
+An Eternally Dark Chasm~
+   Ice, stone, and perpetual darkness make up the entirety of 
+this chasm's non-to-cheery interior. The rocks of the wall stand 
+solidly, hundreds of feet in the air; they reach impossibly high, 
+and only thin slivers of the purplish gray sky can be seen beyond 
+them. Strewn across the ground is an occasional rock or group of 
+rocks, fallen from the heights above. 
+~
+51 65536 5
+0
+D1
+~
+~
+0 -1  0 51010
+D2
+~
+~
+0 -1  0 51002
+S
+#51002
+An Eternally Dark Chasm~
+   This deep chasm runs well beneath the surface of the moon. 
+Its sheer walls and narrowness prevent all sunlight from reaching 
+the bottom - it in plunged into infinite darkness. The bottom of 
+the gorge is lined with the occasional rockfall. Some of the 
+rocks are covered in a thin layer of frost, but it is mostly a 
+dry, barren little rift bottom without vegetation. If one were 
+to pay enough attention, they would notice that most of these 
+spots of frost are a dark crimson in color - some, also, contain 
+frozen bodyparts, such as fingers, toes, and pieces of organs. 
+~
+51 65536 5
+0
+D0
+~
+~
+0 -1  0 51001
+S
+#51003
+The Chasm of Eternal Night~
+   This chasm is absolutely, unquestionably dark - the high, 
+jagged, frost-covered walls reach high enough to block out 
+sunlight eternally. Silence and cold make up the rest of this 
+area; the smallest scrape can echo up and down the craggy rocks, 
+making traveling unheard nearly impossible. Strewn across the 
+ground is an occasional rock or group of rocks, fallen from the 
+heights above. Darkness surrounds. 
+~
+51 65536 5
+0
+D0
+~
+~
+0 -1  0 58010
+D1
+~
+~
+0 -1  0 51004
+D3
+~
+~
+0 -1  0 51010
+P
+(null)~
+(null)~
+THIS IS THE ENTRANCE TO THE CHASM
+~
+S
+#51004
+An Eternally Dark Chasm~
+   Jagged walls of moon rock jut upwards, impossibly high, 
+offering naught but the most linear path through this chasm. The 
+rocks stand solidly, hundreds of feet in the air; they reach 
+impossibly high, and only thin slivers of the purplish gray sky 
+can be seen beyond them. Frost and ice permeate this area, 
+black-on-black, making footing tricky at best. All around, this 
+chasm is eternally thrust into darkness; No light reaches this 
+place. 
+~
+51 65536 5
+0
+D1
+~
+~
+0 -1  0 51005
+D3
+~
+~
+0 -1  0 51003
+S
+#51005
+An Eternally Dark Chasm~
+   Jagged walls of moon rock jut upwards, impossibly high, 
+offering naught but the most linear path through this chasm. 
+Frost and ice permeate this area, black-on-black, making footing 
+tricky at best. If one were to pay enough attention, they would 
+notice that most of these spots of frost are a dark crimson in 
+color - some, also, contain frozen bodyparts, such as fingers, 
+toes, and pieces of organs. 
+~
+51 65536 5
+0
+D2
+~
+~
+0 -1  0 51006
+D3
+~
+~
+0 -1  0 51004
+S
+#51006
+An Eternally Dark Chasm~
+   This chasm is absolutely, unquestionably dark - the high, 
+jagged, frost-covered walls reach high enough to block out 
+sunlight eternally. Silence and cold make up the rest of this 
+area; the smallest scrape can echo up and down the craggy rocks, 
+making traveling unheard nearly impossible. Strewn across the 
+ground is an occasional rock or group of rocks, fallen from the 
+heights above. Darkness surrounds. 
+~
+51 65536 5
+0
+D0
+~
+~
+0 -1  0 51005
+S
+#51007
+An Eternally Dark Chasm~
+   This deep chasm runs well beneath the surface of the moon. Is 
+is also absolutely, unquestionably dark - the high, jagged, 
+frost-covered walls reach high enough to block out sunlight 
+eternally. Strewn across the ground is an occasional rock or 
+group of rocks, fallen from the heights above. 
+~
+51 65536 5
+0
+D2
+~
+~
+0 -1  0 51008
+S
+#51008
+An Eternally Dark Chasm~
+   This deep chasm runs well beneath the surface of the moon. 
+Its sheer walls and narrowness prevent all sunlight from reaching 
+the bottom - it in plunged into infinite darkness. The bottom of 
+the gorge is lined with the occasional rockfall. Some of the 
+rocks are covered in a thin layer of frost, but it is mostly a 
+dry, barren little rift bottom without vegetation. If one were 
+to pay enough attention, they would notice that most of these 
+spots of frost are a dark crimson in color - some, also, contain 
+frozen bodyparts, such as fingers, toes, and pieces of organs. 
+~
+51 65536 5
+0
+D0
+~
+~
+0 -1  0 51007
+D3
+~
+~
+0 -1  0 51009
+S
+#51009
+An Eternally Dark Chasm~
+   Ice, stone, and perpetual darkness make up the entirety of 
+this chasm's non-to-cheery interior. The rocks of the wall stand 
+solidly, hundreds of feet in the air; they reach impossibly high, 
+and only thin slivers of the purplish gray sky can be seen beyond 
+them. Strewn across the ground is an occasional rock or group of 
+rocks, fallen from the heights above. 
+~
+51 65536 5
+0
+D1
+~
+~
+0 -1  0 51008
+D2
+~
+~
+0 -1  0 51011
+S
+#51010
+An Eternally Dark Chasm~
+   Jagged walls of moon rock jut upwards, impossibly high, 
+offering naught but the most linear path through this chasm. The 
+rocks stand solidly, hundreds of feet in the air; they reach 
+impossibly high, and only thin slivers of the purplish gray sky 
+can be seen beyond them. Frost and ice permeate this area, 
+black-on-black, making footing tricky at best. All around, this 
+chasm is eternally thrust into darkness; No light reaches this 
+place. 
+~
+51 65536 5
+0
+D1
+~
+~
+0 -1  0 51003
+D2
+~
+~
+0 -1  0 51013
+D3
+~
+~
+0 -1  0 51001
+S
+#51012
+An Eternally Dark Chasm~
+   Jagged walls of moon rock jut upwards, impossibly high, 
+offering naught but the most linear path through this chasm. The 
+rocks stand solidly, hundreds of feet in the air; they reach 
+impossibly high, and only thin slivers of the purplish gray sky 
+can be seen beyond them. Frost and ice permeate this area, 
+black-on-black, making footing tricky at best. All around, this 
+chasm is eternally thrust into darkness; No light reaches this 
+place. 
+~
+51 65536 5
+0
+D0
+~
+~
+0 -1  0 51014
+D1
+~
+~
+0 -1  0 51011
+D2
+~
+~
+0 -1  0 51020
+S
+#51011
+An Eternally Dark Chasm~
+   Jagged walls of moon rock jut upwards, impossibly high, 
+offering naught but the most linear path through this chasm. 
+Frost and ice permeate this area, black-on-black, making footing 
+tricky at best. If one were to pay enough attention, they would 
+notice that most of these spots of frost are a dark crimson in 
+color - some, also, contain frozen bodyparts, such as fingers, 
+toes, and pieces of organs. 
+~
+51 65536 5
+0
+D0
+~
+~
+0 -1  0 51009
+D2
+~
+~
+0 -1  0 51025
+D3
+~
+~
+0 -1  0 51012
+S
+#51013
+An Eternally Dark Chasm~
+   This deep chasm runs well beneath the surface of the moon. Is 
+is also absolutely, unquestionably dark - the high, jagged, 
+frost-covered walls reach high enough to block out sunlight 
+eternally. Strewn across the ground is an occasional rock or 
+group of rocks, fallen from the heights above. 
+~
+51 65536 5
+0
+D0
+~
+~
+0 -1  0 51010
+S
+#51014
+An Eternally Dark Chasm~
+   Jagged walls of moon rock jut upwards, impossibly high, 
+offering naught but the most linear path through this chasm. 
+Frost and ice permeate this area, black-on-black, making footing 
+tricky at best. If one were to pay enough attention, they would 
+notice that most of these spots of frost are a dark crimson in 
+color - some, also, contain frozen bodyparts, such as fingers, 
+toes, and pieces of organs. 
+~
+51 65536 5
+0
+D2
+~
+~
+0 -1  0 51012
+D3
+~
+~
+0 -1  0 51015
+S
+#51015
+An Eternally Dark Chasm~
+   Ice, stone, and perpetual darkness make up the entirety of 
+this chasm's non-to-cheery interior. The rocks of the wall stand 
+solidly, hundreds of feet in the air; they reach impossibly high, 
+and only thin slivers of the purplish gray sky can be seen beyond 
+them. Strewn across the ground is an occasional rock or group of 
+rocks, fallen from the heights above. 
+~
+51 65536 5
+0
+D1
+~
+~
+0 -1  0 51014
+D3
+~
+~
+0 -1  0 51016
+S
+#51016
+An Eternally Dark Chasm~
+   This chasm is absolutely, unquestionably dark - the high, 
+jagged, frost-covered walls reach high enough to block out 
+sunlight eternally. Silence and cold make up the rest of this 
+area; the smallest scrape can echo up and down the craggy rocks, 
+making traveling unheard nearly impossible. Strewn across the 
+ground is an occasional rock or group of rocks, fallen from the 
+heights above. Darkness surrounds. 
+~
+51 65536 5
+0
+D1
+~
+~
+0 -1  0 51015
+D2
+~
+~
+0 -1  0 51017
+S
+#51017
+An Eternally Dark Chasm~
+   This deep chasm runs well beneath the surface of the moon. 
+Its sheer walls and narrowness prevent all sunlight from reaching 
+the bottom - it in plunged into infinite darkness. The bottom of 
+the gorge is lined with the occasional rockfall. Some of the 
+rocks are covered in a thin layer of frost, but it is mostly a 
+dry, barren little rift bottom without vegetation. If one were 
+to pay enough attention, they would notice that most of these 
+spots of frost are a dark crimson in color - some, also, contain 
+frozen bodyparts, such as fingers, toes, and pieces of organs. 
+~
+51 65536 5
+0
+D0
+~
+~
+0 -1  0 51016
+D2
+~
+~
+0 -1  0 51018
+D3
+~
+~
+0 -1  0 51021
+S
+#51018
+An Eternally Dark Chasm~
+   This deep chasm runs well beneath the surface of the moon. Is 
+is also absolutely, unquestionably dark - the high, jagged, 
+frost-covered walls reach high enough to block out sunlight 
+eternally. Strewn across the ground is an occasional rock or 
+group of rocks, fallen from the heights above. 
+~
+51 65536 5
+0
+D0
+~
+~
+0 -1  0 51017
+D1
+~
+~
+0 -1  0 51019
+S
+#51019
+An Eternally Dark Chasm~
+   This deep chasm runs well beneath the surface of the moon. 
+Its sheer walls and narrowness prevent all sunlight from reaching 
+the bottom - it in plunged into infinite darkness. The bottom of 
+the gorge is lined with the occasional rockfall. Some of the 
+rocks are covered in a thin layer of frost, but it is mostly a 
+dry, barren little rift bottom without vegetation. If one were 
+to pay enough attention, they would notice that most of these 
+spots of frost are a dark crimson in color - some, also, contain 
+frozen bodyparts, such as fingers, toes, and pieces of organs. 
+~
+51 65536 5
+0
+D1
+~
+~
+0 -1  0 51020
+D3
+~
+~
+0 -1  0 51018
+S
+#51020
+An Eternally Dark Chasm~
+   This chasm is absolutely, unquestionably dark - the high, 
+jagged, frost-covered walls reach high enough to block out 
+sunlight eternally. Silence and cold make up the rest of this 
+area; the smallest scrape can echo up and down the craggy rocks, 
+making traveling unheard nearly impossible. Strewn across the 
+ground is an occasional rock or group of rocks, fallen from the 
+heights above. Darkness surrounds. 
+~
+51 65536 5
+0
+D0
+~
+~
+0 -1  0 51012
+D3
+~
+~
+0 -1  0 51019
+S
+#51021
+An Eternally Dark Chasm~
+   Jagged walls of moon rock jut upwards, impossibly high, 
+offering naught but the most linear path through this chasm. The 
+rocks stand solidly, hundreds of feet in the air; they reach 
+impossibly high, and only thin slivers of the purplish gray sky 
+can be seen beyond them. Frost and ice permeate this area, 
+black-on-black, making footing tricky at best. All around, this 
+chasm is eternally thrust into darkness; No light reaches this 
+place. 
+~
+51 65536 5
+0
+D1
+~
+~
+0 -1  0 51017
+D2
+~
+~
+0 -1  0 51022
+S
+#51022
+An Eternally Dark Chasm~
+   This deep chasm runs well beneath the surface of the moon. 
+Its sheer walls and narrowness prevent all sunlight from reaching 
+the bottom - it in plunged into infinite darkness. The bottom of 
+the gorge is lined with the occasional rockfall. Some of the 
+rocks are covered in a thin layer of frost, but it is mostly a 
+dry, barren little rift bottom without vegetation. If one were 
+to pay enough attention, they would notice that most of these 
+spots of frost are a dark crimson in color - some, also, contain 
+frozen bodyparts, such as fingers, toes, and pieces of organs. 
+~
+51 65536 5
+0
+D0
+~
+~
+0 -1  0 51021
+D2
+~
+~
+0 -1  0 51023
+S
+#51023
+An Eternally Dark Chasm~
+   Ice, stone, and perpetual darkness make up the entirety of 
+this chasm's non-to-cheery interior. The rocks of the wall stand 
+solidly, hundreds of feet in the air; they reach impossibly high, 
+and only thin slivers of the purplish gray sky can be seen beyond 
+them. Strewn across the ground is an occasional rock or group of 
+rocks, fallen from the heights above. 
+~
+51 65536 5
+0
+D0
+~
+~
+0 -1  0 51022
+D3
+~
+~
+0 -1  0 51024
+S
+#51024
+An Eternally Dark Chasm~
+   Jagged walls of moon rock jut upwards, impossibly high, 
+offering naught but the most linear path through this chasm. 
+Frost and ice permeate this area, black-on-black, making footing 
+tricky at best. If one were to pay enough attention, they would 
+notice that most of these spots of frost are a dark crimson in 
+color - some, also, contain frozen bodyparts, such as fingers, 
+toes, and pieces of organs. 
+~
+51 65536 5
+0
+D1
+~
+~
+0 -1  0 51023
+S
+#51025
+Eternally Dark Chasm~
+   Jagged walls of moon rock jut upwards, impossibly high, 
+offering naught but the most linear path through this chasm. The 
+rocks stand solidly, hundreds of feet in the air; they reach 
+impossibly high, and only thin slivers of the purplish gray sky 
+can be seen beyond them. Frost and ice permeate this area, 
+black-on-black, making footing tricky at best. All around, this 
+chasm is eternally thrust into darkness; No light reaches this 
+place. 
+~
+51 65536 5
+0
+D0
+~
+~
+0 -1  0 51011
+D2
+~
+~
+0 -1  0 51026
+S
+#51026
+An Eternally Dark Chasm~
+   Ice, stone, and perpetual darkness make up the entirety of 
+this chasm's non-to-cheery interior. The rocks of the wall stand 
+solidly, hundreds of feet in the air; they reach impossibly high, 
+and only thin slivers of the purplish gray sky can be seen beyond 
+them. Strewn across the ground is an occasional rock or group of 
+rocks, fallen from the heights above. 
+~
+51 65536 5
+0
+D0
+~
+~
+0 -1  0 51025
+D1
+~
+~
+0 -1  0 51027
+S
+#51027
+An Eternally Dark Chasm~
+   This deep chasm runs well beneath the surface of the moon. 
+Its sheer walls and narrowness prevent all sunlight from reaching 
+the bottom - it in plunged into infinite darkness. The bottom of 
+the gorge is lined with the occasional rockfall. Some of the 
+rocks are covered in a thin layer of frost, but it is mostly a 
+dry, barren little rift bottom without vegetation. If one were 
+to pay enough attention, they would notice that most of these 
+spots of frost are a dark crimson in color - some, also, contain 
+frozen bodyparts, such as fingers, toes, and pieces of organs. 
+~
+51 65536 5
+0
+D1
+~
+~
+0 -1  0 51028
+D3
+~
+~
+0 -1  0 51026
+S
+#51028
+An Eternally Dark Chasm~
+   Jagged walls of moon rock jut upwards, impossibly high, 
+offering naught but the most linear path through this chasm. 
+Frost and ice permeate this area, black-on-black, making footing 
+tricky at best. If one were to pay enough attention, they would 
+notice that most of these spots of frost are a dark crimson in 
+color - some, also, contain frozen bodyparts, such as fingers, 
+toes, and pieces of organs. 
+~
+51 65536 5
+0
+D0
+~
+~
+0 -1  0 51029
+D3
+~
+~
+0 -1  0 51027
+S
+#51029
+An Eternally Dark Chasm~
+   This deep chasm runs well beneath the surface of the moon. 
+Its sheer walls and narrowness prevent all sunlight from reaching 
+the bottom - it in plunged into infinite darkness. The bottom of 
+the gorge is lined with the occasional rockfall. Some of the 
+rocks are covered in a thin layer of frost, but it is mostly a 
+dry, barren little rift bottom without vegetation. If one were 
+to pay enough attention, they would notice that most of these 
+spots of frost are a dark crimson in color - some, also, contain 
+frozen bodyparts, such as fingers, toes, and pieces of organs. 
+~
+51 65536 5
+0
+D2
+~
+~
+0 -1  0 51028
+D3
+~
+~
+0 -1  0 51030
+S
+#51030
+An Eternally Dark Chasm~
+   This chasm is absolutely, unquestionably dark - the high, 
+jagged, frost-covered walls reach high enough to block out 
+sunlight eternally. Silence and cold make up the rest of this 
+area; the smallest scrape can echo up and down the craggy rocks, 
+making traveling unheard nearly impossible. Strewn across the 
+ground is an occasional rock or group of rocks, fallen from the 
+heights above. Darkness surrounds. 
+~
+51 65536 5
+0
+D0
+~
+~
+0 -1  0 51031
+D1
+~
+~
+0 -1  0 51029
+S
+#51031
+An Eternally Dark Chasm~
+   Jagged walls of moon rock jut upwards, impossibly high, 
+offering naught but the most linear path through this chasm. The 
+rocks stand solidly, hundreds of feet in the air; they reach 
+impossibly high, and only thin slivers of the purplish gray sky 
+can be seen beyond them. Frost and ice permeate this area, 
+black-on-black, making footing tricky at best. All around, this 
+chasm is eternally thrust into darkness; No light reaches this 
+place. 
+   To the east lies a massive, unidentifiable steel husk - it is 
+crumpled and torn, but seems somewhat intact. Passage further 
+seems utterly impossible but through the husk itself; an opening 
+lies to the east, surrounded by shattered glass. 
+~
+51 65536 5
+0
+D1
+~
+~
+0 -1  0 50522
+D2
+~
+~
+0 -1  0 51030
+S
+#51032
+An Eternally Dark Chasm~
+   This chasm is absolutely, unquestionably dark - the high, 
+jagged, frost-covered walls reach high enough to block out 
+sunlight eternally. Silence and cold make up the rest of this 
+area; the smallest scrape can echo up and down the craggy rocks, 
+making traveling unheard nearly impossible. Strewn across the 
+ground is an occasional rock or group of rocks, fallen from the 
+heights above. Darkness surrounds. 
+~
+51 327680 5
+0
+D0
+~
+~
+0 -1  0 50316
+D2
+~
+~
+0 -1  0 51033
+S
+#51033
+An Eternally Dark Chasm~
+   This deep chasm runs well beneath the surface of the moon. 
+Its sheer walls and narrowness prevent all sunlight from reaching 
+the bottom - it in plunged into infinite darkness. The bottom of 
+the gorge is lined with the occasional rockfall. Some of the 
+rocks are covered in a thin layer of frost, but it is mostly a 
+dry, barren little rift bottom without vegetation. If one were 
+to pay enough attention, they would notice that most of these 
+spots of frost are a dark crimson in color - some, also, contain 
+frozen bodyparts, such as fingers, toes, and pieces of organs. 
+~
+51 327680 5
+0
+D0
+~
+~
+0 -1  0 51032
+D3
+~
+~
+0 -1  0 51034
+S
+#51034
+An Eternally Dark Chasm~
+   Jagged walls of moon rock jut upwards, impossibly high, 
+offering naught but the most linear path through this chasm. The 
+rocks stand solidly, hundreds of feet in the air; they reach 
+impossibly high, and only thin slivers of the purplish gray sky 
+can be seen beyond them. Frost and ice permeate this area, 
+black-on-black, making footing tricky at best. All around, this 
+chasm is eternally thrust into darkness; No light reaches this 
+place. 
+~
+51 327680 5
+0
+D1
+~
+~
+0 -1  0 51033
+D2
+~
+~
+0 -1  0 51035
+S
+#51035
+An Eternally Dark Chasm~
+   Ice, stone, and perpetual darkness make up the entirety of 
+this chasm's non-to-cheery interior. The rocks of the wall stand 
+solidly, hundreds of feet in the air; they reach impossibly high, 
+and only thin slivers of the purplish gray sky can be seen beyond 
+them. Strewn across the ground is an occasional rock or group of 
+rocks, fallen from the heights above. 
+~
+51 327680 5
+0
+D0
+~
+~
+0 -1  0 51034
+D1
+~
+~
+0 -1  0 51036
+S
+#51036
+An Eternally Dark Chasm~
+   Jagged walls of moon rock jut upwards, impossibly high, 
+offering naught but the most linear path through this chasm. 
+Frost and ice permeate this area, black-on-black, making footing 
+tricky at best. If one were to pay enough attention, they would 
+notice that most of these spots of frost are a dark crimson in 
+color - some, also, contain frozen bodyparts, such as fingers, 
+toes, and pieces of organs. 
+~
+51 327680 5
+0
+D2
+~
+~
+0 -1  0 51037
+D3
+~
+~
+0 -1  0 51035
+S
+#51037
+An Eternally Dark Chasm~
+   This deep chasm runs well beneath the surface of the moon. Is 
+is also absolutely, unquestionably dark - the high, jagged, 
+frost-covered walls reach high enough to block out sunlight 
+eternally. Strewn across the ground is an occasional rock or 
+group of rocks, fallen from the heights above. 
+~
+51 327680 5
+0
+D0
+~
+~
+0 -1  0 51036
+D3
+~
+~
+0 -1  0 51038
+S
+#51038
+An Eternally Dark Chasm~
+   Ice, stone, and perpetual darkness make up the entirety of 
+this chasm's non-to-cheery interior. The rocks of the wall stand 
+solidly, hundreds of feet in the air; they reach impossibly high, 
+and only thin slivers of the purplish gray sky can be seen beyond 
+them. Strewn across the ground is an occasional rock or group of 
+rocks, fallen from the heights above. 
+~
+51 327680 5
+0
+D1
+~
+~
+0 -1  0 51037
+D2
+~
+~
+0 -1  0 51039
+S
+#51039
+An Eternally Dark Chasm~
+   Jagged walls of moon rock jut upwards, impossibly high, 
+offering naught but the most linear path through this chasm. 
+Frost and ice permeate this area, black-on-black, making footing 
+tricky at best. If one were to pay enough attention, they would 
+notice that most of these spots of frost are a dark crimson in 
+color - some, also, contain frozen bodyparts, such as fingers, 
+toes, and pieces of organs. 
+~
+51 327680 5
+0
+D0
+~
+~
+0 -1  0 51038
+D1
+~
+~
+0 -1  0 51040
+S
+#51040
+The Massive, Toothy Entrance to a Cave~
+   A giant hole, perhaps twenty-five feet in diameter, gapes to 
+the east, just as dark, if not darker, than the chasm that 
+surrounds it. The jagged moon rock that makes up the mouth leers 
+outwards at oncomers and appear as teeth - jutting, serrated, 
+gnarled teeth that threaten to ensnare, to chew, to devour. Wind 
+whistles in and out of the confines of the cave in a steady, 
+rythmic pattern; the cave seems to be breathing. 
+~
+51 327680 5
+0
+D1
+~
+~
+0 -1  0 51041
+D3
+~
+~
+0 -1  0 51039
+S
+#51041
+A Deep Dark Cave~
+   Cast perpetually into chilling darkness, this yawning tunnel 
+stretches away from the chasm outside, crawling further into the 
+rock of the moon. Crumbled and dusty gravel litters the entrance 
+and finds its way in, though it soon peters into the shallow 
+basin making up its confines. The inside of the cave is as wide 
+and broad as the mouth that leads inside, and though the stone of 
+its walls is rough and ragged, there are no other geological 
+features save a few puddles of liquid frozen into dark, amorphous 
+shapes. 
+~
+51 327680 5
+0
+D0
+~
+~
+0 -1  0 51042
+D3
+~
+~
+0 -1  0 51040
+S
+#51042
+A Deep Dark Cave~
+   Bone-numbing cold and unrelenting gloom form the brunt of the 
+atmosphere along this relentlessly large tunnel. The rough walls 
+reach to a high arc somewhere overhead, undiscernable through the 
+endless darkness. The floor is also rock, dusted with greyish 
+dirt. Some liquid seems to have found its way into this part of 
+the cavern, as small, glittering icicles hang from a few of the 
+claustrophobic walls, though their provenance is unclear. 
+~
+51 327680 5
+0
+D0
+~
+~
+0 -1  0 51043
+D2
+~
+~
+0 -1  0 51041
+S
+#51043
+A Deep Dark Cave~
+   The roof of this massive cave arcs high overhead, nearly lost 
+in the infinite darkness. The floor is worn fairly smooth, but 
+the walls are nothing but jagged rocks, reaching out like claws 
+to snag at anyone who ventures close enough. Besides the 
+whistling of the wind, the cave is absolutely silent, and dark. 
+~
+51 327680 5
+0
+D1
+~
+~
+0 -1  0 51044
+D2
+~
+~
+0 -1  0 51042
+S
+#51044
+A Deep Dark Cave~
+   Cast perpetually into chilling darkness, this yawning tunnel 
+stretches away from the chasm outside, crawling further into the 
+rock of the moon. Crumbled and dusty gravel litters the entrance 
+and finds its way in, though it soon peters into the shallow 
+basin making up its confines. The inside of the cave is as wide 
+and broad as the mouth that leads inside, and though the stone of 
+its walls is rough and ragged, there are no other geological 
+features save a few puddles of liquid frozen into dark, amorphous 
+shapes. 
+~
+51 327680 5
+0
+D1
+~
+~
+0 -1  0 51045
+D3
+~
+~
+0 -1  0 51043
+S
+#51045
+A Deep Dark Cave~
+   Bone-numbing cold and unrelenting gloom form the brunt of the 
+atmosphere along this relentlessly large tunnel. The rough walls 
+reach to a high arc somewhere overhead, undiscernable through the 
+endless darkness. The floor is also rock, dusted with greyish 
+dirt. Some liquid seems to have found its way into this part of 
+the cavern, as small, glittering icicles hang from a few of the 
+claustrophobic walls, though their provenance is unclear. 
+~
+51 327680 5
+0
+D1
+~
+~
+0 -1  0 51047
+D2
+~
+~
+0 -1  0 51046
+D3
+~
+~
+0 -1  0 51044
+S
+#51046
+A Deep Dark Cave~
+   Cast perpetually into chilling darkness, this yawning tunnel 
+stretches away from the chasm outside, crawling further into the 
+rock of the moon. Crumbled and dusty gravel litters the entrance 
+and finds its way in, though it soon peters into the shallow 
+basin making up its confines. The inside of the cave is as wide 
+and broad as the mouth that leads inside, and though the stone of 
+its walls is rough and ragged, there are no other geological 
+features save a few puddles of liquid frozen into dark, amorphous 
+shapes. 
+~
+51 327680 5
+0
+D0
+~
+~
+0 -1  0 51045
+D2
+~
+~
+0 -1  0 51049
+S
+#51047
+A Deep Dark Cave~
+   The roof of this massive cave arcs high overhead, nearly lost 
+in the infinite darkness. The floor is worn fairly smooth, but 
+the walls are nothing but jagged rocks, reaching out like claws 
+to snag at anyone who ventures close enough. Besides the 
+whistling of the wind, the cave is absolutely silent, and dark. 
+~
+51 327680 5
+0
+D1
+~
+~
+0 -1  0 51048
+D3
+~
+~
+0 -1  0 51045
+S
+#51048
+A Dead-end - a Flat Stone Wall~
+   Bone-numbing cold and unrelenting gloom form the brunt of the 
+atmosphere along this relentlessly large tunnel. The rough walls 
+reach to a high arc somewhere overhead, undiscernable through the 
+endless darkness. The floor is also rock, dusted with greyish 
+dirt. Some liquid seems to have found its way into this part of 
+the cavern, as small, glittering icicles hang from a few of the 
+claustrophobic walls, though their provenance is unclear. 
+   The cave ends rather abruptly here - to the east it just stops 
+at a vertical stone wall. The wall is oddly smooth compared to 
+the jagged stone of the north and south walls, but it in 
+nevertheless impassable. 
+~
+51 327680 5
+0
+D3
+~
+~
+0 -1  0 51047
+S
+#51049
+A Deep Dark Cave~
+   The roof of this massive cave arcs high overhead, nearly lost 
+in the infinite darkness. The floor is worn fairly smooth, but 
+the walls are nothing but jagged rocks, reaching out like claws 
+to snag at anyone who ventures close enough. Besides the 
+whistling of the wind, the cave is absolutely silent, and dark. 
+~
+51 327680 5
+0
+D0
+~
+~
+0 -1  0 51046
+D1
+~
+~
+0 -1  0 51050
+S
+#51050
+A Dead-end - a Massive, Red-Filled Cavern~
+   The darkness of this cavern makes it impossible to discern its 
+size; its walls and ceiling stretch away into the eternal dark to 
+points unseen. The floor of the cavern is worn smooth, but is 
+slick with frost and ice - all of this ice is frozen a dark red. 
+Navigating the floor would prove trick as, along with the ice, 
+body parts of various creatures are also strewn haphazardly 
+around, frozen to the floor, immobile. The scent of cold, death, 
+and frozen blood fills the air. 
+~
+51 327680 5
+0
+D3
+~
+~
+0 -1  0 51049
+S
 $~

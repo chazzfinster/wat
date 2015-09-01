@@ -1,1 +1,188 @@
+#65000
+Base Room for Tram Town~
+   This zone is for Tram Town, the moon civilization closest to 
+New Phoenix. It should have the feel of Tokyo, but trashed and 
+post-apocalyptic. 
+~
+65 65536 0
+0
+S
+#65001
+High Perimeter of Tram City ~
+   Ahead looms the rising perimeter of Tram City though holes appear along the 
+gates now, showing flashes of lower buildings and an ever-present glow of 
+still-active fires. Purplish-gray skies sweep above the city, mixing thickly 
+with the smoke and filth that rises from the shattered remains. The city 
+lights are dead, snuffed out by some horrific tragedy. Hard packed dirt leads 
+onward towards the great and crumbling gates. The normal bustle of bodies has 
+been quelled, leaving the space oddly and eerily quiet on approach. The air 
+seems choked with dust and other toxins, giving each breath a sharp acrid 
+taste. However, the smell of smoke adds to this already mired soup of smells, 
+cloying in the air. Something heavy seems to have been dragged away from the 
+city, if a deep furrow in the hard-packed dirt leading eastward speaks of 
+anything. Several tire tracks have recently marred the dirt's surface as well, 
+likewise leading eastward. 
+~
+65 65540 25
+0
+D1
+~
+~
+0 -1  0 53046
+D3
+~
+crumbling-great-gates~
+1 -1  0 65002
+S
+#65002
+Within Tram City ~
+   Lying below the crumbling gates rising to the east, this section of the city 
+hangs thick with smoke and the filth of pollution. Fires burn brightly as the 
+city stretches and joins with the once-great market westward. Something seems 
+to have crashed through here, killing the hundreds of people, the corpses of 
+whom lay strewn about in a thick layer of rotting flesh on the ground. The 
+smell is horrific, wafting from the dead, though many of them look to be moved, 
+rummaged through, scavenged from. A path has been made through the rubble and 
+bodies as something was obviously dragged from the west moving eastward, the 
+deep furrow leading out the gates coupled with many layered tire tracks. 
+~
+65 65664 25
+0
+D1
+~
+crumbling-great-gates~
+1 -1  0 65001
+D3
+~
+~
+0 -1  0 65003
+S
+#65003
+The Ruined Market That Was Tram City~
+   This grand city lays in shambles, with much of it still ablaze. Smoke hangs 
+heavy in the air, combined with the rot of death, chokingly strong. At some 
+point electricity has failed in this city, leaving the signs that are a 
+trademark to the city dark and dull. The massive three-rail track normally 
+found loftily above the market has been crashed into by some sort of horrific 
+impact and has fallen, destroying multiple buildings along the north and west. 
+An expansive crater remains in the center of the market, shattering the already 
+rubble and corpse strewn space. Oddly though, whatever seems to have done the 
+bulk of the damage is suspiciously absent. Deep furrows into the polycrete and 
+moon-dirt of something being dragged away does lead the way out of the city, 
+though, as well as numerous tire tracks. 
+~
+65 65664 25
+0
+D1
+~
+~
+0 -1  0 65002
+D2
+~
+shattered-plexiglass-door~
+1 -1  0 65005
+S
+#65004
+Club Fourty Two~
+   This is a blaring, gaudy discotheque, thick with smoke, 
+pounding with painfully loud music, and and flashing with 
+multicolored scintillating lights. A catwalk runs along all four 
+walls accessible by simple steel ladders, watching from about 
+fifteen feet off the ground, red-lit rooms accessible off of it. 
+A central dance floor flashes with colors as lights beneath its 
+checkered panels flash on and off, plush furniture pushed over in 
+each secluded corner. 
+~
+65 67305880 0
+0
+S
+#65005
+The Remains of New Phoenix Trust~
+   Faux-marble chunks cover the the ground while one pillar crafted of the same 
+material slopes liltingly to one side across the thirty-foot vaulted room. 
+Looking as though it may crash down at any moment, the roof itself is roughly 
+cracked and unsupported, wilting in the center. Above where the tellers should 
+stand and have by this point fallen, an emblem of a grand phoenix bears spidery 
+cracks, one talon having fallen away entirely to add to the mired rubble 
+littering the floor. Bits of plaster drift down from above, mixing with the 
+dull smoke from the fires outside and making breathing difficult. Several 
+bodies litter the ground. They are either crushed beneath rubble or trampled. 
+A deep indent into the floor shows something heavy was dragged from the 
+southward vault through this room. 
+~
+65 65544 0
+0
+D0
+~
+shattered-plexiglass-door~
+1 -1  0 65003
+D2
+~
+crushed-vault-door~
+1 -1  0 65006
+S
+#65006
+A Wrecked Bank Vault~
+   The ceiling has almost completely fallen away, crushed by something large 
+that has since been removed. There looks to be drag marks leading northward 
+towards the doorway, something heavy enough to make indentations into the 
+polycrete. Rubble is piled heavily, covering most of the floor. Polycrete 
+dust and smoke hang chokingly thick in the air, reducing visibility to a few 
+feet at a time. The overhang of ceiling remaining precariously close to 
+crashing down at any given moment. 
+~
+65 268500992 25
+0
+D0
+~
+crushed-vault-door~
+1 -1  0 65005
+S
+#65007
+Store Room for Club Fourty Two~
+   This room is the store room for Club Fourty Two in Tram City. 
+Mob 65004, shop 65004. 
+~
+65 335609872 0
+0
+D4
+~
+~
+0 -1  0 65004
+S
+#65008
+The Entryway of Cybernetic Futures~
+   This spacious entryway was designed to be elegant through understated 
+simplicity. Arching high overhead, the great domed ceiling is set with the 
+focal point of a starburst-shaped skylight. The faux-marble tiles of the floor 
+are striated with golden veins, overlaid with a protective clear glaze and 
+polished to a lustrous sheen. Embedded within the northern wall is a large, 
+flatpaneled monitor repeating a loop of cybernetic advertisements, success 
+stories and information. #5An affable secretary with long, blonde curls#0 sits 
+at the curving western reception desk, secured behind double panes of 
+bulletproof plexi-glass. A set of reinforced vacuum-sealed doors leads through 
+to the clinic beyond, likely only able to be opened by employees, while the 
+eastern doorway serves as the main entrance back to the market. 
+~
+65 67305496 0
+0
+E
+secretary~
+   This slender-framed woman must work as a secretary here at Cybernetic 
+Futures. She could easily serve as the epitome to the idea of 'Appearances 
+mean everything'. Her formal dark-blue skirt and jacket suit set is 
+impeccable, matching the clean state of her long, blonde curls and neatly kept 
+nails. She has beady, dark brown eyes which seem to continually assess while 
+her thin, pink lips are plastered into an ever present smile. She sits with 
+rigid posture upon a stiff-backed, chrion-alloy chair, protected by the 
+separating barrier of bulletproof glass. 
+~
+S
+#65009
+A Brightly-Lit Conference Room~
+Not particularly large, but made to appear moreso by the bright lights and clean white walls, this room seems to serve little purpose other than discussion. An imposing titon-steel table has been set in the middle, surrounded on all sides by the sorts of chairs that are just uncomfortable enough to keep one from settling back.
+~
+65 65536 0
+0
+S
 $~

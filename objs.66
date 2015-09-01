@@ -1,1 +1,1098 @@
+#66000
+module control seat OTHER~
+the control seat of the flak-cannon~
+A high-backed seat and control module is here.~
+~
+12 0 0
+0 0 0 0
+5000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66001
+cannon quad-barreled four barrels huge slender OTHER~
+a slender, quad-barreled cannon~
+Four huge, slender barrels point at the sky.~
+~
+12 0 0
+0 0 0 0
+5000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+A
+5 10
+A
+1 12
+A
+7 12
+God~
+God~
+#66002
+frame powered ruby-red lights OTHER~
+a sturdy frame covered in ruby-red lights~
+A sturdy frame of a flak-cannon is here, covered in ruby-red lights.~
+~
+12 0 0
+0 0 0 66002
+5000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66003
+base disc motorised OTHER~
+a fully-operational motorised cannon base~
+A fully-operational, motorised disc forms the base of the cannon.~
+~
+12 0 0
+0 0 0 0
+5000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66004
+panel electrical systems OTHER~
+a panel of electronics and circuitry boards~
+On the side of the base is a panel of complicated electronics.~
+~
+12 0 0
+0 0 0 0
+5000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66005
+drone aerial weaving OTHER~
+#3a black-hulled aerial drone#0~
+#3A black-hulled aerial drone weaves through the air in the distance.#0~
+~
+12 0 0
+0 0 0 0
+0 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66006
+frame unpowered unlit lights OTHER~
+a sturdy frame covered in unlit lights~
+A sturdy frame of a flak-cannon is here, covered in unlit lights.~
+~
+12 0 0
+0 0 0 0
+5000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66007
+cannon quad-barreled half-jammed huge slender OTHER~
+the half-jammed quad-barreled cannon~
+Four huge, slender barrels point at the sky, two of the barrels jammed.~
+~
+12 0 0
+0 0 0 0
+5000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66008
+base motorised disc stuttering OTHER~
+a stuttering motorised cannon-base~
+A stuttering motorised disc forms the base of the cannon.~
+~
+12 0 0
+0 0 0 0
+5000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66009
+panel electrical systems OTHER~
+a panel of smoke-scented electronis and circuitry boards~
+On the side of the base is a panel of smoke-scented electronics.~
+~
+12 0 0
+0 0 0 0
+5000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66510
+ident-card flimsy black PLASTIC~
+a flimsy black plastic ident-card~
+A flimsy black plastic ident-card has been left here.~
+~
+18 4096 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66512
+ident-card flimsy red PLASTIC~
+a flimsy red plastic ident-card~
+A flimsy red plastic ident-card has been forgotten here.~
+   This red piece of plastic is home to to a very particular 
+series of notches and grooves, quite likely to be scanned by some 
+sort of machinery. Its front-side is emblazoned with a white 
+kevlar jacket, denoting the access it grants to the armorcrafting 
+wing of the factory. 
+~
+18 4096 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+10.000000 10080 86 0 0 0 0
+God~
+God~
+#66513
+ident-card flimsy blue PLASTIC~
+a flimsy blue plastic ident-card~
+A flimsy blue plastic ident-card has been forgotten here.~
+   This blue piece of plastic is home to to a very particular 
+series of notches and grooves, quite likely to be scanned by some 
+sort of machinery. Its front-side is emblazoned with a pair of 
+crossed swords, denoting the access it grants to the 
+weaponcrafting wing of the factory. 
+~
+18 4096 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+10.000000 10080 86 0 0 0 0
+God~
+God~
+#66514
+ident-card green flimsy PLASTIC~
+a flimsy green plastic ident-card~
+A flimsy green plastic ident-card has been forgotten here.~
+   This green piece of plastic is home to to a very particular 
+series of notches and grooves, quite likely to be scanned by some 
+sort of machinery. Its front-side is emblazoned with a few 
+tubes, denoting the access it grants to the chemistry lab within 
+the factory. 
+~
+18 4096 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+10.000000 10080 86 0 0 0 0
+God~
+God~
+#66516
+ident-card iron-gray flimsy PLASTIC~
+a flimsy iron-gray ident-card~
+A flimsy iron-gray ident-card has been forgotten here.~
+This iron gray piece of plastic is home to to a very particular series of notches and grooves, quite likely to be scanned by some sort of machinery. Its front-side is emblazoned with a rifle, denoting the access it grants to the gunsmithing wing of the factory.
+~
+18 4096 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+10.000000 10080 86 0 0 0 0
+God~
+God~
+#66511
+single-story broad factory METAL~
+a single-story, broad factory~
+A single-story, broad factory looms here.~
+   A broad, single-story structure of chrion metal, hanging over 
+this factory's front door is a series of symbols for various 
+trades. Its main entrance is unlocked almost always, and a 
+constant flood of Grungers make their way inside, hauling tools. 
+You could probably #6ENTER FACTORY#0. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66010
+xwilmington-apartmentsx worn plastic $drabcolor passcard pass PLASTIC~
+a worn, $drabcolor plastic passcard~
+A worn, $drabcolor plastic passcard lies here.~
+   Composed of thin, $drabcolor plastic this passcard serves as 
+identification for those who rent at the Wilmington Lofts. 
+~
+82 33554432 1
+0 66011 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66011
+xwilmingtonapartmentx staircase unsturdy polycrete OTHER~
+an unsturdy, polycrete staircase~
+An unsturdy, polycrete staircase allows passage into the apartments above.~
+   This staircase looks perilously unsturdy and poorly maintained 
+as its metal supports are exposed beneath crumbling polycrete. 
+Still, it serves its purpose as patrons can be continually seen 
+ascending and descending from their rented places of residence. 
+
+To learn more about how to rent an apartment here, type #6HELP 
+RENT#0. 
+~
+83 0 0
+150 66502 66010 66000
+100 0.000000
+1 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66016
+xapartmentslumx raggedy $drabcolor identification card ID PLASTIC~
+a raggedy, $drabcolor identification card~
+A raggedy, $drabcolor identification card.~
+   Composed of $drabcolor plastic, this identification card 
+allows access into the rentable shanties of the slums. 
+~
+82 33554432 1
+0 66012 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66012
+xapartmentslumsx row shanties shanty hastily-constructed OTHER~
+a row of hastily-constructed shanties~
+A row of hastily constructed shanties have been set aside for weekly rent.~
+   These shanties have been hastily constructed with sheet metal, 
+plastic and other random materials. To learn how to rent a 
+shanty, type #6HELP RENT#0. 
+~
+83 0 0
+75 66506 66016 66002
+100 0.000000
+1 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66013
+market passcard bright red gate access PLASTIC~
+a bright red passcard marked 'Gate Access'~
+A bright red passcard marked 'Gate Access' lies here.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66014
+teddy bear stuffed animal TEXTILE~
+a ratty old teddybear~
+A raggedy old teddy bear with stained, patchy fur and a missing glass eye lies flopped here.~
+   This poor old piece of crap teddy bear is wearing at the 
+seams. Patched and torn off fur and a missing eye give this 
+stuffed child's object a gritty, beaten feel. Despite the 
+stuffing coming out in the fake bear's joints, it is still 
+relatively cuddly. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66015
+girl doll polyprop PLASTIC~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66017
+xturfscanner biometric handscanner hand scan scanner OTHER~
+a biometric handscanner~
+A biometric handscanner has been installed nearby.~
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66980
+control-panel $metdam xxxHOLMES ELECTRONIC~
+A place-holder control-panel sits here.~
+A place-holder control-panel sits here.~
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66018
+pole dancing METAL~
+a dancing pole~
+A dancing pole has been raised here from a slot on the floor.~
+   This pole is made of a thick, sturdy metal. It is smooth to the touch and 
+shows signs of daily, careful maintenance. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66019
+table circular METAL~
+a circular table~
+A circular table covered with black cloth stands here.~
+   This table is shaped like a circle, large enough to fit around five people. 
+It is covered in black cloth that reaches to the floor, and is lit up by some 
+sort of mechanism in the middle of the table. 
+~
+15 2101248 0
+1000 0 -1 0
+1500 0.000000
+0 0 5 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66020
+bar furnished faux-wood METAL~
+a furnished faux-wood bar~
+A furnished faux-wood bar stands here.~
+   The bar is painted black with some plain faux-wood furnishings serving as 
+accents. It is clear that an artist has spent time with this fixture, with 
+stylized engravings lining the bar where the plain, tan-colored synthetic wood 
+accents are. Bottles and glasses are lined up on slightly slanted cabinets 
+behind the bar and on criss-cross structures on the makeshift ceiling, where 
+some of the other glasses are hung. It has a latch on the east side that is 
+disguised as part of the bar table. It can be lifted to allow the bartender 
+and other workers entry by "#6ENTER BAR#0". 
+~
+15 2101248 0
+10000 0 -1 0
+20000 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66021
+table smoking faux-wood wood low METAL~
+a low, faux-wood smoking table~
+A low, faux-wood smoking table stands here.~
+   Rising just above an average man's knee, this low smoking table is made of 
+wooden material. Its wood has been varnished to have a dark maroon color, and 
+has a simple, rectangular accent traced a few inches from its edge. In the 
+middle is an engraving of a stylized 'B'. 
+~
+15 2101248 0
+1000 0 -1 0
+1500 0.000000
+0 0 5 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66022
+fireplace well-maintained METAL~
+a well-maintained fireplace~
+A well-maintained fireplace lights up the room with its flickering flames.~
+   This fireplace comes complete with a low grill to keep the ashes from inside 
+to spill out onto the carpet. It is painted black and carries some stylistic 
+gold accents around it. 
+~
+1 4096 0
+0 -1 0 1
+20000 0.000000
+0 0 0 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66023
+desk drawer faux-wood mirror OTHER~
+a faux-wood desk~
+A faux-wood desk with a mirror and a drawer stands here.~
+   This wooden desk has thick legs and stands solid from the floor, reaching up 
+to an average woman's waist. It contains a drawer just beneath the desk for 
+storing small items, and some space above for other trinkets for quick access. 
+A mirror, reaching close to the ceiling, is set behind and just above the desk 
+and is lighted by bulbs arranged around its solid frame. 
+~
+15 2101248 0
+2000 0 -1 0
+2500 0.000000
+0 0 1 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66024
+desk drawer faux-wood mirror OTHER~
+a faux-wood desk~
+A faux-wood desk with a mirror and a drawer stands here.~
+                           "#6You are pretty!#0"
+
+
+...says a note scrawled with lipstick on the upper right corner of the mirror.
+
+This wooden desk has thick legs and stands solid from the floor, reaching up to
+an average woman's waist. It contains a drawer just beneath the desk for
+storing small items, and some space above for other trinkets for quick access.
+A mirror, reaching close to the ceiling, is set behind and just above the desk
+and is lighted by bulbs arranged around its solid frame.
+~
+15 2101248 0
+2000 0 -1 0
+2500 0.000000
+0 0 1 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66025
+cabinet tall narrow OTHER~
+a tall, narrow cabinet~
+A tall, narrow cabinet stands here beside every desk.~
+   This tall cabinet is made of a synthetic material and varnished to emulate 
+old wood and carry a mahogany hue. It is five and a half feet high, and is 
+basically just a closet for clothes with a pair of drawers at the bottom for 
+foldable belongings. 
+~
+15 4096 0
+3000 0 -1 0
+5000 0.000000
+0 0 1 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66026
+mat cushioned sleeping TEXTILE~
+a cushioned sleeping mat~
+A cushioned sleeping mat has been placed here by the corner.~
+   This is a sleeping mat made up of batting and foam, lined and covered with 
+grey cloth. Along its edge is a zipper, to allow the mat to be folded in half, 
+rolled, and then zipped for transport. 
+~
+15 2101248 0
+1000 0 -1 0
+2000 0.000000
+0 0 1 0 100 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66027
+cabaret bustier TEXTILE~
+a cabaret bustier~
+A cabaret bustier has been left here, smelling faintly of perfume and women.~
+   Classy lingerie, this bustier is made of dark crimson silk and lined with 
+black lace. Its straps are placed on the back and are held in place by 
+gold-colored tabs, allowing the straps to criss-cross over each other where 
+they meet at the bottom and are tied together. It is cut slightly lower on the 
+back, just beneath the chest area, to show the curve and shoulder blades of the 
+upper back. On the front, the bustier manages to cover a woman's breasts 
+comfortably, and is shaped in a concave crescent to show some cleavage as well 
+as to keep them in place. A thin slot below the breasts, on the middle of the 
+abdomen is a slot for a weapon for the woman to defend herself with in an 
+emergency. 
+~
+58 4096 1048585
+400 0 0 0
+20 0.000000
+0 0 0 0 50 131072 0 1
+5.000000 0 0 0 0 0 0
+God~
+God~
+#66028
+stockings pair cabaret lacy TEXTILE~
+a pair of lacy cabaret stockings~
+A pair of lacy cabaret stockings have been left here, smelling faintly of perfume and women.~
+   This pair of black stockings are accented by a column of lace along the side 
+of each leg, and includes a small strap at the top for a garterbelt. 
+~
+12 4096 1048609
+0 0 0 0
+20 0.000000
+0 0 0 0 50 0 0 1
+5.000000 0 0 0 0 0 0
+God~
+God~
+#66029
+thong garterbelt cabaret TEXTILE~
+a cabaret garterbelt attached to a thong~
+A garterbelt attached to a thong has been left here, smelling faintly of perfume and women.~
+   Classy lingerie, this garterbelt and thong ensemble is made of dark crimson 
+silk and is accented by black lace. The garterbelt has been designed to be 
+attached to a matching corset and some stockings, while the detachable thong 
+has been made to have a hidden pouch at the front - just enough space for a 
+black chip or two. 
+~
+48 4096 1050625
+0 0 0 0
+20 0.000000
+0 0 0 0 50 0 0 1
+5.000000 0 0 0 0 0 0
+God~
+God~
+#66030
+tail furry $color0 belt TEXTILE~
+a $color0 furry tail~
+A $color0 furry tail belt attachment has been left here.~
+   This $color0 tail is made of synthetic fur and is at least fifteen inches 
+long. It has a small hook at one of the tips, allowing it to be attached to a 
+belt. 
+~
+12 33558528 1310725
+0 0 0 0
+20 0.000000
+0 0 0 0 50 0 0 1
+5.000000 0 0 0 0 0 0
+God~
+God~
+#66031
+artillery token OTHER~
+an artillery token~
+An Artillery Token is here.~
+arty token
+~
+12 4 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66032
+artillery timer token OTHER~
+artillery reset-timer~
+An artillery reset-timer.~
+arty time - 1 minute
+~
+12 4 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66991
+token doorlock OTHER~
+a doorlock token~
+A doorlock token signifies that a door here is locked.~
+~
+12 4100 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66033
+key small toothed xDOMESTICWARES METAL~
+a small, toothed key~
+A small key with shallow teeth has been forgotten here.~
+   This key is small enough to easily be enclosed in a palm. It is flat, of a 
+silver-grey metal, and has grooves along its length with some short teeth. 
+~
+18 4096 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66034
+key palm sized flat xMachinery METAL~
+a palm-sized, flat key~
+Left here, glinting, is a palm-sized, flat key.~
+   A key small enough to fit in the palm, flat and saw-toothed. 
+~
+18 4096 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66035
+Key tiny saw toothed xOddsandEnds METAL~
+a tiny, saw-toothed metal key~
+Shining dully is a tiny, saw-toothed metal key.~
+   A very tiny key, made of metal with saw teeth. It's flat. 
+~
+18 4096 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66036
+key blue-marked little xPaintStore METAL~
+a blue-marked little key~
+A little key marked with blue paint has been left here.~
+   This tiny little key has been marked in blue paint. 
+~
+18 4096 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66037
+marketplace-trouble dwellers shabby OTHER~
+some shabby-looking dwellers~
+Some shabby-looking dwellers pass messages between the gates.~
+~
+22 0 0
+0 0 0 0
+25 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66038
+key cross-handled xMedicalSupply METAL~
+a cross-handled key~
+Dropped on the floor is a cross-handled key.~
+   It's a simple metal key with a handle shaped like an equilateral cross. 
+~
+18 4096 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66039
+collar explosive METAL~
+an explosive collar~
+A sturdy, metal collar has been left here, the single light on its front blinking an ominous red.~
+   This collar is made of solid titon and is designed to open and close like a 
+gripping hand. The clasp keeping this collar closed seems to be hidden 
+underneath the shell covering of the collar, preventing anyone from freeing 
+themselves from it without a special mechanism. The collar is weighty - while 
+it appears smooth and polished, the single, blinking, red light suggests that 
+the life of the one who wears this collar no longer belongs to himself. 
+~
+12 4096 2097157
+0 0 0 0
+200 0.000000
+0 0 0 0 200 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66509
+weary-vultures flock board OTHER~
+a flock of weary Vultures~
+#5A flock of weary Vultures lounges about, idly trading gossip.#0~
+~
+22 4096 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66040
+xdeathheadboardx scowling youth flat chested board OTHER~
+#5a scowling, flat-chested female youth#0~
+#5A scowling, flat-chested female youth loiters here running her mouth.#0~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66041
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66042
+routines show board large southern wall BURLESQUE_BOARD OTHER~
+a large board with show routines occupies the southern wall~
+A large board occupies most of the southern wall space, containing important show routines and schedules.~
+~
+22 4096 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66043
+xredboard2x group rowdy Reds board OTHER~
+#5a group of rowdy Reds#0~
+#5A group of rowdy Reds lounge about, conversing with those who pass by.#0~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66044
+xxturfscanner2x biometrix handscanner hand scan scanner OTHER~
+a biometric handscanner~
+A biometric handscanner has been installed nearby.~
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66045
+board~
+#5a scrawny, twisted-backed mutant with three mouths#0~
+#5A scrawny, twisted-backed mutant with three mouths passes along messages very quickly here.#0~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66935
+shanty treasure_chest OTHER~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66804
+blacked chrion key METAL~
+a blackened chrion key~
+A blackened chrion key has been left here on the ground, forgotten.~
+   This key is basic and average in every way, fashioned from sturdy enough 
+chrion metal and then blackened to a dull finish. 
+~
+18 4096 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66808
+simple blood red key METAL~
+a simple blood red key~
+A simple key glimmering a dull blood red hue rests here, forgotten.~
+   This key has been crafted of chrion and then stained a deep blood red. The 
+metallic shines through when hit by the light but without it, the key is 
+unremarkable and dull. 
+~
+18 4096 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66046
+sexy door mark OTHER~
+a sexy, sexy, door mark~
+A sexy, sexy door mark is here, checking if things should be locked!~
+~
+12 4100 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66047
+keycard beak-marked small OTHER~
+a small, beak-marked keycard~
+A small, beak-marked keycard lies here upon the ground.~
+   Made of glossy, solid polyprop, this white keycard has been marked with a 
+neatly inked black vulture's beak. Roughly an inch by two inches, the bottom 
+of this thin card has a few small metal strips embedded in it, likely the key 
+to some form of electronic lock. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66048
+light southern dungeon OTHER~
+a green light~
+#0A light just above the southern door is #2green#0.~
+   A small light rests just above the eastern door, indicating whether or not 
+the Dungeon is occupied. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66049
+light eastern glam OTHER~
+a green light~
+#0A light just above the eastern door is #2green#0.~
+   A small light rests just above the eastern door, indicating whether or not 
+the Glam Room is occupied. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66050
+large black coarse tent magnon poles TEXTILE~
+a large coarse black tent~
+Erected here is a large black tent, fashioned of coarse polymesh and magnon poles.~
+   Erected with care, this wide-open $color0 $polymesh1 tent stands tall, held 
+aloft on several $ironalloy poles in a square framework with an arched 'roof'. 
+The design is simple, draped fabric acting as a canvas to keep out the elements 
+and offer some vague sense of privacy. A flap has been cut into the canvas on 
+each of three sides of this construct and when drawn aside like curtains, the 
+resulting holes work as makeshift windows to assist in air circulation. The 
+fourth side has been split down the center. Should one wish, they could 
+#6ENTER#0 the #6TENT#0 by brushing aside that front flap. All in all, the tent 
+appears capable of fitting several people within and has the height to allow 
+all but the tallest to enter without stooping. 
+~
+12 33558528 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66051
+bundle tent supplies TEXTILE~
+a bundle of tent supplies~
+A bundle of tent supplies has been dropped here.~
+   Crafted poles are wrapped up in a canvas package, rolled together to make 
+this item portable. Hefty in weight, carrying of this item is made somewhat 
+easier by a pair of padded straps sewn into one side of the thick cylinder. 
+~
+12 4096 1
+0 0 0 0
+3000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66052
+$polymesh1 $color0 sleeping mat TEXTILE~
+a $polymesh1, $color0 sleeping mat~
+A $polymesh1, $color0 sleeping mat rests here.~
+   Crafted in $color0 polymesh that is $polymesh to the touch, this sleeping 
+pad is meant for on-the-move ability with the comfort of at least a couch. A 
+small, extra-cushioned pillow has been sewn in for a bit of extra comfort. 
+This item can be easily rolled up, with a strap attached to the underside 
+making it wearable slung onto a shoulder. 
+~
+15 2101248 8912897
+1000 0 -1 0
+200 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66664
+large black coarse tent magnon poles TEXTILE~
+a large coarse black tent~
+Erected here is a large black tent, fashioned of coarse polymesh and magnon poles.~
+   Erected with care, this wide-open coarse black tent stands tall, held aloft 
+on several magnon poles in a square framework with an arched 'roof'. The 
+design is simple, draped fabric acting as a canvas to keep out the elements and 
+offer some vague sense of privacy. A flap has been cut into the canvas on each 
+of three sides of this construct and when drawn aside like curtains, the 
+resulting holes work as makeshift windows to assist in air circulation. The 
+fourth side has been split down the center. Should one wish, they could 
+#6ENTER#0 the #6TENT#0 by brushing aside that front flap. All in all, the tent 
+appears capable of fitting several people within and has the height to allow 
+all but the tallest to enter without stooping. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66665
+hydroponic mushroom-growing station OTHER~
+a hydroponic mushroom-growing station~
+A hydroponic mushroom-growing station has been fashioned piecemeal on a table.~
+   Most of the space on this scratched plastic table has been devoted to a 
+miniature hydroponic farm. A grow tray forms the base, lit by a broad lamp 
+that illuminates the product with a soft, bluish glow. The station is densely 
+packed with small, bulbous mushrooms, varying in size from a fingernail to a 
+golf ball, all feeding on some soup of mineral nutrients in the bottom of the 
+tray. 
+~
+30 0 0
+10 66668 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66666
+small $color capsule ORGANIC~
+a small, $color capsule~
+A small, $color capsule has been dropped here.~
+About the size of a typical pill, this $color oval capsule is a shell of 
+soft gelatin. The pliable material is somewhat translucent, but not enough to 
+get a clear view of its seemingly viscous contents. It is completely smooth 
+and plain. You ought to #6EAT CAPSULE#0.
+~
+19 33554432 1
+0 0 0 0
+5 0.000000
+0 0 
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66667
+crude small shack METAL~
+a small, crude shack~
+A small, crude shack has been set up here amidst the others.~
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66668
+empty hydroponics OTHER~
+an empty hydroponics garden~
+An empty hydroponics garden sits on a table here, smelling vaguely of shit.~
+   Most of the space on this scratched plastic table has been devoted to a 
+miniature hydroponic farm. A grow tray forms the base, lit by a broad lamp 
+that illuminates the product with a soft, bluish glow. The station is empty at 
+the moment, except for nutrient-less fertilizer and the smell of shit. You 
+could #6REFILL#0 it with #6NUTRIENTS#0. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66053
+small translucent box topped metal with an inset glove PLASTIC~
+a small translucent specimen box topped with metal~
+A small translucent plastic box rests here, a leather glove inset into one side.~
+   This box appears roughly a foot and a half in length and only a foot in 
+width and depth. All four sides are thick and clear plexiglass, appearing to 
+have been crafted with the same technique as greenhouse windows but doubled to 
+provide safety and security. The top and bottom thick plates metal, screwed 
+into place in seamless craftsmanship. A thick leather glove has been bolted 
+onto the plastic, angled inward to allow a person to reach inside without 
+exposing their bared hand to the contents. A two by four inch sliding window 
+rests just below the glove, allowing items to be placed within the small space. 
+The box is currently occupied, filled with the deformed form of a rapidly 
+decomposing infected squick. 
+~
+12 4096 1
+0 0 0 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66054
+small translucent box topped metal with inset glove PLASTIC~
+a small translucent specimen box topped with metal~
+A small translucent plastic box rests here, a leather glove inset into once side.~
+   This box appears roughly a foot and a half in length and only a foot in 
+width and depth. All four sides are thick and clear plexiglass, appearing to 
+have been crafted with the same technique as greenhouse windows but doubled to 
+provide safety and security. The top and bottom thick plates metal, screwed 
+into place in seamless craftsmanship. A thick leather glove has been bolted 
+onto the plastic, angled inward to allow a person to reach inside without 
+exposing their bared hand to the contents. A two by four inch sliding window 
+rests just below the glove, allowing items to be placed within the small space. 
+~
+12 4096 1
+0 0 0 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66200
+pill tiny chalk-white white ORGANIC~
+a tiny, chalk-white pill~
+A tiny, chalk-white pill has been dropped here.~
+   This tiny circular tablet is no more than four millimeters in diameter, 
+easily swallowed as a pill. It bears no markings, only leaving a scant residue 
+of chalky substance on the fingertips. You could #6EAT#0 the #6PILL#0. 
+~
+19 0 1
+6 0 0 0
+5 0.000000
+0 0 
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#66663
+tablet white powdery ORGANIC~
+a white, powdery tablet~
+A tablet rests here, leaving a powdery residue wherever it has been left.~
+   Larger than a typical pill. This white round tablet is hard to the touch 
+with a powder coat that sticks to anything it contacts. The deceptively 
+innocent tablet is plain and smooth with no markings on it. You ought to #6EAT 
+TABLET#0. 
+~
+19 0 1
+0 0 0 0
+1 0.000000
+0 0 
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
 $~

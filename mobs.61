@@ -1,1 +1,68 @@
+#61000
+Deidre snaggle-toothed snaggle toothed midget byKodiak~
+a snaggle-toothed midget~
+A snaggle-toothed midget stands before the doorway to the south.~
+   Standing no more than four feet, this squat old fellow seems 
+nearly as wide as he is tall. Rolls of fat are clearly visible 
+beneath a ragged leather vest, belly-hair sprouting out of the 
+most unexpected places. His face seems to droop somewhat to the 
+left, his left eye remaining shut. His is constantly agape, his 
+yellow, snaggle-teeth oh-so-visible within. 
+~
+10 0 5 0 0 5d1+120 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+19 16 16 16 12 20 40 13
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' sinkhole~
+0 0 0
+#61002
+Earl brawny gargantuan man bald head~
+a bald man, brawny in build and of gargantuan proportions~
+A bald man, brawny in build and of gargantuan proportions stands behind the bar, wiping down it's surface every so often.~
+   A smoothly shaved noggin weathered by exposure to the sun and 
+a fair amount of years sits atop this man's gargantuan frame. 
+His biceps look as if they may nearly bust through the skin, a 
+trait which they share in common with the rest of his body. A 
+small scar can be seen just below his right eye. 
+~
+522 0 30 0 0 5d1+120 1d2+0 0 8 8 1 1 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+21 14 16 10 15 20 40 16
+1 1
+61004 61010 1.000000 1.000000 1.050000 0.950000 134217728
+1.050000 0.950000 67108864 1.050000 1.000000 33554432 1.000000 0.500000 536870912 1.050000 0.950000 268435456 0.000000 0.000000 0 0.000000 0.000000 0 0
+2061 2056 8085 8019 10059 10099 10100 10101 10102 10103 -1
+63 0 0 0 0 0 0 0 0 0
+0 100 0 60 0 0 40 50 0 0
+40 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 30 60 0 40
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' sinkhole~
+0 0 0
 $~

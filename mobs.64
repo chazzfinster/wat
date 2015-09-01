@@ -1,1 +1,148 @@
+#64001
+radio disk jockey fat pimply~
+a fat, pimply radio disk jockey~
+A fat, pimply radio disk jockey sits at the console.~
+   This rather plump individual holds an overall slovenly 
+appearance. His rounded face is marred by a combination of 
+severe acne and pockmarks. His dark brown hair is worn long, and 
+bears a constant greasy sheen. He is rather pale for Grungetown 
+standards, evidence of extended time spent indoors. 
+~
+10 0 5 1 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#64000
+cockroach $cockroachcolor $cockroachfeature~
+a $cockroachcolor, $cockroachfeature cockroach~
+A $cockroachcolor, $cockroachfeature cockroach scuttles furtively.~
+   Scuttling and $cockroachcolor, this insect is about a foot 
+long from its nervously-wiggling antennae to the end of its 
+armored thorax. Creepy and disturbing, it is $cockroachfeature. 
+~
+268959752 8388612 22 66 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 1 1 0 0 0 0 0 0 64208 0
+8 16 5 16 16 25 40 20
+268435456 0
+0 30 10 0 0 0 80 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' cockroaches~
+126 1 1000 200 20
+1 144 86 0
+#64002
+cockroach ROACHLEAD $cockroachcolor $cockroachfeature roachlead~
+a $cockroachcolor, $cockroachfeature cockroach~
+A $cockroachcolor, $cockroachfeature cockroach scuttles furtively.~
+   Scuttling and $cockroachcolor, this insect is about a foot 
+long from its nervously-wiggling antennae to the end of its 
+armored thorax. Creepy and disturbing, it is $cockroachfeature. 
+~
+268959784 8388612 22 66 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 1 1 0 0 0 0 0 0 64208 0
+8 16 5 16 16 25 40 20
+268435456 0
+0 30 10 0 0 0 80 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' cockroaches~
+126 1 1000 200 20
+1 144 86 0
+#64003
+child HOSPITAL mutant $mutantskin $mutantchildhead~
+a $mutantskin, $mutantchildhead child~
+A $mutantskin, $mutantchildhead child crouches in the shadows.~
+   Only of a child's stature, this skinny, waif-like frame is 
+covered in $mutantskin flesh. It is emaciated, bones showing 
+through its malnurished skin. It is $mutantchildhead, with 
+several baby teeth still visible in its mouth. 
+~
+8 9175044 15 90 0 5d1+80 2d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 1 0 0 0 0 0 0 0 0
+12 12 10 10 16 10 40 18
+268435456 0
+0 27 22 20 27 27 28 28 20 23
+21 27 25 25 20 0 50 50 0 0
+0 0 60 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' crawling_vines~
+0 0 0
+#64504
+mob new~
+a new mobile~
+(null)~
+(null)~
+8 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
 $~

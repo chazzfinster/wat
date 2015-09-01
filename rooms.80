@@ -1,1 +1,506 @@
+#80000
+Krelm's Test Room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D1
+~
+~
+0 -1  0 80001
+S
+#80001
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D1
+~
+~
+0 -1  0 80002
+D2
+~
+~
+0 -1  0 80017
+D3
+~
+~
+0 -1  0 80000
+S
+#80002
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D1
+~
+~
+0 -1  0 80003
+D2
+~
+~
+0 -1  0 80018
+D3
+~
+~
+0 -1  0 80001
+S
+#80003
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D1
+~
+~
+0 -1  0 80004
+D2
+~
+~
+0 -1  0 80019
+D3
+~
+~
+0 -1  0 80002
+S
+#80004
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D1
+~
+~
+0 -1  0 80005
+D2
+~
+~
+0 -1  0 80020
+D3
+~
+~
+0 -1  0 80003
+S
+#80005
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D2
+~
+~
+0 -1  0 80006
+D3
+~
+~
+0 -1  0 80004
+S
+#80006
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D0
+~
+~
+0 -1  0 80005
+D2
+~
+~
+0 -1  0 80007
+D3
+~
+~
+0 -1  0 80020
+S
+#80007
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D0
+~
+~
+0 -1  0 80006
+D2
+~
+~
+0 -1  0 80008
+D3
+~
+~
+0 -1  0 80021
+S
+#80008
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D0
+~
+~
+0 -1  0 80007
+D2
+~
+~
+0 -1  0 80009
+D3
+~
+~
+0 -1  0 80024
+S
+#80009
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D0
+~
+~
+0 -1  0 80008
+D3
+~
+~
+0 -1  0 80010
+S
+#80010
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D1
+~
+~
+0 -1  0 80009
+D3
+~
+~
+0 -1  0 80011
+S
+#80011
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D1
+~
+~
+0 -1  0 80010
+D3
+~
+~
+0 -1  0 80012
+S
+#80012
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D1
+~
+~
+0 -1  0 80011
+D3
+~
+~
+0 -1  0 80013
+S
+#80013
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D0
+~
+~
+0 -1  0 80014
+D1
+~
+~
+0 -1  0 80012
+S
+#80014
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D0
+~
+~
+0 -1  0 80015
+D2
+~
+~
+0 -1  0 80013
+S
+#80015
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D0
+~
+~
+0 -1  0 80016
+D1
+~
+~
+0 -1  0 80026
+D2
+~
+~
+0 -1  0 80014
+S
+#80016
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D0
+~
+~
+0 -1  0 80017
+D1
+~
+~
+0 -1  0 80023
+D2
+~
+~
+0 -1  0 80015
+S
+#80017
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D0
+~
+~
+0 -1  0 80001
+D1
+~
+~
+0 -1  0 80018
+D2
+~
+~
+0 -1  0 80016
+S
+#80018
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D0
+~
+~
+0 -1  0 80002
+D1
+~
+~
+0 -1  0 80019
+D2
+~
+~
+0 -1  0 80023
+D3
+~
+~
+0 -1  0 80017
+S
+#80019
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D0
+~
+~
+0 -1  0 80003
+D1
+~
+~
+0 -1  0 80020
+D2
+~
+~
+0 -1  0 80022
+D3
+~
+~
+0 -1  0 80018
+S
+#80020
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D0
+~
+~
+0 -1  0 80004
+D1
+~
+~
+0 -1  0 80006
+D2
+~
+~
+0 -1  0 80021
+D3
+~
+~
+0 -1  0 80019
+S
+#80021
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D0
+~
+~
+0 -1  0 80020
+D1
+~
+~
+0 -1  0 80007
+D2
+~
+~
+0 -1  0 80024
+D3
+~
+~
+0 -1  0 80022
+S
+#80022
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D0
+~
+~
+0 -1  0 80019
+D1
+~
+~
+0 -1  0 80021
+D2
+~
+~
+0 -1  0 80025
+D3
+~
+~
+0 -1  0 80023
+P
+(null)~
+(null)~
+(null)~
+S
+#80023
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D0
+~
+~
+0 -1  0 80018
+D1
+~
+~
+0 -1  0 80022
+D2
+~
+~
+0 -1  0 80026
+D3
+~
+~
+0 -1  0 80016
+S
+#80024
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D0
+~
+~
+0 -1  0 80021
+D1
+~
+~
+0 -1  0 80008
+D3
+~
+~
+0 -1  0 80025
+S
+#80025
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D0
+~
+~
+0 -1  0 80022
+D1
+~
+~
+0 -1  0 80024
+D3
+~
+~
+0 -1  0 80026
+S
+#80026
+Krelm's Test room~
+For testing progs and shit.
+~
+80 65536 0
+0
+D0
+~
+~
+0 -1  0 80023
+D1
+~
+~
+0 -1  0 80025
+D3
+~
+~
+0 -1  0 80015
+S
 $~

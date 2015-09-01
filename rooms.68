@@ -1,1 +1,4956 @@
+#68000
+Base Room - GT2.0 Sewer~
+   This is the base room for the Grungetown 2.0 Sewers, as built 
+by HAL. 
+~
+68 65536 0
+0
+S
+#68001
+A Messy Warehouse~
+   Set firmly onto the edge of the market square, this warehouse 
+stretches out long and wide, allowing a large number of people to 
+crowd in at the same time - participants, spectators, and other 
+traffic that flows from the marketplace, all filtering through 
+the warhouse-turned-arena. Contrary to the look on the outside, 
+this warehouse is fairly well-constructed, with sturdy walls and 
+support beams and actually intact windows, here and there. The 
+floors are covered in all manner of trash and the walls are 
+scratched and marred, giving the place an altogether messy 
+appearance. 
+   Amidst the semi-controlled chaos is a betting booth, situated 
+on the western wall, near the hallway that leads onwards. A 
+golden coin is painted onto the wall above it, so as to prevent 
+confusion. Southwards stretches another hallway. 
+~
+68 67305496 0
+0
+D2
+~
+~
+0 -1  0 68005
+D3
+~
+~
+0 -1  0 68002
+S
+#68002
+A Sheet-Metal Hallway and Viewing Room~
+   This hallway is wide and crudely-constructed - it is a 
+sheet-metal addition to the eastern warehouse, branching off and 
+moving on westwards. The floor, starting just at the hallway's 
+beginning, is steel mess, bent downwards from the constant 
+trampling underfoot. Below are are two cramped, bloodstained 
+rooms - the fighting pits, the one-on-one arenas - and the floor 
+is kept fairly clean, so as to allow the viewing of the 
+combatants below. A metal spiral stair leads up to a door above. 
+~
+68 67305480 0
+0
+D1
+~
+~
+0 -1  0 68001
+D3
+~
+~
+0 -1  0 68003
+S
+#68003
+A Spectator's Room~
+   This wide room does just barely enough to protect people from 
+the elements - with walls and roof of rivetted sheet metal and a 
+floor of wired steel mesh, it is created for a single sole 
+purpose: Entertainment. While wide, the amount of people that 
+cram into this room can make it seem particularly crowded, and 
+the mesh floor often buckles dangerously beneath the weight of 
+the spectators. Below the mesh can be seen the bloodstained rock 
+of the arena floor. In the exact middle of the floor is a simple 
+steel trapdoor, opening to a hacked stairway. 
+~
+68 67305736 0
+0
+D1
+~
+~
+0 -1  0 68002
+D5
+~
+~
+0 -1  0 68004
+S
+#68004
+VIP Lounge~
+   Furnished comfortably, this lounge looks to be perhaps the 
+single most expensive space in the entirety of the warehouse. 
+The floor is covered in woven lizard skin, acting as a sort of 
+carpet. From floor to sheet-metal ceiling, the four walls of 
+this room are thick glass, scratched a bit but uncracked, 
+providing a full view of the large arena around it. From here, 
+any spectators could watch combatants rip each other to pieces 
+from mere inches away, themselves perfectly safe. 
+~
+68 67305736 0
+0
+D4
+~
+~
+0 -1  0 68003
+S
+#68005
+The Betting Booths~
+   Considerably cleaner than the warehouse from which it 
+branches, this small room is kept fairly spartan. A trapdoor is 
+set into the south-end of the floor, and just to the left of that 
+trapdoor is a booth, and painted along either side are large 
+warriors that stand at attention, facing the crowds; one is 
+painted red and the other is painted blue. 
+~
+68 67305752 0
+0
+D0
+~
+~
+0 -1  0 68001
+D5
+~
+~
+0 -1  0 68006
+S
+#68006
+A Dirty Operating Room~
+   This small room consists of two operating tables, both of them 
+rusty and stained, and an incredibly dirty sink. The stone 
+beneath the tables has been dyed a dark brown from perhaps 
+gallons of blood, and the stains lead back and forth from those 
+to the aforementioned sink. A lone, bare lightbulb flickers in 
+the center of the room, providing a dim yellow that casts lengthy 
+shadows. 
+~
+68 67305480 0
+0
+D0
+~
+~
+0 -1  0 68008
+D2
+~
+~
+0 -1  0 68007
+D3
+~
+~
+0 -1  0 68009
+D4
+~
+~
+0 -1  0 68005
+S
+#68007
+Grimy Change Room~
+   This grimy change room has a number of nicked and worn 
+polyprop benches, lockers, and tables, suited for allowing 
+gladiators to change and dress back in to their normal clothes. 
+Cut out from the stony underbelly of Grungetown, a few flickering 
+electric lights provide just enough visibility to get dressed. 
+~
+68 67305480 0
+0
+D0
+~
+~
+0 -1  0 68006
+S
+#68008
+Grimy Change Room~
+   This grimy change room has a number of nicked and worn 
+polyprop benches, lockers, and tables, suited for allowing 
+gladiators to change and dress back in to their normal clothes. 
+Cut out from the stony underbelly of Grungetown, a few flickering 
+electric lights provide just enough visibility to get dressed. 
+~
+68 67305736 0
+0
+D2
+~
+~
+0 -1  0 68006
+S
+#68009
+A Stone-Hacked Hallway~
+   This crude stone tunnel is hacked east-to-west, the tool-marks 
+still visible on the walls. A single bare lightbuld casts a 
+yellow glow over the dull gray stone, flickering occasionally, 
+weak. A metal door is set into the northern wall, the number one 
+crudely painted across its surface. 
+~
+68 67305480 0
+0
+D0
+~
+~
+0 -1  0 68014
+D1
+~
+~
+0 -1  0 68006
+D2
+~
+~
+0 -1  0 68015
+D3
+~
+~
+0 -1  0 68010
+S
+#68010
+An Expansive Arena With a Low Ceiling~
+   With a ceiling of steel mesh, sunken in places from spectators 
+above, this arena is a fairly large, hacked out square. The 
+walls and floor are rough, jagged stone, splattered with old 
+bloodstains, spit, sweat, and dust. Bare lightbulbs hang 
+randomly about, often low enough to be right in the faces of 
+fighters, and many of these are broken, the glass long since 
+pounded to dust. In the very center of the killing ground sits a 
+box made entirely of thick, scratched, bulletproof glass, and 
+within that is a fairly comfortable-looking lounge.
+~
+68 201523208 0
+0
+D0
+~
+~
+0 -1  0 68013
+D1
+~
+~
+0 -1  0 68009
+D3
+~
+~
+0 -1  0 68011
+S
+#68011
+An Expansive Arena With a Low Ceiling~
+   With a ceiling of steel mesh, sunken in places from spectators 
+above, this arena is a fairly large, hacked out square. The 
+walls and floor are rough, jagged stone, splattered with old 
+bloodstains, spit, sweat, and dust. Bare lightbulbs hang 
+randomly about, often low enough to be right in the faces of 
+fighters, and many of these are broken, the glass long since 
+pounded to dust. In the very center of the killing ground sits a 
+box made entirely of thick, scratched, bulletproof glass, and 
+within that is a fairly comfortable-looking lounge.
+~
+68 201523208 0
+0
+D0
+~
+~
+0 -1  0 68012
+D1
+~
+~
+0 -1  0 68010
+S
+#68012
+An Expansive Arena With a Low Ceiling~
+   With a ceiling of steel mesh, sunken in places from spectators 
+above, this arena is a fairly large, hacked out square. The 
+walls and floor are rough, jagged stone, splattered with old 
+bloodstains, spit, sweat, and dust. Bare lightbulbs hang 
+randomly about, often low enough to be right in the faces of 
+fighters, and many of these are broken, the glass long since 
+pounded to dust. In the very center of the killing ground sits a 
+box made entirely of thick, scratched, bulletproof glass, and 
+within that is a fairly comfortable-looking lounge.
+~
+68 201523208 0
+0
+D1
+~
+~
+0 -1  0 68013
+D2
+~
+~
+0 -1  0 68011
+S
+#68013
+An Expansive Arena With a Low Ceiling~
+   With a ceiling of steel mesh, sunken in places from spectators 
+above, this arena is a fairly large, hacked out square. The 
+walls and floor are rough, jagged stone, splattered with old 
+bloodstains, spit, sweat, and dust. Bare lightbulbs hang 
+randomly about, often low enough to be right in the faces of 
+fighters, and many of these are broken, the glass long since 
+pounded to dust. In the very center of the killing ground sits a 
+box made entirely of thick, scratched, bulletproof glass, and 
+within that is a fairly comfortable-looking lounge.
+~
+68 201523208 0
+0
+D2
+~
+~
+0 -1  0 68010
+D3
+~
+~
+0 -1  0 68012
+S
+#68014
+A Cramped Arena~
+   This arena is roomy enough to allow two people to enter and 
+fight and little else. Cramped, the crudely-hacked walls are 
+jagged and harsh and stained, splatters of old brown mottling the 
+dull gray. Above is a low-hanging, steel-mesh ceiling, allowing 
+the crowd above to watch, jeer, chant, spit, and piss on the 
+fighters below. 
+~
+68 201392136 0
+0
+D2
+~
+~
+0 -1  0 68009
+S
+#68015
+A Small, Jagged Arena~
+   This arena is roomy enough to allow two people to enter and 
+fight and little else. Cramped, the crudely-hacked walls are 
+jagged and harsh and stained, splatters of old brown mottling the 
+dull gray. Above is a low-hanging, steel-mesh ceiling, allowing 
+the crowd above to watch, jeer, chant, spit, and piss on the 
+fighters below. 
+~
+68 67174408 0
+0
+D0
+~
+~
+0 -1  0 68009
+S
+#68016
+Entrance to the Tunnels~
+   An ancient metal ladder stretches down from the maintenance 
+hole above to the floor of this narrow utility tunnel, firmly 
+anchored in the polycrete. The bare walls here are tight, barely 
+allowing room for more than a small group to stand abreast. The 
+ceiling is low, forcing anyone taller than average to stoop down 
+to avoid striking their head on the polycrete. To the west, the 
+tunnel continues on a straight course toward a junction of 
+tunnels, while above the sky is visible through the open 
+maintenance hole. 
+~
+68 65540 25
+0
+D3
+~
+~
+0 -1  0 68017
+D4
+~
+~
+0 -1  0 66295
+S
+#68017
+Utility Tunnel Near a Junction~
+   The cramped tunnel continues here west and east, bare 
+polycrete making up the walls, ceiling, and floor. Long stripped 
+bare of any cables or utilities, only the odd metal bracket 
+remains as a reminder of the purpose of these tunnels. Westward, 
+a junction in the tunnels approaches, while eastward a ladder 
+leading upward stands beneath a shaft of light from the surface. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68016
+D3
+~
+~
+0 -1  0 68018
+S
+#68018
+The Primary Junction~
+   The various utility tunnels come together to join at this 
+cramped junction. The space here is hardly big enough for any 
+group to stand comfortably, the bare polycrete looming on all 
+sides. To the west is a closed utility door, a small electronic 
+pad looking to have been bolted crudely to the polycrete wall 
+beside it, permitting authorized individuals to #6HANDSCAN 
+WEST#0. From above the door several thick pipes and thinner 
+cables snake out, branching off both to the north and south over 
+stretches of yet more claustrophobic tunnels. To the east, a 
+small shaft of light can be seen over a distant ladder that leads 
+to the surface. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68021
+D1
+~
+~
+0 -1  0 68017
+D2
+~
+~
+0 -1  0 68073
+D3
+~
+heavy utility door~
+1 56000  0 68044
+P
+handscan~
+w we wes west ~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(wilmingtons,corporal)
+delay 8 xopen west
+else do 
+delay 8 xfail west
+fi done
+~
+P
+xopen~
+west~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Identification verified. Access granted." 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 68022 The reinforced door creaks open on its own accord, and $n passes through quickly before it shuts once again.
+trans_group -1 68018 68044
+trans 68044
+~
+P
+xfail~
+west~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Necessary Identification unverified. Access denied." 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 68018 A cold, computerized voice speaks: "Warning. Unverified room entry attempted."
+~
+P
+(null)~
+(null)~
+(null)~
+S
+#68044
+A Tunnel Between a Utility Station and Junction~
+   The polycrete ceiling of this cramped tunnel is a maze of 
+pipes and cables that stretch between the utility station to the 
+west and the junction to the east, passing over the heavy utility 
+door. The bare walls are close together, making movement 
+difficult at best. Audible is the hum of machinery from the 
+west, while the air is thick with a dank humidity. To the east 
+stands a heavy utility door, a small panel looking to have been 
+bolted into the polycrete beside it, allowing those able to 
+#6HANDSCAN EAST#0. 
+~
+68 65544 0
+0
+D1
+~
+heavy utility door~
+1 -1  0 68018
+D3
+~
+~
+0 -1  0 68020
+P
+handscan~
+e ea eas east~
+force -1 -1 emote stands perfectly still, laying their hand on a biometric scanner.
+delay 3 emote waits as a faint light flashes down their hand.
+if clanrank(wilmingtons,corporal)
+delay 8 xopen east
+else do 
+delay 8 xfail east
+fi done
+~
+P
+xopen~
+east~
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Identification verified. Access granted." 
+delay 2 emote The reinforced door creaks open, and @ steps into the room.
+atecho 68022 The reinforced door creaks open on its own accord, and $n passes through quickly before it shuts once again.
+trans_group -1 68044 68018
+trans 68018
+~
+P
+xfail~
+east~
+rpapp 3
+info rvnum room -1 vnum 
+atecho &(rvnum) A cold, computerized voice speaks: "Necessary Identification unverified. Access denied." 
+delay 2 emote The biometric scanner's lights flicker off, and a slight crackling and buzzing sounds just over @'s head.
+atecho 68044 A cold, computerized voice speaks: "Warning. Unverified room entry attempted."
+~
+S
+#68020
+An Expansive Utility Plant~
+   The loud hum of machinery and pumps reverberates off the 
+polycrete walls here, while the air has become think with a dank 
+humidity. The utility plant extends over the entire length of 
+the nearly four meter wide room, a mass of pumps, relays, and 
+machinery. A maze of both intake and outtake pipes snake from 
+the plant, rising up to the ceiling where they join a twisting 
+collection of ducts and cables before snaking off to the east. A 
+small metal ladder stands in one corner of the plant, rising to a 
+closed access-hatch in the ceiling. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68044
+D4
+~
+metal-grate~
+1 -1  0 67063
+S
+#68021
+Utility Tunnel Between Junctions~
+   This cramped tunnel extends between two junctions, one to the 
+north and south. Bare polycrete walls restrict access, while a 
+maze of pipes and cables stretches overhead. Along the western 
+side of the tunnel, a patch of ancient graffiti has faded to a 
+blurred smear. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68022
+D2
+~
+~
+0 -1  0 68018
+S
+#68022
+The Secondary Junction~
+   The claustrophobic utility tunnels join together in a 'T' 
+junction here, stretching off to the east, west, and south. 
+Overhead, a maze of pipes and cabling branches off in all 
+directions. From the east there is a mild breeze passing through 
+the tunnel. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68023
+D2
+~
+~
+0 -1  0 68021
+D3
+~
+~
+0 -1  0 68025
+S
+#68023
+A Utility Tunnel Near a Junction~
+   Bare polycrete walls loom on either side of this cramped 
+utility tunnel, pressing in on passers by. Thick pipes and 
+cables snake overhead, bolted securely to the ceiling and 
+restricting headroom. A slow breeze seems to pass through this 
+tunnel, while eastward dim light from the outside seems to be 
+faintly visible. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68024
+D3
+~
+~
+0 -1  0 68022
+S
+#68024
+A Utility Tunnel~
+   The cramped utility tunnel seems to continue onward, bare polycrete walls 
+pressing inward on passers by. A collection of pipes and cables stretches 
+overhead, dipping down to almost head height in places. A faint breeze passes 
+through this tunnel, while eastward a dim light from the outside seems to be 
+visible. Along the northern wall of the tunnel, the polycrete has been 
+cracked, the fissure rough to the touch. 
+   A sign hangs from the utility tunnel ceiling, a skull and crossbones drawn 
+crudely on it, along with #1DANGER - CROCODILES#0 painted beneath it. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68045
+D3
+~
+~
+0 -1  0 68023
+S
+#68025
+A Utility Tunnel Near the Secondary Junction~
+   A maze of pipes and cabling looms overhead from the east and 
+from the west, giving minimal head-room to anyone who passes 
+through the area. Bare polycrete walls loom on either side, 
+featureless, while the floor remains rough, likely rarely used. 
+~
+68 65544 5
+0
+H0
+~
+camoflaged-door~
+1 -1  0 68160
+D1
+~
+~
+0 -1  0 68022
+D3
+~
+~
+0 -1  0 68026
+Q0
+25
+You notice an indention in the northern wall, very subtle and difficult to see, as if something might be camoflaged there.
+~
+S
+#68026
+A Utility Tunnel~
+   The cramped utility tunnel continues here, thick pipes and cables stretching 
+along the ceiling overhead. Bare polycrete walls loom on either side, pressing 
+in on any who pass. Faded yellow lettering marks the northern wall, though 
+time has rendered the words illegible. 
+   A sign hangs from the utility tunnel ceiling, a skull and crossbones drawn 
+crudely on it, along with #1DANGER - CROCODILES#0 painted beneath it. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68025
+D3
+~
+~
+0 -1  0 68104
+S
+#68027
+Sloping Rubble Within a Crater~
+   The crater here slopes from the rim of the ruined street above 
+into the shallow bowl that has been carved from the landscape by 
+whatever catastrophe occurred. The wall has been blackened and 
+fused into a cracked field of glass, a jagged rim of asphalt 
+bordering the top section. Along the northern rim, the bucked 
+and broken form of the perimeter prevents further movement. To 
+the south, the wall of the crater continues toward a section of 
+exposed utility tunnel. 
+~
+68 65536 25
+0
+D1
+~
+~
+0 -1  0 68028
+D2
+~
+~
+0 -1  0 68047
+D4
+~
+~
+0 -1  0 66106
+S
+#68046
+Section of Exposed Tunnel~
+   The bare polycrete of the utility tunnel has been torn apart 
+here along the northern wall, exposing a large crater that has 
+carved itself out of the ruins. All that remains of the tunnel 
+are the eastern wall and the floor, both cracked and pitted, the 
+polycrete blackened. The sloping wall of the crater leads up to 
+the rubble-filled street above, while the remains of the tunnel 
+continue east along the edge of the crater. 
+~
+68 65536 25
+0
+D0
+~
+~
+0 -1  0 68047
+D1
+~
+~
+0 -1  0 68030
+D3
+~
+~
+0 -1  0 68045
+D4
+~
+~
+0 -1  0 66127
+S
+#68045
+Section of Utility Tunnel Before an Opening~
+   The bare polycrete of the utility tunnel here has been cracked 
+and broken, long fissures running along the floor and walls. The 
+brackets that hold up the web of pipes and cabling overhead have 
+been bent, several loose wires hanging down into the tunnel. A 
+low breeze slips through the tunnel, while to the east light is 
+clearly visible. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68046
+D3
+~
+~
+0 -1  0 68024
+S
+#68030
+Exposed Remains of a Tunnel within a Crater~
+   The bare polycrete of the utility tunnel has been torn apart 
+along the northern side, exposing a large crater that has carved 
+itself out of the landscape. What remains is the blackened and 
+cracked remains of the polycrete wall to the south and the floor 
+underfoot. Seeming to originate several meters northward, the 
+crater itself is a field of shattered black glass, sweeping 
+upwards to the perimeter to the north and the ruins of streets to 
+the east and to the west. Along the southern wall a heavy hatch 
+has been set, a small handscanner set into the blackened 
+polycrete beside it. 
+~
+68 65536 25
+0
+D0
+~
+~
+0 -1  0 68029
+D1
+~
+~
+0 -1  0 68031
+D2
+~
+heavy-hatch~
+1 -1  0 68136
+D3
+~
+~
+0 -1  0 68046
+P
+enter~
+base~
+info rvnum room -1 vnum
+info outside room &(rvnum) obj 66017 oval0
+info inside room &(rvnum) obj 66017 oval1
+if clanrank(misfits,member)
+if (&(rvnum)=&(outside))
+trans_group -1 &(rvnum) &(inside)
+trans &(inside)
+~
+S
+#68031
+Shattered Section of Exposed Tunnel~
+   The polycrete of this utility tunnel has been ripped apart 
+along the northern wall, the remaining southern wall and floor 
+blackened and cracked. A large crater sweeps upward from its 
+center some meters to the northwest toward the perimeter and 
+ruined streets that frame it. Eastward, the tunnel seems to have 
+been less damaged, with exposed ends of conduits and pipes 
+visible. Above, the crater wall leads to a ruined street. 
+~
+68 65536 25
+0
+D0
+~
+~
+0 -1  0 68032
+D1
+~
+~
+0 -1  0 68034
+D3
+~
+~
+0 -1  0 68030
+D4
+~
+~
+0 -1  0 66129
+S
+#68034
+Section of Utility Tunnel Before an Opening~
+   Bare polycrete walls loom on either side of this cramped 
+section of utility tunnel, cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. From the west there is 
+often a dim glow of light as the tunnel opens up. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68038
+D3
+~
+~
+0 -1  0 68031
+S
+#68038
+Junction of Utility Tunnels~
+   Bare polycrete walls loom on all sides of this junction of 
+utility tunnels, each surface cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel here splits 
+in all directions, leading off to the north, east, south, and 
+west. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68039
+D1
+~
+~
+0 -1  0 68019
+D2
+~
+~
+0 -1  0 68042
+D3
+~
+~
+0 -1  0 68034
+S
+#68042
+Section of Utility Tunnel near a Junction~
+   Bare polycrete walls loom on either side of this cramped 
+section of utility tunnel, cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. Both to the north and 
+to the south junctions and intersections between sections of 
+tunnel are visible. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68038
+D2
+~
+~
+0 -1  0 68062
+S
+#68039
+Section of Utility Tunnel Between Two Junctions~
+   Bare polycrete walls loom on either side of this cramped 
+section of utility tunnel, cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. Both to the north and 
+to the south junctions and intersections between sections of 
+tunnel are visible. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68040
+D2
+~
+~
+0 -1  0 68038
+S
+#68040
+A Junction of Three Utility Tunnels~
+   Bare polycrete walls loom on all sides of this junction of 
+utility tunnels, each surface cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel here splits 
+to the north, east, and south. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68043
+D1
+~
+~
+0 -1  0 68041
+D2
+~
+~
+0 -1  0 68039
+S
+#68043
+Collapsed Section of Utility Tunnel~
+   Bare polycrete walls loom on either side of this cramped 
+section of utility tunnel, cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the north the tunnel 
+has collapsed in on itself, preventing further progress. 
+~
+68 65544 5
+0
+D2
+~
+~
+0 -1  0 68040
+S
+#68041
+Section of Utility Tunnel Nearing a Junction~
+   Bare polycrete walls loom on either side of this cramped 
+section of utility tunnel, cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68048
+D3
+~
+~
+0 -1  0 68040
+S
+#68047
+Steep Rubble Sloping Downward Into the Crater~
+   This near vertical field of blackened and fused glass traces a 
+curving path along the shattered remains of buildings overhead, 
+thick sections of polycrete overhanging. To the north, the 
+crater continues to curve along its path, cutting into the 
+remains of a street before being halted at the sagging remains of 
+the perimeter. To the east, the crater continues deeper, before 
+leveling off and beginning its rise again on the other side, 
+while to the south the shattered remains of a utility tunnel are 
+visible skirting along the edge of the crater. 
+~
+68 65536 25
+0
+D0
+~
+~
+0 -1  0 68027
+D1
+~
+~
+0 -1  0 68029
+D2
+~
+~
+0 -1  0 68046
+S
+#68028
+Northern Edge of a Crater~
+   The sagging, blackened wall of the perimeter leans 
+precariously over the area, the ground fused together into a 
+field of cracked black glass. To the east and the west, the 
+crater wall rises to meet the remains of the streets that once 
+passed through this area, while to the south the crater levels 
+into a shallow bowl. 
+~
+68 65536 25
+0
+D1
+~
+~
+0 -1  0 68033
+D2
+~
+~
+0 -1  0 68029
+D3
+~
+~
+0 -1  0 68027
+S
+#68029
+Center of the Crater~
+   The ground here has been fused together into an open field of 
+blasted black glass, stretching out to the sharply rising crater 
+walls on all sides. To the north, the sagging wall of the 
+perimeter hands over the crater, while to the east and west the 
+walls of the crater rise up to meet the remains of buildings that 
+survived whatever happened here. To the south, a section of 
+tunnel has been exposed, skirting around the edge of the crater. 
+~
+68 65536 25
+0
+D0
+~
+~
+0 -1  0 68028
+D1
+~
+~
+0 -1  0 68032
+D2
+~
+~
+0 -1  0 68030
+D3
+~
+~
+0 -1  0 68047
+S
+#68032
+Steep Wall of the Crater~
+   This near vertical field of shattered and blackened glass 
+traces along a curving cutaway of the ruined buildings above, 
+little more than rubble at this point. To the west the crater 
+deepens, before leveling off and rising once more to meet the 
+ruins on the other side. To the south, the remains of a 
+shattered utility tunnel are easily visible, while to the north 
+the broken form of the perimeter seems to sag overhead. 
+~
+68 65536 25
+0
+D0
+~
+~
+0 -1  0 68033
+D2
+~
+~
+0 -1  0 68031
+D3
+~
+~
+0 -1  0 68029
+S
+#68033
+Sloping Rubble Within a Crater~
+   The crater here is sloping from the rim of the ruined street above into the 
+shallow bowl that has been carved from the landscape by whatever catastrophe 
+occurred. The wall of the crater has been blackened and fused into a cracked 
+field of glass, a lip of broken asphalt bordering the top section. To the 
+west, the crater wall continues to sweep along, the perimeter buckled in 
+several places, while to the south the remains of a utility tunnel are set into 
+the crater wall. 
+~
+68 65536 25
+0
+D2
+~
+~
+0 -1  0 68032
+D3
+~
+~
+0 -1  0 68028
+D4
+~
+~
+0 -1  0 66108
+S
+#68035
+Collapsed Section of Ancient Tunnel, Sloping Upward~
+No Description Set.
+~
+68 65544 5
+0
+D2
+~
+~
+0 -1  0 68036
+S
+#68036
+Ancient Sewer Tunnel~
+No Description Set.
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68035
+D2
+~
+~
+0 -1  0 68037
+S
+#68037
+Massive Chamber within Ancient Sewers~
+No Description Set.
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68036
+S
+#68019
+Collapsed Utility Tunnel~
+   Bare polycrete walls loom on either side of this cramped 
+section of utility tunnel, cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the east the tunnel 
+has collapsed in on itself, preventing further progress. 
+~
+68 65544 5
+0
+D3
+~
+~
+0 -1  0 68038
+S
+#68048
+Section of Utility Tunnel~
+   Bare polycrete walls loom on either side of this cramped 
+section of utility tunnel, cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68049
+D3
+~
+~
+0 -1  0 68041
+S
+#68049
+Section of Utility Tunnel~
+   Bare polycrete walls loom on either side of this cramped 
+section of utility tunnel, cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the east the tunnel 
+nears a junction. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68050
+D3
+~
+~
+0 -1  0 68048
+S
+#68050
+Junction of Utility Tunnels~
+   Bare polycrete walls loom on all sides of this junction of 
+utility tunnels, each surface cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel here splits 
+to the north, west, and south. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68051
+D2
+~
+~
+0 -1  0 68055
+D3
+~
+~
+0 -1  0 68049
+S
+#68051
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this junction of 
+utility tunnels, each surface cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68052
+D2
+~
+~
+0 -1  0 68050
+S
+#68052
+Section of Utility Tunnel~
+   Bare polycrete walls loom on either side of this cramped 
+section of utility tunnel, cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D2
+~
+~
+0 -1  0 68051
+D3
+~
+~
+0 -1  0 68053
+S
+#68053
+Section of Utility Tunnel~
+   Bare polycrete walls loom on either side of this cramped 
+section of utility tunnel, cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68052
+D3
+~
+~
+0 -1  0 68054
+S
+#68054
+Collapsed Section of Utility Tunnel~
+   Bare polycrete walls loom on either side of this cramped 
+section of utility tunnel, cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the west the tunnel 
+has collapsed, preventing further progress. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68053
+S
+#68055
+Section of Utility Tunnel~
+   Bare polycrete walls loom on either side of this cramped 
+section of utility tunnel, cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the north a junction 
+in the utility tunnels is visible. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68050
+D2
+~
+~
+0 -1  0 68056
+S
+#68056
+Section of Utility Tunnel~
+   Bare polycrete walls loom on either side of this cramped 
+section of utility tunnel, cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68055
+D2
+~
+~
+0 -1  0 68057
+D3
+~
+utility-door~
+1 -1  0 68142
+S
+#68057
+Section of Utility Tunnel~
+   Bare polycrete walls loom on either side of this cramped 
+section of utility tunnel, cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68056
+D2
+~
+~
+0 -1  0 68058
+S
+#68058
+Junction of Utility Tunnels~
+   Bare polycrete walls loom on all sides of this junction of 
+utility tunnels, each surface cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel here splits 
+to the north and to the west. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68057
+D3
+~
+~
+0 -1  0 68059
+S
+#68059
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this section of 
+utility tunnel, each surface cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the east a junction 
+in the utility tunnels is visible. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68058
+D3
+~
+~
+0 -1  0 68060
+S
+#68060
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68059
+D3
+~
+~
+0 -1  0 68061
+S
+#68061
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the west a junction 
+in the utility tunnels is visible. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68060
+D3
+~
+~
+0 -1  0 68062
+S
+#68062
+Junction of Utility Tunnels~
+   Bare polycrete walls loom on all sides of this cramped 
+junction, each surface cool to the touch. Thick pipes and 
+ancient cabling snake overhead, bolted securely to ceiling. The 
+surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The junction here 
+branches off to the north, east, and south. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68042
+D1
+~
+~
+0 -1  0 68061
+D2
+~
+~
+0 -1  0 68063
+S
+#68063
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the north and south, 
+junctions in the tunnels are visible. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68062
+D2
+~
+~
+0 -1  0 68064
+S
+#68064
+Junction of Utility Tunnels~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel here splits 
+to the north, west, and south. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68063
+D1
+~
+utility-door~
+1 -1  0 68141
+D2
+~
+~
+0 -1  0 68065
+D3
+~
+~
+0 -1  0 68067
+S
+#68065
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the north, a 
+junction in the tunnels is visible. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68064
+D2
+~
+~
+0 -1  0 68066
+S
+#68066
+Collapsed Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the south, the 
+tunnel has collapsed, preventing further progress. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68065
+S
+#68067
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the east and west, 
+junctions in the tunnels are visible. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68064
+D3
+~
+~
+0 -1  0 68068
+S
+#68068
+Junction of Utility Tunnels~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel splits here 
+to the east, west, and south 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68067
+D2
+~
+~
+0 -1  0 68074
+D3
+~
+~
+0 -1  0 68069
+S
+#68069
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the east, a junction 
+in the tunnels is visible. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68068
+D3
+~
+~
+0 -1  0 68070
+S
+#68070
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68069
+D3
+~
+~
+0 -1  0 68071
+S
+#68071
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the west, a junction 
+in the tunnels is visible. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68070
+D3
+~
+~
+0 -1  0 68072
+S
+#68072
+Junction of Utility Tunnels~
+   Bare polycrete walls loom on all sides of this cramped section of utility 
+tunnel, each surface cool to the touch. Thick pipes and ancient cabling snake 
+overhead, bolted securely to ceiling. The surface underfoot is rough and 
+uneven, careful inspection revealing the packed down surface of refuse that has 
+built up over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel here splits to the north, 
+east, and south. 
+   A sign hangs from the utility tunnel ceiling, a skull and crossbones drawn 
+crudely on it, along with #1DANGER - CROCODILES#0 painted beneath it. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68073
+D1
+~
+~
+0 -1  0 68071
+D2
+~
+~
+0 -1  0 68089
+S
+#68073
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the north and south, 
+junctions in the tunnels are visible. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68018
+D2
+~
+~
+0 -1  0 68072
+S
+#68074
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the north, a 
+junction in the tunnels is visible. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68068
+D2
+~
+~
+0 -1  0 68075
+S
+#68075
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68074
+D2
+~
+~
+0 -1  0 68076
+S
+#68076
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the south, a 
+junction in the tunnels is visible. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68075
+D2
+~
+~
+0 -1  0 68077
+S
+#68077
+Junction of Utility Tunnels~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel splits here 
+to the north, west, and east. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68076
+D1
+~
+~
+0 -1  0 68078
+D2
+~
+utility-door~
+1 -1  0 68140
+D3
+~
+~
+0 -1  0 68086
+S
+#68078
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section of utility 
+tunnel, each surface cool to the touch. Thick pipes and ancient cabling snake 
+overhead, bolted securely to ceiling. The surface underfoot is rough and 
+uneven, careful inspection revealing the packed down surface of refuse that has 
+built up over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the west, a junction in the 
+tunnels is visible. 
+
+A low set barricade has been stacked here, consisting mainly of chunks of 
+polycrete and broken metal pipes being thrown into a haphazard heap. 
+~
+68 589832 5
+0
+D1
+~
+~
+0 -1  0 68079
+D3
+~
+~
+0 -1  0 68077
+S
+#68079
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section of utility 
+tunnel, each surface cool to the touch. Thick pipes and ancient cabling snake 
+overhead, bolted securely to ceiling. The surface underfoot is rough and 
+uneven, careful inspection revealing the packed down surface of refuse that has 
+built up over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel turns here to the west and 
+to the south. 
+
+A metal pipe has been torn from the wall with sheer force and left laying 
+across the tunnel. 
+~
+68 589832 5
+0
+D2
+~
+~
+0 -1  0 68080
+D3
+~
+~
+0 -1  0 68078
+S
+#68080
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 589832 5
+0
+D0
+~
+~
+0 -1  0 68079
+D2
+~
+~
+0 -1  0 68081
+S
+#68081
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel turns here 
+to the north and to the west. 
+~
+68 589832 5
+0
+D0
+~
+~
+0 -1  0 68080
+D3
+~
+~
+0 -1  0 68082
+S
+#68082
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 589832 5
+0
+D1
+~
+~
+0 -1  0 68081
+D3
+~
+~
+0 -1  0 68083
+S
+#68083
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 589832 5
+0
+D1
+~
+~
+0 -1  0 68082
+D3
+~
+~
+0 -1  0 68084
+S
+#68084
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 589832 5
+0
+D1
+~
+~
+0 -1  0 68083
+D3
+~
+~
+0 -1  0 68085
+S
+#68085
+Collapsed Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel turns here 
+briefly to the south before collapsing, preventing further 
+progress. 
+~
+68 67698696 5
+0
+D1
+~
+~
+0 -1  0 68084
+D2
+~
+hatch~
+1 -1  0 68209
+Q2
+50
+You notice a metal handle beneath some of the rubble of the collapsed tunnel. Upon closer inspection, you note that there is a hatch leading further down into the depths of the dilapidated tunnel system.
+~
+S
+#68086
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68077
+D3
+~
+~
+0 -1  0 68087
+S
+#68087
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68086
+D3
+~
+~
+0 -1  0 68088
+S
+#68088
+End of a Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel halts here 
+suddenly to the west, bare moonrock exposed. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68087
+S
+#68089
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the north, a 
+junction in the tunnels is visible 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68072
+D2
+~
+~
+0 -1  0 68090
+S
+#68090
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. TThe tunnel turns here 
+to the north and to the west. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68089
+D3
+~
+~
+0 -1  0 68091
+S
+#68091
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68090
+D3
+~
+~
+0 -1  0 68092
+S
+#68092
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68091
+D3
+~
+~
+0 -1  0 68093
+S
+#68093
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel turns here 
+to the east and to the south. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68092
+D2
+~
+~
+0 -1  0 68094
+S
+#68094
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68093
+D2
+~
+~
+0 -1  0 68095
+S
+#68095
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel turns here 
+to the north and to the west. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68094
+D1
+~
+utility-door~
+1 -1  0 68139
+D3
+~
+~
+0 -1  0 68096
+S
+#68096
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68095
+D3
+~
+~
+0 -1  0 68097
+S
+#68097
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel turns here 
+to the north and to the east. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68098
+D1
+~
+~
+0 -1  0 68096
+S
+#68098
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68099
+D2
+~
+~
+0 -1  0 68097
+S
+#68099
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68100
+D2
+~
+~
+0 -1  0 68098
+S
+#68100
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the north a junction 
+in the tunnels is visible. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68101
+D2
+~
+~
+0 -1  0 68099
+S
+#68101
+Junction of Utility Tunnels~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel here splits 
+to the north, east, south, and west. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68111
+D1
+~
+~
+0 -1  0 68102
+D2
+~
+~
+0 -1  0 68100
+D3
+~
+~
+0 -1  0 68112
+S
+#68102
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the west, a junction 
+in the tunnels is visible. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68103
+D3
+~
+~
+0 -1  0 68101
+S
+#68103
+Collapsed of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the east, the tunnel 
+collapses, preventing further progress. 
+~
+68 65544 5
+0
+D3
+~
+~
+0 -1  0 68102
+S
+#68104
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68026
+D3
+~
+~
+0 -1  0 68105
+S
+#68105
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68104
+D3
+~
+~
+0 -1  0 68106
+S
+#68106
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D0
+~
+utility-door~
+1 -1  0 68138
+D1
+~
+~
+0 -1  0 68105
+D3
+~
+~
+0 -1  0 68107
+S
+#68107
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68106
+D3
+~
+~
+0 -1  0 68108
+S
+#68108
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel here turns 
+to the east and to the south. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68107
+D2
+~
+~
+0 -1  0 68109
+S
+#68109
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68108
+D2
+~
+~
+0 -1  0 68110
+S
+#68110
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68109
+D2
+~
+~
+0 -1  0 68111
+S
+#68111
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the south, a 
+junction in the tunnels is visible. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68110
+D2
+~
+~
+0 -1  0 68101
+D3
+~
+utility-door~
+1 -1  0 68137
+S
+#68112
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the east, a junction 
+in the utility tunnels is visible. 
+~
+68 65548 5
+0
+D1
+~
+~
+0 -1  0 68101
+D3
+~
+~
+0 -1  0 68113
+S
+#68113
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68112
+D3
+~
+~
+0 -1  0 68114
+S
+#68114
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel bends here 
+to the east and to the south. 
+   The tunnels to the south seem to be made of a slightly older 
+polycrete, stained somewhat more by the passage of time. 
+~
+68 65548 5
+0
+D1
+~
+~
+0 -1  0 68113
+D2
+~
+~
+0 -1  0 68115
+S
+#68115
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the south, a 
+junction in the tunnels is visible. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68114
+D2
+~
+~
+0 -1  0 68116
+S
+#68116
+Junction of Utility Tunnels~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel splits here 
+to the north, west, and south. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68115
+D2
+~
+~
+0 -1  0 68117
+D3
+~
+~
+0 -1  0 68119
+S
+#68117
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the north, a 
+junction in the tunnels is visible. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68116
+D2
+~
+~
+0 -1  0 68118
+S
+#68118
+Collapsed Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the south, the 
+tunnel collapses, preventing further progress. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68117
+S
+#68119
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the east, a junction 
+in the tunnels is visible. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68116
+D3
+~
+~
+0 -1  0 68120
+S
+#68120
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68119
+D3
+~
+~
+0 -1  0 68121
+S
+#68121
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel bends here 
+to the east and to the south. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68120
+D2
+~
+~
+0 -1  0 68122
+S
+#68122
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68121
+D2
+~
+~
+0 -1  0 68123
+S
+#68123
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68122
+D2
+~
+~
+0 -1  0 68124
+S
+#68124
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68123
+D2
+~
+~
+0 -1  0 68125
+S
+#68125
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68124
+D2
+~
+~
+0 -1  0 68126
+S
+#68126
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68125
+D2
+~
+~
+0 -1  0 68127
+S
+#68127
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68126
+D1
+~
+~
+0 -1  0 68128
+S
+#68128
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68129
+D3
+~
+~
+0 -1  0 68127
+S
+#68129
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the east, a section 
+of utility tunnel is visible. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68130
+D3
+~
+~
+0 -1  0 68128
+S
+#68130
+Junction of Utility Tunnels~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. The tunnel splits here 
+to the north, west, and south. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68131
+D2
+~
+~
+0 -1  0 68133
+D3
+~
+~
+0 -1  0 68129
+S
+#68131
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the south, a 
+junction in the tunnels is visible. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68132
+D2
+~
+~
+0 -1  0 68130
+S
+#68132
+Collapsed Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the north, the 
+tunnel collapses, preventing further progress. 
+~
+68 65544 5
+0
+D2
+~
+~
+0 -1  0 68131
+S
+#68133
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the north, a 
+junction in the tunnel is visible, while this section bends to 
+the east. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68130
+D1
+~
+~
+0 -1  0 68134
+S
+#68134
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68135
+D3
+~
+~
+0 -1  0 68133
+S
+#68135
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale. To the east, the tunnel 
+opens up to a massive opening in the moon-rock. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 31124
+D3
+~
+~
+0 -1  0 68134
+S
+#68136
+Cramped Tunnel Near a Hatch~
+   A heavy, rusted hatch stands along the northern side of this 
+cramped room, a small handscan panel set into the wall beside it. 
+The room itself is barely two meters wide, consisting of bare 
+polycrete that has been stained and cracked in places. In the 
+midst of the room is a metal ladder with textured rungs, leading 
+down through a narrow hole in the floor. There is a sharp smell 
+of sewage here, likely emanating from a shattered pipe that runs 
+over the northern hatch. 
+~
+68 65544 0
+0
+D0
+~
+heavy-hatch~
+1 -1  0 68030
+D5
+~
+~
+0 -1  0 66466
+S
+#68137
+Utility Station Two~
+   Drab polycrete walls rise up on all sides of this cramped 
+utility station, snaking pipes covering nearly every exposed 
+surface. A thick looking metal casing stands on one wall, 
+protecting a variety of electrical switches and relays, heavy 
+bundles of cord snaking above to join the mass of pipes as they 
+find their way out of the utility station. On one wall, a heavy 
+utility door has been painted a dull-yellow, the paint chipping 
+to expose the alion metal beneath. In the western corner of the 
+room, there is a small textured ladder that leads to a small 
+utility hatch above. 
+~
+68 65544 5
+0
+D1
+~
+utility-door~
+1 -1  0 68111
+D4
+~
+utility-hatch~
+1 -1  0 66923
+S
+#68138
+Utility Station 1~
+   Drab polycrete walls rise up on all sides of this cramped 
+utility station, snaking pipes covering nearly every exposed 
+surface. A thick looking metal casing stands on one wall, 
+protecting a variety of electrical switches and relays, heavy 
+bundles of cord snaking above to join the mass of pipes as they 
+find their way out of the utility station. On one wall, a heavy 
+utility door has been painted a dull-yellow, the paint chipping 
+to expose the alion metal beneath. A small ladder in the 
+northeastern corner of the room leads to a hatch set into the 
+ceiling. 
+~
+68 65544 0
+0
+D2
+~
+utility-door~
+1 -1  0 68106
+D4
+~
+utility-hatch~
+1 -1  0 66930
+S
+#68139
+Utility Station 3~
+   Drab polycrete walls rise up on all sides of this cramped 
+utility station, snaking pipes covering nearly every exposed 
+surface. A thick looking metal casing stands on one wall, 
+protecting a variety of electrical switches and relays, heavy 
+bundles of cord snaking above to join the mass of pipes as they 
+find their way out of the utility station. On one wall, a heavy 
+utility door has been painted a dull-yellow, the paint chipping 
+to expose the alion metal beneath. 
+~
+68 65544 0
+0
+D3
+~
+utility-door~
+1 -1  0 68095
+D4
+~
+utility-hatch~
+1 -1  0 66096
+S
+#68140
+Utility Station 6~
+   Drab polycrete walls rise up on all sides of this cramped 
+utility station, snaking pipes covering nearly every exposed 
+surface. A thick looking metal casing stands on one wall, 
+protecting a variety of electrical switches and relays, heavy 
+bundles of cord snaking above to join the mass of pipes as they 
+find their way out of the utility station. On one wall, a heavy 
+utility door has been painted a dull-yellow, the paint chipping 
+to expose the alion metal beneath. In one corner of the room, a 
+rickety ladder leads to a utility hatch set into the ceiling. 
+~
+68 65544 0
+0
+D0
+~
+utility-door~
+1 -1  0 68077
+D4
+~
+utility-hatch~
+1 -1  0 66102
+S
+#68141
+Utility Station 7~
+   Drab polycrete walls rise up on all sides of this cramped 
+utility station, snaking pipes covering nearly every exposed 
+surface. A thick looking metal casing stands on one wall, 
+protecting a variety of electrical switches and relays, heavy 
+bundles of cord snaking above to join the mass of pipes as they 
+find their way out of the utility station. On one wall, a heavy 
+utility door has been painted a dull-yellow, the paint chipping 
+to expose the alion metal beneath. In one corner of the room, an 
+alion ladder leads up to a utility hatch set into the ceiling. 
+~
+68 65544 0
+0
+D3
+~
+utility-door~
+1 -1  0 68064
+D4
+~
+utility-hatch~
+1 -1  0 66142
+S
+#68142
+Utility Station 8~
+   Drab polycrete walls rise up on all sides of this cramped 
+utility station, snaking pipes covering nearly every exposed 
+surface. A thick looking metal casing stands on one wall, 
+protecting a variety of electrical switches and relays, heavy 
+bundles of cord snaking above to join the mass of pipes as they 
+find their way out of the utility station. On one wall, a heavy 
+utility door has been painted a dull-yellow, the paint chipping 
+to expose the alion metal beneath. In one corner of the room, a 
+small ladder leads up to a utility hatch set into the ceiling. 
+~
+68 65544 0
+0
+D1
+~
+utility-door~
+1 -1  0 68056
+D4
+~
+utility-hatch~
+1 -1  0 66125
+S
+#68143
+Tunneling Festooned With Propaganda~
+   Taking up the majority of the walls of this part of the metro is crude and 
+messy #2propaganda#0, from painted images to nailed posters, they cover nearly 
+the whole section of the line. Many of them covering older faded ones. In 
+places scorch marks have cut long, thick lines of blackened matter along the 
+walls. The tracks are for the most part undamaged, with only the same 
+blackened scorches that the walls share. Puddles and murky pools gather in 
+places, in dips and dives on the uneven floor. The light fixtures have long 
+since ceased to work with only some of them giving a sharp crackling retort 
+when exposed to water. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68144
+D3
+~
+~
+0 -1  0 68145
+E
+propaganda~
+Written in crude inks and an even cruder hand the majority of
+he posters are of a pro-human nation with many reading #1BURN THE MUTANT!#0
+and other such slogans.  Very old, many of them are little more than
+faded remains, the color having leeched completely out of the material.
+
+Some, clearly made to last longer, have withered time better and can
+still be read by a keen on #1TEN FINGERS TEN TOES, OTHERWISE IT GOES!#0 being
+one of the more light hearted and predominant ones.
+
+A final ugly drawing shows something of a face besieged by tentacles, through
+it, an ugly scorch mark has been applied.
+~
+S
+#68144
+Beside An Upturned Metro Cart~
+   Taking up the majority of this section of the tunnel is an upturned metro 
+carriage, turned fully on to its roof in the narrow confines of the ceiling. 
+It rests at an angle, going fully across both sections of track. Despite its 
+old and ruined exterior, and its situation of being upside down, telltale signs 
+of life still show. Two colors flash from inside the paneling one #1red#0 and 
+another #2green#0, they sit outside its buckled slide doors. Around the 
+outside of the shattered cart, cracks and splits in the rock walling are seen, 
+some done by extreme force. In an attempt to cover them, extensive graffiti 
+and propaganda has been sprawled over most available surfaces, in reds, blacks 
+and greens, easily catching any light passing over them. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68147
+D3
+~
+~
+0 -1  0 68143
+P
+p pr pres press~
+gre gree green~
+vstr #5You#0 press the glowing green button on the upturned metro cart, after a short 'ping' the rusted doors grind open.
+ostr #5$n#0 presses the glowing green button on the upturned metro cart, after a short 'ping' the rusted doors grind open.
+link 68144 n 68149
+~
+P
+p pr pres press~
+r re red~
+vstr You press the glowing red button on the upturned metro cart, after a short 'ping' the rusted doors rattle to a close.
+ostr #5$n presses the glowing red button on the upturned metro cart, after a short 'ping' the rusted doors rattle to a close.
+unlink n 68144
+~
+S
+#68145
+Along Buckled Metro Lines~
+   The dual rail lines of this part of the track are heavily buckled and 
+twisted. Running briefly straight, they quickly begin to weave heavily back 
+and forth until they have come free of their fastenings. In the worst 
+afflicted area, thick, black scorch marks seem to be the culprit. On the 
+curved walls, more of the telltale gun marks leave their mark, with 
+micro-tiling having been blown off completely. Other than that, the tunnel is 
+as the rest with the curved metallic ceiling and the once ornate uprights and 
+stanchions. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68143
+D3
+~
+~
+0 -1  0 68146
+S
+#68146
+Crumbled Section Of Flooded Tunnel~
+   Cutting off the end of this tunnel is a heavy cave in, tonnes of metal and 
+hard stone having fell through and blocked off further passage in its entirety. 
+As the tunnel meets the foot of the rubble, a large pool of polluted water has 
+gathered with a shinning surface of scummy filth. Of the rubble and metal 
+itself, a dozen pin prick leaks squirt out the same liquid increasing the size 
+of the pool at a tiny rate. While one track runs straight under the heavy 
+rockface, the other has been bent back with its end abruptly stopping midpoint 
+in the air. The all pervading stench of contaminated water is especially 
+strong here. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68145
+D4
+~
+~
+0 -1  0 68209
+S
+#68147
+Sloping Rails Of The Metro Line~
+   Square in shape, this section of tunneling and rails is relatively intact 
+save for some buckling of the tracks. The moss-covered walls of the tunnel are 
+chipped and smashed in places but far less than the rest. Stuck, pinned and 
+otherwise taking up space on them are various posters and pictures each 
+displaying the others counterargument. As the rails level off from the east 
+they head in a direct route straight ahead. Overhead, the blocky outline of 
+maintenance hatches and access panels take shape, their grills and intakes 
+packed full of age-old filth. In these parts, the bio-fungus grows in swarms, 
+clustered around the venting and its effluence. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68148
+D3
+~
+~
+0 -1  0 68144
+S
+#68148
+Half Sunken Rail Lines~
+   Sloping steadily downwards in to the ground below, this broken length of 
+train rail descend downwards in to a thick pool of scummy water. The source of 
+which evident from the leaking crack in the rounded ceiling above. Dribbling 
+out, faster than a leak, is a narrow stream of brackish water. Both lines of 
+the train system go down in tandem in to the dark liquid , lost in its murky 
+depths. The smell of the pool is rancid and strong, with only the steady 
+stream from above breaking the silence and the surface. Further west, the 
+lines continue down their slope but at a lesser angle. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68210
+D3
+~
+~
+0 -1  0 68147
+K
+105 0 190 999 0S
+#68149
+Inside the Fortified Remains Of an Upturned Carriage~
+   Heavily cannibalized of anything of comfort, the ruined interior of this 
+once functioning cab has been retrofitted in its entirety in to a more 
+defendable location. All the windows have at one point been shattered, in 
+their place heavy boarding has been nailed. As the outside shows, the carriage 
+is still upside down with the rusted metal seating above on the ceiling. All 
+over the walls, patchwork repairs have been made. The most obvious being the 
+copious amount of boarding hammered over large cluster of holes. In several 
+places, slogans and propaganda have been scrawled over available places, all of 
+a pro-human slant. The curved floor is littered with old trash along with 
+pools of rust-murked waters. 
+
+Beside the door, two dull lights sit by the door, one #1red#0 the other 
+#2green#0. 
+~
+68 592680 5
+0
+P
+p pr pres press~
+gre gree green~
+vstr #5You#0 press the glowing green button on the upturned metro cart, after a short 'ping' the rusted doors grind open.
+ostr #5$n#0 presses the glowing green button on the upturned metro cart, after a short 'ping' the rusted doors grind open.
+link 68149 s 68144
+~
+P
+p pr pres press~
+r re red~
+vstr You press the glowing red button on the upturned metro cart, after a short 'ping' the rusted doors rattle to a close.
+ostr #5$n presses the glowing red button on the upturned metro cart, after a short 'ping' the rusted doors rattle to a close.
+unlink n 68144
+~
+S
+#68150
+A Blocked Track-way~
+   The track here comes to a sudden stop as the entirety of the western end is 
+completely sealed off by debris. The impassable terrain is littered with 
+mostly dirt, but upon closer inspection seems to actually be sediment. The 
+tracks are completely splayed and ripped apart, the alloy brittle from 
+metal-fatigue, jutting into the ruined wall of desecrated polycrete. 
+~
+68 65544 11
+0
+D1
+~
+~
+0 -1  0 68151
+S
+#68151
+Tracks Nearing A Dead End~
+   The tracks continue along in drab display in the square shaped tunnel. 
+Despite a few tarnishings here and there, the metal is mostly intact. The 
+polycrete walls have been cracked in spider-web fashion in some places. The 
+damages being worse in some areas ranging to indentions in the walls' surfaces 
+ranging from fist-sized holes to craters that seemingly threaten to buckle. 
+Graffiti decks the slate-gray in a frantic manner, unreadable beneath the caked 
+on dust. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68152
+D3
+~
+~
+0 -1  0 68150
+S
+#68152
+The Tunnel Continues~
+   The tunnel here appropriates an overhead passage that follows the length of 
+the spanse. The loose structure barely holds to the ceiling and is just large 
+enough for a small man to enter, though the missing bolts in the supports over 
+an ideal that it would likely fall if any attempt were made. Heading westward 
+the shaft suddenly ends with the remaining pieces scattered about the floor 
+over the corroded tracks. The pathway is littered with debris and certainly 
+holds no grounds for notable exploration. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68153
+D3
+~
+~
+0 -1  0 68151
+S
+#68153
+Metro Tunnel Stretching East to West~
+   Scaffolds line the ceiling here as well as a large amount of circuitry 
+wires. The wires themselves, insulated with a black coating, have been 
+re-wired and taped so many times that they barely hold any symbolism of their 
+former purpose. Slathered about the support beams, the wires hang like a 
+gutted snake, remnant of a more useful past. The tracks below them are mangled 
+and ruined with the polycrete bearing multiple fractures and with further 
+investigation, proves that the cause lies with the corroded support-bars 
+inside. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68154
+D3
+~
+~
+0 -1  0 68152
+S
+#68154
+Bend in the Metro Tunnel~
+   Contouring with the curvature of the polycrete walls are brown stains that 
+run perpendicular of the tracks. The material deteoriated drastically, the 
+walls bearing condensation and notably cold to the touch. Behind the walls lie 
+a soft drone that matches with the trickling water that leaks from the cracks 
+in an eerie way. The liquid drains over the painted surface of the walls, 
+surreal designs that are all that remains of distant portraitive display. 
+~
+68 65544 11
+0
+D2
+~
+~
+0 -1  0 68155
+D3
+~
+~
+0 -1  0 68153
+S
+#68155
+The Metro Continues~
+   The ceiling of the tunnel has a single, cylindrical bar that runs along it's 
+surface that has coiled wire about it. The wires connects to light fixtures 
+that have long since been shattered and destroyed. The top of the tunnel being 
+a half-circle that connects to otherwise flat walls which are covered in small 
+white tiles. The tiles are missing in some areas in large patches, fallen to 
+the tunnel floor and shattered. Along the side of the tracks here is a raised 
+platform with accompanying railing. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68154
+D2
+~
+~
+0 -1  0 68156
+S
+#68156
+A Curve in the Tunnel~
+   The polycrete slabs lining the walls have grown to become misaligned over 
+time, becoming jagged and uneven like crooked teeth. Some slabs lean on slight 
+angles, while a few have given way, buckling or snapping in half to have the 
+top of the slab smother the railway line beneath. To the north and east the 
+beaten metro line continues, the tracks being consumed by the darkness 
+presiding over the tunnel, while a drone of the wind can be heard howling in 
+the distance. 
+~
+68 65544 11
+0
+D0
+~
+~
+0 -1  0 68155
+D1
+~
+~
+0 -1  0 68157
+S
+#68157
+Underground Tunnel Stretches into the Darkness~
+   The metro stretches onward here, the polycrete slab lined walls are cool to 
+touch, and sprawl toward the arched ceiling of the tunnel. Crude graffiti, 
+anti-mutant propaganda, posters and paintings fight for real estate in patches 
+along the tunnel wall, which is often pocked and marred by small arms fire and 
+fragmentation damage. The rusty chrion tracks stretch on into the darkness, 
+mostly visible beneath gravel strewn unevenly across the tunnel floor, though 
+in some places they are damaged, destroyed or missing completely. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68158
+D3
+~
+~
+0 -1  0 68156
+S
+#68158
+The Metro Tunnel Continues~
+   The polycrete walls of the metro tunnel have seen better days, having been 
+pocked and chipped in sections by gunfire. Bundles of ruined cabling stretch 
+along the walls, undertaking twists and turns, and at times circling back on 
+itself. The tracks themselves are in a state of disrepair here, the portions 
+still uncovered by dirt having buckled and twisted in some places. Hanging 
+from the curved tunnel surface in even intervals are halogen lights, most of 
+them shattered despite the metal cage installed around them to protect the 
+bulb. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68159
+D3
+~
+~
+0 -1  0 68157
+S
+#68159
+At a Cave-In along the Metro Tunnel~
+   Here the cylindrical ceiling of the metro tunnel has suffered a partial 
+collapse. A section of polycrete has succombed to the pressure over the years, 
+and has crumbled inward, causing tonnes of dirt and broken polycrete to spill 
+over the railway tracks here. Twisted chrion reinforcement bars stick up from 
+the rubble like spears, making it difficult to progress. Movement is further 
+restricted as travellers must not only scale the small mountain of debris but 
+also squeeze through a small semi-circular gap in the top of the tunnel to 
+proceed. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68161
+D3
+~
+~
+0 -1  0 68158
+S
+#68160
+A Scrubbed, Spartan Room~
+   Formed of polycrete that has withstood some of the test of time, this room 
+is still beginning to show wear and tear. Old cables and pipes line the walls, 
+but not as much as the utility tunnel outside. It appears that if someone has 
+had new flooring laid down, which is kept impeccably clean, and the walls have 
+been scrubbed and painted a pale grey after the cracks were filled in. To the 
+south, a door allows passage back into the utility tunnels with a small control 
+panel operating it. 
+~
+68 67174664 0
+0
+D2
+~
+reinforced-door~
+1 -1  0 68025
+S
+#68161
+At a Junction in the Metro~
+   With the main tunnel spanning in from the west, this underground junction 
+splits the tracks into three separate directions. Each tunnel departs in a 
+gentle curve into the darkness, with the rusted chrion tracks intersecting in 
+some parts as they each meander toward their respective tunnels. A single 
+track switch can be seen off to the side of the main track, the lever snapped 
+off at the hinge point. The continuous drone of the distant wind can be heard 
+quite clearly here. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68170
+D1
+~
+~
+0 -1  0 68186
+D2
+~
+~
+0 -1  0 68197
+D3
+~
+~
+0 -1  0 68159
+S
+#68162
+Section of Utility Tunnel~
+   Bare polycrete walls loom on all sides of this cramped section 
+of utility tunnel, each surface cool to the touch. Thick pipes 
+and ancient cabling snake overhead, bolted securely to ceiling. 
+The surface underfoot is rough and uneven, careful inspection 
+revealing the packed down surface of refuse that has built up 
+over time. A thick layer of dust has settled over every surface, 
+while the air itself is musty and stale.
+~
+68 67174408 5
+0
+A
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+D1
+~
+~
+0 -1  0 68163
+D2
+~
+~
+0 -1  0 991
+S
+#68163
+#3Sitocen of Uititly Tnuenl#0~
+   Bare pcletoyre walls loom on all sdeis of this cpmread sitocen 
+of uititly tnuenl, each srcafue cool to the tcouh. Tichk ppies 
+and aicnnet cnalbig snake oaehrevd, bloetd slreucey to clnieig. 
+The sruafce uderofnot is rguoh and uveenn, crafeul ietpncsion 
+rivenleag the pcaekd down srcafue of rfuese that has bilut up 
+over time. A tchik leayr of dust has slteted over erevy sruafce, 
+wlhie the air iltesf is mtsuy and satle. 
+~
+68 67174408 5
+0
+D1
+~
+~
+0 -1  0 68164
+D3
+~
+~
+0 -1  0 68162
+S
+#68164
+#3Sit c n fo Ui  tly Tn  nl#0~
+   Br e pcl t yre wl as lo m no l   sdeis of  ihs cp r ad sito  n 
+fo ui i ly tn enl, ecah src fue loco ot eht tc uh. T chk ppies 
+dna a c n t c al ig snake o   revd, bloe d slr  cey ot clni ig. 
+Eht sr  fce ude of ot si rgu h dna uve nn, craf ul ietp csion 
+riv  le g eht pc ekd dw n sr  fue fo rf  se t ht sa  bi ut pu 
+oevr tm e. A tchik leayr fo dsu  sah slt  ed oevr ere   sr a ce, 
+wlh e eht ria ilt sf si mt uy dn  sat e. 
+~
+68 67174408 5
+0
+D1
+~
+~
+0 -1  0 68165
+D3
+~
+~
+0 -1  0 68163
+S
+#68165
+#1Tnuenl Uititly fo Sitocen#0~
+   #1Satle dna mtsuy si iltesf ria eht wlhie, sruafce erevy oever
+slteted sah dsut fo leayr tchik a. Tmie oever pu bilut sah taht
+rfuese fo srcafue dwon pcaekd eht rivenleag ietpncsion crafeul,
+eveenn dna rguoh si uderofnot sruafce eht. Clnieig ot slreucey
+bloetd, oaehrevd snake cnalbig aichnnet dna ppies tichk. Tcouh
+eht ot loco srcafue ecah, tnuenl uititly fo sitocen cpmread
+tihs of sdeis lal no loom wllas pcletoyre brae.#0
+~
+68 67174408 5
+0
+D1
+~
+~
+0 -1  0 68167
+D3
+~
+~
+0 -1  0 68164
+S
+#68166
+#1                   #0~
+#1               
+#1                          
+#1               
+            #9g#0#1u#9o#0#1h si u#9d#0#1er#9ofnot#0#1 sruafce e#9h#0#1t. Cl#9in#0#1ei#9g
+#0
+#0
+#0
+~
+68 67174408 5
+0
+D3
+~
+~
+0 -1  0 68169
+S
+#68167
+#1  ue#9n#0#1l Uit#9i#0#1tly fo Sito#9c#0~
+#1
+    ete#9d s#0#1ah ds#9u#0#1t fo leayr tch#9i#0#1k a. Tmie oe#9ve#0#1r pu bilut sa#9h
+  #9ue#0#1se fo srcaf#9u#0#1e dwon #9pca#0#1ekd eht ri#9v#0#1enleag iet#9pn#0#1csion c#9raf#0#1e
+e#9vee#0#1nn dna rg#9u#0#1oh si u#9dero#0#1fnot sru#9a#0#1fce eht. C#9lni#0#1eig ot slr#9e#0#1ucey
+  o#9e#0#1td, oaehre#9vd#0#1 snake #9c#0#1nalbig aic#9hn#0#1net dna ppies #9ti#0#1chk. T#9c#0#1o
+    ot l#9o#0#1co srcafue #9eca#0#1h, tnuen#9l#0#1 uititly fo sito#9c#0#1en cpmre#9ad#0#1
+#0
+~
+68 67174408 5
+0
+D1
+~
+~
+0 -1  0 68168
+D3
+~
+~
+0 -1  0 68165
+S
+#68168
+#1    l U#9i#0#1tit#9l#0#1y fo #9S#0#1i#0~
+#1
+                     #9l#0#1eayr tchik #9a.#0#1 Tm#9ie#0#1 oev
+             #9af#0#1ue dw#9on#0#1 p#9ca#0#1ekd eht ri#9ve#0#1nleag ie#9t#0#1pn
+     n #9d#0#1na rgu#9o#0#1h si uder#9ofn#0#1ot sr#9ua#0#1fce #9e#0#1ht. Clni#9e#0#1ig ot s#9l#0#1r
+             evd sna#9ke#0#1 cnalbig aic#9h#0#1nnet dna #9pp#0#1ies 
+                    eca#9h, t#0#1nuenl uiti#9t#0#1ly fo 
+#0
+~
+68 67174408 5
+0
+D1
+~
+~
+0 -1  0 68169
+D3
+~
+~
+0 -1  0 68167
+S
+#68169
+#1    l #9U#0#1itit#9ly#0#1 fo #9S#0#1i#0~
+#1
+#1                        
+                         #1ae#9k#0#1d eht r#9iv#0#1e
+            #1guoh #9si #0#1uder#9of#0#1no#9t #0#1sru#9afce #0#1eht#9. #0#1Clni#9eig
+                         #9al#0#1big ai#9chn#0#1ne#0
+#0
+#0
+~
+68 67174408 5
+0
+D1
+~
+~
+0 -1  0 68166
+D3
+~
+~
+0 -1  0 68168
+S
+#68170
+Metro Tunnel Running North to South~
+   To the south the curve in the railway ends to straighten and head north in a 
+steady decline. The tunnel stretches onward into the darkness of the 
+underground system, though a set of dimly glowing lights flicker on a panel 
+mounted high on the tunnel wall alongside the track. One #2green#0 light 
+remains on, while the #1red#0 bulb beneath it flickers at irregular intervals, 
+suggesting a fault in the circuitry. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68171
+D2
+~
+~
+0 -1  0 68161
+S
+#68171
+An Aged Underground Tunnel~
+   The dilapidated metro tunnel is largely unremarkable here. What is visible 
+of the dust-coated polycrete walls is marked with faded anti-mutant propaganda. 
+Most of the painted posters are simple and to the point, with multi-limbed 
+mutant silhouettes being central in a red circle with a large diagonal cross 
+through the centre. Another features a stoic astronaut pointing outward at the 
+presumed reader, with the words '#3Mutants and YOU#0' in bold letters beneath 
+it, however the fine text beneath it has blurred over the years and is hardly 
+readable. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68172
+D2
+~
+~
+0 -1  0 68170
+S
+#68172
+The Metro Tunnel Turns~
+   The tunnel curves east to south here, taking the metro track with it as it 
+meanders off into the pitch black of the underground system. Various scrape 
+marks can be seen along the polycrete walls here, likely from a metro train 
+grinding by at speed along the curve. Above the suspended cabling has been 
+severed and left in loose coils amongst the gravel. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68173
+D2
+~
+~
+0 -1  0 68171
+S
+#68173
+A Dark Metro Tunnel~
+   The polycrete walls of the metro tunnel have seen better days, having been 
+pocked and chipped in sections by gunfire. Bundles of ruined cabling stretch 
+along the walls, undertaking twists and turns, and at times circling back on 
+itself. The tracks themselves are in a state of disrepair here, the portions 
+still uncovered by dirt having buckled and twisted in some places. Hanging 
+from the curved tunnel surface in even intervals are halogen lights, most of 
+them shattered despite the metal cage installed around them to protect the 
+bulb. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68174
+D3
+~
+~
+0 -1  0 68172
+S
+#68174
+Metro Tunnel Swings North to West~
+   The polycrete walls have been marred with deep scarring running horizontally 
+for some length along the curve. Pipes and bundles of wires haven't been 
+spared as they hang shredded from the ceiling and walls. The chrion tracks are 
+intact here as they curve in sync with the tunnel, despite being covered in a 
+light layer of gravel and dust. 
+~
+68 65544 28
+0
+D0
+~
+~
+0 -1  0 68175
+D3
+~
+~
+0 -1  0 68173
+S
+#68175
+Metro Tunnel Flanked by a Side Track~
+   The tunnel here dilates wide as it yields to a second track, which splits 
+directly from the main for a duration of one hundred metres before rejoining 
+it. The brief split in the tracks is separated by a island platform which is 
+littered with scraps of train parts and debris, the rubble having been combed 
+for anything useful more than once. To the north and south of the repair track 
+the metro flanges back to the single cylindrical tunnel. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68176
+D2
+~
+~
+0 -1  0 68174
+S
+#68176
+Metro Tunnel Spanning North to South~
+   The metro stretches onward here, the polycrete slab lined walls are cool to 
+touch, and sprawl toward the arched ceiling of the tunnel. Crude graffiti, 
+anti-mutant propaganda, posters and paintings fight for real estate in patches 
+along the tunnel wall, which is often pocked and marred by small arms fire and 
+fragmentation damage. The rusty chrion tracks stretch on into the darkness, 
+mostly visible beneath gravel strewn unevenly across the tunnel floor, though 
+in some places they are damaged, destroyed or missing completely. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68177
+D2
+~
+~
+0 -1  0 68175
+S
+#68177
+At a Split in the Metro~
+   The train tracks aligned to the centre of track running north to south split 
+here, with another metro tunnel running off the main lines at a gentle tangent. 
+The walls here are mostly bare of graffiti, though there are some more recent 
+dark brown stains which appear to be dried blood, spattered along the eastern 
+wall in lengthy streaks and handprints. The main metro line continues north at 
+a slight descent, while through the western tunnel, the howling drone of the 
+wind seems to grow stronger. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68178
+D2
+~
+~
+0 -1  0 68176
+D3
+~
+~
+0 -1  0 68181
+S
+#68178
+The Metro Stretches Onward~
+   The metro stretches onward here, the polycrete slab lined walls are cool to 
+touch, and sprawl toward the arched ceiling of the tunnel. Crude graffiti, 
+anti-mutant propaganda, posters and paintings fight for real estate in patches 
+along the tunnel wall, which is often pocked and marred by small arms fire and 
+fragmentation damage. The rusty chrion tracks stretch on into the darkness, 
+mostly visible beneath gravel strewn unevenly across the tunnel floor, though 
+in some places they are damaged, destroyed or missing completely. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68179
+D2
+~
+~
+0 -1  0 68177
+S
+#68179
+Metro Tunnel Descends into Murky Water~
+   The metro tracks here descends rather steeply to plunge into a body of 
+viscous, acrid-smelling water, which completely submerges the tunnel. The 
+surface of the water itself is covered with a film of oil, which is evident 
+from the myriad of colours which reflect when a light source is directed upon 
+it. The ancient tunnel has been disturbed more recently, which is evident 
+through the drag marks and blood stains marring the dirt alongside the tracks 
+leading to the water. The occasional claw mark is gouged into the wall of the 
+tunnel, the scratching trailing northward and usually ending in a bloodied 
+fingernail or two lodged in the polycrete. 
+~
+68 65544 28
+0
+D0
+~
+~
+0 -1  0 68180
+D2
+~
+~
+0 -1  0 68178
+S
+#68180
+Waterlogged Tunnel~
+   Completely submerged, the viscous liquid that doubles as water bathes the 
+curved polycrete walls and straight solid floor. To the north, a large pile of 
+rubble blocks out any exit deeper into the water and effectively truncates the 
+tracks that move from south to north. Most of the track is so rusted and 
+pitted that even if this space were drained, it'd be hopelessly damaged for 
+further use. Clumps of spine-tipped moss grows over the shattered underwater 
+scene, peeking out from between some of the larger chunks of broken polycrete. 
+Visibility is poor even if the darkness wasn't all consuming, as the murky 
+depths run brown with pollution and oil. 
+~
+68 65544 16
+0
+D2
+~
+~
+0 -1  0 68179
+S
+#68181
+In an 'S' Bend in the Metro~
+   The polycrete slabs lining the walls have grown to become misaligned over 
+time, becoming jagged and uneven like crooked teeth. Some slabs lean on slight 
+angles, while a few have given way, buckling or snapping in half to have the 
+top of the slab smother the railway line beneath. To the north and east the 
+beaten metro line continues, the tracks being consumed by the darkness 
+presiding over the tunnel, while a drone of the wind can be heard howling in 
+the distance. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68182
+D1
+~
+~
+0 -1  0 68177
+S
+#68182
+The Tunnel Takes a Turn~
+   The metro stretches onward here, the polycrete slab lined walls are cool to 
+touch, and sprawl toward the arched ceiling of the tunnel. Crude graffiti, 
+anti-mutant propaganda, posters and paintings fight for real estate in patches 
+along the tunnel wall, which is often pocked and marred by small arms fire and 
+fragmentation damage. The rusty chrion tracks stretch on into the darkness, 
+mostly visible beneath gravel strewn unevenly across the tunnel floor, though 
+in some places they are damaged, destroyed or missing completely. 
+~
+68 65544 5
+0
+D2
+~
+~
+0 -1  0 68181
+D3
+~
+~
+0 -1  0 68183
+S
+#68183
+Metro Tunnel Near a Station~
+   The metro stretches onward here, the polycrete slab lined walls are cool to 
+touch, and sprawl toward the arched ceiling of the tunnel. Crude graffiti, 
+anti-mutant propaganda, posters and paintings fight for real estate in patches 
+along the tunnel wall, which is often pocked and marred by small arms fire and 
+fragmentation damage. The rusty chrion tracks stretch on into the darkness, 
+mostly visible beneath gravel strewn unevenly across the tunnel floor, though 
+in some places they are damaged, destroyed or missing completely. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68182
+D3
+~
+~
+0 -1  0 68184
+S
+#68184
+Tracks Beneath a Trashed Metro Station~
+   Stretching to the east and west, the metro tunnel plunges into the darkness, 
+though the polycrete curve of the northern wall yields to an underground metro 
+platform. A set of narrow maintenance stairs lead up onto the platform from 
+the trackway beneath it. Laying amongst the dirt, the rusted chrion rails 
+split apart to lead further westward, beyond the station. The ghastly howling 
+of a wind source can be heard from the platform above. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68208
+D1
+~
+~
+0 -1  0 68183
+D3
+~
+~
+0 -1  0 68185
+S
+#68185
+A Metro Tunnel Blocked by Wreckage~
+   The curved tunnel stretching to the west is completely blocked off by metro 
+train wreck. Consumed by flames and left to rust over the years, little 
+remains apart from the rusted chrion skeleton of the carts. The train itself 
+looks to have derailed whilst undertaking the sweeping curve of the track, 
+having come to rest on its side. The tracks themselves have been yanked from 
+their mounting points from the impact, leaving the metal rails spearing outward 
+into the air in opposite directions. 
+
+The tunnel ceiling has been torn open here, most likely with the use of large 
+amounts of explosive judging by the extensive damage and scorch marks marring 
+the polycrete. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68184
+D4
+~
+~
+0 -1  0 53218
+S
+#68186
+Metro Tunnel Spanning East to West~
+   The metro stretches onward here, the polycrete slab lined walls are cool to 
+touch, and sprawl toward the arched ceiling of the tunnel. Crude graffiti, 
+anti-mutant propaganda, posters and paintings fight for real estate in patches 
+along the tunnel wall, which is often pocked and marred by small arms fire and 
+fragmentation damage. The rusty chrion tracks stretch on into the darkness, 
+mostly visible beneath gravel strewn unevenly across the tunnel floor, though 
+in some places they are damaged, destroyed or missing completely. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68187
+D3
+~
+~
+0 -1  0 68161
+S
+#68187
+Abandoned Metro Tunnel~
+   The straight section of underground tunnel stretches as far as the eye can 
+see here in each direction, before it is consumed by darkness. Ancient 
+anti-mutant propaganda and graffiti fight for real-estate on the polycrete 
+walls, some of the faded markings stretching as high as the curve of the tunnel 
+ceiling. Cabling sprouts from the southern wall here, running parallel to the 
+tracks until it meets a beaten metal fusebox. The fusebox itself has been left 
+ajar, the innards torn out long ago, with the lid itself marked with graffiti. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68188
+D3
+~
+~
+0 -1  0 68186
+S
+#68188
+The Metro Continues~
+   Rusted pipes line the ceiling of this desolate curved tunnel, leading 
+southward towards a fork. The chrion tracks are littered with rust, some rails 
+missing entirely, making it improbable for a train to travel with any real 
+success if there were a train to be had. Inset blocks of moon rock zig-zag 
+through polycrete and several dim unlit lights line the curved walls. Shadows 
+shroud most of the area, cloaking a few piles of loosely gathered bones here 
+and there at the corners created by sloped walls meeting the leveled-off 
+floors. The faint musk of mold hangs in the air though the evidence of it 
+shows only in the cracks of broken faux stone. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68189
+D3
+~
+~
+0 -1  0 68187
+S
+#68189
+Nearing a Bend in the Metro~
+   Nearing a bend in this tunnel, the space bears a marked curve upwards from a 
+mostly level floor, sloping towards an arched center. Though crafted largely 
+of polycrete, decorative inlay of cut moon stone creates simple geometric 
+patterns. Chrion tracks follow the floor. No hint of shine remains on the 
+metallic surface as time and rust have eaten away at much of it, leaving a 
+pocked and useless surface. Inset into the curved walls are powerless 
+rectangles that once served as illumination. 
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68190
+D3
+~
+~
+0 -1  0 68188
+S
+#68190
+A Bend in the Metro Tunnel~
+   Contouring with the curvature of the polycrete walls are brown stains that 
+run perpendicular of the tracks. The material deteoriated drastically, the 
+walls bearing condensation and notably cold to the touch. Behind the walls lie 
+a soft drone that matches with the trickling water that leaks from the cracks 
+in an eerie way. The liquid drains over the painted surface of the walls, 
+surreal designs that are all that remains of distant portraitive display. 
+~
+68 65544 5
+0
+D2
+~
+~
+0 -1  0 68191
+D3
+~
+~
+0 -1  0 68189
+S
+#68191
+The Metro Continues~
+   The metro stretches onward here, the polycrete slab lined walls are cool to 
+touch, and sprawl toward the arched ceiling of the tunnel. Crude graffiti, 
+anti-mutant propaganda, posters and paintings fight for real estate in patches 
+along the tunnel wall, which is often pocked and marred by small arms fire and 
+fragmentation damage. The rusty chrion tracks stretch on into the darkness, 
+mostly visible beneath gravel strewn unevenly across the tunnel floor, though 
+in some places they are damaged, destroyed or missing completely. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68190
+D2
+~
+~
+0 -1  0 68192
+S
+#68192
+The Metro Sweeps North to East~
+   The polycrete walls have been marred with deep scarring running horizontally 
+for some length along the curve. Pipes and bundles of wires haven't been 
+spared as they hang shredded from the ceiling and walls. The chrion tracks are 
+intact here as they curve in sync with the tunnel, despite being covered in a 
+light layer of gravel and dust. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68191
+D1
+~
+~
+0 -1  0 68193
+S
+#68193
+At a Collapsed Section of Tunnel~
+   A vast mass of debris has been jammed into this section of tunnel with the 
+intent of making an impassable barricade, though this has evidently failed, 
+judging by it's current condition. The intial effort to close the tunnel seems 
+to have been a large amount of explosive, judging by the scorch marks and 
+fragmentation damage peppering the walls. Despite these efforts, debris and 
+and chunks of polycrete have been thrown outward in all directions from the 
+barricade, as if something rather large has smashed through the barricade like 
+a battering ram, though the wall of rubble has collapsed in the wake of the 
+intruder. The wind howls relentlessly through the small gaps in the debris. 
+~
+68 65544 28
+0
+D3
+~
+~
+0 -1  0 68192
+S
+#68194
+New Room~
+No Description Set.
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68195
+S
+#68195
+New Room~
+No Description Set.
+~
+68 65544 5
+0
+D1
+~
+~
+0 -1  0 68196
+D3
+~
+~
+0 -1  0 68194
+S
+#68196
+New Room~
+No Description Set.
+~
+68 65544 5
+0
+D3
+~
+~
+0 -1  0 68195
+S
+#68197
+Along a Desolate Metro~
+   This arched tunnel-space bears mostly intact moon stone inlaid into 
+polycrete, gently curving upward from the floor. Distant wind remains the the 
+only and constant sound remaining after it's abandonment. #6Chrion tracks#0 
+line the floors, moving north and south. Rust mars the surface, slowly eating 
+away at the metal. Though inset track-lights still adorn the walls every five 
+feet or so, they've long gone dark with lack of power. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68161
+D2
+~
+~
+0 -1  0 68198
+S
+#68198
+A Track-lined Metro Tunnel~
+   Running northward and southward, this tunnel appears to be constructed of 
+mostly polycrete though it bears a decorative inlay of roughly cut moon rock. 
+Chrion tracks follow the level floor and though once in good condition now 
+appear to be partially rusted and probably not suitable for travel. 
+#2Track-lights#0 are inset into the curved walls, however, they remain 
+powerless and dim. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68197
+D2
+~
+~
+0 -1  0 68199
+S
+#68199
+The Dilapidated Metro Continues~
+   The metro stretches onward here, the polycrete slab lined walls are cool to 
+touch, and sprawl toward the arched ceiling of the tunnel. Crude graffiti, 
+anti-mutant propaganda, posters and paintings fight for real estate in patches 
+along the tunnel wall, which is often pocked and marred by small arms fire and 
+fragmentation damage. The rusty chrion tracks stretch on into the darkness, 
+mostly visible beneath gravel strewn unevenly across the tunnel floor, though 
+in some places they are damaged, destroyed or missing completely. 
+~
+68 65544 5
+0
+D0
+~
+~
+0 -1  0 68198
+D2
+~
+~
+0 -1  0 68200
+S
+#68200
+By a Knocked Out Armoured Vehicle~
+   Dominating this turn in the metro is the burnt-out husk of what appears to 
+be an armoured assault mech. Once a pinnacle of mechanized might, the vehicle 
+is now nothing but a severely rusted tomb resting on a pile of gravel. The 
+armoured sides are pocked and cratered by what appears to have been rocket and 
+small arms fire, and little remains of the tracks that once propelled it. The 
+turret has been left traversed toward the bridge, with the turret ring torn 
+apart by an explosion, which was evidently internal judging by the way the 
+rusted shards of armour flay outward at an awkward angle. The barrel appears 
+to be aiming toward the darkness shrouding the opposite side of the bridge, 
+though it is difficult to tell as it's length is split outward from tip to 
+turret. 
+~
+68 589832 5
+0
+D0
+~
+~
+0 -1  0 68199
+D3
+~
+~
+0 -1  0 68201
+S
+#68201
+A Girder Bridge Spanning an Underground Chasm~
+   Spanning the width of a gigantic underground cavern, this polycrete 
+supported girder bridge has been ravaged and annihilated by all manners of 
+warfare. At the halfway point of of the bridge a massive crater in the 
+polycrete from what appears to been an explosion, with the metal rails twisted 
+and hanging loosely in the air. A set of graffiti-riddled metro cars have been 
+derailed near the crater, having smashed through the barriers to send the train 
+cascading over the edge. The last three cars of the train hold their 
+deteriorated couplings still, leaving the remainder of the carriages hanging 
+mid-air above the dark abyss of the cavern. 
+~
+68 589832 5
+0
+D1
+~
+~
+0 -1  0 68200
+D3
+~
+~
+0 -1  0 68202
+D5
+~
+~
+0 -1  0 68212
+P
+d do dow down~
+(null)~
+if (&(1)=!)
+doitanyway -1
+else do
+vstr #6Falling into the darkness of the chasm may prove fatal, type down ! to proceed.#0
+fi done
+~
+S
+#68202
+West of a Wartorn Bridge~
+   This area is littered with decaying mats on eitherside of the tracks along 
+it's polycrete walkways. They are covered in rust colored splatter marks and 
+pool shapes beneath them of equal hue. Between each is a rack of curtains 
+covered in the same brownish-red splotches. Along the tracks are rows of crude 
+barriers made from refuse that has been heaped and stacked together together. 
+Along some of them are weapon ports and cavities, the exterior of which has 
+been riddled with bullet holes and fragmentation damage. 
+~
+68 589832 6
+0
+D1
+~
+~
+0 -1  0 68201
+D2
+~
+~
+0 -1  0 68203
+S
+#68203
+The Battle-Worn Metro Continues~
+   The metro continues about with rusted pipes barely clinging to the ceiling. 
+The gradually disintegrated bolts presumably wittled down by the small trickle 
+of water that leaks from the cracks in the polycrete. On the floor of the 
+tunnel are a sparse amount of skeletons, frozen in their final moments of 
+sprawling southward. Most of them that are still intact bear shattered bones 
+with center-fractures. 
+~
+68 589832 6
+0
+D0
+~
+~
+0 -1  0 68202
+D2
+~
+~
+0 -1  0 68204
+S
+#68204
+Through an Abandoned Tunnel~
+   The metro stretches onward here, the polycrete slab lined walls are cool to 
+touch, and sprawl toward the arched ceiling of the tunnel. Crude graffiti, 
+anti-mutant propaganda, posters and paintings fight for real estate in patches 
+along the tunnel wall, which is often pocked and marred by small arms fire and 
+fragmentation damage. The rusty chrion tracks stretch on into the darkness, 
+mostly visible beneath gravel strewn unevenly across the tunnel floor, though 
+in some places they are damaged, destroyed or missing completely. 
+~
+68 65544 6
+0
+D0
+~
+~
+0 -1  0 68203
+D2
+~
+~
+0 -1  0 68205
+S
+#68205
+A Walled off Tunnel~
+   Set just south of the tunnel curving westward is a line of walls stretched 
+end-to-end made of rusted alloy sheets. They are dingy and barely hold under 
+their own weight, riddled with bulletholes of all shapes and sizes. Along 
+their tops are crudely wound wires with spikes driven through the top of the 
+makeshift fencing. Laying directly in the center of the walls is an opening 
+that has been lined with skeletal remains, their destroyed weapons still in the 
+clutches of their bone appendages. 
+~
+68 65544 6
+0
+D0
+~
+~
+0 -1  0 68204
+D2
+~
+~
+0 -1  0 68206
+D3
+~
+~
+0 -1  0 68207
+S
+#68206
+A Mass Grave at a Dead End~
+   The tunnel here is relatively untouched, only bearing the same decay that 
+the remainder of the metrolines have also been subjected to. Along the 
+southern wall are deeply buried bulletholes as well as multiple rust-colored 
+splatters about the polycrete surface. At the base of the wall are dozens of 
+skeletons, piled from end to end in varying shapes, sizes, and not all of them 
+looking entirely human. 
+~
+68 65544 6
+0
+D0
+~
+~
+0 -1  0 68205
+S
+#68207
+A Water-logged Tunnel~
+   This tunnel has been water-logged by a thick, rank, and dark liquid. The 
+source seems to be a small inlet in the northern wall that squelches out minute 
+amounts of water on occassion. With the tracks leading into the water it easy 
+to notice that they lead to the west, which has been completely barred off by a 
+cave-in now made into a natural embankment. 
+~
+68 65544 6
+0
+D1
+~
+~
+0 -1  0 68205
+S
+#68208
+A Dilapidated Metro Station Platform~
+   Once an efficient means of providing access trains of the metro system, this 
+platform is now utterly trashed. Rubbish and debris are strewn across the 
+tiled floor, and the revolving metal cages filtering access have been snapped, 
+broken and bent out of shape long ago, leaving the platform accessible to 
+anyone. A handful of gutted ticket booths are aligned just beyond the cages, 
+through the transparent plastic barriers of each has been smashed in with 
+force, with all the equipment inside stolen many years back by the looks of the 
+dust and debris settled within. To the north is a wide corridor which leads to 
+a stairwell, while to the south the platform ends abruptly, yielding to the 
+metro trackway below. 
+~
+68 65544 11
+0
+D0
+~
+~
+0 -1  0 68211
+D2
+~
+~
+0 -1  0 68184
+S
+#68209
+A Dilapidated Storage Bunker~
+   A short metal ladder leads down into this square storage room, which is 
+cramped to say the least. The hatch above is made from tarnished chrion, with 
+many scratches lining the broken locking handle from wear and tear over the 
+years. Massive cracks line the concrete walls, and the floor is utterly 
+filthy. Plastic crates of assorted sizes have been scattered over the room, 
+while a few crusty, padded matts have been laid down in one corners. 
+
+More recently, droplets and streaks of blood have stained the metal ladder in 
+places, with a bloodied handprint smeared across the hatch. A section of the 
+wall has collapsed on the southern wall, the collapse leading to a tunnel 
+below. 
+~
+68 65548 0
+0
+D0
+~
+hatch~
+1 -1  0 68085
+D5
+~
+~
+0 -1  0 68146
+Q5
+50
+~
+S
+#68210
+New Room~
+No Description Set.
+~
+68 65537 16
+0
+D3
+~
+~
+0 -1  0 68148
+S
+#68211
+A Battered Spiral Stairwell~
+   Wide and set at a steady gradient, the size of this stairwell suggests it 
+was purpose-built for the use of hundreds of commuters at once. The polycrete 
+stairs are chipped and broken in places, while the walls are coated in a dull 
+green paint which is intermittently disturbed by faded graffiti. Midway down 
+this section of stairwell, a large arch opens up to the south, leading to a 
+vast hallway beyond. Debris and rubbish is strewn across the ground, while a 
+bullethole riddled sign hangs from the ceiling, though the words upon it have 
+peeled away with the years. 
+~
+68 65544 11
+0
+D2
+~
+~
+0 -1  0 68208
+D4
+~
+~
+0 -1  0 68215
+D5
+~
+~
+0 -1  0 68214
+S
+#68212
+Falling from a Girder Bridge Crossing a Chasm~
+The wind hisses in your ears as you plummet into the darkness.
+~
+68 66568 5
+0
+D4
+~
+~
+0 -1  0 68201
+D5
+~
+~
+0 -1  0 68213
+S
+#68213
+In the Depths of a Dark Chasm~
+   Scattered with the remains of those unfortunate enough to fall, this place 
+is mostly a resting place for broken bones and bodies. The stench of death and 
+decay is overpowering in the depths of the chasm here, which is partially 
+flooded within its uneven ground. 
+~
+68 66568 5
+0
+D4
+~
+~
+0 -1  0 68212
+S
+#68214
+A Clogged Spiral Stairwell~
+   The chipped and cracked stairs lead to a level above, while the lower level 
+has been flooded with murky water. All matters of containers, equipment and 
+debris deemed useless has been thrown haphazardly down the stairwell from 
+above, creating a makeshift barrier to prevent anyone or anything progessing up 
+the stairwell from water below. Among the rusty items jammed into place are 
+cabinents, bins, burnt-out equipment which is reinforced by scavenged lengths 
+of chrion railway tracks which have been propped against the barrier to keep it 
+in place. A door is set along the north side of the stairwell, which is 
+half-submerged in water and partially blocked by the barricade. 
+~
+68 65544 11
+0
+D0
+~
+partially submerged door~
+1 -1  0 68216
+D4
+~
+~
+0 -1  0 68211
+D5
+~
+~
+0 -1  0 68217
+S
+#68215
+A Yawning Metro Station~
+   This cavernous chamber sprawls into the darkness to the east and west. The 
+walls and ceiling are one due to the horizontal hemicylindrical shape of the 
+station. Concave spheres delve into the polycrete to the north and south, for 
+what appears to have once been shops and stalls, though now each of them are 
+gutted and empty. A sheer amount of rubbish, debris and discarded equipment 
+litters the ground here in heaps, with the floor beneath it all is slick with 
+foul-smelling water. Bullet holes riddle the polycrete in places, water 
+dribbling from within some of them to trickle down the wall. Set in the centre 
+of the massive chamber is the top of a staircase, which is flanked by rusted 
+metal railings which were intended to prevent anyone from falling down them. 
+The western end of the station has been blocked off by a massive collapse in 
+the underground system, a vast amount of rubble now blocking progress in that 
+direction. 
+~
+68 589896 11
+0
+D0
+~
+~
+0 -1  0 68219
+D1
+~
+security hatch~
+1 56113  0 68218
+D5
+~
+~
+0 -1  0 68211
+S
+#68216
+A Flooded Maintenance Room~
+   Dark, murky water floods this room to around the level of three feet, 
+requiring a person of normal height to wade through the maintenance and control 
+room which now resembles a debris-littered swimming pool. Control pods align 
+themselves before a massive screen on the northern wall, which has been smashed 
+to pieces long ago. Each control pod is lined with a panel displaying numerous 
+dials, buttons, switches and levers, though the exposure to the moisture has 
+rendered the electrical equipment useless. 
+~
+68 65544 11
+0
+D2
+~
+partially submerged door~
+1 -1  0 68214
+S
+#68217
+Waterlocked Section of Stairwell~
+No Description Set.
+~
+68 65545 16
+0
+D4
+~
+~
+0 -1  0 68214
+S
+#68218
+A Ransacked Security Room~
+   Once orderly and efficient, this massive circular room is now in a state of 
+ruin. The northern quadrant of the room was once designated to security 
+surveillance, judging by the number of smashed and looted computer shells which 
+still remain against the wall. The southern quadrant of the room is lined with 
+hastily-built racks bolted to the wall, the contents of which were raided long 
+ago. In the centre of the room is an overturned round table, while scattered 
+elsewhere are the metal chairs belonging to it. The alion security hatch is 
+similar to a vault door, with a locking mechanism operated by a small wheel to 
+lock the hatch in place. Among the trash and debris are signs of inhabitants, 
+ranging from blood stains to makeshift bed mats scattered over the ground. 
+~
+68 65544 11
+0
+D3
+~
+security hatch~
+1 56113  0 68215
+S
+#68219
+A Short Hallway Tunnel within the Hemicylindrical Wall~
+   The hallway tunnel running from the main corridor of the metro station is 
+only short in length, ending with a solid polycrete wall. Doors are set within 
+the eastern and western walls, toilet signs, both male and female, set upon 
+each one. There is a vast amount of graffiti on the female door, the most 
+recent bearing the large words '#6OUT OF ORDER#0', which are accompanied by a 
+crudely drawn picture of a large crocodile with its jaws open as it prepares to 
+eat a stick figure sitting on a toilet. The stick figure is drawn with a wide 
+open mouth, which is evidently the artist's attempt to portray surprise. 
+~
+68 65544 11
+0
+D1
+~
+female symbol door~
+1 56113  100 68221
+D2
+~
+~
+0 -1  0 68215
+D3
+~
+male symbol door~
+1 -1  0 68220
+S
+#68220
+Decrepit Male Toilets~
+   Worn from age and abuse, these toilets are in poor form. The sinks lining 
+the western wall near the doorway, faucets and plumbing included, have all been 
+torn from the wall. Mirrors which once lined the walls have all been smashed 
+into shards. A narrow corridor runs north from the washroom, which is lined 
+with cramped cubicles. Most of the cubicles have an alloy toilet centered 
+within them, though most of the cubicle walls have been punched through and 
+broken. Graffiti is scattered along the tiles, some of which have been smashed 
+from the wall altogether. 
+~
+68 65544 11
+0
+D1
+~
+male symbol door~
+1 -1  0 68219
+S
+#68221
+New Room~
+No Description Set.
+~
+68 65544 11
+0
+D3
+~
+~
+1 -1  0 68219
+S
 $~

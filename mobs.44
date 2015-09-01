@@ -1,1 +1,599 @@
+#44000
+mercenary newphoenix veteran~
+a New Phoenix MercenaryGuard~
+A New Phoenix MercenaryGuard is here.~
+   This person's rigid training and tight discipline is easily 
+evident, $s expression grim and $s hands never far from $s 
+weapons. 
+~
+2097162 0 27 69 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+15 12 10 10 14 18 40 13
+268435456 0
+0 43 41 43 41 46 46 40 46 40
+43 48 40 40 44 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' new_phoenix_merc~
+0 0 0
+#44001
+bandit scout regular~
+a regular bandit scout~
+A regular bandit scout is here.~
+   (null) 
+~
+4106 0 22 67 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+268435456 0
+0 38 35 30 30 30 37 32 30 39
+39 30 39 39 32 0 0 0 0 0
+0 28 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' bandits~
+0 0 0
+#44002
+Jerome mercenary sky-blue, blond-haired stocky NewPhoenix~
+a sky-blue-eyed, blond-haired man~
+A sky-blue-eyed, blond-haired man of stocky build lingers here.~
+   This man's rigid training and tight discipline is easily 
+evident, his expression grim and his hands never far from his 
+weapons. He is long-legged in height and of stocky build, with 
+sky-blue eyes, and light blond hair trimmed above the ears. His 
+body is well-worn from long years of fighting, littered with 
+scars and other marring. He has a hard, squared chin and he 
+moves with a loping gait. 
+~
+2098186 0 36 69 0 5d1+92 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+18 12 11 10 16 13 40 12
+0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 60 60 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' new_phoenix_merc~
+0 0 0
+#44003
+Carlene well-muscled brunette mercenary NewPhoenix~
+a well-muscled brunette~
+A well-muscled brunette lingers here.~
+   This woman's rigid training and tight discipline is easily 
+evident, her expression grim and her hands never far from her 
+weapons. She stands at an average height, with broad shoulders 
+and an extreme musculature. Her brunette curls are 
+well-maintained, and cropped just above the shoulders. Her skin 
+is deeply tanned, well-touched by the Lunar days, and her face is 
+marked by high cheekbones. 
+~
+2098186 0 36 69 0 5d1+88 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+20 12 11 10 15 12 40 12
+0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 60 60 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' new_phoenix_merc~
+0 0 0
+#44004
+Alexandre taut-muscled sharp half-metal face man~
+a taut-muscled man with a sharp, half-metal face~
+A taut-muscled man with a sharp, half-metal face stands here, alert.~
+   Once sharp featured, this man's face is now partially metal. The entire 
+right half is encompassed by metal reconstruction, melding well into the skin 
+of his jaw. In its metal socket, that eye shines a bright icy blue surrounded 
+by a guntmetal grey, synthetic iris. It is paired with an alert, normal azure 
+orb. What hair remains on his head is short and dark, and what scant stubble 
+can be seen on his face is much the same. His right arm has been replaced with 
+a sleek metal limb, as has a good portion of his ribcage, and his left leg from 
+the knee down. The rest of him is still well-muscled, while scarred, a 
+testament to military life. He carries himself with an assured, grave air and 
+a rigid, straight stance. 
+~
+2097162 0 45 69 0 5d1+120 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+19 16 20 16 16 20 40 13
+0 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' new_phoenix_merc~
+0 0 0
+#44005
+Lupov fair-haired stocky woman~
+a stocky, fair-haired woman~
+A stocky woman with fair hair stands here.~
+   Of what appears to be pure Caucasian ancestry, this 
+broad-shouldered woman's golden-blonde hair has been neglected, 
+and shorn just below the ears. Icy blue eyes appraise the world 
+around her with an inquisitive attentiveness, set upon a 
+classically handsome, if not pretty, face. Appropriately curved 
+to her gender, but otherwise broader than the average, her unused 
+hands suggest little work of a manual sort. 
+~
+2097162 0 36 69 0 5d1+112 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 13
+0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' new_phoenix_merc~
+0 0 0
+#44006
+Adkinson Doctor Reston Zhiv lightly framed man neat dark hair~
+a lightly-framed man with haggard, greying hair~
+A light-framed man with haggard, greying hair stands here.~
+   Taller than average with a fine bone structure, this man would appear to be 
+perhaps in his sixties or so. There are wrinkles around his eyes and his lips, 
+and he has a rather hawkish nose. His eyes are almond-shaped, with keen 
+golden-brown irises and thin, almost non-existant eyebrows. Stress and age 
+have turned his pale skin thin and wrinkled on the surface. His bedraggled and 
+unkempt, dark hair is shot through with grey. This sign of age is especially 
+obvious at his temples. 
+~
+2097162 0 24 69 0 5d1+92 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+11 18 15 10 14 13 40 11
+0 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 80 80 0 0 0 0 0
+0 0 0 80 0 0 0 0 60 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' medbay 'member' grungetown 'sergeant' wilmingtons 'sergeant' new_phoenix_merc~
+0 0 0
+#44007
+Turing Erik heavy-set dark haired young man~
+a heavy-set young man with dark hair~
+A heavy-set, dark-haired young man lounges here.~
+Thin as a needle-point with gaunt features, this man stands at 
+a decidedly average height. The dark lines that streak beneath 
+his skin, however, are far from average, and mark him as one of 
+the uncommon Outland cyborgs. A pair of dark green eyes watch 
+the world around him with a sleepless wariness, set amidst his 
+weathered features. Muddy brown hair falls to just above his 
+ears, neatly shorn, and slightly longer in the back. What was 
+once likely an almost aristocratic face has been worn hard by the 
+Lunar days, skin darkened by harsh sunlight. Scars litter that 
+slender frame, and when exposed, his knee is apparent as a 
+high-end cybernetic replacement forged of titon. Calluses litter 
+his hands, particularly the right, and his stance is vaguely 
+bow-legged, lending him a certain swagger.
+
+#2A 'W' set within a circle#0 has been branded upon the left side 
+of his neck, just behind and below his ear. 
+~
+40 0 36 69 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 10 14 18 40 13
+0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#44008
+Mechanized vehicle bipedal massive RPT byHAL xxxxxxxxREALLYUNIQUE~
+a massive, bipedal mechanized assault vehicle~
+A massive, bipedal mechanized assault vehicle scans the area here.~
+   This massive framework of titon and ceramic plating stands 
+nearly four meters high upon two sturdy polymuscle legs. The 
+legs are bent back at the knee, giving the vehicle a chicken-like 
+strut, while thick ceramic plates provide protection for the 
+black ropes of polymuscle that power the two limbs. Coming 
+together at a half-meter wide pelvic chassis, the polymuscle is 
+exchanged for titon servos and a large drive unit. Above the 
+pelvic chassis is a heavily armored crew-section, looking large 
+enough to be able to fit a man within comfortably. The crew 
+section looks like it hinges open at the front, allowing entrance 
+and egress, though when closed a sensor stalk is easily visible 
+atop the section. Two heavy polymuscle arms are attached at 
+titon gearboxes alongside the crew-section, with the upper arm 
+being a stubby connector to a nearly meter long forearm, each of 
+the pair ending with a vicious looking set of three-fingered 
+manipulators. On the primary chestplate, a large GC is 
+emblazoned, beside a series of serial numbers and warning 
+emblems. 
+~
+268435466 4 45 8 9 5d1+150 2d7+4 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 0
+25 16 25 16 16 20 40 13
+0 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#44009
+Jack small scrawny boy russet hair xKing xPhoenixStrain xByBoo~
+a small, scrawny boy with russet hair~
+A small, scrawny boy with russet hair watches his surroundings curiously.~
+   Looking quite young and fairly scrawny, this boy stands a bit under four 
+feet. His face is still round, with a small nose and a hint of youthful 
+padding carried over from his baby years. Still, it only manages to linger in 
+his face. With only a faint tan and lots of freckles, his skin is rather 
+light. Shaggy, russet-auburn hair almost continually falls across his bright 
+green eyes. 
+~
+10 0 12 1 0 5d1+80 2d5+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 46 0 0 0 0 0 0
+10 20 12 10 16 10 40 13
+0 0
+0 20 20 20 20 20 20 20 20 20
+20 20 20 20 20 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' genetic-terror~
+0 0 0
+#44010
+KingJack thickly shelled marbled insectoid enormous size Jack xBrokenCrown xForBoo~
+a thickly-shelled, marbled insectoid of enormous size~
+A thickly-shelled, marbled insectoid of enormous size looms upwards, its tentacles writhing.~
+   Absolutely huge, this monstrosity strongly resembles some type of mottled 
+pitch black and silvery-pink centipede, though it is somewhere in the vicinity 
+of twelve or thirteen feet long. The back end carries a stinger of some sort, 
+with a relatively short tail to its massive length. Each segement is supported 
+by a thickly armored leg, sprawling out from beneath it. Behind the mandibled 
+head is a domed back with plates spiraling around it, erupting into a number of 
+sharp, peaked spikes. The two legs supporting this most obviously end in 
+large, crablike pincers which are occasionally lifted up to attack. Underneath 
+the dome itself are a number of appendages: tentacles, some with hooks and 
+suckers, while four are almost like slender arms ending in dextrous but 
+weak-looking hands. Just beneath the insectoid head, on the bottom of the 
+dome, is a face covered in rough, greyish scales which plate the underside - it 
+is that of an alarmingly corpulant, slant-eyed man. Bright, emerald green 
+domes surround the face, matching the eyes of the more humanoid features in 
+color and texture; his expression is one of a dramatic, clearly unhappy frown. 
+~
+8 4 54 7 11 5d1+200 4d5+5 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 1638544
+25 16 20 10 15 25 40 20
+0 0
+0 90 75 75 75 75 80 75 100 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' zeta-strain 'commander' genetic-terror~
+0 0 0
+#44011
+Mechanized vehicle bipedal massive RPT byHAL xxxxxxxxREALLYUNIQUE~
+a massive, bipedal mechanized assault vehicle~
+A massive, bipedal mechanized assault vehicle scans the area here.~
+   This massive framework of titon and ceramic plating stands nearly four 
+meters high upon two sturdy polymuscle legs. The legs are bent back at the 
+knee, giving the vehicle a chicken-like strut, while thick ceramic plates 
+provide protection for the black ropes of polymuscle that power the two limbs. 
+Coming together at a half-meter wide pelvic chassis, the polymuscle is 
+exchanged for titon servos and a large drive unit. Above the pelvic chassis is 
+a heavily armored crew-section, looking large enough to be able to fit a man 
+within comfortably. The crew section looks like it hinges open at the front, 
+allowing entrance and egress, though when closed a sensor stalk is easily 
+visible atop the section. Two heavy polymuscle arms are attached at titon 
+gearboxes alongside the crew-section, with the upper arm being a stubby 
+connector to a nearly meter long forearm, each of the pair ending with a 
+vicious looking set of three-fingered manipulators. On the primary chestplate, 
+a large GC is emblazoned, beside a series of serial numbers and warning 
+emblems. 
+~
+268435466 4 45 8 9 5d1+150 2d7+4 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 0
+25 16 25 16 16 20 40 13
+0 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' new_phoenix_merch 'corporal' new_phoenix_merc~
+0 0 0
+#44012
+Jill girl young red gold haired bright green eyes xFORBOODON'TTOUCH~
+a red gold-haired young girl with bright green eyes~
+Here there is a red gold-haired young girl with bright green eyes.~
+   Young, of an indeterminate age but clearly very prepubescent, this young 
+girl stands far shorter than an adult. She is slender, with a slightly 
+aristocratic air to her: carrying herself well, with her back straight. The 
+round features to her face still carry some obvious definition, especially in 
+her small, slender nose and slight point to her chin. A little overlarge, her 
+ears are mostly hidden underneath a veil of wavy, red-touched gold hair that 
+falls to about the middle of her back. She has big, brilliantly green eyes. 
+~
+10 2 12 5 10 5d1+80 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 45 0 0 0 0 0 0
+8 16 10 16 16 10 40 13
+0 0
+0 20 20 20 20 20 20 20 20 20
+20 20 20 20 20 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' genetic-terror~
+0 0 0
+#44042
+Arthur Sam austere featured man wing tattoos Percy Shoemaker~
+an austere-featured man with wing tattoos~
+An austere-featured man with wing tattoos stands watchful.~
+   Standing taller than average and with a habitually straight-backed posture, 
+this man is about of average build. He appears to have paid some attention to 
+his appearance, and has a reasonably sculpted physique. His facial features 
+are very sharp, almost severe, but not in the realm of narrow. Age lines are 
+beginning to appear at the corners of his eyes, and on either side of his thin 
+lips and hawkish nose. Underneath full, dark eyebrows his eyes are a mossy 
+green. Along with his well-composed stature, his hair has been cut short into 
+a fade, the night black strands bristling slightly. He is always clean-shaven; 
+which in turn reveals the tattoos on the left side of his face. A pair of 
+feathered wings, joined at the center with diamond-shaped scales, sweeps from 
+the middle of his forehead down to his jawline. Another goes along the side of 
+his neck, down to his collarbone on the left. 
+~
+10 0 45 69 0 5d1+100 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 77 0 0 0 0 0 0
+16 12 14 10 12 15 40 13
+0 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 60 60 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 60 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' vultures 'member' neoatzlan 'member' grungetown~
+0 0 0
+#44013
+Jack dog shaggy reddish fur and pointed ears young xFORBOO~
+a shaggy, reddish-furred young dog with pointed ears~
+Standing unusually still here is a shaggy, reddish-furred young dog with pointed ears.~
+   Standing maybe eighteen inches at the shoulder, this is a young canine. 
+Clearly male, his paws are too big for his frame, and his legs look a little 
+short. He has a pointed, almost vulpine head with a large pair of triangular 
+ears. All over, his fur is a shaggy, reddish brown in color, and lighter on 
+the undersides and the tip of a bottle brush tail. Unusual for a dog, his eyes 
+are a vibrant green which clearly outlines the pupil. He is a rather still, 
+calm animal, not seeming to show any of the twitches or movements usually 
+associated with a dog. 
+~
+10 4 24 58 5 5d1+100 2d5+2 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+13 16 15 16 16 15 40 13
+0 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' genetic-terror~
+0 0 0
+#44014
+Jack lanky teen unruly russet hair xJACKTEEN xFORBOO xFORSKEPSIS~
+a lanky teen with unruly, russet hair~
+A lanky teen with unruly, russet hair stands still and watchful.~
+   Not seeming to be quite near adulthood, though clearly past adolescence, 
+this young has a lanky, thin and somewhat awkward build. His face is angular, 
+though with a certain roundness from youth, and his unruly russet hair falls 
+down to cover his ears. Both eyes are a surprisingly vibrant, emerald green 
+and round in shape, set on either side of a small and rounded nose above thin 
+lips. He is unusually still, scarcely seeming to breathe or show many twitches 
+that most people display. 
+~
+10 0 24 1 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#44015
+fit young woman auburn hair SHOPKEEP~
+a fit young woman with auburn hair~
+A fit young woman with auburn hair stands here, offering commissioned goods.~
+   Sharp green eyes are settled beneath auburn brows, all beneath a carefully 
+trained back pile of tamed curls. It is tied neatly into a ponytail, leaving 
+her face free for examination. Her skin is covered in a riot of freckles, 
+marring otherwise classically honed bone structure and features. She is trim 
+and lithe, her bearing showing strength cultured rather than inherent. Strong 
+limbs and capable digits complete her form. 
+~
+10 0 5 69 0 5d1+104 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 0
+54623 54624 1.000000 0.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 0
+10084 -1
+0 0 0 0 0 0 0 0 0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'lieutenant' new_phoenix_merc~
+0 0 0
 $~

@@ -1,1 +1,125 @@
+#90000
+Toz alt one eared perfect toothed male~
+#6a one-eared, perfect-toothed male#0~
+#6A one-eared, perfect-toothed male lingers here.#0~
+   This male youth is tall in height and of muscular build. He has dark-brown 
+eyes, and long, golden-brown, natural-styled hair. His left ear is missing and 
+he has a set of perfect, white teeth. A small nose completes his angular, 
+sharp face. 
+~
+10 0 48 1 1 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+18 16 16 16 16 18 40 16
+0 0
+0 0 60 0 0 90 50 70 80 0
+70 70 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' survivors~
+0 0 0
+#90001
+mob new~
+a new mobile~
+(null)~
+(null)~
+8 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#90002
+Johnny demon great scales~
+a great demon of scales and mutated flesh~
+Hulking here is a great demon of scales and mutated flesh.~
+   This creature may have once been human, though the features that would 
+suggest so have been brutally mutated over time. Pale, translucent flesh peels 
+away at its joints, showing the mutated muscle and jagged bone beneath. Its 
+jaw is split, making its mouth longer than what is aesthetically pleasing; in 
+fact, it is evident that another creature exists within the pulled flesh of 
+this being, as alien fangs jut out in different angles from the once-man's 
+mangled maw. No hair is left on his head and his eyeballs are long gone, 
+nothing more than empty sockets now. He seems stretched, taller than he should 
+be, with a curved spine that breaks the skin where the vertebre have grown into 
+bony scales. His appendages, arms and legs, are elongated and end in a row of 
+vicious, deadly talons. He does not breathe and he does not seem to ever cease 
+moving, his body writhing in agony even in his most still of moments. 
+~
+40 4 50 7 10 5d1+200 2d8+5 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 0
+22 16 22 16 16 22 40 13
+0 0
+0 90 90 90 90 90 70 70 90 90
+90 90 90 90 90 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' genetic-terror~
+0 0 0
+#90003
+$ghostsize $ghostfeature $scaryfeature specter~
+a $ghostsize, $scaryfeature $ghostfeature specter~
+A $ghostsize, $scaryfeature $ghostfeature specter hovers here.~
+   This creature is nearly translucent, a nebulous form floating inches above 
+the ground. It is $ghostsize. It appears $scaryfeature. What clothing clings 
+to the form is as hazy as the rest of it, tattered as spider webs. It appears 
+to be $ghostfeature, a remainder of it's living state. 
+~
+2097192 0 39 6 5 5d1+120 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 58 0 0 0 0 0 0
+16 12 18 16 14 18 40 14
+268435456 0
+0 60 60 60 27 75 60 60 60 60
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
 $~

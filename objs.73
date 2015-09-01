@@ -1,1 +1,208 @@
+#73221
+tree $treesort ORGANIC~
+a $treesort~
+A $treesort grows here.~
+   A $treesort grows here, rising from the jungle floor amidst other 
+vegetation. It looks suitable for lumber. 
+~
+12 33558528 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#73222
+log wood lumber lumberwood ORGANIC~
+a log of lumberwood~
+A log of bulky lumberwood lies here.~
+   Some eight or twelve foot long, this log of wood has been cut down and had 
+its branches trimmed off. No further work has been done, and it looks quite 
+cumbersome. It belongs to one of the various species of jungle trees suitable 
+for lumber, having a sturdy but workable heartwood under a layer of aromatic 
+sapwood. 
+~
+12 4096 1
+0 0 0 0
+10000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#73223
+plank long rough hewn ORGANIC~
+a long, rough-hewn plank~
+A long, rough-hewn plank has been put here.~
+   This plank is about six foot long and fairly crude, covered in splinters and 
+knots. It appears to be for larger constructions rather than common carpentry. 
+Touching the plank without gloves is an unpleasant experience, though it can be 
+carried without really hurting oneself. 
+~
+12 4096 1
+0 0 0 0
+1500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#73224
+plank wooden smooth ORGANIC~
+a smooth wooden plank~
+A smooth wooden plank lies here.~
+   This plank is about four foot long and two by four inches in width and 
+depth. It has been cut neatly from some heartwood and smoothed down to a 
+workable form, well-suited for carpentry and other manual purposes. 
+~
+12 4096 1
+0 0 0 0
+800 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#73000
+vines xJUNGLEVINES wall thorned ORGANIC~
+a wall of thorned vines~
+A wall of thorned vines grows here, clawing.~
+   A lush green in color, these vines stretch from tree to tree, too thick to 
+walk or pick through and covered in thorns. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#73200
+plantain large bluish ORGANIC~
+a large bluish plantain~
+A large bluish plantain lies here.~
+   Almost a foot long and ever so slightly curved, this banana-like fruit has 
+an uneven bluish hue. The tough skin can be peeled off with some effort to 
+reveal the sweet, soft interior. 
+~
+19 4096 1
+10 2 0 0
+100 0.000000
+0 0 
+cloyingly sweet and sticky~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#73201
+fruit large reddish lumpy skin ORGANIC~
+a large reddish fruit with lumpy skin~
+A large reddish fruit with lumpy skin lies here.~
+   This fruit is the size of an infant's head and clad in a lumpy, fibrous 
+skin. Peeling it open causes it to come apart in smaller chunks, releasing a 
+fragrant essence. In contrast to the red-tinted skin, the meat of the fruit is 
+pale and clear. 
+~
+19 4096 1
+12 4 0 0
+200 0.000000
+0 0 
+satisfyingly sour~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#73202
+fruit curved brown ORGANIC~
+a curved brown fruit~
+A curved brown fruit has been dropped here.~
+   This unassuming fruit is the length of an index finger and curved, tapering 
+to a point in one end while a stem in the other connects it to its tree. It 
+has no odour and its skin is a bland light brown. 
+~
+19 4096 1
+1 2 0 0
+10 0.000000
+0 0 
+explosively hot~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#73203
+leaves bundle crispy grey green ORGANIC~
+a bundle of crisp, grey-green leaves~
+Some grey-green leaves lie in a small pile.~
+   These leaves are slightly rumpled but laden with moisture when fresh. When 
+not, they grow brown and limp. Though they have no smell at all, they look 
+invitingly fresh and crunchy. 
+~
+19 4096 1
+6 3 0 0
+50 0.000000
+0 0 
+green~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#73204
+berries cluster jungle ORGANIC~
+a cluster of jungle berries~
+A cluster of jungle berries sprawls here.~
+This dozen or so berries are perfectly round and pale red. Plucked from a larger vine, they remain on their stalk and jiggle gently when bounced. The skin is opaque, giving no hint of their interior until broken open to reveal typical fruit flesh of a darker red hue.
+~
+19 4096 1
+1 6 0 0
+10 0.000000
+0 0 
+deliciously tangy~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#73205
+fruit large hard shelled ORGANIC~
+a large hard-shelled fruit~
+A large hard-shelled fruit rolls about here.~
+   This sizeable fruit is covered in a hard, almost wood-like shell. It is the 
+size of a person's head and covered with tiny, harmless spines. When broken 
+open (with great effort) it reveals a center of dense, waxy flesh that oozes an 
+oily juice when touched. It has a faint nutty smell. 
+~
+19 4096 1
+8 8 0 0
+400 0.000000
+0 0 
+creamy and nutty~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#73206
+plantains cluster small bitter ORGANIC~
+a cluster small, bitter plantains~
+A cluster small plantains has been left here.~
+   A cluster of four or five plantains has been plucked from its tree. They 
+are the length of an open hand and their skin is a yellowish brown colour. The 
+fruits exude a powerfully bitter scent even before peeling. 
+~
+19 4096 1
+6 5 0 0
+200 0.000000
+0 0 
+bitter and mealy~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#73500
+placeholder saw lumber axe object OTHER~
+a placeholder saw or lumber-axe object~
+A placeholder saw or wood-axe object hovers in mid-air.~
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
 $~

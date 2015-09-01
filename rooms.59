@@ -1,1 +1,427 @@
+#59000
+The Beach~
+   The air is salty with seafoam as the waves crash against the shoreline a few 
+meters away, scouring the barnacle covered rocks. Beyond is endless ocean, no 
+land in sight as the sun hangs in the middle of the sky. To the west stand the 
+cliffs, rising thirty meters up into the blue, cloudless sky, rocky pinacles 
+standing sentinal over the beach. The shore continues to the south, a narrow 
+path having been carved into the surface of the rock. Further in the distance, 
+an old wooden ship stands with its back-half buried in the sand, bow standing 
+proud and verticle against the sky. 
+~
+59 65536 25
+0
+D2
+~
+~
+0 -1  0 59001
+S
+#59001
+Rocky Shore Continues~
+   This rocky path has been carved with intelligent hands from the pale basalt 
+that makes up this rocky shore. Tool marks are visible against the stone. A 
+few meters to the east, the endless sea batters the shoreline, every few 
+minutes a great plume of sea-foam rising to spray anyone walking the path. The 
+path continues southward, bordering the massive cliffs to the west, their top 
+pinacles worn away by the ever present wind. The sun stands in the middle of 
+the sky, baking the rock, while in the distance to the southwest a large wooden 
+ship has been half-buried in the sand. 
+~
+59 65536 0
+0
+D0
+~
+~
+0 -1  0 59000
+D2
+~
+~
+0 -1  0 59002
+S
+#59002
+Rocky Shore Before a Small Bridge~
+   The endless sun bakes this area of exposed rock, extending out further into 
+the surf from the massive cliffs that stand to the northwest. The sea surges 
+around this area, occasionally spraying it with a cascade of salty foam. The 
+rocky shore stutters here, dipping down into the sea, yet massive wooden pylons 
+have been cut and set into holes in the rock, forming the beginnings of a 
+bridge that crosses the small inlet. Far to the southwest, a large wooden ship 
+stands sentinal over the area, bow pointing straight toward the sky. 
+~
+59 65536 0
+0
+D0
+~
+~
+0 -1  0 59001
+D3
+~
+~
+0 -1  0 59003
+S
+#59003
+A Salt-Stained Wooden Bridge~
+   Old planks of palm wood make up this bridge, each board warped and stained 
+by the continues spray of salty sea-foam that occasionally coats this area. 
+Beneath the boards is a small inlet into the rocky shoar, a tide pool standing 
+just to the north. Every few moments, the surf surges in beneath the bridge, 
+the sound of roaring water filling the area. The bridge ends just to the west 
+and east, where thick pylons of wood have been set into the rocky shore. 
+~
+59 65536 0
+0
+D1
+~
+~
+0 -1  0 59002
+D3
+~
+~
+0 -1  0 59004
+S
+#59004
+Rocky Shore Nearing a Small Bridge~
+   The hanging sun seems to continuiously bake this area, the bare basalt rock 
+that makes up the shore shimmering in the heat. A nearby #6boulder#0 stands 
+close to the path that carves itself into the rock, small notches seeming to 
+have been scratched into the surface. Heavy palm-wood pylons have been forced 
+into stone cubbies near the eastern shore, on the border of a small inlet that 
+brings some of the surf nearer to the cliffs to the northwest. Connected to 
+them is a small planked bridge that crosses the inlet, the slow constant wind 
+causing the thing to swing slowly. 
+~
+59 65536 0
+0
+D1
+~
+~
+0 -1  0 59003
+D2
+~
+~
+0 -1  0 59005
+E
+boulder~
+   On the surface of the boulder, there are small etchings, single lines that 
+are crossed with a five at regular markings. Should anyone take the time to 
+count, there are nearly one hundred and thirty of the small scratches. At the 
+top of the boulder, there is a small queen chess piece cleanly stenciled into 
+the rock, a smear of dried red covering it. 
+~
+S
+#59005
+A Sandy Shoreline~
+   Small patches of basalt rock litter the area, but by in large this area is 
+made up of a fine white sand, spreading from the cliffs that stand to the north 
+to the water that borders the shoreline to the east, the ocean spreading 
+endlessly off into the distance. A small path trails to the northeast, a small 
+bridge standing over a nearby inlet. To the west, the beach spreads out and 
+continues, the wreck of a large wooden ship half buried in the sands some 
+distance away, its bow pointed into the air. Overhead, the sun seems to stand 
+in the middle of the sky, baking the area. 
+~
+59 65536 0
+0
+D0
+~
+~
+0 -1  0 59004
+D2
+~
+~
+0 -1  0 59006
+D3
+~
+~
+0 -1  0 59007
+S
+#59006
+In the Surf of the Shoreline~
+   Waves pound the surf closer the shore, salty spray flying in all directions 
+as each moment a new wave rises up and soaks anyone standing nearby or within 
+the surf. Larger waves rise up on occasion to crash down closer to the shore, 
+white foamy tops churning throughout the area. To the north, there is a sandy 
+shore that might provide some respite from the waves, high cliffs perched 
+beyond them. Out to see, the waves seem to stretch endlessly. 
+~
+59 65536 18
+0
+D0
+~
+~
+0 -1  0 59005
+D3
+~
+~
+0 -1  0 59008
+S
+#59007
+Sun Baked Shoreline~
+   The sun roasts overhead, faint shimmering lines flickering over the 
+shoreline that spreads east to west here. Nearby to the north, heavy basalt 
+rocks pile atop one another, forming great cliffs that stretch nearly thirty 
+meters into the sky, rough pinacles stabbing at the blue sky above. The 
+#6sand#0 underfoot here is white and powedery, almost pristine. To the south 
+the shore runs down to meet the surf, further beyond the ocean stretching out 
+to the horizon. To the southwest, an old wooden ship stands upright, bow 
+pointed to the sky. 
+~
+59 65536 0
+0
+D1
+~
+~
+0 -1  0 59005
+D2
+~
+~
+0 -1  0 59008
+E
+sand~
+   The sand here is fine and uniform, though the observant might note the lack 
+of shells. The lack of anything else beyond the small particles of sand, as if 
+the beach were simply laid there. 
+~
+S
+#59008
+Faded Holographics~
+   The sand here is wet from the surf, the occasional wave reaching up and 
+pulling at the feet of any who come too close. Further to the south, the surf 
+grows harsher, the endless sea beginning and stretching out far into the 
+distance. The beach seems to fade in detail as it goes westward, lines of 
+programming beginning to be visible as anyone should approach an object. Waves 
+disolve into clouds of ones and zeros as they crash, this area clearly 
+suffering from some sort of corruption. 
+~
+59 65536 0
+0
+D0
+~
+~
+0 -1  0 59007
+D1
+~
+~
+0 -1  0 59006
+S
+#59999
+Birdun Virtual Reality Loading Station~
+   The dark edges of this space seem to shift and change slightly, blurring 
+around a hexagonal floor just as black and opaque as the surrounding area. 
+Illuminated windows, translucent except for the crisp holotext that labels 
+their panes, spin and glow gently with faint and different iridescent shades as 
+they hover along the invisible walls of the loading station. Suspended in the 
+air at the very center of the hexagon is a #6catalog#0 that describes the 
+various programs available. 
+~
+59 67305480 0
+0
+S
+#59998
+Apocalypse 2: Roth's Revenge~
+No desc
+~
+59 65536 0
+0
+S
+#59997
+The Birdun VR Laser Megadome~
+   Several haughty plateaus tower over the jagged rocks and boulders that 
+cradle them, providing a handsome altitude from which to survey the surrounding 
+area. Moon dust seems to kick up rather easily here and smaller pebbles tumble 
+around noisily when disturbed. The giant plexiglass #6tower#0 is visible here, 
+though there seems to be no direct path towards it between the lunar debris. 
+~
+59 134414336 0
+0
+D1
+~
+~
+0 -1  0 59996
+D2
+~
+~
+0 -1  0 59990
+S
+#59996
+The Birdun VR Laser Megadome~
+   The eastward incline slopes dangerously here, leveling this area the lowest 
+of all the Megadome. The ground suddenly gives way to a rather large pit 
+towards the southern edge of the arena, the end of its depth shrouded and 
+impossible to see from here. Jagged boulders of varying sizes litter the 
+Megadome floor, providing cover and shade. The giant plexiglass #6tower#0 
+seems to always remain visible from all corners of the Megadome. 
+~
+59 134414336 0
+0
+D1
+~
+~
+0 -1  0 59995
+D3
+~
+~
+0 -1  0 59997
+S
+#59995
+The Birdun VR Laser Megadome~
+   The rough moon-rock terrain underfoot is deceptively convincing, hard and 
+occasionally kicking up clouds of lunar dust from movement. Jagged boulders of 
+varying sizes litter the Megadome floor, providing cover and shade. Several 
+low plateaus, uneven, cracked, and randomly placed throughout to the point they 
+seem natural, offer altitude to scan the nearby area at the risk of exposure. 
+The giant plexiglass #6tower#0 is visible here, though there seems to be no 
+direct path towards it between the lunar debris. 
+~
+59 134414336 0
+0
+D2
+~
+~
+0 -1  0 59994
+D3
+~
+~
+0 -1  0 59996
+S
+#59994
+The Birdun VR Laser Megadome~
+   The terrain seems to incline slightly where the northern run of the Megadome 
+meets the south, though not significantly so. There are several pits here, 
+deep enough to trip over but easy enough to climb out of. Jagged boulders of 
+varying sizes litter the Megadome floor, providing cover and shade. The giant 
+plexiglass #6tower#0 seems to always remain visible from all corners of the 
+Megadome. 
+~
+59 134414336 0
+0
+D0
+~
+~
+0 -1  0 59995
+D2
+~
+~
+0 -1  0 59993
+S
+#59993
+The Birdun VR Laser Megadome~
+   Several haughty plateaus tower over the jagged rocks and boulders that 
+cradle them, providing a handsome altitude from which to survey the surrounding 
+area. Moon dust seems to kick up rather easily here and smaller pebbles tumble 
+around noisily when disturbed. The giant plexiglass #6tower#0 is visible here, 
+though there seems to be no direct path towards it between the lunar debris. 
+~
+59 134414336 0
+0
+D0
+~
+~
+0 -1  0 59994
+D3
+~
+~
+0 -1  0 59992
+S
+#59992
+The Birdun VR Laser Megadome~
+   The westward incline slopes dangerously here, leveling this area the lowest 
+of all the Megadome. The ground suddenly gives way to a rather large pit 
+towards the southern edge of the arena, the end of its depth shrouded and 
+impossible to see from here. Jagged boulders of varying sizes litter the 
+Megadome floor, providing cover and shade. The giant plexiglass #6tower#0 
+seems to always remain visible from all corners of the Megadome. 
+~
+59 134414336 0
+0
+D1
+~
+~
+0 -1  0 59993
+D3
+~
+~
+0 -1  0 59991
+S
+#59991
+The Birdun VR Laser Megadome~
+   The terrain seems to incline slightly where the northern run of the Megadome 
+meets the east, though not significantly so. There are several pits here, deep 
+enough to trip over but easy enough to climb out of. Jagged boulders of 
+varying sizes litter the Megadome floor, providing cover and shade. The giant 
+plexiglass #6tower#0 is visible here, though there seems to be no direct path 
+towards it between the lunar debris. 
+~
+59 134414336 0
+0
+D0
+~
+~
+0 -1  0 59990
+D1
+~
+~
+0 -1  0 59992
+S
+#59990
+The Birdun VR Laser Megadome~
+   The rough moon-rock terrain underfoot is deceptively convincing, hard and 
+occasionally kicking up clouds of lunar dust from movement. Jagged boulders of 
+varying sizes litter the Megadome floor, providing cover and shade. Several 
+low plateaus, uneven, cracked, and randomly placed throughout to the point they 
+seem natural, offer altitude to scan the nearby area at the risk of exposure. 
+The giant plexiglass #6tower#0 seems to always remain visible from all corners 
+of the Megadome. 
+~
+59 134414336 0
+0
+D0
+~
+~
+0 -1  0 59997
+D2
+~
+~
+0 -1  0 59991
+S
+#59989
+The Birdun VR Megadome Preparation Platform~
+   Circular in design, this platform has no walls to speak of. Appearing to be 
+suspended in mid-air, the clear plexiglass of the #6platform#0 provides a 
+perfect view of the magnificent, technological wonder that is the Megadome 
+below. From here, the entirety of the battlefield can be seen: it is quite 
+large, perfectly square in design, and the outermost edges of the shape seem to 
+blur and shift. Directly below and supporting the platform is a giant tower of 
+plexiglass. From up here, it seems the only ways out are either back or down. 
+~
+59 196608 0
+0
+E
+platform~
+You guess that the platform has been elevated from anywhere between half to a full mile from the ground. The terrain of the Megadome below seems rugged with sharp rocks and uneven hills and plateaus... a most difficult and challenging course. With no other way out or back, it looks as if you have no choice but to #6JUMP OFF#0 the edge of the platform or #6RETURN#0 to the #6DOCK#0.
+~
+P
+jump~
+off~
+if haso(-1,59500)
+if haso(-1,59501)
+force -1 -1 emote As @ leaps off the edge of the platform, their form suddenly bursts into an explosion of light and sound, sending a flash of color and floating binary numbers to scatter throughout the area before flicking completely out of existence.
+set random 1d7
+trans 5999&(random)
+delay 3 emote Within seconds, the form of @ begins to safely materialize in a dark array of binary numbers, kneeling here on the rugged moon-rock of the Megadome floor.
+delay 3 sit
+delay 3 look
+setval room 59990 obj 59502 oval0 0
+setval room 59990 obj 59502 oval0 0
+setval room 59992 obj 59502 oval0 0
+setval room 59993 obj 59502 oval0 0
+setval room 59994 obj 59502 oval0 0
+setval room 59995 obj 59502 oval0 0
+setval room 59996 obj 59502 oval0 0
+setval room 59997 obj 59502 oval0 0
+fi done
+else do
+vstr You are missing a crucial piece of equipment! Make sure to #6PREPARE YOURSELF#0.
+~
+S
 $~

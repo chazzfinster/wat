@@ -1,1 +1,106 @@
+#71000
+corpse mummified slumped xSCIENTISTx OTHER~
+a slumped, mummified corpse~
+A mummified corpse is slumped at the desk here, face buried in a broken keyboard.~
+   Seated behind the desk, this body has been left as it fell, face down into 
+the remains of a smashed computer keyboard. The exposure to environment over 
+the years has turned its flesh into a rigid, brown-tinged leather. What was 
+one presumably a labcoat now clings to the shoulders of this bony body, the 
+tattered remains of the garment turned to a grimy black hue. The flesh about 
+the back of the head yields to a gaping exit wound, with the empty interior of 
+the skull being able to be seen beyond the broken shards of bone surrounding 
+the breach. 
+~
+15 4096 0
+100 0 -1 0
+300 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#71001
+three huddled mummified corpses ORGANIC~
+three huddled mummified corpses~
+Three mummified corpses are huddled together on one of the inset sleeping cubicles, caught in some final moment of peace.~
+   The wrinkled skin still clinging to the bones of this man, woman, and child 
+is brown and leathery, having long been leeched of moisture and any fat. Their 
+skeletal system is clearly visible beneath hanging pewter-hued jumpsuits that 
+cover the forms from neck to toe. The woman still bears a few tufts of pale 
+brown hair to her skull although looking at that, the cause of death is 
+evident. Really, it's evident for all of them. Each of them have the telltale 
+damage of single gunshot wound to the head. Though the woman and child both 
+have round holes and exit wounds at their temples, through from one side to the 
+next, the man's skull lays in shards behind him on the pillow, rusted gun still 
+lolling lazily out of his shrivel-lipped mouth. Indeed, the woman and child 
+are positioned even to best portray them as restful, a luxury not offered to 
+the man. In death, his body is more naturally posed in every way, right down 
+to the askew glasses upon the remains of his nose. 
+~
+13 0 0
+0 0 0 0
+6000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#71002
+willow rough barked tree wispy leaves ORGANIC~
+a rough-barked tree with wispy leaves~
+Amongst the other trees is a tall, rough-barked tree with wispy leaves.~
+~
+29 33558528 0
+33 5 71003 9
+100 0.000000
+71004 0 4
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#71003
+willow bark ORGANIC~
+willow bark~
+Some careless admin has left a generic object here.~
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+V
+salicylate~
+$chemical~
+God~
+God~
+#71004
+willow leaves ORGANIC~
+willow leaves~
+Some careless admin has left a generic object here.~
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#71005
+holodisc gunmetal blue translucent xForBoo xTerryRecording xJackandJill PLASTIC~
+a gunmetal blue, translucent holodisc labeled 'TD'~
+Glinting dully in the light is a gunmetal blue, translucent holodisc labeled 'TD'.~
+   A basic, circular and flat holodisc that would appear to be the type to be 
+inserted into a computer, this really has little of note to it. The surface is 
+vaguely holographic, with the initials "TD" marked on the top surface and 
+seemingly suspended in the plastic. 
+
+You realize that with this holodisc you could #6PLAY ONE#0, #6PLAY TWO#0, or 
+#6PLAY THREE#0. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
 $~

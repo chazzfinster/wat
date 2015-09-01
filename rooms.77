@@ -1,1 +1,222 @@
+#77000
+Light Control Room~
+   This is the light control room. 
+~
+77 67174408 0
+0
+D1
+~
+~
+0 -1  0 77001
+P
+(null)~
+(null)~
+(null)~
+S
+#77001
+First Deck of the Spaceship~
+   This is the first deck of the spaceship. 
+~
+77 65544 0
+0
+D0
+~
+~
+0 -1  0 77002
+D1
+~
+~
+0 -1  0 77003
+D2
+~
+~
+0 -1  0 77004
+D3
+~
+~
+0 -1  0 77000
+S
+#77002
+First Deck of the Spaceship~
+   This is the first deck of the spaceship. 
+~
+77 65544 0
+0
+D2
+~
+~
+0 -1  0 77001
+S
+#77003
+First Deck Staircase~
+   This is the first deck of the spaceship. 
+~
+77 65544 0
+0
+D3
+~
+~
+0 -1  0 77001
+D4
+~
+~
+0 -1  0 77005
+S
+#77004
+First Deck of the Spaceship~
+   This is the first deck of the spaceship. 
+~
+77 65544 0
+0
+D0
+~
+~
+0 -1  0 77001
+S
+#77005
+Top of the Second Deck Staircase~
+   This is the second deck of the spaceship. 
+~
+77 65544 0
+0
+D3
+~
+~
+0 -1  0 77006
+D5
+~
+~
+0 -1  0 77003
+S
+#77006
+Second Deck of the Spaceship~
+   This is the second deck of the spaceship. 
+~
+77 65544 0
+0
+D0
+~
+~
+0 -1  0 77007
+D1
+~
+~
+0 -1  0 77005
+D2
+~
+~
+0 -1  0 77008
+D3
+~
+~
+0 -1  0 77009
+S
+#77007
+Second Deck of the Spaceship~
+   This is the second deck of the spaceship. 
+~
+77 65544 0
+0
+D2
+~
+~
+0 -1  0 77006
+S
+#77008
+Second Deck of the Spaceship~
+   This is the second deck of the spaceship. 
+~
+77 65544 0
+0
+D0
+~
+~
+0 -1  0 77006
+S
+#77009
+Bottom of the Second Deck Staircase~
+   This is the second deck of the spaceship. 
+~
+77 65544 0
+0
+D1
+~
+~
+0 -1  0 77006
+D4
+~
+~
+0 -1  0 77010
+S
+#77010
+Top of the Third Deck Staircase~
+   This is the third deck of the spaceship. 
+~
+77 65544 0
+0
+D1
+~
+~
+0 -1  0 77011
+D5
+~
+~
+0 -1  0 77009
+S
+#77011
+Third Deck of the Spaceship~
+   This is the third deck of the spaceship. 
+~
+77 65544 0
+0
+D0
+~
+~
+0 -1  0 77012
+D1
+~
+~
+0 -1  0 77013
+D2
+~
+~
+0 -1  0 77014
+D3
+~
+~
+0 -1  0 77010
+S
+#77012
+Third Deck of the Spaceship~
+   This is the third deck of the spaceship. 
+~
+77 65544 0
+0
+D2
+~
+~
+0 -1  0 77011
+S
+#77013
+Third Deck of the Spaceship~
+   This is the third deck of the spaceship. 
+~
+77 65544 0
+0
+D3
+~
+~
+0 -1  0 77011
+S
+#77014
+Third Deck of the Spaceship~
+   This is the third deck of the spaceship. 
+~
+77 65544 0
+0
+D0
+~
+~
+0 -1  0 77011
+S
 $~

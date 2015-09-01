@@ -1,1 +1,97 @@
+#10150
+hall with dorms~
+No Description Set.
+~
+10 65544 0
+0
+D2
+~
+~
+0 -1  0 10151
+S
+#10151
+hall with dorms~
+dorms
+~
+10 65544 0
+0
+D0
+~
+~
+0 -1  0 10150
+S
+#10152
+hall with dorms~
+dorms
+~
+10 65544 0
+0
+S
+#10153
+hall with dorms~
+dorms
+~
+10 65544 0
+0
+D2
+~
+~
+0 -1  0 50128
+S
+#10154
+hall with dorms~
+dorms
+~
+10 65544 0
+0
+S
+#10155
+bathroom/shower room~
+bathroom
+~
+10 65544 0
+0
+S
+#10161
+a dorm room~
+dorm
+~
+10 65544 0
+0
+S
+#10162
+a dorm room~
+dorm
+~
+10 65544 0
+0
+S
+#10163
+bathroom/shower room~
+bathroom
+~
+10 65544 0
+0
+S
+#10000
+Medical and Chemical Supplies~
+   This zone is for creating medical and chemical supplies. 
+~
+10 67174408 0
+0
+D1
+~
+~
+0 -1  0 11000
+D3
+~
+~
+0 -1  0 9000
+P
+test~
+test~
+info ldesc room -1 char &(1) ldesc
+atecho 10000 Test: &(ldesc)
+~
+S
 $~

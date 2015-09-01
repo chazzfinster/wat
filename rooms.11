@@ -1,1 +1,76 @@
+#11000
+Raw and Semi-produced Materials~
+   Room for raw materials like plastic, iron, alloys etc. 
+
+Also for semi-produced materials. 
+~
+11 67174408 0
+0
+D1
+~
+~
+0 -1  0 12000
+D3
+~
+~
+0 -1  0 10000
+K
+105 0 110 999 0P
+test~
+(null)~
+info curroom room -1 vnum
+noop put 09016 &(curroom)
+load_color 9016 1 beige thick basil
+setval room &(curroom) obj 9016 oval1 128
+setval room &(curroom) obj 9016 oval2 2040
+~
+P
+ovals~
+(null)~
+info curroom room -1 vnum 
+info ovalzero room &(curroom) obj &(1) oval0
+info ovalone room &(curroom) obj &(1) oval1
+info ovaltwo room &(curroom) obj &(1) oval2
+info ovalthree room &(curroom) obj &(1) oval3
+info ovalfour room &(curroom) obj &(1) oval4
+info ovalfive room &(curroom) obj &(1) oval5
+vstr ovalzero = &(ovalzero)
+vstr ovalone = &(ovalone)
+vstr ovaltwo = &(ovaltwo)
+vstr ovalthree = &(ovalthree)
+vstr ovalfour = &(ovalfour)
+vstr ovalfive = &(ovalfive)
+~
+P
+mycheck~
+(null)~
+info curroom room -1 vnum
+info varzero room &(curroom) obj &(1) color0 
+info varone room &(curroom) obj &(1) color1 
+info vartwo room &(curroom) obj &(1) color2 
+info varthree room &(curroom) obj &(1) color3 
+info varfour room &(curroom) obj &(1) color4 
+info varfive room &(curroom) obj &(1) color5 
+info varsix room &(curroom) obj &(1) color6 
+info varseven room &(curroom) obj &(1) color7 
+info vareight room &(curroom) obj &(1) color8 
+info varnine room &(curroom) obj &(1) color9 
+info ovalzero room &(curroom) obj &(1) oval0
+info ovalone room &(curroom) obj &(1) oval1
+info ovaltwo room &(curroom) obj &(1) oval2
+info ovalthree room &(curroom) obj &(1) oval3
+info ovalfour room &(curroom) obj &(1) oval4
+info ovalfive room &(curroom) obj &(1) oval5
+vstr Variables: &(varzero) &(varone) &(vartwo) &(varthree) &(varfour) &(varfive) &(varsix) &(varseven) &(vareight) &(varnine)
+vstr Ovals: Zero: &(ovalzero); One: &(ovalone); Two: &(ovaltwo); Three: &(ovalthree); Four: &(ovalfour); Five: &(ovalfive)
+~
+S
+#11111
+An Equipping Room~
+   This is a room to get equipped safely. Type RETURN to go back 
+where you came from after the staff is done assisting you. 
+~
+11 67174408 0
+0
+S
 $~

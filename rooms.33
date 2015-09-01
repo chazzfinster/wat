@@ -1,1 +1,959 @@
+#33100
+Ep1~
+If you are here and not authorized to be, Jaunt will kill you.
+No, seriously, don't. :p I check logs.
+~
+33 65536 0
+0
+S
+#33000
+Base Room:  PRE-ALPHA Timeline Event 1 (Jaunt says stay out!)~
+Jaunt will KILL you if you come to this zone
+
+No, seriously. Do not do it. I will know. :p
+~
+33 65536 0
+0
+S
+#33101
+In the Cabin of a Phoenix-2 Stealth Helicopter~
+   The back cabin of the stealth chopper is cluttered with 
+equipment and crudely-designed seats, some of which lack 
+harnesses entirely. The insides of the cabin's metal walls are 
+painted in three different shades of camoflouged green and 
+decorated in standard military fashion. The hatch doors on one 
+side of the cabin are open, providing enough room for perhaps two 
+men to #6JUMP OUT#0 while standing side-by-side. Frigid wind 
+whips in from the opening and brings with it a wint'ry mist. 
+~
+33 67174408 0
+0
+P
+jump~
+out~
+if haso (-1,33017)
+force -1 -1 emote after checking *parach, @ edges over to the open cabin door and looks down into the shadows below
+delay 10 xxxjump
+else do
+vstr Are you #1SURE#0 that you want to jump out of the helicopter without a parachute? (Yes/No)
+fi done
+~
+P
+yes~
+(null)~
+force -1 -1 emote boldly edges towards the open cabin door and prepares to take the plunge
+delay 5 xxxjump3
+~
+P
+no~
+(null)~
+vstr Very wise.
+~
+P
+xxxjump~
+(null)~
+force -1 -1 emote grabs ahold of the straps of *parach tightly, then plunges out of the helicopter with a practiced dive
+delay 1 xxxjump2
+~
+P
+xxxjump2~
+(null)~
+trans 33130
+delay 15 xfall1
+delay 30 xfall2
+delay 45 xfall3
+delay 60 xfall4
+~
+P
+xxxjump3~
+(null)~
+force -1 -1 emote fearlessly, @ plunges out of the helicopter without a parachute pack
+delay 1 xxxjump2
+~
+S
+#33102
+At the Base of a Lonely Hill Amongst the Himalayan Mountains~
+   A tall, steep hill rises up from this rocky base, still easily 
+dwarfed by the almost mythic presence of the surrounding Himalyan 
+mountainside. Little grass grows in this craggy wasteland, and 
+the earth is turned up unevenly at several points, causing travel 
+to prove treacherous. An old, dirt road stretches eastward from 
+here, in the direction of a fire-fight; that way, explosions 
+light up the night in a relentless rhythm. Further up on the 
+hill is a large compound, accessable by a boot-beaten path up the 
+crag-land. 
+~
+33 65536 3
+0
+D1
+~
+~
+0 -1  0 33103
+D4
+~
+~
+0 -1  0 33104
+P
+xfall1~
+(null)~
+vbr -
+~
+P
+xfall2~
+(null)~
+vbr -
+~
+P
+xfall3~
+(null)~
+vbr -
+~
+P
+xfall4~
+(null)~
+vbr -
+~
+P
+e ea eas east~
+(null)~
+vstr The sounds of a massive firefight lie that way; you would be wandering towards certain death.
+~
+P
+sn sne snea sneak~
+e ea eas east~
+vstr The sounds of a massive firefight lie that way; you would be wandering towards certain death.
+~
+S
+#33103
+At the Edge of a Dangerous Firefight~
+   War is Hell. This pitched battle proves nothing less, leaving 
+behind its share of mangled corpses, burnt husks of tanks and a 
+permanent scar upon the earth that is being fought over between 
+the Pan-Asian soldiers and the Russian Federation. 
+~
+33 67174400 7
+0
+D3
+~
+~
+0 -1  0 33102
+S
+#33104
+Halfway Up the Steep Hillside~
+   The unlevel path up and down the Himalayan hillside is dangerous. Rocks are 
+icy and loose, and blankets of snow oftentimes sweep downward at apparently 
+random intervals. From here, one could spot the base of the hill below, the 
+military compound set into the side of the hilltop, or the kingly mountains 
+that dominate the view by both day and night. 
+~
+33 67174400 3
+0
+D4
+~
+~
+0 -1  0 33105
+D5
+~
+~
+0 -1  0 33102
+S
+#33105
+Before a Fortified Building at the Top of the Hill~
+   The compound that stands at the top of the steep hill is old; 
+its walls appear worn and beaten by the elements' fury, the 
+structure of the building seems at risk as it leans back against 
+the side of the hill that it rests on, and the roof mostly-broken 
+shingles slap into one another with the continuous onslaught of 
+the mountainous wind. 
+   However, the hatch blastdoor that leads into the compound, 
+while not the most modern of designs, is certainly far newer than 
+the rest of the visible building. Sharp spotlights shine down 
+from the roof of the building to light the area before the 
+compound intensely with a broad, white glow. 
+~
+33 67174400 3
+0
+D0
+~
+sealed blast-door~
+1 1  100 33106
+D5
+~
+~
+0 -1  0 33104
+P
+cl clo clos close~
+d do doo door bl bla blas blast~
+vstr And how would you go about shutting it now?
+~
+S
+#33106
+An Abandoned Lobby~
+   This lobby has been stripped of any furniture or decor that 
+may have once existed here. It is an empty, open space. Many 
+mud-tracks left by boots cover the floor itself, mostly heading 
+north; beyond that, the room is barren of anything particularly 
+of interest. The north end of the lobby is dark, though a single 
+overhead lamp dimly lights this area as it swings slowly back and 
+forth at the force of movement from the floor above. 
+~
+33 67174408 0
+0
+D0
+~
+~
+0 -1  0 33107
+D2
+~
+sealed blast-door~
+1 1  100 33105
+S
+#33107
+A Three-way Split in the Hall~
+   Here at the end of the lobby, there is a hall that splits off 
+into two directions. The corridor widens a little heading 
+eastward and narrows slightly as it stretches westward. The 
+structural integrity of the walls here seem questionable, and the 
+ceiling above the 'T'-shaped crossing is threatening to cave in. 
+The floors are dirty, boot-tracks heading westward, though they 
+seem to be thinner than they are to the south. 
+~
+33 67174408 0
+0
+D1
+~
+~
+0 -1  0 33108
+D2
+~
+~
+0 -1  0 33106
+D3
+~
+~
+0 -1  0 33109
+K
+105 0 70 999 0S
+#33108
+A Loudly Humming Corridor~
+   The corridor here is wide. Compared to much of the rest of 
+the old compound, the wall and ceiling here are well-kept; 
+infact, in several places on the east-side of the hall here, old 
+wooden structure has been re-supported with steel plating. At 
+the end of the hallway, a thick and sealed blastdoor cuts off 
+passage any further eastward. 
+   Flourescent floor lamps are set neatly along the bottom of 
+both sides of the hall in just this section of corridor, ending 
+at the eastern door. 
+~
+33 67174408 0
+0
+D1
+~
+sealed blastdoor~
+1 1  100 33120
+D3
+~
+~
+0 -1  0 33107
+K
+105 0 70 999 0P
+xxxhackoops~
+(null)~
+delay 1 emote begins punching in a few numbers on *keyp. The audible humming on the eastern side of the corridor grows louder
+delay 10 emote with a confident movement, @ yanks free the loose wire sticking out of the bottom of *keyp
+delay 14 xxxhackdead
+~
+P
+xxxhackdead~
+(null)~
+info sdesc room -1 char -1 sdesc
+atecho 33108 There is an audible 'CLICK' from above where #5&(sdesc)#0 stands. A moment later, the space before the sealed blastdoor on the eastern side of the hall erupts in a hellish blaze; the explosion's roar is deafening and its shockwave ripples forcefully through the hall. When the controlled blast dies down, #5&(sdesc)#0 is gone - only their boots remain, smoking before the blastdoor.
+put 33006 33108
+force gaiman -1 omote boot lie smoking near the blastdoor, smelling of burnt rubber
+trans 911
+rend -d 120 -t burn self
+~
+S
+#33109
+A Wide, Quiet Corridor~
+   The corridor here is still wide, but it continues to narrow 
+over moreso as it stretches westward. Boot-tracks stain the 
+floor with mud and much of the lime plaster is crumbling on both 
+walls. To the east is the northernmost end of an expansive 
+lobby. 
+~
+33 65544 0
+0
+D1
+~
+~
+0 -1  0 33107
+D3
+~
+~
+0 -1  0 33110
+K
+105 0 500 999 0S
+#33110
+The Hallway's Dead End into a Set of Broken Doors~
+   The hallway ends narrowly on its western end. The boot-tracks 
+that cake the floor of the corridor with mud stop at a set of 
+double-doors set into the northern wall. The doors themselves 
+are left slightly ajar, and the left-most door's wooden plane is 
+splintered and it hangs slightly off of its hinges. 
+~
+33 65544 0
+0
+D0
+~
+broken double-doors~
+1 -1  0 33111
+D1
+~
+~
+0 -1  0 33109
+S
+#33111
+A Crumbling Section of the Long Corridor~
+   The corridor north of the broken set of double-doors is 
+falling apart in a literal sense. Part of the ceiling has 
+collapsed in, and plaster has accumulated in piles along both 
+sides of the wall, exposing the rot-wood skeleton of the hall's 
+precarious infrastructure. The mud tracks seem to thin out here 
+and disappear, though most of the boot imprints appear to be 
+leading northwards. 
+~
+33 65544 0
+0
+D0
+~
+~
+0 -1  0 33112
+D2
+~
+broken double-doors~
+1 -1  0 33110
+S
+#33112
+Part of a Long Stretch of Hallway~
+   The long, dirty corridor stretches northwards and southwards 
+here. For more than a small number of men, moving through its 
+crumbling passageway would be a claustrophic experience. 
+~
+33 65544 0
+0
+D0
+~
+~
+0 -1  0 33113
+D2
+~
+~
+0 -1  0 33111
+S
+#33113
+The First Floor's Northwestern Corner~
+   At the northwestern corner of the compound's innards, the 
+hallway bends at a ninety-degree angle and leads both eastward 
+and southward. On the eastern corner, just before the corridor 
+snakes to the east, a large chunk of wood and plaster has been 
+violently knocked out of the wall at about the level of a short 
+man's eyes. 
+~
+33 65544 0
+0
+D1
+~
+~
+0 -1  0 33114
+D2
+~
+~
+0 -1  0 33112
+S
+#33114
+A Bloodied Stretch of Corridor~
+   The corridor here stretches eastward and westward. There can 
+be no doubt that a very recent fire-fight has nearly collapsed 
+this section of the hall entirely, and the gruesome stains of 
+dead men still line the ruined walls on both sides. In some 
+places, gore has even managed to taint the ceiling itself, which 
+has yet to fall inward on top of its crumbling support. 
+~
+33 65544 0
+0
+D1
+~
+~
+0 -1  0 33115
+D3
+~
+~
+0 -1  0 33113
+S
+#33115
+At a Bottleneck in the Passage~
+   The corridor is extremely narrow at this point and southward, 
+as it begins to bend around broken support beams and mounds of 
+rubble. It seems very unlikely that this section of the compound 
+will manage to hold its structural integrity for much longer. 
+~
+33 65544 0
+0
+D2
+~
+~
+0 -1  0 33116
+D3
+~
+~
+0 -1  0 33114
+S
+#33116
+An Obfusicated Bend in the Hallway~
+   The passage is extremely narrow in both directions here. It 
+snakes around piles of plaster and rubble, and several wooden 
+beams that are leaning outward and away from their proper place 
+along their respective walls; the walls themselves threaten to 
+cave inward, and in some places, they do to a limited extent. 
+~
+33 65544 0
+0
+D0
+~
+~
+0 -1  0 33115
+D1
+~
+~
+0 -1  0 33117
+S
+#33117
+A Sharp Turn in the Hallway Passage~
+   The hallway is extremely narrow in both directions here. This 
+section seems less damaged than the almost collapsed passage 
+westward; still, the floor is covered in dust and tiny pieces of 
+wood chips, plaster and other eroded debris. 
+~
+33 65544 0
+0
+D2
+~
+~
+0 -1  0 33118
+D3
+~
+~
+0 -1  0 33116
+S
+#33118
+A Snaking Bend in the Tight Corridor~
+   The corridor continues to twist and curve here, slanting from 
+northwest to southeast. On the southern wall here, the rotted 
+wood exposed by crumbling plaster is supported by thick, steel 
+plates. Large bolts punch through both wood and chinks in the 
+steel, secured on the unseen, other side of the southern wall. 
+~
+33 65544 0
+0
+D0
+~
+~
+0 -1  0 33117
+D1
+~
+~
+0 -1  0 33119
+S
+#33119
+A Tightly Turning Corridor~
+   The corridor is a bottle-neck here, as the claustrophic 
+passageway that leads northwest ends to open up to a more open 
+area to the south. The eastern wall here is stained with water, 
+and the exposed wood is splintered and rotten, threatening to 
+collapse the outer wall. 
+~
+33 65544 0
+0
+D2
+~
+~
+0 -1  0 33120
+D3
+~
+~
+0 -1  0 33118
+S
+#33120
+At the Base of a Creaking, Metal Staircase~
+   On the southern side of this area is the base of a metal 
+staircase; the stairs themselves appear to be almost made of 
+scrap metal, and even without being climbed, they shiver and 
+clank unhealthily. On the western side of the room is a thick, 
+sealed blastdoor preventing passage further that way. To the 
+north is a narrow opening that leads off into a corridor. 
+Overhead light sprays down from above, playing with the shadows 
+of this area. 
+~
+33 67174408 0
+0
+D0
+~
+~
+0 -1  0 33119
+D3
+~
+sealed blastdoor~
+1 1  100 33108
+D4
+~
+~
+0 -1  0 33121
+S
+#33121
+At the Top of a Rickety Staircase~
+   At the southern end of this corridor junction is the top of a 
+rickety flight of metallic stairs. The walls are scuffed and 
+scratched around the staircase, though they become less so as 
+passages stretch both northwards and westwards from the landing. 
+Overhead, flourescant lamps are spread through this area, casting 
+a cold light over its walls and floor. 
+~
+33 67174408 0
+0
+D0
+~
+~
+0 -1  0 33122
+D3
+~
+~
+0 -1  0 33123
+D5
+~
+~
+0 -1  0 33120
+S
+#33122
+At the Bottom of a Rickety Staircase~
+   At the bottom of the winding metal staircase is a small 
+platform built entirely out of concrete. The walls and floor are 
+completely bare apart from two details, a pair of oblong lights 
+encased in thick plastic that spread a dim, uneasy light on 
+either side of a rickety metal staircase to the south. Looking 
+up, the top of the staircase can barely be seen, apparently 
+leading to an old looking metal door. 
+   Overhead, flourescant lamps are spread through this area, 
+casting a cold light over its walls and floor. 
+~
+33 67174408 0
+0
+D2
+~
+~
+0 -1  0 33121
+D4
+~
+~
+0 -1  0 33128
+S
+#33123
+A Cramped, Dirty Hallway~
+   There are water and blood stains painted on the walls of the 
+corridor here in broad strokes. The corridor itself is ever 
+tightening as it stretches westward, though it does seem to open 
+up to the east. The structural integrity of the walls and 
+ceiling seem passable here, though any weight on the floor causes 
+its wood to groan in an uncomforting manner. 
+   Overhead, flourescant lamps are spread through this area, 
+casting a cold light over its walls and floor. 
+~
+33 67174408 0
+0
+D1
+~
+~
+0 -1  0 33121
+D3
+~
+~
+0 -1  0 33124
+S
+#33124
+A Claustrophobic Corner of the Dirty Hallway~
+   The hallway turns at a ninety degree angle here around a 
+corner, leading both eastwards and northwards. The turn is 
+tight, however, and the other side of the hallway is entirely 
+veiled by the sharp and impractical angle of the corridor's bend. 
+   Overhead, flourescant lamps are spread through this area, 
+casting a cold light over its walls and floor. 
+~
+33 67174408 0
+0
+D0
+~
+~
+0 -1  0 33125
+D1
+~
+~
+0 -1  0 33123
+S
+#33125
+Before a Narrow Hallway~
+   Flourescent light from the ceiling spread a dim, flickering 
+light over the narrow hallway. The concrete walls were once 
+painted but the color has crumbled since long. One can head east 
+or south through similar hallways. 
+~
+33 67174408 0
+0
+D1
+~
+~
+0 -1  0 33126
+D2
+~
+~
+0 -1  0 33124
+S
+#33126
+Before a Barred, Oak Door at the End of the Hall~
+   The end of the corridor gives way to a solid lime plaster wall 
+on the east side. Set just north of the blocked passage is a 
+sturdy oak door. This area of the hall is far cleaner and more 
+well-kept than the rest of it, and the floors look recently swept 
+and mopped. 
+   Overhead, flourescant lamps are spread through this area, 
+casting a cold light over its walls and floor. 
+~
+33 67174408 0
+0
+D0
+~
+barred oak door~
+1 -1  0 33127
+D3
+~
+~
+0 -1  0 33125
+P
+blow~
+door~
+if oexist(6026,33126)
+if haso(-1,6027)
+delay 2 emote very cautiously, @ places *explos just at the base of the door and then begins to unwrap the long wires connected to the device
+delay 10 emote with the wires unwrapped, @ moves quietly away from the door and back to where the rest of the patrol is. They begin to work at connecting the loose wire-ends into *box
+delay 25 emote finishes connecting *explos to *box and powers on the electronic device. They begin punching in a series of numbers; once they are done, they stare at the door and hesitate
+delay 40 emote When @ presses the red button on *box, the door at the end of the hall explodes in a violent shower of wood and flame. Some of the surrounding ceiling and wall cave in as well, and thick smoke obfusicates all vision
+delay 41 xxxblowyes
+else do
+vstr You will need a detonator control box for that.
+fi done
+else do
+vstr You will need explosives to do that.
+fi done
+~
+P
+xxxblowyes~
+(null)~
+force -1 -1 drop box (quickly setting it down off to the side and out of the way)
+get 6026 33126
+door -1 north open
+put 33054 33126
+delay 15 xxxcleared
+~
+P
+xxxcleared~
+(null)~
+info echo room -1 vnum
+atecho &(echo) Once the chalky smoke and dust settles, you can see through the now opened doorway. Beyond the strewn rubble caused by the demolition is a room filled with blueprints, though you cannot see or hear movement from your current position.
+~
+S
+#33127
+A Large Room, Littered with Blueprints~
+   This room is large and falling apart, structurally. The 
+southeastern corner of the room has caved in almost entirely. 
+There are a few makeshift tables here, created by stacking 
+rotting wood up to the waist level of a man. Tacked to the walls 
+and laying on the would-be tables are blueprints; indeed, the 
+diagrams and graphs and equations are everywhere, dominating the 
+room. They show complex mathematical algorhythms and sketches of 
+reactors with pristine care taken to the work presented. Many of 
+the blueprints are headed with the title 'Permanent Energy 
+Solution Reactor', though some of the more obscure and unfinished 
+diagrams lack any heading at all. On the southern end of the 
+room is a large, hanging lamp that casts a stark light across the 
+room; it is set just off to the side of the doorway. 
+~
+33 67174408 0
+0
+D2
+~
+barred oak door~
+1 -1  0 33126
+S
+#33128
+On the Rooftop Helicopter Landing Pad~
+   The top of the compound extends to a large helicopter pad. 
+Howling winds from the mountains come rushing downs at all hours 
+of the day, biting and whipping at those who dare set foot out in 
+the cold. A set of dim, white lights encircle the landing pad to 
+make sure it is seen even in the darkest of nights. The entire 
+roof is built out of solid concrete and there's only one way out 
+of here, a rusted steel hut with a simple but strong looking 
+metal door at the east side of the rooftop. 
+   Spotlights are set up around the perimeter of the roof, giving 
+off enough light to dimly push back at the night around the 
+helipad. 
+~
+33 201392128 7
+0
+D5
+~
+~
+0 -1  0 33122
+S
+#33129
+List of Needed Objects~
+- NPC: Special Agent Shi Huangdi
+- Magazines for weapons
+- Corridor Trap
+ 
+Olist +byChel to see what I've built
+~
+33 67174400 0
+0
+P
+test~
+less~
+set random1 1d50
+set random2 1d50
+if (&(random1)<&(random2))
+   atecho 33129 &(random1) is less than &(random2)
+else do
+   atecho 33129 &(random1) is not less than &(random2)
+fi done
+~
+S
+#33130
+A Death Defying Fall Through Arctic Air~
+   This fall, in the dark of night, gives no easy vantage to the 
+majesty of the surrounding wilderness. 
+~
+33 67174400 0
+0
+P
+xxxdead~
+(null)~
+atecho 33102 Someone falls from above and crashes brutally onto a jagged boulder nearby!
+trans 33102
+rend -d 120 -t crush self
+~
+P
+xxxchutefail~
+(null)~
+setval room -1 char -1 inv 33017 oval0 1
+force -1 -1 emote tosses up their pilot chute, but the device malfunctions and does not manage enough force to fire their main parachute!
+~
+P
+xxxchutesuccess~
+(null)~
+force -1 -1 emote frees the square chute from their pack, and immediately slows in their descent as the nylon device catches above them!
+delay 1 xxxlanding1
+~
+P
+xxxlanding1~
+(null)~
+trans 33131
+delay 30 xxxlanding2
+delay 31 emote lands smoothly upon the icy ground at the base of a large hill and cuts free their pack and parachute
+~
+P
+xfall1~
+(null)~
+force -1 -1 emote continues to drop through the frigid night air at a dangerous speed
+~
+P
+xfall2~
+(null)~
+force -1 -1 emote begins to lose their diving form as they fall at a breakneck pace through the thin mountainous atmosphere
+~
+P
+xfall3~
+(null)~
+force -1 -1 emote wobbles and spins tumultuously, their death a near certainty as they drop like a stone from the sky towards the inhospitable earth below
+~
+P
+xfall4~
+(null)~
+force -1 -1 emote with a brutal 'thump', @'s body breaks on the jagged ice and rock below; they move no more
+delay 1 xxxdead
+~
+S
+#33131
+A Precarious Glide Through Arctic Air~
+   This slow descent, in the dark of night, gives barely any 
+vantage to the majesty of the surrounding wilderness. 
+~
+33 65536 0
+0
+P
+xxxlanding2~
+(null)~
+trans 33102
+delay 2 rem parach
+delay 3 junk parach
+~
+P
+xfall1~
+(null)~
+vbr -
+~
+P
+xfall2~
+(null)~
+vbr -
+~
+P
+xfall3~
+(null)~
+vbr -
+~
+P
+xfall4~
+(null)~
+vbr -
+~
+S
+#33132
+Chelicerae's Outfitting Room~
+Outfitting Room
+~
+33 67174400 0
+0
+P
+loadup~
+American~
+put 33065 33132
+put 33004 33132
+put 33041 33132
+put 33034 33132
+put 33001 33132
+put 33002 33132
+put 33003 33132
+put 33005 33132
+put 33006 33132
+put 33008 33132
+put 33018 33132
+put 33019 33132
+put 33017 33132
+put 33031 33132
+put 33036 33132
+put 33040 33132
+put 33009 33132
+put 33062 33132
+loadobj 33132 3 33019
+atech 33132 General issue of American equipment has been made
+~
+P
+loadup~
+Russian~
+put 33065 33132
+put 33052 33132
+put 33043 33132
+put 33034 38132
+put 33042 33132
+put 33044 33132
+put 33045 33132
+put 33046 33132
+put 33006 33132
+put 33008 33132
+put 33007 33132
+put 33047 33132
+put 33048 33132
+loadobj 33132 3 33049
+atech 33132 General issue of Russian equipment has been made
+~
+P
+loadup~
+sniper~
+put 33065 33132
+put 33004 33132
+put 33041 33132
+put 33034 33132
+put 33001 33132
+put 33002 33132
+put 33003 33132
+put 33005 33132
+put 33006 33132
+put 33008 33132
+put 33018 33132
+put 33019 33132
+put 33017 33132
+put 33031 33132
+put 33036 33132
+put 33040 33132
+put 33009 33132
+put 33010 33132
+put 33062 33132
+loadobj 33132 4 33019
+atech 33132 General issue of American equipment has been made, along with a sniper rifle.
+~
+P
+rankpatch~
+(null)~
+vstr &(1)
+if (&(1)=e3)
+   put 33055 33132
+   atecho 33132 A PFC's insignia is issued.
+fi done
+if (&(1)=e4)
+   put 33056 33132
+   atecho 33132 A Corporal's insignia is issued.
+fi done
+if (&(1)=e5)
+   put 33057 33132
+   atecho 33132 A Sergeant's insignia is issued.
+fi done
+if (&(1)=e6)
+   put 33058 33132
+   atecho 33132 A Staff Sergeant's insignia is issued.
+fi done
+if (&(1)=e7)
+   put 33059 33132
+   atecho 33132 A Seargeant First Class's insignia is issued.
+fi done
+if (&(1)=e8)
+   put 33060 33132
+   atecho 33132 A Master Sergeant's insignia is issued.
+fi done
+if (&(1)=e9)
+   put 33061 33132
+   atecho 33132 A Sergeant Major's insignia is issued.
+fi done
+if (&(1)=o1)
+   put 33063 33132
+   atecho 33132 A 2nd Lieutenant's insignia is issued.
+fi done
+if (&(1)=o2)
+   put 33064 33132
+   atecho 33132 A 1st Lieutenant's insignia is issued.
+fi done
+~
+P
+help~
+rank~
+vstr rankpatch e3 issues the patch for Private First Class
+vstr rankpatch e4 issues the patch for Corporal
+vstr rankpatch e5 issues the patch for Sergeant
+vstr rankpatch e6 issues the patch for Staff Sergeant
+vstr rankpatch e7 issues the patch for Sergeant First Class
+vstr rankpatch e8 issues the patch for Master Sergeant
+vstr rankpatch e9 issues the patch for Sergeant Major
+vstr rankpatch o1 issues the patch for 2nd Lieutenant
+vstr rankpatch o2 issues the patch for 1st Lieutenant
+~
+S
 $~

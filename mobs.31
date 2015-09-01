@@ -1,1 +1,436 @@
+#31001
+monstrously large spiny arachnoid BYTIAMAT~
+a monstrously large, spiny arachnoid~
+A monstrously large arachnoid lurks here, exoskeleton covered in bony spines.~
+   This monstrous black creature of an arachnoid looms at a 
+height of at least two men, and the width of three. Yellowy, 
+tumorous pustules are dotted all over its body, and masses of its 
+exoskeleton have simply fallen away or become extremely 
+exaggerated, to the point where sharp bony spines protrude from 
+its legs, back, and head. It features visible palps, and fangs 
+as sharp as razors. It has ten eyes, beady and unusually glassy. 
+~
+10 786436 41 59 13 5d1+140 3d8+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 1 0 0 0 0 0 0 0 0
+16 16 16 16 16 25 40 16
+0 0
+0 70 0 0 0 0 65 60 70 0
+0 0 0 0 0 0 70 70 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' timeline2~
+0 0 0
+#31002
+feline furless spiny BYTIAMAT~
+a spiny, furless feline~
+A furless feline with spiny protrusions on its back stalks here.~
+   Though it is still evident that this creature was once a cat, 
+or some other kind of feline, no fur, or only minute amounts of 
+flesh, for that matter, still remain on its body. Much of its 
+flesh has simply rotted off, leaving yellowed bone and spiny 
+protrusions visible. Its bone structure appears to have been 
+exaggerated; its claws are unnaturally long and sharp, three tiny 
+spikes jut out from its head on either side, and numerous spines 
+protrude from its back. For the most part, it is a small mass of 
+bone, spines, and rotting flesh. 
+~
+2097160 786436 24 60 1 5d1+64 2d5+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 1 0 0 0 0 0 0 0 0
+16 16 16 16 16 6 40 16
+0 0
+0 50 0 0 0 0 40 20 30 0
+0 0 0 0 0 0 50 50 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' timeline2~
+0 0 0
+#31003
+rodent large mucous BYTIAMAT~
+a large, mucous rodent~
+A large rodent scampers here, leaving a trail of yellow mucus in its wake.~
+   This creature has a distinctly rodent appearance, if not a 
+skeletal and nearly fleshless one - it is moderately small, no 
+bigger than half a human, and has a long snout, glassy eyes, 
+clamshell ears, four clawed paws, a long tail with sharp spines 
+and sharp fangs that are closed in a visible overbite. From its 
+skin oozes a yellow thick mucus, trailing behind it in its wake. 
+~
+40 786692 12 61 0 5d1+52 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 1 0 0 0 0 0 0 0 0
+16 16 16 16 16 3 40 16
+0 0
+0 30 0 0 0 0 30 16 0 0
+0 0 0 0 0 0 80 80 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' timeline2~
+0 0 0
+#31004
+creature bird-like slender sharp beak BYTIAMAT~
+a bird-like creature with a slender, sharp beak~
+A bird-like creature with a slender, sharp beak is here.~
+   This creature is best described to resemble a three-foot tall 
+roadrunner with long stalky legs, and sharp bony spines instead 
+of a long feathered tail. In fact, much of its body is covered 
+in bony spines and a collection of gray feathers. Otherwise 
+yellow and white pustules dot all over the entirety of its body, 
+and it has beady eyes and a very long - almost three quarters of 
+a human arm - beak that tapers to be so thin as invisible. Its 
+beak is unbelievably sharp and resembles a mosquito's proboscis. 
+~
+538972168 4 20 64 2 5d1+64 2d8+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 3 0 0 0 0 0 0 0 0
+10 5 10 10 10 6 40 10
+0 0
+0 40 0 0 0 0 40 30 20 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' timeline2~
+0 0 0
+#31000
+mobile horse-like enormous creature skeletal BYTIAMAT~
+a nearly-skeletal, enormous horse-like creature~
+An enormous horse-like creature trots here, its skeleton nearly exposed.~
+   If this was once a horse, it has grown or mutated to an 
+enormous size, well above a size that any horse has the right to 
+be. It stands at least two men higher in height, and about a man 
+in width. Most of the flesh on this horse-like creature has 
+fallen off, and sharp bony protrusions jut out from random places 
+on its body - particularly where its mane should be, there is a 
+line of spikes. Its eyes still remain intact, and they 
+absolutely have no luster, looking rather glassy. Its hooves are 
+as big as a bowling ball, looking to be able to easily trample 
+anything in its path. 
+~
+2359336 4 32 63 8 5d1+120 4d5+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 1 0 0 0 0 0 0 0 0
+16 10 10 10 10 20 40 10
+0 0
+0 50 0 0 0 0 50 50 60 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' timeline2~
+0 0 0
+#31005
+creature bird-like red-and-yellow plumage BYTIAMAT~
+a bird-like creature with a red-and-yellow plumage~
+A bird-like creature is here, its plumage red-and-yellow.~
+   This creature is best described to resemble a three-foot tall 
+roadrunner with long stalky legs, and sharp bony spines instead 
+of a long feathered tail. In fact, much of its body is covered 
+in bony spines and its plumage, unlike all others, is a vibrant 
+red and yellow. Otherwise yellow and white pustules dot all over 
+the entirety of its body, and it has beady eyes and a very long - 
+almost three quarters of a human arm - beak that tapers to be so 
+thin as invisible. The beak is unbelievably sharp and resembles 
+a mosquito's proboscis. 
+~
+536870922 0 32 0 10 5d1+80 2d8+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 3 0 0 0 0 0 0 0 0
+16 16 16 16 16 10 40 16
+0 0
+0 60 0 0 0 0 60 20 40 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'captain' timeline2~
+0 0 0
+#31006
+Antoinette young miniscule woman by_AURORA RPT_PRE-BETA with dark hair~
+a young, miniscule woman with dark hair~
+A young, little woman with dark hair stands here, glaring.~
+   Wavy locks of chamoisee brown hair crowns the head of this 
+young woman, falling in soft, jagged layers just past her slim 
+shoulders, streaks of caramel visible in the long bangs that 
+falls into her oval-shaped face. Her skin is smooth, 
+unblemished, and dusky in color. Pale grey eyes fringed with 
+long, dark eyelashes are augmented with matte-black eyeliner, her 
+full, bow-shaped lips kept moist by a rose-red tinted gloss. The 
+skin of her left arm is slightly lighter than the rest of her 
+body, the only signs of it being a prosthetic limb, and certainly 
+of high quality. Overall, the girl is very petite in shape. 
+~
+10 0 21 1 0 5d1+104 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 45 0 0 0 0 40 40 0 20
+50 55 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 65
+0 0 60 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' gerune_mining~
+0 0 0
+#31007
+Gerune grizzled salt-and-pepper-haired BYTIAMAT~
+a salt-and-pepper-haired, grizzled man~
+A salt-and-pepper-haired, grizzled man is here.~
+   This man is built like a battered oak; well into his fifties, 
+short, squat, but stocky. His cropped military-style hair, once 
+a raven-black, has become streaked with gray and white. It is 
+obvious he has had his share of hardship. His face is craggy, as 
+though chiseled from rock, and is scored with scars and 
+pockmarks. What hair grows from his chin and jaw is shaved to 
+the skin, though a five o'clock shadow remains. Most notably, a 
+jagged scar runs from his left cheek all the way across to the 
+right side of his square chin. There is a hardened gleam to his 
+hazel-brown eyes and a particular slanting curve to his lip - in 
+a permanent grimace or perhaps a scowl - as a tree might grow to 
+be crooked. All together, a hardened and weathered man in 
+appearance. 
+~
+10 0 30 1 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+17 14 15 16 16 16 40 17
+0 0
+0 50 50 50 50 0 50 50 50 0
+50 50 50 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 40
+0 40 40 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' gerune_mining~
+0 0 0
+#31008
+Hector lean emerald-eyed BYTIAMAT~
+an emerald-eyed, lean man~
+An emerald-eyed, lean man is here.~
+   Spry with the vigor of youth, this man cannot be older than 
+thirty. His face is smooth and his green eyes are bright. There 
+is a particular edge to his movements, a restless energy that 
+seems barely contained. Indeed, his build is athletic and lean, 
+lithe and sinewy like a cat. A wild mop of golden blonde hair 
+hangs in disarray about his head, not usually groomed or unable 
+to be tamed to any respectable hairstyle. 
+~
+10 0 5 0 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' gerune_mining~
+0 0 0
+#31010
+guard Nangong xRPT~
+a Nangong guard~
+a Nangong guard stands here watchfully.~
+   This person's subtle-featured face might hint at asian 
+ancestry, but otherwise it is no longer distinguishable as mixed 
+as $e is. 
+~
+4106 0 15 5 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 15
+268435456 0
+0 25 29 26 21 22 21 22 26 26
+22 24 30 30 25 0 0 0 0 0
+0 23 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' wilmenforce3 'sergeant' the_flame 'sergeant' nangongtheatre 'member' water_facility 'member' nangong_facility~
+0 0 0
+#31009
+mercenary elite NP xRPTx~
+a new mobile~
+(null)~
+$e.
+~
+10 0 34 5 0 5d1+120 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+19 16 20 16 20 20 40 17
+268435456 0
+0 54 57 50 53 57 57 52 50 58
+60 55 52 51 56 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' np_mercs~
+0 0 0
+#31011
+Samuel raven-black-haired wiry man xWilmingtonx~
+a wiry, raven-black-haired man~
+A wiry, raven-black-haired man stands here.~
+   This tall middle-aged man is built like a whip - possessing a 
+sharp, ever-smug face, and a willowy body. Though he is lean, he 
+is not frail, like a wildcat might be. He has an air of barely 
+restrained energy, muscles tensing up and relaxing, never seeming 
+to stay still. His raven-black hair is slicked back and neatly 
+cropped, with a few bangs that fall betwixt his piercing green 
+eyes. His skin is well-tanned from exposure to the sun, but 
+unblemished save for a jagged pink scar across his forehead. 
+~
+8 0 32 0 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 60 0 40 0 60 60 16 0 40
+60 60 60 0 0 0 90 90 0 0
+0 0 100 0 0 0 100 0 0 60
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' np_mercs~
+0 0 0
+#31012
+Danping asian grim-featured short~
+a short, grim-featured asian man~
+A grim-featured asian man of short stature stands here.~
+   This short, grizzled asian man has clearly had his share of 
+hardship and trials. His subtle-featured face is set in a 
+permanent grimace, and his wrinkles form in such a way to give 
+the impression of a craggy rock. His body is well-toned and 
+weathered, even leaning toward the emaciated side. A multitude 
+of scars mar his frame, many appearing to accumulate on his face. 
+~
+8 0 5 0 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' nangong_facility 'commander' water_facility~
+0 0 0
 $~

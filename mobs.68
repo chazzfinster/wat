@@ -1,1 +1,217 @@
+#68001
+Zed towering cyclopic man~
+a towering, cyclopic man~
+A towering, cyclopic man looms here, watching.~
+   Looming well above the heads of those of average height, this mutant is of a 
+frighteningly massive build. His bulging sacks of muscle are encased in a 
+liberal layer of fat and a roughened scale-ridden hide. His single blue eye 
+situated in the middle of his face, and is stretched wide and appears lidless. 
+~
+10 0 36 67 0 5d1+112 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 83 8 0 0 0 0 0
+16 16 18 16 16 18 40 13
+0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 60 60 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#68000
+ex rawboned three-armed man~
+a rawboned, three-armed man~
+A rawboned, three-armed man lurks here.~
+   This rawboned man is ordinary in height and of thickset build. He has 
+crystal-blue eyes and a closely-shaved head. His body is covered in inflamed 
+blisters of varying sizes, many oozing a reeking fluid and his incisors are 
+significantly long and sharp. Midway down his side sprouts a third, functonal 
+arm, which is encased in the same sinewy muscle as the rest of his body. 
+~
+10 0 24 67 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 66 4 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 40 40 40 40 40 40 40 40 40
+50 50 40 50 50 0 50 50 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#68002
+Why odd limbed diminuitive female~
+an odd-limbed, diminuitive female~
+An odd-limbed, diminuitive female loiters here.~
+   This female is short in height and of oafish build. Her skin constantly 
+produces a film of thick, sticky substance and her eyes are tiny, failing to 
+fill the bony sockets and hence exposing much sunken flesh instead. Her lips 
+are consistently twisted into an ugly smirk, which gives her an air of sheer 
+arrogance. 
+~
+10 0 26 67 0 5d1+104 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 4 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 40 40 50 40 40 40 40 40 40
+50 50 0 50 50 0 60 60 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#68003
+mutant $mutationfeature $mobmutation $mutationsex~
+a $mobmutation $mutationsex with $mutationfeature~
+The $mobmutation $mutationsex with $mutationfeature stands here, watching warily.~
+   Obviously suffering from various mutations, this $mobmutation $mutationsex 
+lopes along with faint difficulty, due in part to $mutationfeature. The signs 
+of poor luck in genetics are compounded by the rough lifestyle this being 
+lives. Poor observance of cleanliness and a life lived in the sewers leads to 
+a rank smell wafting from the humanoid. Though alert, a crazed glint flashes 
+in their gaze. 
+~
+4106 0 36 6 0 5d1+112 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 11 18 10 15 18 40 13
+268435456 0
+0 60 26 60 60 60 60 60 60 60
+60 60 60 60 60 0 60 60 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' funky~
+0 0 0
+#68004
+Funky squat scaled thickly muscled mutant~
+a squat, scaled, thickly-muscled mutant~
+A squat thickly-muscled mutant man is here, scratching idly at his scales.~
+   Though no taller than an average Grunger, this 'man' bears few other 
+similarities. His maw of a mouth splits an oblong hairless head, showing 
+jagged fangs riddled with tooth decay. Some have already fallen to the 
+wayside, leaving partially empty holes in grey speckled gums. Beneath a thick 
+brow line is a singular eye, green and human-looking though thoroughly 
+bloodshot. The other eye has been long-since plucked, with rough stitches 
+shutting the lid against a fleshy cheek. Scars and dirt cover his scaled form 
+and his stance appears to be a permanent slouch with hefty hunch to his 
+shoulders. Covering all of his joints is a thick bony pad, settled on the 
+outside of the scaled-surface but probably most often covered in clothes. His 
+hands are roughly clawed, short one finger with a slightly thicker thumb in 
+play. He's almost hindered by the muscles corded just beneath his skin, 
+stacked heavily on his modest frame like natural padded armor. 
+~
+10 0 45 67 0 5d1+120 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 85 8 0 0 0 0 0
+19 16 20 16 16 20 40 13
+0 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 70 70 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' funky~
+0 0 0
+#68005
+mutant $mutationfeature $mobmutation $mutationsex~
+a $mobmutation $mutationsex with $mutationfeature~
+The $mobmutation $mutationsex with $mutationfeature stands here, watching warily.~
+Obviously suffering from various mutations, this $mobmutation $mutationsex lopes along with faint difficulty, due in part to $mutationfeature. The signs of poor luck in genetics are compounded by the rough lifestyle this being lives. Poor observance of cleanliness and a life lived in the sewers leads to a rank smell wafting from the humanoid. Though alert, a crazed glint flashes in their gaze.
+~
+4106 0 36 0 0 5d1+120 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 18 16 16 18 40 13
+268435456 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 60 60 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' funky~
+0 0 0
+#68006
+mob new~
+a new mobile~
+(null)~
+(null)~
+8 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
 $~

@@ -1,1 +1,1210 @@
+#31000
+wire grapple by_AURORA thick METAL~
+a thick grapple wire~
+A thick grapple wire is here.~
+   This is a thick rope made out of nylon, attached to a grapple 
+hook from on high. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31001
+corpse mangled rotting ORGANIC~
+a rotting, mangled corpse of a large, four-legged mammal~
+The mangled corpse of a large, four-legged animal lies here, well into the last stages of decay.~
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31002
+token batter OTHER~
+an invisible batter token~
+An invisible batter token lies here.~
+~
+12 4 0
+3 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31003
+symbol glowing claw-like BYTIAMAT OTHER~
+a glowing claw-like symbol~
+A claw-like symbol is etched here, its contours glowing faintly.~
+   At first glance, this appears to be a symbol in the shape of a 
+claw. It appears to have been carefully etched. Lifeless, there 
+is no glow to this symbol. Should one look closer, they will 
+notice a faint line running from the claw to a square-shaped 
+discoloration on the wall. Perhaps you can try to #6HACK#0 the 
+#6BOX#0, or #6ACTIVATE#0 the #6SYMBOL#0. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31004
+symbol claw-like lifeless BYTIAMAT OTHER~
+a lifeless claw-like symbol~
+A claw-like symbol is etched here, its contours lifeless and without glow.~
+   At first glance, this appears to be a symbol in the shape of a 
+claw. It appears to have been carefully etched. Lifeless, there 
+is no glow to this symbol. Should one look closer, they will 
+notice a faint line running from the claw to a square-shaped 
+discoloration on the wall. Perhaps you can try to #6HACK#0 the 
+#6BOX#0. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31005
+hole massive ceiling torn BYTIAMAT METAL~
+a massive, torn hole in the ceiling~
+A massive hole has been torn open in the ceiling here.~
+~
+12 4096 0
+0 10 1 -1
+3500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31006
+platform circular motionless BYTIAMAT METAL~
+a motionless, circular metal platform~
+A circular metal platform sits here, motionless.~
+   This platform is simple and circular in design, flat and 
+slightly ribbed to provide extra traction. It is made out of an 
+orange metallic substance and appears quite sturdy. There are a 
+set of railings around to enclose the platform. It is inert and 
+motionless. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31007
+marking eye-like glowing BYTIAMAT OTHER~
+a glowing eye-like marking~
+A glowing eye-like marking is etched in the wall here.~
+   At first glance, this appears to be a glowing symbol in the 
+shape of an eye. It appears to have been carefully etched. 
+Should one look closer, they will notice a faint glowing line 
+running from the eye to a square-shaped discoloration on the 
+wall. Maybe you can try to #6ACTIVATE#0 the #6PLATFORM#0. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31008
+limb organic decayed strange ORGANIC~
+a strange, decayed limb~
+A strange-looking limb lies here, flesh peeled away and rotted.~
+   This is still distinguishable as some kind of limb from a 
+creature. It still hosts claw-like appendages at one end, though 
+fairly rotted away and its bone - if it can be called bone, more 
+resembling the texture of chitin - showing. The other end 
+abruptly ends, as if it were snapped off. It exudes a pungent 
+aroma of decay. Perhaps it has some kind of use ... 
+~
+34 4096 1
+0 0 0 0
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31009
+vest black form-fitting flak METAL~
+a black, form-fitting flak vest~
+A black, form-fitting flak vest lies here.~
+~
+9 4096 9
+5 2 0 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31010
+vest flak durite-reinforced rigid METAL BYTIAMAT~
+a rigid, durite-reinforced flak vest~
+A rigid, durite-reinforced flak vest lies here.~
+   Designed to soften the impact from gunfire, this flak vest is 
+essentially a combination of durite and padded rubbery material. 
+It utilizes white metal fastenings and zippers to secure it to 
+the wearer. Somewhat heavy, this piece of armor has sacrificed 
+some mobility for gunfire protection. It has been dyed a dark 
+nondescript gray. 
+~
+9 4096 9
+5 2 0 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31011
+jacket~
+a leather jacket~
+a heavy leather jacket~
+~
+9 12 9
+3 0 0 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31012
+spire array glowing BYTIAMAT METAL~
+a glowing array of tall spires~
+A glowing array of tall spires surround the perimeter.~
+   These spires reach high to the ceiling like glistening orange 
+claws. They are arranged in a circle, and glitter and glow with 
+white symbols. Flickering screens are installed on some of them, 
+and white symbols scroll down them in bizarre and seemingly 
+unorganized patterns. 
+~
+12 4096 0
+0 0 0 0
+2500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31013
+marine animal skeleton gargantuan whale BYTIAMAT OTHER~
+a gargantuan skeleton of a marine animal~
+The gargantuan skeleton of a marine animal lies here, bleached white.~
+   This skeleton is clearly that of a marine animal, its fin, 
+spine, and huge pincer-like skull intact. By the state of its 
+decay, the animal died a long time ago, its flesh all but rotted 
+away. Its bones are a bleached white. The skeleton lies on its 
+side, its gargantuan size taking up much of the tank's space, its 
+ribs pointing skyward. With some effort, perhaps you can #6CLIMB 
+UP#0 on its bones. 
+~
+12 4096 0
+0 0 0 0
+2500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31014
+discoloration oblong large BYTIAMAT OTHER~
+a large oblong discoloration~
+A large oblong discoloration is set in the wall.~
+   This oblong discoloration is a particularly dark red, and 
+appears to bulge from the wall - not seamlessly installed like 
+others. A thickly outlined dot is etched in the centre, not 
+glowing and a lusterless black. There is a small fist-sized 
+block to the side of the discoloration. Upon further inspection, 
+it seems as though the box is a complex array of wiring and 
+machinery. Maybe you can try to #6HACK#0 the #6BOX#0. 
+~
+12 4096 0
+0 0 0 0
+3000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31015
+discoloration large open OTHER BYTIAMAT~
+an open oblong discoloration~
+A large oblong discoloration is open, sucking everything into cold space.~
+   This oblong discoloration has slid open, exposing everything 
+in the room to the cold vacuum of space. You can quickly #6EXIT 
+HATCH#0 to try and escape. 
+~
+12 4096 0
+0 0 0 0
+3500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31016
+tools machinist electronics set complex OTHER~
+a complex set of electronics and machinist tools~
+A complex set of electronics and machinist tools lies here.~
+This set of tools has been arranged for any kind of repairing and maintaining, machinery, electronics, or otherwise. Varying tools have been assembled; from screwdrivers to complex welding tools.
+~
+30 4096 262145
+100 0 1 0
+1000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31017
+pillar lifeless METAL TIAMAT~
+a lifeless, large pillar~
+A lifeless pillar stands tall, inert.~
+   This pillar stands immensely tall, connected from floor to 
+ceiling of the dome. Thousands of wires and tubes connect to it, 
+all winding and coiling from every corner of the area. It 
+appears to be made of more of the same orange metal, fluted and 
+ridged. There is not a sound or any sign of life from the 
+pillar, inert and silent. A much smaller pillar stands to the 
+side of it, hundreds of glyphs and symbols scattered on it. Upon 
+further inspection, one can notice slits in the pillar, as though 
+to allow access to its inner workings. Maybe you can #6FIX#0 the 
+#6PILLAR#0. 
+~
+12 4096 0
+0 0 0 0
+3500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31018
+pillar glowing large METAL BYTIAMAT~
+a glowing, large pillar~
+A glowing, large pillar stands tall, crackling with blue energy.~
+   This pillar stands immensely tall, connected from floor to 
+ceiling of the dome. Thousands of wires and tubes connect to it, 
+all winding and coiling from every corner of the area. It 
+appears to be made of more of the same orange metal, fluted and 
+ridged. It whirrs and hums with energy, and the ring of symbols 
+surrounding it on the ceiling crackle with blue lightning. 
+~
+12 4096 0
+0 0 0 0
+3500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31019
+platform circular whirring METAL BYTIAMAT~
+a whirring, circular metal platform~
+A circular metal platform sits here, whirring softly.~
+   This platform is simple and circular in design, flat and 
+slightly ribbed to provide extra traction. It is made out of an 
+orange metallic substance and appears quite sturdy. There are a 
+set of railings around to enclose the platform. It whirrs 
+softly, having been activated. You can try to #6INITIATE#0 the 
+#6PLATFORM#0 to step on. 
+~
+12 4096 0
+0 0 0 0
+3500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31020
+token spiral OTHER BYTIAMAT~
+a spiral token~
+A spiral token is here, doing its own thing.~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31021
+helmet spherical matte-black METAL BYTIAMAT~
+a spherical matte-black helmet~
+A spherical matte-black helmet lies here, its surface lusterless.~
+   This is a sealed, padded helmet shaped like a sphere, wrought 
+of an incredibly durable metal alloy that has been painted a 
+matte black. The only indication of where the wearer's face 
+might be is a sudden change in hue - the seamless visor is a 
+lustrous and shiny black, in contrast to the rest of the helm, 
+made in the likeness of a rounded V. A slim white cylindrical 
+pack is attached to the back, hooked up to the helmet to provide 
+limited life-support in hazardous situations. 
+~
+9 4096 17
+5 1 0 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31022
+sleeves durite-reinforced thick pair METAL BYTIAMAT~
+a thick pair of durite-reinforced sleeves~
+A thick pair of durite-reinforced sleeves lies here.~
+   These sleeves made of a thick elastic material look sturdy 
+enough to blunt moderate trauma, and segments of gray durite have 
+been sewn in to additionally protect the forearms, elbow and 
+upper arms. The sleeves themselves are dyed a nondescript gray. 
+~
+9 4096 257
+5 2 0 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31023
+leggings durite reinforced heavy METAL BYTIAMAT~
+a heavy pair of durite-reinforced leggings~
+A heavy pair of leggings reinforced with durite lies here.~
+   Clearly heavy duty, these black leggings are made of a 
+spandex-like material that clings closely to the wearer, and are 
+further reinforced with hard durite. Durite plates and segments 
+are woven together at key joints to provide some range of motion 
+and protect the wearer from gunfire. 
+~
+9 4096 33
+7 2 2 0
+400 0.000000
+0 0 0 0 240 262144 0 1
+1280.000000 0 0 0 0 0 0
+A
+10016 -2
+A
+10017 -2
+God~
+God~
+#31024
+gloves durite-plated thick pair METAL BYTIAMAT~
+a thick pair of durite-plated gloves~
+A thick pair of durite-plated gloves lies here.~
+   For optimal mobility and protection against trauma, these 
+gloves are made of a thick black mesh that is relatively 
+comfortable to wear. The back of the hands, palms, and fingers 
+are plated with durite and segmented to allow free range of 
+motion. 
+~
+9 4096 129
+5 2 2 0
+350 0.000000
+0 0 0 0 200 131072 0 1
+120.000000 0 0 0 0 0 0
+A
+10016 -2
+A
+10017 -2
+God~
+God~
+#31025
+smg sub-machine gun rectangular $smgframe0 METAL~
+a rectangular, blackened sub-machine gun~
+A blackened, rectangular sub-machinegun lies here.~
+Built on bold lines, this rectangular sub-machinegun is blackened. It is $smgframe. Two grips are installed; the bottom of the barrel is ribbed, and a two-inch stub right before the handle. The magazine feeds right before the stock.
+~
+28 33558528 8921089
+3 3 8 13
+900 0.000000
+2 0 0 0 1000 131072 0 1
+400.000000 0 0 0 0 0 0
+A
+10013 0
+God~
+God~
+#31026
+gorget black durite-padded METAL BYTIAMAT~
+a durite-padded, black gorget~
+A durite-padded black gorget lies here.~
+   This ring of hard rubbery material is padded with resilient 
+durite to further protect against trauma. Metal fastenings allow 
+it to be adjusted as necessary to the wearer's neck. 
+~
+9 4096 5
+5 2 0 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31027
+sleeves snugly-fitting pair black padded PLASTIC BYTIAMAT~
+a snugly-fitting pair of padded, black sleeves~
+a heavy leather jacket~
+   Two small tubes have been cut from a smooth, elastic material 
+to be slipped over a wearer's arms and further secured by 
+synthetic leather straps and metal fastenings. Rubbery black 
+material coats the outside for minimal protection. All together, 
+these sleeves appear fit more for traveling than any sort of 
+combat. 
+~
+9 4096 257
+3 0 0 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31028
+vest form-fitting black ribbed padding PLASTIC BYTIAMAT~
+a form-fitting, black vest with ribbed padding~
+A black vest with ribbed padding lies here.~
+   This vest is designed for the optimal combination of mobility 
+and protection. It is made out of a black stretchy thick 
+material similar to spandex - form-fitting and snug. Thicker and 
+firmer ribbed padding reinforces vital areas on the chest, back, 
+and stomach to protect against mild to moderate trauma. 
+~
+9 4096 9
+3 0 0 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31029
+gloves lightweight pair backed padding PLASTIC BYTIAMAT~
+a lightweight pair of gloves backed with padding~
+A lightweight pair of gloves backed with padding lies here.~
+   These nondescript black gloves are lightweight and designed to 
+dampen light to moderate trauma at best; thick padding reinforces 
+the back of the wearer's hands and fingers without sacrificing 
+range of motion. The material is somewhat similar to spandex, 
+stretchy, form-fitting and comfortable to wear. 
+~
+9 4096 129
+3 0 0 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31030
+handgun smooth long-barreled BYTIAMAT METAL~
+a smooth, long-barreled handgun~
+A smooth handgun with a long barrel lies here on the ground.~
+   This is $pistolframe0. The chrion-metal gun is polished and 
+rounded to give a smooth, streamlined look. In fact save for the 
+double sights and the black rubber grip, the smooth surface 
+appears nearly seamless. A small 'X' has been printed on the 
+long barrel. 
+~
+28 33558528 8193
+2 1 5 11
+400 0.000000
+0 0 -2 0 1200 262144 0 1
+1600.000000 0 0 0 0 0 0
+A
+10011 5
+God~
+God~
+#31031
+leggings sleek padded pair PLASTIC BYTIAMAT~
+a sleek pair of padded leggings~
+A sleek pair of padded leggings lies here.~
+   These black leggings are made of a smooth and elastic material 
+similar to spandex, ensuring maximum mobility. They have been 
+further reinforced by thick rubbery padding save for the joints. 
+~
+9 4096 33
+3 0 0 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31032
+round bullet pistol $bulletcaliber $bullettype METAL by_AURORA~
+a $bulletcaliber $bullettype pistol round~
+A $bulletcaliber $bullettype pistol round lies on the ground.~
+This pistol bullet is $bulletcaliber, made from an alloy of 
+gold and iron. It is $bullettype. 
+~
+31 37752832 1
+0 0 5 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31033
+rifle boxy black praetor long barrel $rifleframe0 METAL BYTIAMAT~
+a boxy black rifle with a long barrel~
+A boxy black rifle with a long barrel lies here.~
+   This rifle is $rifleframe0. It is clearly a weapon of war; it 
+is wanting in terms of any kind of ornamentation or appearance, 
+its body boxy and bulky. It is made out of a durable iron alloy 
+that is curiously light for its size, and designed specifically 
+to absorb and dissipate heat. It comes equipped with rubber 
+grips along the long barrel and the handle, and a short stock. 
+The letters "PRAETOR-32" are printed at the bottom of the handle 
+to indicate its model. 
+~
+28 33558528 8921089
+3 1 8 12
+700 0.000000
+0 0 0 0 1000 131072 0 1
+400.000000 0 0 0 0 0 0
+A
+10012 0
+God~
+God~
+#31034
+rations simple pack BYTIAMAT ORGANIC~
+a simple pack of rations~
+A simple pack of rations has been left here.~
+   This is a simple collection of rations. Comprised of 
+non-perishables, this pack contains tin cans of various flavors - 
+roasted salmon, macaroni and cheese, french fries. On each can 
+is printed: "YUM YUM FOODS (TM), GUARANTEED GREAT FLAVOR AND 
+LONG-LASTING!". 
+~
+19 4096 1
+4 3 0 0
+300 0.000000
+0 0 
+dense~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31035
+canteen slim metal METAL BYTIAMAT~
+a slim metal canteen~
+A slim metal canteen has been left here.~
+   This canteen is a slim metal cylinder designed to be carried 
+around in less than ideal conditions. Its top is capable of 
+being unscrewed to refill liquid and features a retractable short 
+straw for drinking. 
+~
+17 4096 1
+8 8 14 0
+200 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31036
+headset radio in-ear ELECTRONIC xRadio $color~
+a $color, radio in-ear headset~
+A $color, radio in-ear headset lies here.~
+   This is a $color in-ear headset complete with a wireless mic. 
+The earphone in itself is a compact black cylinder meant to be 
+imbedded in the ear, while the wireless mic, a small disc no 
+bigger than a toenail, is attached to a piece of clothing. A 
+knob on the mic controls channels and settings. 
+~
+24 33558528 4194305
+145 0 2 0
+1 0.000000
+0 0 0 0 100 131072 0 1
+50.000000 0 0 0 0 0 0
+God~
+God~
+#31037
+token generator-off BYTIAMAT OTHER~
+a generator-off token~
+A generator-off token is here.~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31038
+symbol dot lifeless OTHER BYTIAMAT~
+a lifeless symbol resembling a dot~
+A lifeless symbol resembling a dot is set in the wall here.~
+   At first glance, this appears to be a symbol in the shape of a 
+dot. It appears to have been carefully etched. Lifeless, there 
+is no glow to this symbol. It has been, by all appearances, been 
+seamlessly integrated into the wall. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31039
+symbol dot glowing OTHER BYTIAMAT~
+a glowing symbol resembling a dot~
+A glowing symbol resembling a dot is set in the wall here.~
+   At first glance, this appears to be a symbol in the shape of a 
+claw. It appears to have been carefully etched. Lifeless, there 
+is no glow to this symbol. It has been, by all appearances, been 
+seamlessly integrated into the wall. Pulsing with energy, maybe 
+you can #6ACTIVATE#0 the #6SYMBOL#0 or attempt to give it a 
+closer look and #6HACK#0 the #6SYMBOL#0. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31040
+magazines clutter BYTIAMAT OTHER~
+a clutter of magazines~
+A clutter of magazines is here, strewn here and there.~
+   These are a collection of varying magazines, some obviously 
+depicting gratuitous nudity, others reporting the latest science 
+break-throughs, and yet more are fashion magazines; a diverse 
+collection that lie in unorganized piles. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31041
+holodisc coiled flat BYTIAMAT METAL~
+a coiled, flat disc-like object~
+A coiled, flat disc-like object lies here.~
+   This object resembles an especially narrowing coil about half 
+a metre long that can easily be compressed down into a disc 
+shape. Its surface, covered in a reflective black epoxy, reveals 
+a striated arrangement of darker ebony lines that stretch from 
+the circumference to the centre of the coil. The flexible metal 
+that the coil is made of absorbs heat readily and has the 
+inscription, "SER-239-HM3" etched into the surface, circling 
+around the centre of the disc. 
+   You realize you could #6SCAN#0 this #6HOLODISC#0. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31042
+grappling hook gas-powered gun METAL BYTIAMAT~
+a gas-powered grappling hook gun~
+A gas-powered grappling hook gun lies here.~
+   This device is simple in appearance; it consists of a stubby 
+black handgun and a grappling hook extension - able to be fired 
+from the gun to reach heights unable to be reached by human 
+strength alone. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31043
+machete black high carbon rubber grip OTHER~
+a black, high carbon machete with a rubber grip~
+A black, high carbon machete with a rubber grip lies here.~
+   This machete's blade is made from high carbon steel and is 
+matte black in color, as is its polypropylene handle. Fine 
+rubber has been wrapped around the grip. The blade's single edge 
+is quite sharp, and the large knife is very blade heavy. 
+~
+5 4096 8193
+1 2 5 3
+350 0.000000
+2 0 2 0 1000 131072 0 1
+200.000000 0 0 0 0 0 0
+God~
+God~
+#31044
+axe utility razor-sharp METAL BYTIAMAT~
+a razor-sharp utility axe~
+A razor-sharp utility axe lies here.~
+   This is an utilitarian axe made of quality steel with a 
+rubber-bound grip, meant to be wielded in one hand. Its shaft is 
+comprised of a lighter metal alloy, and its blade is honed 
+razor-sharp and textured as to be sturdy. 
+~
+5 4096 8193
+1 3 3 5
+425 0.000000
+2 0 2 0 1100 262144 0 1
+400.000000 0 0 0 0 0 0
+A
+10005 4
+God~
+God~
+#31045
+token hack alien OTHER~
+an invisible alien hacking token~
+An invisible alien hacking token is here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31046
+parachute tactical backpack byKodiak OTHER~
+a tactical parachute backpack~
+A tactical parachute backpack is laid here.~
+   Pockets made of olive green synthetic cloth and matte-black 
+rubber zippers line the edges of this rounded rectangular-shaped 
+backpack. Centered upon it's mass is a black burst-plate, small 
+olive green letters reading, "Parachute Burst - Stay Back", while 
+thin wires encapsulated in black rubber run along the length of 
+the pack. 
+~
+15 0 524289
+10000 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31047
+Entry-charge entry charge demo demolitions byKodiak OTHER~
+an entry demolitions charge~
+An entry demolitions charge is laid here.~
+   Composed of plastique explosive, this charge has been formed 
+into a small ball with a firing cap pushed forth within. A small 
+wire leads from the firing cap to a handheld trigger mechanism. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31048
+grappling-hook grappling hook byKodiak OTHER~
+a grappling hook~
+A grappling hook attached to a long black rope lays here.~
+   Four sharpened teeth blossom out from a steel shaft painted 
+over in matte-black. The hook is attached to a lightweight 
+tactical black rope about 30-feet long. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31049
+helmet full clear visored xRPT-Armor CERAMIC~
+a clear-visored, full helmet~
+A clear-visored, full helmet sits here.~
+   This helm protects the head fully, and does a rather good job 
+of it. It wraps around the head completely, made completely of 
+thick, black-colored ceramic, with thick cloth pads on the inside 
+to provide extra comfort and protection against blows. The front 
+of the helmet bears a large, triangular opening, from browline to 
+chin, over which a thick plastic visor sits, hinged so it can be 
+pushed up or down. 
+~
+9 0 17
+6 3 8 0
+280 0.000000
+0 0 0 0 200 131072 0 1
+115.000000 0 0 0 0 0 0
+God~
+God~
+#31050
+collar dark sleek segmented xRPT-Armor CERAMIC~
+a dark, sleek, segmented collar~
+A dark, slee, segmented collar sits here.~
+   This collar consists of two major pieces - both of them jet 
+black - that latch together with strong metal hooks. The two 
+pieces are black ceramic plates, padding thicks with cloth on the 
+inside so as to not chafe. 
+~
+9 0 5
+6 3 16 0
+80 0.000000
+0 0 0 0 200 131072 0 1
+33.000000 0 0 0 0 0 0
+God~
+God~
+#31051
+breastplate dark segmented xRPT-Armor CERAMIC~
+a dark, segmented breastplate~
+A dark, segmented breastplate lies here.~
+   This breastplate comes in two pieces, thick ceramic molded to 
+fit onto a human torso - and, for added flare, it is also shaped 
+like a toned male body, right down to the nipples. It is colored 
+jet black, and heavily padded on the inside to protect the body 
+from sustained blows. Strong metal hooks hold the two pieces 
+together - it is not particularly high-tech, but it is rather 
+well-made. 
+~
+9 0 9
+6 3 1 0
+1800 0.000000
+0 0 0 0 200 131072 0 1
+742.000000 0 0 0 0 0 0
+A
+10016 -12
+A
+10017 -12
+God~
+God~
+#31052
+sleeves pair dark segmented xRPT-Armor CERAMIC~
+a pair of dark, segmented sleeves~
+A pair of dark, segmented sleeves lie here.~
+   These are sleek, ceramic sleeves, made of four parts - two 
+that hook together over the upper arms, and two that hook over 
+the lower arms. The elbow joint is left uncovered for ease of 
+movement, and the rest appears quite protective. 
+~
+9 0 257
+6 3 516 0
+800 0.000000
+0 0 0 0 220 131072 0 1
+330.000000 0 0 0 0 0 0
+A
+10016 -8
+A
+10017 -8
+God~
+God~
+#31053
+gloves pair dark segmented xRPT-Armor CERAMIC~
+a pair of dark, segmented gloves~
+A pair of dark, segmented gloves lie here.~
+   These gloves consist of molded ceramic attached to a cloth 
+base. A place covered the back of the hand, and the lowest joint 
+of each finger. Each glove is entirely black, both the cloth and 
+the plates. 
+~
+9 0 129
+6 3 64 0
+160 0.000000
+0 0 0 0 200 131072 0 1
+66.000000 0 0 0 0 0 0
+God~
+God~
+#31054
+coverings legs dark segmented xRPT-Armor CERAMIC~
+a pair of dark, segmented leg-coverings~
+A pair of dark, segmented leg-coverings lie here.~
+   This item is a thickly padded black cloth that goes on the 
+legs with jet black ceramic plates attached. These plates cover 
+the thighs, chins, and crotch, but leave the back unprotected. 
+~
+9 0 33
+6 3 2 0
+400 0.000000
+0 0 0 0 200 131072 0 1
+165.000000 0 0 0 0 0 0
+A
+10016 -4
+A
+10017 -4
+God~
+God~
+#31055
+boots segmented padded couple xRPT-Armor CERAMIC~
+a couple of padded, segmented boots~
+A couple of padded, segmented boots sit here.~
+   These boots bear padded soles, making them slightly less noisy 
+when tromping around in them. A single ceramic plate sits over 
+the front of the foot, jet black. 
+~
+9 0 65
+6 3 32 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+16.000000 0 0 0 0 0 0
+A
+10016 -2
+A
+10017 -2
+God~
+God~
+#31056
+jacket~
+a leather jacket~
+a heavy leather jacket~
+~
+9 0 9
+3 0 0 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31057
+jacket~
+a leather jacket~
+a heavy leather jacket~
+~
+9 0 9
+3 0 0 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31058
+slender telescopic black-hilted shortsword METAL~
+a black-hilted, slender telescopic shortsword~
+A black-hilted, slender telescopic shortsword lies here.~
+   This slender shortsword is segmented and capable of retracting 
+into its four-inch black polyprop hilt. A latch installed into 
+the butt of the hilt allows the blade to be locked into place. 
+Despite the slenderness of the blade, it is made out of 
+high-quality chrion and is polished to a fine glow. The entire 
+edge is serrated - a wicked edge designed to easily cut and maim 
+flesh. 
+~
+5 0 270337
+1 2 5 3
+325 0.000000
+4 0 3 0 1100 262144 0 1
+800.000000 0 0 0 0 0 0
+A
+10003 4
+God~
+God~
+#31059
+blackened knife retractable razor METAL~
+a blackened, retractable razor knife~
+A blackened, retractable razor knife lies here.~
+   This short blackened knife has a retractable razor blade and a 
+long, smooth white chrion metal handle. The blade itself is 
+absolutely lethal, sharp, and has a wicked point to complement 
+the razor's edge, extending to about five inches in length. 
+~
+5 0 270337
+2 2 3 2
+150 0.000000
+0 0 1 0 1000 131072 0 1
+75.000000 0 0 0 0 0 0
+God~
+God~
+#31060
+baton blackened metal METAL~
+a blackened metal baton~
+A blackened metal baton lies here.~
+   This black metal chrion baton widens slightly at the tip where 
+the majority of its weight is located. The handle has been 
+wrapped in a rubbery material for a firmer grip. 
+~
+5 0 270337
+0 3 3 5
+450 0.000000
+3 0 1 0 1000 131072 0 1
+100.000000 0 0 0 0 0 0
+God~
+God~
+#31061
+helmet matte black tactical by_rabisu CERAMIC~
+a matte black tactical helmet~
+A matte black tactical helmet lies here, dully refusing to reflect light.~
+   A matte black tactical helmet made out of a hardened ceramic 
+material that appears to be seamless. The matte black finish is 
+lusterless and dully refuses to reflect light. The helmet is 
+full faced to protect the wearer from ballistic attacks to the 
+head. The back of the helmet sports a small stylized phoenix, 
+acid-etched into the ceramic plate. 
+~
+9 528384 17
+8 3 8 0
+350 0.000000
+0 0 
+black-tactical-helmed~
+0 240 262144 0 1
+1232.000000 0 0 0 0 0 0
+God~
+God~
+#31062
+jacket~
+a leather jacket~
+a heavy leather jacket~
+~
+9 0 9
+3 0 0 0
+50 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31063
+vest black tactical armored BY_RABISU CERAMIC~
+a black armored tactical vest~
+A black armored tactical vest lies here, unoccupied and stiff looking.~
+   A black armored vest with stiff ceramic plates layered on top 
+of one another. The vest covers the vital organs and center mass 
+area of the wearer. Large layered shoulder plates are attached 
+seamlessly to each shoulder piece. The vest synches tightly by a 
+set of blackened metal buckles, small in size, that run up the 
+side. The matte black finish seems to dully refuse to reflect 
+ambient light and boasts a small stylized phoenix acid-etched 
+into the left pectoral of the armor. It also supports black 
+nylon molle attachments for various equipment pieces. 
+~
+9 4096 9
+8 3 1 0
+2250 0.000000
+0 0 0 0 240 262144 0 1
+7920.000000 0 0 0 0 0 0
+A
+10016 -12
+A
+10017 -12
+God~
+God~
+#31064
+gloves black tactical armored by_rabisu TEXTILE~
+a pair of black armored tactical gloves~
+A pair of black armored tactical gloves sit here unused, like two large 5 legged spiders.~
+   A pair of black tactical armored gloves, woven of a thick 
+kevlar material. The knuckles and backs of the gloves are 
+protected by injection molded ceramic plates, designed to conform 
+to the wearer's hand contours. The forefinger and thumbs are 
+enhanced on the palm side with roughened ceramic nodules, 
+designed to increase grip friction. The back hand plates have a 
+stylized phoenix acid-etched into the ceramic material. 
+~
+9 4096 129
+8 3 64 0
+200 0.000000
+0 0 0 0 240 262144 0 1
+704.000000 0 0 0 0 0 0
+God~
+God~
+#31065
+greaves armored tactical by_rabisu CERAMIC~
+a pair of armored tactical greaves~
+A pair of black armored tactical greaves are folded neatly here.~
+   A pair of black armored tactical greaves that seem to dully 
+refuse to reflect ambient light. The thigh, groin, and shin are 
+protected by injection molded ceramic plates designed to protect 
+the wearer from ballistic threats. The waist is held tight by a 
+thick webbed belt with a stylized phoenix cast in a silver metal 
+acting as the belt buckle. Another stylized phoenix is 
+acid-etched into each ceramic plate as well. 
+~
+9 4096 33
+8 3 258 0
+1000 0.000000
+0 0 0 0 264 262144 0 1
+3520.000000 0 0 0 0 0 0
+A
+10016 -8
+A
+10017 -8
+God~
+God~
+#31066
+boots tactical combat by_rabisu CERAMIC~
+a pair of black tactical combat boots~
+A pair of black tactical combat boots sit here, ready to crush the ambitions of the weak.~
+   A pair of tactical combat boots designed to protect the 
+wearers feet and offer ankle support as well as traction during 
+the chaos of combat. The boots rise up to about mid-calf and are 
+secured by a set of blackened metal buckles that run up the 
+distal side of each. A polished metal cup encases the toe of the 
+boot while a black metal bracket supports and reinforces the heel 
+of the boot. Ceramic plates are embedded and run up the front of 
+back of the boot, with a stylized phoenix acid-etched into the 
+plate. Perfect for crushing the ambitions of the weak. 
+~
+9 4096 65
+8 3 32 0
+50 0.000000
+0 0 0 0 240 262144 0 1
+176.000000 0 0 0 0 0 0
+A
+10016 -2
+A
+10017 -2
+God~
+God~
+#31067
+collar armored tactical by_rabisu CERAMIC~
+a tactical armored collar~
+A tactical armored collar lies here.~
+   A black armored tactical collar designed to protect the 
+wearer's throat and support a combat helmet. The entire piece of 
+armor is comprised of an injection molded piece of ceramic that 
+appears to be seamless. There is a large stylized phoenix 
+acid-etched into the front of the collar. 
+~
+9 4096 5
+8 3 16 0
+100 0.000000
+0 0 0 0 240 262144 0 1
+352.000000 0 0 0 0 0 0
+God~
+God~
+#31068
+bracers armored tactical by_rabisu CERAMIC~
+a set of armored tactical bracers~
+A set of armored tactical bracers lie here, unused.~
+   A set of dull black tactical bracers, made out of two pieces 
+of injection molded ceramic material. The bracers are secured to 
+the arms by a set of blackened metal buckles that run along the 
+length. They are jointed and offer freedom of movement while 
+still protecting the wearer's arms. A large stylized phoenix has 
+been acid-etched into the forearm piece of each bracer. 
+~
+9 4096 257
+8 3 516 0
+1000 0.000000
+0 0 0 0 264 262144 0 1
+3520.000000 0 0 0 0 0 0
+A
+10016 -8
+A
+10017 -8
+God~
+God~
+#31069
+Formed-demolitions-charges formed charges demolitions demo byKodiak OTHER~
+a large set of formed demolitions charges~
+A large set of formed demolitions charges has been laid here.~
+   Composed of plastique explosives material, these charges have 
+been shaped in a sort of inwardly-curving 'C'. Wires poke out 
+from blasting caps shoved inside of the explosive material, 
+connected to a timer device. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#31070
+pieces radio in-ear headset xxRADIO_COMPONENTxx ELECTRONIC~
+pieces of an in-ear radio~
+There are pieces of an in-ear radio here.~
+   These are tiny pieces of an unfinished headset with a small 
+earpiece. 
+~
+39 4096 1
+0 3 31036 1
+100 0.000000
+0 0 0 0 200 131072 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
 $~

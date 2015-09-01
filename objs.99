@@ -1,68 +1,85 @@
 #99000
-frame disassembled $rifleframe1 $metalcolor2 METAL~
-a disassembled, $metalcolor2, $rifleframe1 frame~
-A disassembled, $metalcolor2, $rifleframe1 frame lies here.~
-These are the disassembled $ironalloy-alloy workings of $rifleframe. $metalcolor
+blade $pQuality $genBlade $pHandle METAL~
+a $pQuality2, $genBlade0 blade with a $pHandle1 grip~
+A $pQuality2, $genBlade0 blade with a $pHandle1 grip lies here.~
+   oset desc 
+   This weapon consists of a piece of scrap metal sharpened to 
+cut and stab, the blade $genBlade. Aside from the sharpened 
+scrap metal, the only other thing on this weapon is the grip, 
+nothing more than $pHandle allowing one to grip and wield this 
+$pQuality weapon. Measuring about two and a half feet in length, 
+it has been fashioned from $ironAlloy metal. 
 ~
-12 33558528 1
-0 0 0 0
-200 0.000000
+5 33558528 8193
+0 2 5 3
+375 0.000000
+0 0 1 0 800 128 0 1
+65.000000 0 0 0 0 0 0
+A
+10003 -4
+God~
+God~
+#99001
+blade unsharpened $pQuality length $genBlade METAL~
+an unsharpened, $genBlade and $pQuality length of blade~
+An unsharpened, $genBlade and $pQuality length of blade lies here.~
+oset desc
+   This blade, measuring roughly two and a half feet in length, 
+is rough and unsharpened, unsuitable to be used as any other than 
+a rough club. However, it has been beaten and set in to the 
+rough shape of a shape, and once sharpened and a grip added to 
+it, is likely to make a sword-like weapon that is $genBlade. 
+However, the blade itself is far from an ideal piece of metal, 
+this object being noticably $pQuality. It is fashioned from 
+$ironAlloy metal. 
+~
+39 33554432 1
+1 10 99002 1
+100 0.000000
 0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 God~
 God~
-#99001
-case gunsmithing $plasticcolor case tools METAL~
-a $plasticcolor case of gunsmithing tools~
-a $plasticcolor case of gunsmithing tools rests on the floor.~
-   This metal tool case - $plasticcolor in color - is filled with 
-the essential tools of a gunsmith. It includes instruments for 
-fine metalwork, rifling barrels, working plastic grips, and 
-adjusting the delicate mechanics within a gun's workings. 
-~
-64 33558528 8388609
-300 5 10 30
-1000 0.000000
-0 0 28 0 0 0 0 1
-60.000000 0 0 0 0 0 0
-God~
-God~
 #99002
-mechanisms gun high-quality internal handful METAL~
-a handful of high-quality internal gun mechanisms~
-A handful of high-quality internal gun mechanisms lies here.~
-   Manufactured of $ironalloy-alloy, these are internal gun 
-mechanisms suitable for refurbishing various gun-types. They are 
-of high-quality manufacture, free from defect. 
+blade sharpened $pQuality length $genBlade METAL~
+a sharpened, $genBlade and $pQuality length of blade~
+A sharpened, $genBlade and $pQuality length of blade lies here.~
+   Measure roughly two and a half feet in length, this blade, 
+once it has a proper grip fittied to it, will make an effective 
+if crude blade. Thoroughly sharpened, once the grip is added 
+this blade is likely to make a sword-like weapon that is 
+$genBlade. However, despite this, the quality of the metal and 
+the balance of the piece is decidedly $pQuality. It is fashioned 
+from $ironAlloy metal. 
 ~
-30 33558528 1
-5 0 1 0
+12 33554432 1
+0 0 0 0
 100 0.000000
-0 0 0 0 0 262144 0 1
+0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 God~
 God~
 #99003
-barrel rifle $riflebarrel $riflecaliber METAL~
-a $riflebarrel $riflecaliber rifle barrel~
-A $riflebarrel $riflecaliber rifle barrel lies here.~
-This is a $riflebarrel $riflecaliber rifle barrel.  It is newly manufactured, having never been used.
+ingot small $ironAlloy METAL~
+a small $ironAlloy-iron ingot~
+A small ingot of $ironAlloy-iron is here.~
+   This small ingot measures about the length and twice the width 
+of a man's forearm, fashioned from a mechanically-produced iron 
+alloy. The alloy in question is particularly $ironAlloy. 
 ~
-12 33558528 1
+12 33554432 1
 0 0 0 0
-400 0.000000
+500 0.000000
 0 0 0 0 0 0 0 1
-0.000000 0 0 0 0 0 0
+5.000000 0 0 0 0 0 0
 God~
 God~
 #99004
-stock rifle $color0 $riflegrip1 $polyprop3 grip PLASTIC~
-a $color0 $riflegrip1 rifle stock~
-A $color0 $riflegrip1 rifle stock lies here.~
-   This $color rifle stock is of a $riflegrip style. It is 
-$goodquality, made of $polyprop. 
+weapon-tools weaponcrafting clunky box rudimentary OTHER~
+a box containing a rudimentary set of weaponcrafting tools~
+Contained here in a clunky metal box is a set of rudimentary weaponcrafting tools.~
 ~
-12 33558528 1
+12 0 1
 0 0 0 0
 100 0.000000
 0 0 0 0 0 0 0 1
@@ -70,158 +87,619 @@ $goodquality, made of $polyprop.
 God~
 God~
 #99005
-rifle $rifleframe1 $riflebarrel2 $riflecaliber3 $metalcolor7 gun METAL~
-a $riflebarrel2, $metalcolor7 $riflecaliber3 $rifleframe1~
-A $riflebarrel2, $metalcolor7 $riflecaliber3 $rifleframe1 lies here.~
-   Made of $ironalloy-alloy, this is $rifleframe, with a $riflebarrel 
-$riflecaliber barrel. It is good quality, with $riflegrip made of $color 
-$polyprop and $metalcolor. 
+anvil forge roaring heavy black-iron METAL~
+a heavy, black-iron anvil and roaring forge~
+A heavy, black-iron anvil and roaring forge have been placed here.~
+   This forge is tucked back away from the traffic of the 
+streets, and a fire constantly burns within it, fueled by some 
+unknown means (science?) below. It is large enough to allow 
+multiple people to do their forging simultaneously, and several 
+anvils are set up around it, their tops battered and blackened. 
 ~
-28 33624064 8921089
-3 9 0 12
-700 0.000000
-0 0 0 0 1000 131072 0 1
-400.000000 0 0 0 0 0 0
-A
-10012 0
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
 God~
 God~
 #99006
-frame disassembled $pistolframe1 $metalcolor2 METAL~
-a disassembled, $metalcolor2, $pistolframe1 frame~
-A disassembled, $metalcolor2, $pistolframe1 frame lies here.~
-These are the disassembled $ironalloy-alloy workings of $pistolframe. $metalcolor
+grindstone abrassive CERAMIC~
+an abrassive grindstone~
+A rough and abrassive grindstone lies here.~
 ~
-12 33558528 1
-0 0 0 0
+30 0 1
+50 0 0 0
 100 0.000000
 0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 God~
 God~
 #99007
-mechanisms gun crude internal handful METAL~
-a handful of crude internal gun mechanisms~
-A handful of crude internal gun mechanisms lies here.~
-   Manufactured of $ironalloy-alloy, these are manually-shaped 
-internal gun mechanisms suitable for refurbishing various 
-gun-types. Hand-forged, they are crude, but serviceable. 
+rag polishing grimy TEXTILE~
+a grimy polishing rag~
+A grimy scrap of rag is here.~
 ~
-30 33558528 1
-5 0 1 0
+12 0 1
+0 0 0 0
 100 0.000000
-0 0 0 0 0 128 0 1
+0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 God~
 God~
 #99008
-barrel handgun refurbished $pistolbarrel $pistolcaliber METAL~
-a refurbished $pistolbarrel $pistolcaliber handgun barrel~
-A refurbished $pistolbarrel $pistolcaliber handgun barrel lies here.~
-This is a $pistolbarrel $pistolcaliber refurbished handgun barrel.
+roll duct-tape thick OTHER~
+a thick roll of duct-tape~
+A thick, heavy roll of duct-tape lies here.~
+This roll of duct-tape is very thick, and very heavy.
 ~
-12 33558528 1
+12 0 1
 0 0 0 0
 100 0.000000
 0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
+V
+duct-tape~
+$phandle~
 God~
 God~
 #99009
-barrel handgun $pistolbarrel $pistolcaliber METAL~
-a $pistolbarrel $pistolcaliber handgun barrel~
-A $pistolbarrel $pistolcaliber handgun barrel lies here.~
-This is a $pistolbarrel $pistolcaliber handgun barrel.  It is newly manufactured, having never been used.
+strips dog leather fistful TEXTILE~
+a fistful of dog-leather strips~
+A fistful of strips of dog leather lie scattered here.~
+   This fistful of leather strips has clearly come from some sort 
+of dog-like creature. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+V
+dog-leather~
+$phandle~
+God~
+God~
+#99010
+rags bundle TEXTILE~
+a bundle of rags~
+A bundle of rags has been collected here.~
+   This bundle of rags can serve at a pinch to provide some extra 
+padding, but otherwise there simply isn't much use for dozens of 
+rags of various shades, qualities and colours. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+V
+padded-rag~
+$phandle~
+God~
+God~
+#99011
+mold $genBlade hard PLASTIC~
+a hard, plastic, $genBlade-swordblade mold~
+A hard plastic swordblade mold, with a $genBlade shape, lies here.~
+   This hard plastic mold is suitable for shaping a raw ingot of 
+metal in to a blade that would be $genBlade. 
 ~
 12 33558528 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+10.000000 0 0 0 0 0 0
+God~
+God~
+#99012
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+47 0 1
 0 0 0 0
 100 0.000000
 0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 God~
 God~
-#99010
-grip handgun $wornquality2 $color0 $pistolgrip1 $polyprop3 PLASTIC~
-a $wornquality2 $color0 $pistolgrip1 handgun grip~
-A $wornquality2 $color0 $pistolgrip1 handgun grip lies here.~
-   This $color handgun grip is of a $pistolgrip style. It has 
-seen significant previous use and is $wornquality, made of 
-$polyprop. 
-~
-12 33558528 1
-0 0 0 0
-50 0.000000
-0 0 0 0 0 0 0 1
-0.000000 0 0 0 0 0 0
-God~
-God~
-#99011
-grip handgun $color0 $pistolgrip1 $polyprop3 PLASTIC~
-a $color0 $pistolgrip1 handgun grip~
-A $color0 $pistolgrip1 handgun grip lies here.~
-   This $color handgun grip is of a $pistolgrip style. It is 
-$goodquality, made of $polyprop. 
-~
-12 33558528 1
-0 0 0 0
-50 0.000000
-0 0 0 0 0 0 0 1
-0.000000 0 0 0 0 0 0
-God~
-God~
-#99012
-handgun $pistolframe1 $pistolbarrel2 $pistolcaliber3 $metdam7 gun METAL~
-a $pistolbarrel2, $metdam7 $pistolcaliber3 $pistolframe1~
-A $pistolbarrel2, $metdam7 $pistolcaliber3 $pistolframe1 lies here.~
-   Made of $ironalloy-alloy, this is $pistolframe, with a 
-$pistolbarrel $pistolcaliber refurbished barrel. Though worn and 
-scratched, it has $pistolgrip made of $color $polyprop. Of 
-particularly poor quality is the $metdam metal, looking to have 
-been extensively recycled and refurbished. 
-~
-28 33624064 270337
-2 9 0 11
-400 0.000000
-0 0 2 0 900 128 0 1
-200.000000 0 0 0 0 0 0
-A
-10011 -5
-God~
-God~
 #99013
-bundle tent supplies TEXTILE~
-a bundle of tent supplies~
-A bundle of tent supplies has been dropped here.~
-   Crafted poles are wrapped up in a canvas package, rolled together to make 
-this item portable. Hefty in weight, carrying of this item is made somewhat 
-easier by a pair of padded straps sewn into one side of the thick cylinder. 
+wand OVAL setting magic wand OTHER~
+a magic wand of OVAL setting~
+A magic wand of OVAL setting has carelessly been left here.~
+   A tapered wand of cheap plastic, this can be used to set 
+OVALs. It is emblazoned with a logo that says "One free in every 
+package of Everyflavor Beans!" 
+
+To use it, type #6WAVE WAND#0 and add numbers after it, separated 
+by spaces. The first one should be the Object VNUM in this room 
+that you wish to set. You can then add up to five more numbers 
+with a space in between, which will set OVAL0-5 in order. 
+
+To see how this works, type #6OPSTAT 99013 1#0. 
 ~
-12 4096 1
+12 8 38019073
 0 0 0 0
-3000 0.000000
+100 0.000000
 0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 God~
 God~
 #99014
-large black coarse tent magnon poles TEXTILE~
-a large coarse black tent~
-Erected here is a large black tent, fashioned of coarse polymesh and magnon poles.~
-   Erected with care, this wide-open coarse black tent stands tall, held aloft 
-on several magnon poles in a square framework with an arched 'roof'. The 
-design is simple, draped fabric acting as a canvas to keep out the elements and 
-offer some vague sense of privacy. A flap has been cut into the canvas on each 
-of three sides of this construct and when drawn aside like curtains, the 
-resulting holes work as makeshift windows to assist in air circulation. The 
-fourth side has been split down the center. Should one wish, they could 
-#6ENTER#0 the #6TENT#0 by brushing aside that front flap. All in all, the tent 
-appears capable of fitting several people within and has the height to allow 
-all but the tallest to enter without stooping. 
+ball red rubber TESTING OTHER~
+a red rubber ball~
+A red rubber ball bounces here.~
+~
+5 0 8193
+1 3 3 5
+400 0.000000
+3 0 3 0 1300 524288 0 1
+1600.000000 0 0 0 0 0 0
+A
+10005 8
+God~
+God~
+#99015
+jacket~
+a leather jacket~
+a heavy leather jacket~
+~
+9 0 1025
+3 0 19 0
+855 0.000000
+0 0 0 0 224 131072 0 1
+256.000000 0 0 0 0 0 0
+God~
+God~
+#99016
+case slim paper METAL~
+a slim paper case~
+A slim metal paper case lies here.~
+   This is a slim paper case - a delicate piece of electronics. 
+It appears to have a number keypad on the latch to open it, and 
+is locked otherwise. Without proper access, it looks like it's 
+rigged to dissolve whatever papers inside. You realize with the 
+ELECTRONICS skill, you can try to #6HACK CASE#0. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99017
+ small half-dissolved datapad METAL~
+a small, half-dissolved datapad~
+A small, half-dissolved datapad lies here.~
+   This is a datapad with scrolling text - or would have - if it 
+wasn't charred and half-dissolved. Only the lower half of the 
+screen remains. #6READ DATAPAD#0 to see what it says. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99018
+datapad small METAL~
+a small datapad~
+A small datapad lies here.~
+   This is a small black datapad, filled with scrolling text. 
+Try #6READ DATAPAD#0 to see what it says. 
+~
+12 0 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99019
+Snickers bar ORGANIC~
+a Snickers bar~
+A Snickers bar has fallen! (OOC)~
+~
+19 4096 1
+100 1 0 0
+25 0.000000
+0 0 
+heavenly~
+0 0 0 0 1
+0.000000 1 86 0 0 0 0
+God~
+God~
+#99020
+corpse $corpsedam $corpserace ORGANIC~
+a $corpsedam1 $corpserace0 corpse~
+A $corpsedam1 $corpserace0 corpse lies here.~
+This is $corpserace. $corpsedam.
+~
+0 33558528 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99021
+jackhammer rubblizer $color1 $ironalloy0 METAL STAFFTOOL~
+a $color1 $ironalloy0 jackhammer~
+A $color1 $ironalloy0 jackhammer is lying here.~
+   This industrial-sized jackhammer has been fabricated out of 
+$ironalloy alloy, all but the tapering bit painted a $color 
+color. This is a staff-only object used to collapse exits and 
+create rubble piles, which can be cleared by players. 
+~
+12 33558528 532481
+0 0 0 0
+2000 0.000000
+0 0 0 0 0 132096 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99022
+rubble pile collapsed CERAMIC~
+a pile of collapsed rubble~
+A pile of collapsed rubble is here.~
+This pile of collapsed rubble consists of large, heavy bits of 
+debris. With enough time and effort, it could be cleared away.
+~
+12 12288 0
+0 0 3 0
+200000 0.000000
+0 0 0 0 0 2097152 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99023
+box magical OOC METAL~
+a magical box~
+A magical box floats in the air.~
+~
+15 4104 1
+10000 1 2 0
+300 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99024
+datapad small xNPTESTING METAL~
+a small datapad~
+A small datapad lies here.~
+   This is a small black datapad, filled with scrolling text. 
+Try #6READ DATAPAD#0 to see what it says. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99025
+datapad small XNPMAY27HRPT1 METAL~
+a small datapad~
+A small datapad lies here.~
+   This is a small, black datapad filled with scrolling text. 
+Try using #6READ DATAPAD#0. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99026
+datapad small XNPMAY27HRPT2 METAL~
+a small datapad~
+A small datapad lies here.~
+   This is a small, black datapad filled with scrolling text. 
+Try using #6READ DATAPAD#0. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99027
+datapad small XNPMAY27HRPT3 METAL~
+a small datapad~
+A small datapad lies here.~
+   This is a small, black datapad filled with scrolling text. 
+Try using #6READ DATAPAD#0. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99028
+datapad small XNPMAY27HRPT4 METAL~
+a small datapad~
+A small datapad lies here.~
+   This is a small, black datapad filled with scrolling text. 
+Try using #6READ DATAPAD#0. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99029
+datapad small XNPMAY27HRPT5 METAL~
+a small datapad~
+A small datapad lies here.~
+   This is a small, black datapad filled with scrolling text. 
+Try using #6READ DATAPAD#0. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99030
+xdataboardx data pad $finecolor ELECTRONIC~
+a $finecolor datapad~
+A $finecolor datapad lies here.~
+   A flat screen sits above a small keypad, laying out all the 
+letters of the alphabet. Encased in a $finecolor metal alloy, 
+this datapad bears few scratches or marks. 
+~
+22 33554432 1
+0 0 1 0
+500 0.000000
+0 0 0 0 100 0 0 1
+250.000000 0 0 0 0 0 0
+God~
+God~
+#99998
+bio control panel gel interface ORGANIC~
+a bio-control panel gel interface~
+a bio-control panel gel interface has been left here.~
+   This ball has been made of flesh that has been molded into a round shape and 
+stitched together in a manner similar to that of a baseball. In some areas it 
+can be noted that there are hair follicles that protrude from the spony 
+material, as well as a dim crimson shade where the stitchings have twined the 
+material together. Apart from being fleshy, it is also bouncy. 
+~
+12 4096 1
+0 0 0 0
+50 0.000000
+0 0 0 0 30 0 0 1
+500.000000 0 0 0 0 0 0
+God~
+God~
+#99997
+bio control panel hardcase ELECTRONIC~
+a bio-control panel hardcase~
+A bio-control panel hardcase has been left here.~
+   This cake stands with two layers visible by a notably darker line in the 
+center. It bears a single white candle in it's center that is light, and 
+surrounded by eight cherries that sit upon whipped cream platforms. The cake 
+is chocolate and it is most notably delicious. You get the strange sensation 
+that cake, and grief counseling, will be available at the conclusion of the 
+test, but are unsure as to what test your mind speaks of. 
+~
+29 33558536 1
+32 51 99996 1
+300 0.000000
+99995 0 1
+~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99031
+clock testing Big Ben mechanical tower giant OTHER~
+A giant mechanical clock tower~
+A giant clock face is embedded in the side of a tower above.~
+~
+85 4096 0
+8 1 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99996
+hardcase sensor interface ELECTRONIC~
+a hardcase sensory interface~
+A hardcase sensory interface has been left here.~
+~
+29 4096 1
+32 51 99994 1
+100 0.000000
+99993 0 1
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99995
+hardcase motherboard ELECTRONIC~
+a hardcase motherboard~
+A hardcase motherboard has been left here.~
+~
+29 4096 1
+32 51 99992 1
+100 0.000000
+99991 0 1
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99994
+hardcase graphical unit ELECTRONIC~
+a hardcase graphical unit~
+A hardcase graphical unit has been left here.~
+~
+29 4096 1
+32 15 11111 2
+100 0.000000
+11121 0 2
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99993
+hardcase audio card ELECTRONIC~
+a hardcase audio card~
+A hardcase audio card has been left here.~
+~
+29 4096 1
+32 15 11111 2
+100 0.000000
+6137 0 1
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99992
+hardcase power block ELECTRONIC~
+a hardcase power block~
+A hardcase power block has been left here.~
+~
+29 4096 1
+32 27 11029 1
+100 0.000000
+11011 0 4
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99991
+hardcase memory core ELECTRONIC~
+a hardcase memory core~
+A hardcase memory core has been left here.~
+~
+29 4096 1
+32 5 50042 1
+100 0.000000
+0 0 0
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99999
+bioluminescent control panel gel interface ELECTRONIC~
+a bioluminescent control panel with a gel interface~
+A bioluminescent control panel with a gel interface is here.~
+~
+29 4096 1
+0 51 99998 1
+100 0.000000
+99997 0 1
+(null)~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99200
+holochair chair seat METAL~
+a holochair~
+A holochair rests in the middle of the room.~
+~
+15 2109440 0
+100 0 -1 0
+300 0.000000
+99202 0 1 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99201
+token VR OTHER~
+a VR token indicates the chair is in use~
+#6A shrouded form is visible within the chair.#0~
 ~
 12 4096 0
 0 0 0 0
 100 0.000000
 0 0 0 0 0 0 0 1
+0.000000 24 86 0 0 0 0
+God~
+God~
+#99202
+token VR handprint purple exit OTHER~
+#5a purple handprint#0~
+#5A purple handprint on the wall marks an exit location.#0~
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+99200 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99222
+jumpsuit VR black OTHER~
+a black jumpsuit~
+a black jumpsuit lies here.~
+   Made of amorphous material that can only be described as 'black', this 
+jumpsuit covers the body from neck to wrists and toes, clinging to the skin 
+with its computer-generated way. 
+~
+9 4096 9
+3 0 255 0
+1200 0.000000
+0 0 0 0 270 131072 0 1
+358.000000 0 0 0 0 0 0
+God~
+God~
+#99203
+sword VR longbloade pulsating blue OTHER~
+#6a pulsating blue longblade#0~
+#6A pulsating blue longblade glows, lying on the ground.#0~
+~
+5 4104 8193
+2 2 4 3
+227 0.000000
+0 0 2 0 1000 131072 0 1
+150.000000 0 0 0 0 0 0
+God~
+God~
+#99204
+VR xtoken OTHER~
+a VR token~
+A token enables VR functions.~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#99990
+missed birthday cake OTHER~
+a $flavor, missed birthday cake~
+A $flavor, missed birthday cake lies here, covered in dust.~
+It's a $flavor birthday cake that reads, "Sorry I missed your birthday" in red frosting. It's thick, fluffy, and has plenty of icing.
+~
+19 33558528 1
+6 0 0 0
+300 0.000000
+0 0 
+(null)~
+0 0 0 0 1
 0.000000 0 0 0 0 0 0
 God~
 God~

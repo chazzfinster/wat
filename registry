@@ -56,6 +56,7 @@ Weaponcraft    "(int + wil) / 2"   "(int + wil) / 2"  "(dex*5) + 5"
 Armorcraft     "(int + wil) / 2"   "(int + wil) / 2"  "(dex*5) + 5"  
 Handicraft     "(int + wil) / 2"   "(int + wil) / 2"  "(dex*5) + 5"  
 Artistry       "(int + wil) / 2"   "(int + wil) / 2"  "(dex*5) + 5"  
+#Pharmaceuticals   "(int + wil) / 2"   "(int + wil) / 2"  "(int*5) + 5"  
 
 Voodoo         "aur"               "aur / 4"          "(aur*4) + 15"
 Education      "(int + wil) / 2"   "int / 3"          "60"

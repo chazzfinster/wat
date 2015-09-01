@@ -1,1 +1,185 @@
+#52001
+rat $ratfeature xSewers~
+a $ratfeature rat~
+A $ratfeature rat scurries here.~
+This mangy, emaciated creature scurries around frantically, darting from shadow to shadow to either eat or hide from predators or both. It sports all the features of a rat: beady eyes, a long, hairless tail, and a squat body. $ratfeature.
+~
+2283798536 8650756 3 71 0 5d1+10 2d2+0 0 8 8 0 0 0 0 0
+11003 0 0 2100 0 0 50 0 0 0 1 0 6 1 0 0 0 0 0
+2 16 3 16 16 3 40 13
+268500992 0
+0 5 5 5 5 5 5 5 5 5
+5 5 5 5 5 0 35 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' sewer_rat~
+24 86 0
+#52002
+Crocodile $crochealth $crocdeform $lizcolor~
+a $crochealth, $crocdeform, $lizcolor crocodile~
+A $crochealth, $crocdeform, $lizcolor crocodile crawls around here.~
+   Dark red eyes sit atop its reptilian head, which seems to be 
+made out of absolutely nothing but teeth. Notable about this 
+particular crocodile is $crochealth. Not to mention $crocdeform. 
+$lizcolor Altogether, the beast gives a rather formidable 
+appearance. 
+~
+136314920 4 24 84 5 5d1+100 2d5+2 0 8 8 0 0 0 0 0
+11007 0 0 2046 0 0 50 0 0 0 1 0 48 2 67108864 0 0 0 0
+13 16 15 16 16 15 40 13
+268435456 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 40 40 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' sewer_croc~
+24 86 0
+#52003
+Zoomer $lizcolor $zoomersized lizard~
+a $lizcolor, $zoomersized lizard~
+A $lizcolor, $zoomersized lizard zips about.~
+   This smaller lizard darts about at obscene speeds on all 
+fours. $lizcolor It stands $zoomersized While it bears a row of 
+sharp teeth, its mouth appears generally too small to cause very 
+much harm to a larger creature. 
+~
+136314888 4 6 85 1 5d1+50 2d3+0 0 8 8 0 0 0 0 0
+11007 0 0 2047 0 0 50 0 0 0 1 0 12 0 0 0 0 0 0
+5 16 8 16 16 8 40 13
+268435456 0
+0 10 10 10 10 10 10 10 10 10
+10 10 10 10 10 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' sewer_lizard~
+0 0 0
+#52000
+Vunderpus tentacled monstrosity black exoskeleton~
+a tentacled monstrosity with a black exoskeleton~
+A tentacled monstrosity with a black exoskeleton clings to the walls.~
+   The center of this beast's body is just one part - something 
+of an orb, covered mostly in a hairy black exoskeleton. The 
+bottom of this orb is unprotected; however, it splits right down 
+the middle and, when opened, reveals a row of razored teeth and a 
+black hole of a mouth, from which an oddly human-like tongue 
+dangles. Eight legs sprout from the center of this beast's body, 
+each of them clad in a segmented, solid black exoskeleton, 
+somewhat resembling a suit of armor. Two tentacles are attached 
+to opposite sides of its body, about double the length of the 
+legs, and unprotected - they could twist this way and that 
+completely unhindered. If it stood straight up this monster 
+would be about ten feet tall, with its tentacles reaching a total 
+of twenty feet. 
+~
+136314888 0 45 0 11 5d1+128 2d7+4 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 40 0 0 0 2 0 0 0 0 0 0 0 0
+19 16 22 16 16 22 40 17
+0 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#52004
+trigger-puller~
+a wildlife trigger-puller~
+A wildlife trigger-puller is here.~
+(null)~
+8 786434 22 0 100 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 1
+0 10 0 0 0 0 100 100 0 0
+0 0 0 0 0 0 100 100 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#52005
+Squick Lizard $littlelizardsized $lizcolor~
+a $littlelizardsized, $lizcolor lizard~
+A $littlelizardsized, $lizcolor lizard putters about.~
+   This $littlelizardsized. $lizcolor The animal has pronounced 
+brow ridges. The little creatures eyes are a beady black in 
+color and complete with a nictitating eye membrane. About the 
+only spots of color on the animal, aside from dullish grays, is 
+its red, forked tongue and equally red inner mouth. 
+~
+2097160 4 6 75 1 5d1+25 1d4+0 0 8 8 0 0 0 0 0
+11007 0 0 2047 0 0 50 0 0 0 1 0 0 0 0 0 0 0 0
+5 16 8 16 16 5 40 13
+268435456 0
+0 10 10 10 10 10 10 10 10 10
+10 10 10 10 10 0 20 20 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' sewer_lizard~
+24 86 0
 $~

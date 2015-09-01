@@ -1,1 +1,96 @@
+#13000
+Guns~
+   Guns of all types go in this zone, along with their supporting 
+components. 
+~
+13 67174400 0
+0
+D0
+~
+~
+0 -1  0 13001
+D1
+~
+~
+0 -1  0 14000
+D2
+~
+~
+0 -1  0 13003
+D3
+~
+~
+0 -1  0 12000
+E
+reformat~
+~
+P
+gunme~
+(null)~
+set random 1d3
+if (random=1)
+force -1 -1 load o 13022 chrion large-pistol standard-barrel thirty-caliber
+force -1 -1 load o 13150 medium .30
+force -1 -1 load o 13150 medium .30
+force -1 -1 load o 13150 medium .30
+force -1 -1 load o 400 13100 .30 iron-alloy
+force -1 -1 load o 13040 black sturdy
+force -1 -1 load o 13040 black sturdy
+force -1 -1 load o 13041 black sturdy
+force -1 -1 load o 13039 black sturdy
+fi done
+if (random=2)
+force -1 -1 load o 13022 chrion standard-revolver standard-barrel thirty-caliber
+force -1 -1 load o 400 13100 .30 iron-alloy
+force -1 -1 load o 13040 black sturdy
+force -1 -1 load o 13040 black sturdy
+force -1 -1 load o 13041 black sturdy
+force -1 -1 load o 13039 black sturdy
+fi done
+if (random=3)
+force -1 -1 load o 13022 chrion medium-pistol standard-barrel thirty-caliber
+force -1 -1 load o 13150 small .30
+force -1 -1 load o 13150 small .30
+force -1 -1 load o 13150 small .30
+force -1 -1 load o 400 13100 .30 iron-alloy
+force -1 -1 load o 13040 black sturdy
+force -1 -1 load o 13040 black sturdy
+force -1 -1 load o 13041 black sturdy
+force -1 -1 load o 13039 black sturdy
+fi done
+~
+S
+#13001
+New Room~
+No Description Set.
+~
+13 65536 0
+0
+D2
+~
+~
+0 -1  0 13000
+S
+#13003
+New Room~
+No Description Set.
+~
+13 65536 0
+0
+D0
+~
+~
+0 -1  0 13000
+S
+#13004
+New Room~
+No Description Set.
+~
+13 65536 0
+0
+D1
+~
+~
+0 -1  0 13000
+S
 $~

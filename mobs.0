@@ -1,9 +1,909 @@
-#1
-a big stupid dummy'~
-a big stupid dummy~
-A big stupid dummy is here.~
+#900
+trigger wraith 10336~
+a wraith-releaser trigger~
+A wraith-release triggers is here.~
 (null)~
-8 0 5 0 0 5d1+80 1d2+0 0 8 8 1 0 0 0 0
+10 0 0 0 0 5d1+264 2766d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 56 16 0
+0 0
+8 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 8 8 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 8 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'leader' battlefield-wraiths~
+0 0 0
+#998
+guest~
+a guest~
+A guest is here.~
+(null)~
+8 0 15 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 27 27 27 30 30 24 27 21 20
+29 30 21 24 23 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 50 0 0 0 58
+0 0 0 0 0 0 33 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#999
+guest~
+a guest~
+A guest is here.~
+(null)~
+8 0 1 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 56 16
+0 0
+0 8 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 8 8 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 8 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 100 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#202
+NEWB_LEATHER_STORE grizzled old man~
+a grizzled old man~
+A grizzled old man stands behind the counter, tending to the store.~
+   Standing behind the counter is a grizzled old man. The mans 
+pate is hairless, but he does possess a thick moustache that 
+hangs down around the sides of his thin lips. He is of short 
+stature, but of remarkable bulk. When he is not at the counter, 
+he can be seen organizing the store. 
+~
+10 0 0 5 40 5d1+104 2d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 0
+0 2 0.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 0
+3026 3027 3028 3030 3031 3032 3033 3034 3036 3037 3038 3039 3040 3041 3042 3045 3047 3050 3051 3035 1101 3057 3029 3058 3056 3063 65002 -1
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 100 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#69
+Asian amazing man~
+an amazing Asian man~
+An amazing Asian man is here.~
+(null)~
+8 4 60 2 100 5d1+52 5d5+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+3 25 25 25 25 3 56 25
+0 0
+0 100 0 100 100 100 100 100 100 0
+100 100 100 0 0 0 100 100 100 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 100 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 100 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#201
+NEWB_CLOTHING_STORE short chubby man~
+a short, chubby man~
+A short, chubby man with a noticeable paunch lounges about lazily.~
+   Behind the desk, there resides a short, chubby man with a 
+noticeable paunch and rounded, almost boyish looking features. 
+He wears his hair cut to a medium length, brushed back from his 
+face to settle in neat, oiled waves. He has close set, dark blue 
+eyes and a small, somewhat flattened nose. Chubby jowls frame 
+his wide, pouting mouth, and his rounded, pudgy chin has a slight 
+cleft. His hands are unmarred by both scars and callus, and he 
+gives off a faint scent of fine perfume. 
+~
+10 0 20 0 40 5d1+104 2d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 56 16
+1 0
+201 207 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 0
+4000 4001 4002 4004 4005 4009 4010 4011 4012 4013 4014 5011 5015 5020 5014 5019 4038 4039 4040 4041 4042 4043 4044 4015 4008 -1
+12 19 11 9 15 1 5 7 6 58
+0 100 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 8 8 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 100 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 100 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#200
+NEWB_GENERAL_STORE slim long legged woman~
+a slim, long legged woman~
+A slim, long legged woman bustles about here.~
+   The woman before you is slim, with slender, long legs, and 
+gangly, thin arms that hang from her narrow shoulders. She has 
+sparkling blue eyes that rest above a petite nose, which is 
+smattered with freckles. She has thin, deep red lips that rest 
+between two slight dimples. She has a thin, well rounded chin, 
+and rosy cheeks. This face is framed by fiery-red hair that 
+hangs down to her shoulders in small curls. 
+~
+10 0 20 0 40 5d1+104 2d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 56 16
+1 0
+200 206 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 0
+9000 9001 9002 9003 9004 9005 9006 9007 9008 9009 9010 9011 9012 9013 9014 3006 6004 3008 3007 5052 5053 5054 -1
+12 19 11 9 15 1 5 7 6 58
+0 100 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 8 8 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 100 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 100 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#203
+NEWB_ARMOR_STORE dark-skinned well-muscled man~
+a dark-skinned, well-muscled man~
+A dark-skinned, well-muscled man sells armour here.~
+   Resting upon a stool behind the counter is a dark-skinned man 
+with a well-muscled frame. Wiry, ropy muscles adorn his arms, 
+which each have one long, pale, and thin scar cutting from elbow 
+to wrist. His hands are thick and calloused, with the faintly 
+rubberlike scars of a victim of fire lining his knuckles and 
+backhand. His torso and midsection are scarless and smooth, with 
+well defined muscles stretching beneath the skin. He has 
+well-developed legs, the sort with power and endurance. His head 
+is bald and shines like polished ebony, his pate covered with an 
+intricately detailed white-inked tattoo that resembles a crown of 
+claws. Large and bushy white eyebrows perch atop a set of large, 
+seeking eyes the color of slate grey. His boldly shaped nose 
+juts out with stature. His whole face has the tanned nature of 
+one who spends much time in the sun, with smiling, patronly 
+wrinkles framing the mouth and eyes, although he seems otherwise 
+young. 
+~
+10 0 0 5 40 5d1+104 2d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 0
+5 6 0.010000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 0
+4052 4053 4054 4055 4056 4057 4058 4059 4060 4061 4062 4063 4064 4065 4066 4067 4068 4069 4070 4071 4072 4073 4074 4075 4076 4077 4078 4079 4080 4081 4082 4083 4084 4085 4086 4087 4088 4089 4090 4091 4092 4093 4094 4095 4096 4097 4098 4099 -1
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 100 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#204
+NEWB_WEAPON_STORE short dark-haired man~
+a short, dark-haired man~
+A short, dark-haired man adjusts weapons here.~
+   Standing slightly shorter than average for his race, this 
+human male's dark hair is long and combed into a semblance of 
+neatness, bound back from his face. Curling at the ends, the 
+sorrel locks form a loose tail that just covers the back of his 
+neck. His skin is a pale olive hue, with the undertones common 
+to many that pervade the land. His figure is lithe and slender, 
+and has veered away from a powerful musculature and developed 
+into the graces that would gift the body of a dancer. His face 
+is angular and dark-browed, his dark grey-green eyes shaded by 
+the shadows there. His nose is long and thin with a slightly 
+curved tip that ends just above the soft flesh of his slim lips. 
+~
+10 0 20 0 40 5d1+104 2d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 56 16
+1 0
+204 209 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 0
+1000 1001 1002 1003 1004 1005 1006 1024 1025 1026 1027 1029 19 1023 -1
+12 19 11 9 15 1 5 7 6 58
+0 100 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 8 8 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 100 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 100 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#13
+Oriah_NPC xxDREAMER dark dark-haired grey grey-eyed woman~
+a dark-haired, grey-eyed woman~
+A tall woman with dark hair and grey eyes stands here.~
+   A bit of maturity shows on this woman's face, evident with the 
+smile lines about her eyes. Despite that, her grey eyes are 
+youthful and bright beneath thick bangs. She is tall, though 
+admittedly a bit plump for her size, hips easily rounding down to 
+her legs and well-proportioned elsewhere. Her skin holds a 
+darkish color, obviously tanned, and her arms show an unusual 
+musculature for a woman of her size. 
+~
+136 4 20 2 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 8 0 50 0 0 0 0 0 50
+0 0 0 0 0 50 0 8 8 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 8 0 0
+0 0 0 0 0 100 0 0 0 50
+0 0 0 0 0 0 100 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 50 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#1
+mob new~
+a new mobile~
+(null)~
+(null)~
+8 0 54 0 11 5d1+128 2d6+3 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 35 0 0 0 0 0 0 0 0 0 0 0 0
+22 16 22 16 16 22 45 19
+0 0
+0 90 90 90 90 90 90 90 90 90
+90 90 90 90 90 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#666
+prankster scrawny child-like features~
+a scrawny person with child-like features~
+A scrawny person with child-like features huddles here.~
+Standing perhaps four and a half feet tall, this person isn't 
+much more than skin and bones. Their face is small, fair-featured
+and child-like. Eyes that are proportionately bigger than their
+head, a cool smoky blue, peer out from under a tangled mass of
+blond hair. Tiny arms and legs sprout from a skeletel torso,
+body unwashed and caked with dirt and grime.
+~
+8 0 12 1 0 5d1+88 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+10 16 12 10 16 12 45 16
+0 0
+0 10 0 0 0 0 50 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 70 70 0 0 0 0 0 0
+70 0 0 0 0 70 70 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#198
+xTESTVARMOBx $wolfbuild $wolffur wolf $wolfeyes eyed~
+a $wolfbuild, $wolffur2 wolf with $wolfeyes1 eyes~
+A $wolfbuild, $wolffur2 wolf stands here, $wolfeyes1-eyed.~
+   This $wolfbuild wolf has $wolfeyes and $wolffur. It stalks 
+the area with a savage, wild look, $wolftail swishing behind it 
+as it moves stealthily by. 
+~
+2097192 0 15 0 0 5d1+104 3d4+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 1 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 27 25 23 27 29 22 23 22 25
+20 25 21 22 22 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#130
+variable xGuestHogansAlley xHOGANSALLEY~
+variable xGuestHogansAlley~
+variable xGuestHogansAlley~
+   A peaceful citizen of Hogan's Alley, expecting life to be both 
+brutal and short. 
+~
+8 0 17 1 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 80 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+268500992 0
+0 29 20 28 20 25 30 24 27 24
+23 20 24 30 26 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+24 86 0
+#131
+The Armory Quartermaster~
+The Armory Quartermaster~
+The Armory Quartermaster ensures Hogan's Alley Operation here.~
+(null)~
+10 524290 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 45 16
+0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#132
+zombie xHOGANSALLEY shambling rotting~
+a shambling, rotting zombie~
+A rotting zombie shambles forward, arms raised and moaning.~
+   One of the shambling Evil Dead, this being exists solely to 
+eat the brains of the hapless citizens of Hogan's Alley. 
+~
+136839208 4 13 2 0 5d1+80 1d8+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 1 1 0 80 0 0 0 0 0 0
+10 3 3 3 10 10 45 10
+0 0
+0 30 0 0 0 0 10 0 27 21
+0 0 22 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 50 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' guest-undead~
+4 1 700 1000 20
+1 4 86 0
+#133
+lich fleshless tall gaunt xHOGANSALLEY~
+a tall, gaunt, fleshless lich~
+A tall, gaunt, fleshless lich towers here, hate gleaming in its eyes.~
+   This tall, fleshless figure is a deathless lich risen from the 
+crypts, leading its bands of Evil Dead to destroy the town of 
+Hogan's Alley. 
+~
+136839208 4 28 2 0 5d1+104 2d6+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 1 2 0 80 0 0 0 0 0 0
+25 16 16 16 25 16 45 16
+0 0
+0 80 0 0 0 0 60 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'general' guest-undead~
+4 1 700 1000 20
+1 4 86 0
+#2
+thug~
+a denizen thug~
+A denizen thug is here.~
+   This person exhibits a continually cagey look, their demenour 
+rather rough and guarded. In addition, $e has a number of scars 
+and calluses, looking in general a fairly rugged type of 
+character. 
+~
+8 0 16 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 23 25 23 24 27 24 21 30 21
+30 23 21 28 29 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#3
+mutation~
+a mutation~
+A mutation is here.~
+   By their curved back and rasping voice, this person will be 
+forever unable to hide the fact they $e is a victim of the 
+mutation plague. Their posture and gait and uniquely shifted, 
+moving in a sort of slouching, half-run. 
+~
+8 0 16 67 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+268435456 0
+0 29 23 29 20 20 27 21 28 20
+20 21 21 30 22 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#4
+cybernetic~
+a cybernetic~
+A cybernetic is here.~
+   From their somewhat off-kilter movements and the presence of a 
+great deal too many straight and surgical scars, it is obvious $e 
+is a partial cyborg. In addition to the more serious 
+modifications, $e has a number of smaller worked upon sections, 
+chunks of skin replaced by metal plates or wires. 
+~
+8 0 24 68 0 5d1+100 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 15 16 16 15 40 9
+0 0
+0 40 40 40 40 40 40 40 40 40
+40 40 40 40 40 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+50 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#5
+salesman Armour~
+the Armour salesman~
+The Armour salesman is here, selling armour.~
+This NPC is ready and willing to sell you armour.
+~
+10 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 0
+207 257 0.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 0
+4052 4053 4054 4055 4056 4057 4085 4059 4086 -1
+0 0 0 0 0 0 0 0 0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#6
+salesman Armour~
+the Armour salesman~
+The Armour salesman is here, selling armour.~
+This NPC is ready and willing to sell you armour.
+~
+10 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 0
+208 258 0.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 0
+4064 4070 4091 -1
+0 0 0 0 0 0 0 0 0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#7
+salesman Armour~
+the Armour salesman~
+The Armour salesman is here, selling armour.~
+This NPC is ready and willing to sell you armour.
+~
+10 0 45 0 9 5d1+150 2d7+4 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 40 0 0 0 0 0 0 0 0 0 0 0 0
+19 16 20 16 16 20 40 17
+1 0
+209 259 0.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 0
+4079 4096 4080 -1
+0 0 0 0 0 0 0 0 0 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#8
+salesman Armour~
+the Armour salesman~
+The Armour salesman is here, selling armour.~
+This NPC is ready and willing to sell you armour.
+~
+10 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 0
+210 260 0.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 0
+4063 4090 -1
+0 0 0 0 0 0 0 0 0 0
+0 10 0 0 0 0 16 16 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#9
+salesman Weapon~
+the Weapon salesman~
+The Weapon salesman is here, selling weapons, belts and sheaths.~
+(null)~
+8 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 0
+211 261 0.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 0
+1101 3035 3043 3050 1100 1108 1030 1033 13039 13043 3042 3052 3053 -1
+0 0 0 0 0 0 0 0 0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#10
+salesman Firearm~
+the Firearm salesman~
+The Firearm salesman is here, selling guns to children.~
+(null)~
+10 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 0
+221 262 0.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 0
+13021 13023 13025 -1
+0 0 0 0 0 0 0 0 0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#11
+salesman Firearm~
+the Firearm salesman~
+The Firearm salesman is here, selling guns to children.~
+(null)~
+8 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 0
+0 0 0.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 0
+-1
+0 0 0 0 0 0 0 0 0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#12
+salesman Firearm~
+the Firearm salesman~
+The Firearm salesman is here, selling guns to children.~
+(null)~
+8 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 0
+0 0 0.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 0
+-1
+0 0 0 0 0 0 0 0 0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#300
+merchant~
+the Merchant~
+The Merchant is here to sell you stuff you need.~
+   This is the Merchandizer. 
+~
+8 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 1
+0 313 1.000000 0.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 0
+10074 10075 10076 10077 10078 10079 8079 8084 8086 8128 8130 8072 8103 8115 8104 6081 8059 8134 8135 8136 8046 3005 9022 9026 2211 1100 1101 1108 1030 13041 13040 13039 13043 3042 3043 3053 6131 6141 6130 10081 4108 9028 10069 5052 998 5033 5057 5058 5059 5060 5061 1048 1049 6140 9040 9039 9020 -1
+0 0 0 0 0 0 0 0 0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#301
+mob new~
+a new mobile~
+(null)~
+(null)~
+8 0 5 0 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
 0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
 16 16 16 16 16 16 40 16
 0 0
@@ -22,6 +922,718 @@ A big stupid dummy is here.~
 0 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0
-'leader member' osgilwatch~
+~
+0 0 0
+#303
+Merchandizer~
+The Merchandizer~
+The Merchandizer merchandizes merchandise.~
+   This is #9THE MERCHANDIZER!!!#0 
+~
+8 0 12 5 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+8 16 10 16 16 10 40 11
+1 1
+0 313 1.000000 1.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 8384507
+9026 9022 3005 2202 10082 10083 1052 -1
+0 0 0 0 0 0 0 0 0 0
+0 20 20 20 20 20 20 20 20 20
+20 20 20 20 20 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#14
+mob new~
+a new mobile~
+(null)~
+(null)~
+8 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#15
+mob new~
+a new mobile~
+(null)~
+(null)~
+8 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#304
+merchant professions~
+the professions merchant~
+The professions merchant is here, selling all kinds of useful items.~
+(null)~
+10 0 5 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+1 0
+230 314 0.000000 0.000000 0.000000 0.000000 0
+0.000000 0.000000 0 0.000000 0.000000 0 8384507
+6082 10084 10085 10086 10092 10093 10094 11126 8887 5149 5150 -1
+0 0 0 0 0 0 0 0 0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#333
+lunar authority tech mechanically-armed HOLMES~
+A mechanically-armed Lunar Authority tech~
+A mechanically-armed Lunar Authority tech works here lazily.~
+   The most distinctive feature of this middle-aged tech is his 
+mechanically-replaced left arm. Far from a normal cybernetic, 
+this piece of machinery seems literally modular, the hand 
+detachable and replaceable with all manner of useful tools. 
+Beyond that eye-catching bit of technology, this man is rather 
+plain. Of a broad build that suggests little labor, even in the 
+low gravity of Luna, his pale complexion denotes a fellow that 
+rarely sees the light, artificial or otherwise. Garbed in a 
+simple sort of jumpsuit, the man is constantly accompanied by a 
+sturdy case, bearing his hand replacements. He currently wears 
+hand number one, a fascimile of the real thing. 
+~
+25166344 0 36 5 0 5d1+112 1d2+0 0 8 8 1 0 0 0 0
+334 0 0 335 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+16 8 18 10 10 18 40 13
+0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 10
+0 0 10 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'private' anarchs~
+0 0 0
+#55
+Jill limp lifeless humanoid sickening arachnid~
+a limp, lifeless humanoid suspended upon sickening, huge arachnid legs~
+A limp, lifeless humanoid suspended upon sickening, huge arachnid legs looms here.~
+   Hanging from eight tremendous, sickening black and segmented 
+legs is a gaunt and lifeless body, what was possibly a human at 
+one point. The legs jut out from black lumps of flesh along the 
+corpse's spine, and from what was once the stomach hangs a fleshy 
+sac, filled and sloshing with something within. The only part of 
+the human body that doesn't simply hang is the remant of the 
+head, which is held up by a dark growth on the back of the neck. 
+Peering out are black, endless eyes, yet nothing beneath remains, 
+aside from a drooping tongue from where the mouth used to be. 
+~
+8 4 56 2 9 5d1+120 2d8+6 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 2 0 0 0 0 0 0 0 2637856
+15 15 20 10 20 20 40 25
+0 0
+0 90 75 75 75 75 90 90 90 100
+75 75 75 75 75 0 90 90 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'commander' zeta-strain 'commander' genetic-terror~
+0 0 0
+#56
+Malkmalk frumpy little thing~
+a frumpy little thing~
+A frumpy little thing fluffs about here.~
+   This thing is just like, a little ball of...frump. And maybe 
+some fluff thrown in there. It is solid white in color, save for 
+two beady little black eyes. All other features or limbs or 
+anything else are hidden beneath the frump. 
+~
+8 786432 45 6 9 5d1+150 2d7+4 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 1 0 0 0 0 0 0 0 0
+19 16 20 16 16 20 40 13
+0 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#57
+personal gladiator Moriarty~
+Moriarty's personal gladiator~
+Moriarty's personal gladiator is here, saluting you.~
+   This man is perfect, phsyically speaking. Attractive to all 
+and perfectly muscled he is. His hair is short and black, and 
+face scruffy, but only attractively so. 
+~
+8 0 45 6 0 5d1+150 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0
+19 16 20 16 16 20 40 13
+0 0
+0 75 75 75 75 75 75 75 75 75
+75 75 75 75 75 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#20
+electrician electrifying energetic~
+an electrifying, energetic electrician~
+An electrifying, energetic electrician wanders here.~
+   This electrician appears quite fascinated with her work. She moves about 
+with a light step, and goes about her work dextrously. She is of light frame, 
+with a feminine silhouette. Brown hair is pulled back into a simple ponytail, 
+and her green eyes studiously assess the situation. 
+~
+40 0 36 6 0 5d1+120 1d2+0 0 6 6 2 0 0 0 0
+0 1 0 0 0 0 30 0 0 0 0 0 0 2 0 0 0 0 0
+16 16 18 16 16 18 40 15
+0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 90 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' test_npc~
+0 0 0
+#500
+Guardian Rock roll xAdmintraining xHeadbanger~
+The Guardian of rock and roll~
+The Guardian stands here, a bloody big sword held vertically in its hands.~
+   Vast is this thing, biggly big is the bigness of this big creature. It is 
+still and unmoving for the most part, composed of articulated metal joints like 
+armor of old. A pair of braced legs planted shoulder width apart and a 
+reversed feet give the figure an erect and strong carriage. It's torso, far to 
+lean and narrow to provide any sort of rigid support to its endeavors takes up 
+the lions share of its build. And finally, at the upper most reaches, a 
+shadowed visage. Sutured in to the very grey flesh of the creature is coarse 
+cloth, providing a masking off its entire features. From shoulders to brow. 
+~
+8 0 5 6 0 5d1+80 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#16
+jaunty white blood cell~
+a jaunty white blood cell~
+A jaunty white blood cell is here, fighting against the current of bloodflow.~
+   Snowy white in hue, this small cell bears certain tufts and peaks going 
+every which way. It is bolstered upward with no visible legs in sight, though 
+tiny flagella do beat upon its surface. A mouth resides, somewhere amid all 
+the surface formations. It hangs open, found frequently in a goofy smile, with 
+a pale rose-hued tongue hanging out of the side. 
+~
+10 0 5 6 0 5d1+80 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+18 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#21
+beetle black matte~
+a large, black beetle~
+A large, matte-black beetle is here, mandibles clicking.~
+   This beetle is quite large, with the apex of its shell rising above four 
+feet in height. It head is at least a foot long, with wicked mandibles 
+protruding further in jagged hooks. Its chitinous covering is scored in many 
+places, showing its survival through many battles. It moves in short, quick 
+movements, scanning the area intently. 
+~
+268435496 0 36 88 7 5d1+120 2d6+3 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 45 0 0 0 1 0 0 1 0 0 0 0 0
+16 4 18 15 8 18 40 15
+0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' insect~
+0 0 0
+#17
+spiral-shaped pathogen~
+a spiral-shaped pathogen~
+A pathogen lingers here, its long body shaped in a spiral formation.~
+   With colors ranging from blue to green to orange to red, this 
+spiral-patterned organism bears many wicked spikes shooting off in every 
+direction. Amid the spikes are several gaping mouths, ready to attack any 
+creature it happens to come across. Without arms or legs, it appears immobile 
+but for the flagella that dance at the end of nearly ever spike, allowing it to 
+wade in place against the heavy current of bloodflow. 
+~
+10 0 5 6 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+14 16 16 16 16 16 40 18
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#18
+tester counter~
+a mob tester is here~
+A mob tester stands here, being counted.~
+This mob is created by HAL to test mob loading progs.
+~
+8 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+24 86 0
+#90
+fluffy kitten vicious fangs cutie white~
+a fluffy white kitten with vicious fangs~
+A fluffy white kitten with vicious fangs stalks around here.~
+   Fluffy and pristine white fur encases this adorable, well-groomed feline 
+from her small head to her slender, lengthy tail. Her slanted eyes are a 
+striking olive-green and disarmingly large. Within her mouth are three rows of 
+razor sharp teeth, similar to shark teeth and with no practical or scientific 
+explanation of how they do not cause her a visible, external malformation on 
+her face. Two dangerous looking fangs jut down to hang several centimeters 
+below her chin, still dripping from what appears to be blood. An elegant black 
+collar is clasped around her neck with the small diamond-shaped tag reading, 
+"Skepsis". 
+~
+2097194 0 36 0 5 5d1+80 3d6+5 0 8 8 2 0 0 0 0
+0 0 0 2100 0 0 12 0 0 0 2 0 0 0 0 0 0 0 0
+16 16 16 20 16 16 40 16
+0 0
+0 90 10 0 0 0 90 70 0 0
+10 0 0 0 0 0 80 80 0 0
+0 0 50 0 0 0 80 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#22
+robotic dragon red eyes xALKAID~
+a robotic dragon with whirring red eyes~
+A robotic dragon towers here, with whirring red eyes.~
+   This dragon typically stands upon all four feet, robotic legs grinding 
+against the floor with hardened, gleaming steel claws. The top of its back 
+rests some nine feet off the ground, with an unusually large electrical jack 
+protruding upward. A long tail stems from this creature, extending some eight 
+feet before tapering into a gruesome spike. A long neck leads up to its head, 
+which boasts whirring red eyes and an imposing jaw that bears numerous 
+uncovered metal teeth. 
+~
+262152 0 60 0 0 5d1+80 3d8+5 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 1 0 0 0 0 0 0 0 532610
+20 16 18 20 17 22 40 19
+0 0
+0 99 100 100 100 100 90 100 100 100
+100 100 100 100 100 100 100 100 100 100
+100 100 100 100 100 100 100 100 100 100
+100 100 100 100 100 100 100 100 100 100
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#609
+progs test mob~
+progs test mob~
+Progs test mob is here.~
+(null)~
+8 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#127
+Igor old gentleman bulging eyes incredibly long nose xxPersonaNPCxx~
+an old gentleman with bulging eyes and an incredibly long nose~
+An old gentleman with bulging eyes and an incredibly long nose stands here.~
+   This old gentleman exudes an air of timeless immortality and limitless 
+patience. Most notable about his apperance is a long nose that juts out of his 
+face, nearly as long as his head itself. Second to that is his bulging eyes, 
+which bare pinpoint pupils, that are somewhat bloodshot. These are framed by 
+long, fuzzy black eyelashes that arch to give his lumpy head a rounder look. 
+The top pasty, pale head is completely bald, though it is framed on the sides 
+by shoulder length, ratty, bone-white hair. He almost seems hunchbacked, 
+though on a closer inspection one could see his neck is actually just kinked 
+quite far forward to make it seem like he might not have one at all. Though 
+his body is average size, his arms and legs are quite thin, giving him a 
+cyllandrical appearance when his arms are at his side and his legs are set 
+together. His fingers are thin, bony, and long. 
+~
+8 0 60 0 500 5d1+70000 40d40+40 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+25 25 25 25 25 25 40 25
+0 0
+0 100 100 100 100 100 100 100 100 100
+100 100 100 100 100 100 100 98 77 100
+100 100 100 100 100 100 100 100 100 100
+100 100 100 100 100 100 100 100 100 100
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#70
+xCGT3-iii segmented insectoid $hgtquartzcolor0 $hgtquartztype1 hooks~
+a segmented insectoid with $hgtquartzcolor1, $hgtquartztype0 hooks~
+A segmented insectoid with $hgtquartzcolor1, $hgtquartztype0 hooks carelessly rolls here.~
+   Gargantuan in width, this terrible creature stands roughly at four feet, yet 
+sits five feet across. Massive rows of segmented chitin plates form at the 
+brow of the fiendish creature, two deep blue eyes lie deeply imbedded in the 
+armored confines as well. The chitin plates of the creature are smooth, very 
+smooth and slick with goo. Elongated, rows of $hgtquartztype0 hooks line the 
+underbelly of the beast, merging chitin with glowing purple $hgtquartzcolor1 
+quartz. 
+~
+12 4 36 7 7 5d1+120 2d5+2 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 45 0 0 0 7 0 0 0 0 0 0 0 1064992
+14 14 18 10 16 18 40 20
+268435456 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'corporal' genetic_terror~
+0 0 0
+#71
+minuscule black furred field mouse~
+a minuscule, black field mouse~
+A minuscule, black-furred field mouse scurries here.~
+   Only about a couple of inches long, this tiny field mouse would be easy to 
+miss by anyone not looking for it. The tiny rodent has black fur and appears 
+to be a juvenile of the species. Short arms and legs remain under the tube 
+like body, ending in a cone-shaped head with a small round nose and whiskers. 
+The small rodent has a tail and roundish ears, sprouting from the otherwise 
+unremarkable body. 
+~
+2097160 9437188 5 71 0 5d1+3 1d2+0 0 8 8 2 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+3 3 3 16 3 3 40 11
+0 0
+0 0 10 0 0 0 10 16 0 0
+10 0 0 0 0 0 20 40 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#72
+lanky male dark-haired youth~
+a lanky, dark-haired youth~
+A lanky looking youth stands here looking restless.~
+   Dark brown hair is cut short around the head of this male youth with uneven 
+lines and and angles. Perhaps done by a knife, the hair is not the only 
+example of disarray, his appearance is marred with tiny nicks, scrapes and 
+cuts. Brown eyes, matching his hair is set into his face with caverns for 
+sockets. Protrusive cheek bones and a sharp chin are just some of the features 
+that speak to malnutrition. Overall this boy is tall and skinny, lacking the 
+appearance of health. 
+~
+8 0 5 6 0 5d1+60 1d6+-1 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 53 1 0 0 0 0 0
+10 4 18 6 6 8 40 14
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#340
+corgi cute~
+a cute corgi~
+A cute little corgi wags its tail here. Though, not as cute as a space corgi.~
+   These things are fucking adorable. Seriously, so cute. 
+~
+8388618 4 54 58 11 5d1+200 2d8+5 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 1 0 0 0 0 0 0 0 0
+22 16 22 16 16 22 40 13
+0 0
+0 90 90 90 90 90 90 90 90 90
+90 90 90 90 90 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' grungetown~
+0 0 0
+#103
+mob skinning test~
+a skinning test mob~
+A skinning test mob is ready to die.~
+(null)~
+8 4 5 86 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+103 0 0 104 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
 0 0 0
 $~

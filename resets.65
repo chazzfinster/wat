@@ -1,9 +1,15 @@
 #65
 Lead: (null)~
-Empty Zone~
+Tram City~
 (null)~
 (null)~
 (null)~
 (null)~
-0 0 0 0 0 0
+0 0 0 1 0 0
+D 0 65001 3 1
+D 0 65002 1 1
+D 0 65003 2 1
+D 0 65005 0 1
+D 0 65005 2 1
+D 0 65006 0 1
 S

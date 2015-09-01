@@ -1,1 +1,122 @@
+#77000
+lights rows $color GLASS~
+the $color ceiling lights~
+The strip lighting running across the ceiling casts a $color hue.~
+   Running across the length of the ceiling in several parallel rows, and 
+branching out to follow whatever corridors or passages may stretch down the 
+spaceship, are rows of thin LED strip lights. Presently, that emit a $color 
+hue over the area. 
+~
+12 33562624 0
+-1 -1 0 1
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#77001
+lights flickering GLASS~
+the flickering ceiling lights~
+The strip lighting running across the ceiling flickers on and off.~
+   Running across the length of the ceiling in several parallel rows, and 
+branching out to follow whatever corridors or passages may stretch down the 
+spaceship, are rows of thin LED strip lights. Presently, they flicker on and 
+off sporadically. 
+~
+12 8192 0
+-1 -1 0 1
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 1152 77003 0 0 0 0
+God~
+God~
+#77002
+lights off GLASS~
+the dormant ceiling lights~
+The strip lighting running across the ceiling is dormant.~
+   Running across the length of the ceiling in several parallel rows, and 
+branching out to follow whatever corridors or passages may stretch down the 
+spaceship, are rows of thin LED strip lights. Presently, they are switched off 
+and dormant. 
+~
+12 8192 0
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#77003
+lights off xxxBROKEN GLASS~
+the dormant ceiling lights~
+The strip lighting running across the ceiling is dormant.~
+   Running across the length of the ceiling in several parallel rows, and 
+branching out to follow whatever corridors or passages may stretch down the 
+spaceship, are rows of thin LED strip lights. Presently, they are switched off 
+and dormant. 
+~
+12 8192 0
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#77004
+consoles computer screens monitors light control OTHER~
+a series of consoles and monitors~
+Set up throughout the room is a series of consoles and monitors filled with displays and gauges as to the lighting and power of the ship.~
+   Judging from the displays and gauges flashing across the numerous 
+$plasticcolor monitors arrayed about this room, this massive computer display 
+is designed to monitor the power and lighting consumption of the entire ship. 
+Complicated devices and comprehensive displays abound, but one gets the 
+impression non-critical tasks such as rerouting the lighting might just be 
+possible, if one were so inclined. The flashing and blinking from the consoles 
+bathes the room in hues of $color1, $color2 and $color3.
+
+   #6To use the console, type LIGHT STATUS.#0
+~
+12 33562624 0
+0 0 0 0
+5000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#77005
+station power relay box fuses circuitry METAL~
+a power relay station~
+A metal box is mounted on the wall, filled with fuses and circuitry.~
+~
+12 0 0
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#77006
+xxtracker light power OTHER~
+the deck light power tracker~
+The deck light power tracker is here.~
+~
+12 4 0
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#77007
+light_use_board logging console OTHER~
+the logging console~
+A large console logs various fluctuations in the power supply.~
+~
+22 0 0
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
 $~

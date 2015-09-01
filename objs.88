@@ -1,1 +1,179 @@
+#88997
+Labyrinth Dark Ragnarok End of Days Challenge OTHER~
+a generic object~
+Dark Labyrinth Config Object~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#88002
+lock combination ragnarok end of days OTHER~
+a combination lock~
+A combination lock is fixed to the door.~
+This heavy-duty lock is securely locked to the door, preventing
+further progress through Bangarang's Challenge. Upon closer
+examination one would find 3 scrolling wheels with the
+numbers 0-9 on them. Perhaps with a bit of effort one may
+be able to figure out the combination!
+ 
+You need to type '#6set (first/second/third) <number>#0'.
+ 
+Example: #6set first 7#0 sets the first wheel on 7.
+  
+Type #6check lock#0 to see what it looks like.
+ 
+Type #6test lock#0 to see if you've solved the puzzle!
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#88001
+token end of days challenge ragnarok OTHER~
+#1Ragnarok's #FEnd of Days#0#1 Challenge Token#0~
+#1Ragnarok's #FEnd of Days#0#1 Challenge Token lies here.#0~
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#88003
+Labyrinth Ragnarok End of Days challenge config OTHER~
+a generic object~
+Labyrinth configure object lies here.~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#88004
+Riddler Ragnarok End of Days Challenge OTHER~
+Riddler config object~
+The Riddler config object lies here.~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#88000
+REODC_BOARD scoreboard BOARD OTHER~
+Ragnarok's End of Days Challenge Scoreboard~
+Ragnarok's End of Days Challenge Scoreboard sits here.~
+~
+22 4104 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#88005
+entrypad device UNIQUE_ADMIN ELECTRONIC~
+a generic door entrypad~
+A generic door entrypad is waiting to be configured.~
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 50 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#88006
+screwdriver sonic sleek metallic-silver UNIQUE_ADMIN PRAGNAROK ELECTRONIC~
+a sleek, metallic-silver sonic screwdriver~
+A sleek, metallic-silver sonic screwdriver lies here.~
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#88007
+slot machine archaic ELECTRONIC UNIQUE_ADMIN~
+an archaic-looking slot machine~
+An archaic-looking slot machine sits here.~
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#88008
+scanner eyepiece slim $color UNIQUE ELECTRONIC~
+a slim, $color-lensed eyepiece~
+A slim, $color-lensed eyepiece lies on the ground.~
+   This slim device, fitting comfortably over the ear, has a 
+$color, transluscent lens that covers the right eye. 
+~
+12 33559040 67108865
+0 0 0 0
+100 0.000000
+0 0 0 0 0 1048578 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#88009
+headset virtual reality UNIQUE_ADMIN PRAGS ELECTRONIC~
+a virtual reality headset~
+A virtual reality headset lies here.~
+~
+12 0 17
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#88010
+hipsheath multi-slotted sleek TEXTILE~
+a sleek, multi-slotted hipsheath~
+A sleek, multi-slotted hipsheath lies here.~
+This hipsheath is made to fit around the waist, and long to wrap about
+mid-thigh. There are six slender slots that are capable of holding very
+small items that run horizontal along the length. The material itself is
+a synthetic, durable fiber that resists stains and has an adjustable strap
+to fit nearly any size.
+ 
+OOC: #6 use hipsheath, hipdraw, and hipcheck#0.
+~
+12 0 264193
+0 0 0 0
+100 0.000000
+0 0 0 0 150 0 0 1
+35.000000 0 0 0 0 0 0
+God~
+God~
+#88011
+holo_vmd HVMD NONE~
+a compact hvmd~
+A compact hvmd lies here.~
+~
+22 0 1
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
 $~

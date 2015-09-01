@@ -1,1 +1,316 @@
+#62000
+Base Room - Carthage, the Other Lake Town~
+   This is the base room for Carthage, the other town on the lake. Carthage 
+provides competition for lake water resources with Grungetown. It also has a 
+thriving industrial/blue-collar economy which takes advantage of their location 
+to allow less entropy on their massive equipment. Carthage is special in that 
+it lies at the very limit of the gravity generator's reach, so at its limits 
+(used by the factories) gravity is sometimes moon-normal instead of 
+earth-normal. 
+~
+62 65536 0
+0
+S
+#62001
+A Well-Worn Road~
+   The moonscape gradually erodes into a well-worn road of barren 
+dirt and dust, the result of several faint side-trails melding 
+into one leading eastward. Rolling hills rise up on either side, 
+their plateaus falling and rising again, rocks and debris strewn 
+across their surfaces. The occasional bit of loose trash rolls 
+by, betraying the passing of people either recent or long ago. 
+Upon the eastern horizon the faint outline of a humble settlement 
+can be seen alongside the shoreline of a great lake. 
+~
+62 65536 10
+0
+D0
+~
+~
+0 -1  0 53158
+D1
+~
+~
+0 -1  0 62002
+S
+#62002
+Approaching a Humble Settlement Alongside a Lake~
+   A lake of sludge and slime creeps alongside the road here, small ripples 
+tickling the surface every so often from movement unseen. To the east, modest 
+walls of rock, dirt and debris rise up before you, the road gradually widening 
+as it nears massive gates of metal guided in place by a system of pulleys 
+connected to wires above. The gates themselves are open, swinging freely and 
+no guards appear to be in sight. Faded signs depicting drawings of people 
+shooting people are circled and crossed out in red paint. Still standing 
+smokestacks are barely perceptible over the edge of the great wall, no signs of 
+continued production rising from them. Tendrils of fog seem to wisp from what 
+appears to be an abandoned city. 
+~
+62 65604 10
+0
+D1
+~
+~
+0 -1  0 62003
+D3
+~
+~
+0 -1  0 62001
+S
+#62003
+A Silent Entry To A Ruined Town~
+   Cracked stones and pitted ground lie underfoot as one walks into this 
+wrecked market square, the area littered with gruesomely-mangled corpses that 
+lay in various positions, some of their faces twisted in the horror of death, 
+wide eyes staring vacantly forward at the stones. The buildings around are all 
+intact and standing, rather creatively built and composed of rocks and mud, 
+none quite like the other, though most are gray shadows against the murky air 
+of the area. No smoke rises from any chimney, and the entire area is cast in a 
+layer of stifling fog, preventing proper sight beyond at best a few feet and 
+muffling any sound. Over time spent in the square, it becomes quickly evident 
+that it is eerily, completely silent, and the rank stench of decomposing bodies 
+hangs in the air. 
+~
+62 73728 12
+0
+D0
+~
+~
+0 -1  0 62007
+D1
+~
+~
+0 -1  0 62006
+D3
+~
+~
+0 -1  0 62002
+S
+#62004
+The New World Tavern~
+   Faux memorabilia of all things seaworthy line the walls of 
+this tavern, from three-masted ships constructed of cans to cheap 
+knock-offs of treasure maps tacked upon the walls. Faux-wood 
+paneling lines the walls, giving of an aura of a time long past 
+as hazy yellow-tinted lights flicker intermittently above. A 
+worn-down bar sits at the northern side of the room, shelves of 
+bottles pegged behind it. A sign depicting a bed is bolted into 
+the wall next to a set of spiraling stairs leading upwards. 
+~
+62 67307528 0
+0
+S
+#62006
+Deeper Into A Silent Town~
+   The path meanders further into the shadow of a town, leading for a long 
+while through lines of buildings, many of them with the door and windows 
+boarded up and nailed shut. On many of the boards coating the walls are bloody 
+handprints, and there are smears of #1blood#0 all over everything, from the 
+ground to the stalls that lie toppled and broken. After a long walk down the 
+road, one comes to a square surrounded by three large buildings. To the north 
+lies a squat but extended building with a faded red cross sign haphazardly laid 
+in front of it. The sign looks to have been splashed with red paint, and to 
+have been placed there fairly recently. To the east is a large factory complex 
+with smokestacks that emit no smoke sticking out from the top. The method of 
+entry is a very tall garage door that opens via a switch next to it. To the 
+south is an apartment building with an upper floor that looks to have caved in 
+on itself, the supports making up the structure blackened and scorched. 
+
+~
+62 73728 12
+0
+D0
+~
+~
+0 -1  0 62009
+D1
+~
+factory-hatch~
+1 -1  0 62012
+D2
+~
+smashed-door~
+1 -1  0 62011
+D3
+~
+~
+0 -1  0 62003
+S
+#62007
+Fenced-In Rubble~
+   A chain-link fence surrounds a wide area of rubble covering a 
+hillside just within the settlements perimeter wall., an old sign 
+hanging loosely from its links depicting a cart carrying green 
+rocks. Near the bottle of the hill can be seen the crushed 
+remnants of a rail-tracks leading into the innards of the hill, 
+though no entrance is apparent. 
+~
+62 65536 25
+0
+D2
+~
+~
+0 -1  0 62003
+S
+#62008
+New World Tavern Storeroom~
+Store room for Carthage's tavern.  
+Mobile - 62001
+Shop - 62004
+storeroom - 62008
+~
+62 335609864 0
+0
+D4
+~
+~
+0 -1  0 62004
+S
+#62009
+An Entryway Marked By Violence~
+   The entryway of what looks to have been a makeshift infirmary is here, 
+completely wrecked and destroyed. Across the room and all along the floor are 
+clear signs of violence; blood, gore, and a stray body here and there lining 
+the way north. Some tables still stand, having been bolted to the wall or 
+floor, and bodies hunch over them, seeming to have been disembowelled by some 
+force since death. There is a rank stench of rotten cabbage and the metallic 
+whiff of blood in the air, though such are barely perceptible against the 
+horrific stench of rotting bodies. To the observant, along the floor from the 
+doorway further inside are many drawn-out trails of dried, spattered blood, as 
+though something was dragged along deeper into the darkness. 
+~
+62 67592 24
+0
+D0
+~
+~
+0 -1  0 62010
+D2
+~
+~
+0 -1  0 62006
+S
+#62010
+A Horrifically-Mangled Containment Area~
+   This area is a horrifying scene of death and decay. Piles of corpses line 
+the walls and floor, mindlessly heaped on top of eachother like ragdolls, no 
+attention given to their position by whatever brought them here. Many of the 
+bodies are only half-intact, with pieces of them simply torn off and nowhere to 
+be found, and quite often the bodies have gaping holes where their stomach 
+should be, or a missing head. The room looks to have formerly been a sort of 
+containment area; a quarantine of sorts. Many cots line the sides of the room, 
+though they are all in disarray and many have holes punched through them. The 
+stench is horrifically bad and the air is hard to breathe here. #1Blood#0 
+lines every surface, coats every fabric and seeps into every crack, the silence 
+looming the heaviest here in all of the town. 
+~
+62 67592 24
+0
+D2
+~
+~
+0 -1  0 62009
+S
+#62011
+Lobby Underneath Partially-Collapsed Ceiling~
+   This area is dark and stifling, soot and dust hanging in the air, although 
+it seems to have been abandoned fairly recently by the look of things. Most 
+noticeably, the entire ceiling above one's head has caved in and fallen down, 
+so walking through is a bit of a chore, especially for anyone taller than 
+average. The upper floors look to have been ravaged by fire, and pieces of 
+burnt, blackened fabric coat the ground and furnishings laying about. 
+~
+62 67592 9
+0
+D0
+~
+smashed-door~
+1 -1  0 62006
+D2
+~
+~
+0 -1  0 62013
+S
+#62012
+An Abandoned Robotics Bay~
+   This is a large robotics repair bay, looking to have been used as a storage 
+and maintenance station for robots of varying sizes, many of them massive. 
+There are many cranes and sections of scaffolding up around rusted, forgotten 
+bots, and they are curiously lacking in supports, as though nature itself were 
+helping the small arms to hold up the great weight of whatever they might bear. 
+The place looks completely abandoned, as though everyone inside simply left and 
+never came back, and the beginnings of dust have started to coat everything 
+inside. 
+~
+62 67592 28
+0
+D1
+~
+~
+0 -1  0 62014
+D3
+~
+factory-hatch~
+1 -1  0 62006
+S
+#62013
+A Scorched and Wrecked Sitting Room~
+   Further into the building, the air becomes a bit hard to breathe, soot 
+choking the lungs rather soon after spending any time here. The area's 
+furnishings have been toppled and turned over, and in one part of the room lies 
+a blackened and burned barrel. If one were to examine the label closely on the 
+container, one might notice the words 'COOKING OIL' visible, and with further 
+investigation, one might speculate that it was the cause of the fire in the 
+area. 
+~
+62 67592 9
+0
+D0
+~
+~
+0 -1  0 62011
+D5
+~
+hatch~
+1 -1  0 62005
+Q5
+5
+Hidden beneath some debris, a crude hatch appears to provide access to a chamber underfoot. You could #6OPEN#0 the #6HATCH#0 to get down.
+~
+S
+#62014
+A Long Manufacturing Chamber~
+   This chamber looks to have been used for long lines of people to manufacture 
+electronics and other items of technological significance, and countless parts 
+lie all over the room, underneath the bolted metal tables and strewn over the 
+floor. It is fairly nondescript at first, though if one were to examine a 
+fallen section of wall in the corner closely, they might notice that underneath 
+the pile of resulting rubble is an arm, which sticks out a bit, and the hand 
+looks to be grasping at the floor, as if to pull itself out from under the 
+wreckage. 
+~
+62 67592 7
+0
+D3
+~
+~
+0 -1  0 62012
+S
+#62005
+The Burnt Husk of a Laboratory~
+   Heavy plastic walls show irreparable signs of damage. Whatever polymesh 
+covering once hung upon it having long ago been scorched off with only 
+blackened scraps clinging to the surface. Once likely a laboratory, broken 
+vials and equipment is smashed underfoot, blackened furnishings threatening to 
+topple over and the ceiling itself sagging along one side. The chrion 
+staircase appears to be relatively intact, providing the only access to and 
+from this chamber. 
+~
+62 65544 24
+0
+D4
+~
+hatch~
+1 -1  0 62013
+S
 $~

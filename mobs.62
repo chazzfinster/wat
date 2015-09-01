@@ -1,1 +1,290 @@
+#62001
+Cilix lithe, sandy-haired man~
+a lithe, sandy-haired man~
+A lithe, sandy-haired man tends the bar here, his eyes constantly scanning about the tavern.~
+   Sandy, neck-length hair is swept just behind his ears. Light 
+blue eyes peer out from underneath slightly arched brows, a small 
+scar above the right. His figure is lithe and toned, his above 
+average height giving him a slightly stick'ish appearance. 
+~
+522 0 45 0 0 5d1+88 1d2+0 0 8 8 1 1 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+13 16 16 16 19 12 40 20
+1 1
+62004 62008 1.000000 1.000000 1.050000 0.950000 134217728
+1.000000 0.500000 67108864 1.050000 0.950000 33554432 1.050000 1.000000 536870912 1.050000 0.950000 268435456 0.000000 0.000000 0 0.000000 0.000000 0 0
+2044 2056 10099 10100 10101 10102 6517 10103 8174 6082 -1
+63 0 0 0 0 0 0 0 0 0
+0 50 0 0 0 0 88 80 88 90
+96 100 90 0 0 0 70 50 80 70
+70 0 0 0 0 0 0 0 0 0
+0 0 0 0 80 0 0 0 70 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'member' carthage~
+0 0 0
+#62000
+mob new~
+a new mobile~
+(null)~
+(null)~
+8 0 5 0 0 5d1+80 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 0 0 0 16 16 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#62002
+Rankin chinese mustached unwashed haired man xForProteus~
+a chinese-mustached, unwashed-haired man~
+A chinese-mustached, unwashed-haired man is here.~
+   Of about average height, this man's body has apparently been beaten a fair 
+amount by life on the moon. He is typical of build, with some corded muscle, 
+and a round, somewhat flat face. His skin is deeply tanned, and dark eyes look 
+out from underneath thick eyebrows. In ragged tangles, his black hair falls 
+around his face, the chinese-style mustache on his chin not seeming to fair 
+much better. 
+~
+2097160 0 36 5 0 5d1+112 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 65 0 0 0 0 0 0
+16 16 18 16 16 18 40 13
+0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'sergeant' funky 'member' grungetown~
+0 0 0
+#62003
+Glare dutiful buzz cut young man xForProteus~
+a dutiful, buzz-cut young man~
+A dutiful, buzz-cut young man stands here watchfully.~
+   At somewhat taller than the norm, this young man carries himself 
+straightbacked though his step and posture are slightly off, in a way. His 
+skin is fairly dark from a tan, covering lean muscle that compounds his 
+heavy-boned frame. Murky blue eyes take hold of the surroundings, and his dark 
+hair is clean cut into a buzz while his square jaw is clean shaven. 
+~
+8 0 36 5 0 5d1+112 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 30 0 0 0 0 0 68 0 0 0 0 0 0
+16 16 18 16 16 18 40 13
+0 0
+0 60 60 60 60 60 60 60 60 60
+60 60 60 60 60 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+'lieutenant' funky~
+0 0 0
+#62004
+xrefugees large group various refugees xskep~
+a large group of various refugees~
+A large group of various refugees have set up their camp here, idling about.~
+   Consisting of men, women and children with varying degrees of clothing, 
+armors and weapons, this large group of refugees has nearly fifty people within 
+it, give or take some at any given time. Working together in some form of 
+community, the expressions etched upon all of their faces is a distinct mixture 
+of a rainbow of emotions: fear, anger, contempt, concern, and perhaps ignorant 
+bliss. The majority of them appear filthy to some degree, dirt and dust 
+saturating their forms and many of them look malnourished. Several bear the 
+emblems of the Carthage Peace Corps on their clothing, with even less outfitted 
+in ritualistic robes and monks wear. 
+~
+10 0 12 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 30 30 0 30 30 30 0 0
+30 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#62005
+benoit xrefugees agile blond-haired blond man green eyes spiked~
+an agile, green-eyed man with spiked, blond hair~
+An agile, blond-haired man with green eyes loiters here.~
+   Estimated to be somewhere in his mid to late twenties, this lean man's limbs 
+feature prominent, sinewy muscles. Dark blond locks have been neatly shorn 
+about his head and styled into a tumbling of spikes set in disarray about his 
+forehead. Harsh, angular features, a slight disfiguration of his nose and 
+somewhat sunken cheeks portray a hard past. His eyes are a stunning, 
+chartreuse green, a pureness lacking in the rest of his features. Heavy hands 
+boast calloused and torn knuckles and a noticable scar adorns his cheek. 
+~
+10 0 28 5 0 5d1+96 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 12 11 11 14 14 40 14
+0 0
+0 50 40 40 30 0 50 40 40 40
+40 20 40 0 0 0 30 30 0 0
+40 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#62006
+Bashir xSangha xrefugee bald sun-bronzed man smooth-shorn head~
+a bald, sun-bronzed man~
+A man with bronzed skin and a smooth-shorn head is here.~
+   Though aged past his middle years, this man appears still fit and strong. 
+His skin is mostly smooth, with a few faint wrinkles creasing at the corners of 
+his almond-shaped eyes. Above his dark-hued gaze are an equally dark pair of 
+brows and below is long and straight line of a nose, with uncompromising mouth 
+even farther down. His head is shaved to a smooth surface, the proud curve of 
+his skull resting beneath the blemish-free bronzed skin. He stands at an 
+average height and carries no extra weight on his lean frame, marked with 
+carefully trained musculature that can be seen when unclothed. 
+~
+10 0 24 5 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 60 10 0 0 0 60 60 0 0
+10 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 60 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#62007
+too-tall teenager with big ears Earl xrefugees~
+a gangly too-tall teen with big ears~
+A gangly too-tall teenager with big ears stands here awkwardly.~
+   Without the weight to back up an obviously sudden growth, this teen is left 
+awkwardly thin and gangly. He has tanned enough skin that shows a few pocked 
+marks from recent pimples, with wispy tufts of beard growing in patches along 
+his chin and cheeks. His arms are thin, every muscle standing out when 
+unclothed if only because no helpful body fat can hide it away. A pair of 
+impressive ears rest on either side of his narrow and otherwise forgettable 
+face. When he swallows, the pronounced adams apple of his throat bobs up and 
+down. 
+~
+10 0 24 5 0 5d1+104 1d2+0 0 8 8 1 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 10 40 0 0 16 40 0 40
+40 0 0 50 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
+#62008
+xrefugees small group disheveled refugees xskep~
+a small group of disheveled refugees~
+A small group if disheveled refugees idle about here.~
+   This small group of refugees consists of about six or seven people at any 
+given time, a few men, women and teenagers with mostly ragged clothing and an 
+unkempt appearance. They are spread out within the tent, huddling on cots with 
+makeshift blankets or performing small, menial tasks. 
+~
+10 0 12 5 0 5d1+104 1d2+0 0 8 8 0 0 0 0 0
+0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+16 16 16 16 16 16 40 16
+0 0
+0 0 30 30 0 30 30 30 0 0
+30 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+~
+0 0 0
 $~

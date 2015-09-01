@@ -1,1 +1,3948 @@
+#69000
+Bottom of the Lower Spire~
+   The eastern section of this area has been heavily damaged, a gaping hole 
+giving access to a recessed hatch that seems to have forced itself into the 
+structure. The original purpose of this area is lost, though the deep-blue 
+metal of the walls seems to press down on any who pass through here. Small 
+hexagonal plates make up almost every surface, thin lines of a quartz-like 
+material serving as a barrier between one plate and the next. Each is almost 
+perfectly flush with its neighbor, though every few meters a single plate has 
+jutted our from the others. No visible lights can be seen, the passage seeming 
+almost bare. 
+~
+69 65544 0
+0
+D3
+~
+~
+0 -1  0 69060
+S
+#69006
+Bottom of a Deep Shaft~
+   The floor here suddenly changes to a quartz material, extending for several 
+meters in all directions before ending against the small blue hexagonal panels 
+of the walls. The quartz seems to be thick, extending underfoot down toward 
+faint blue-tinged holograms that are just visible, glimmering through the 
+material. The air here is thick with humidity, a faint fog seeming to rise in 
+the air, every surface bearing a faint slick of moisture against it. Above, a 
+shaft continues almost endlessly, no end to the faint glimmering walls that 
+rise up from this point. 
+~
+69 65536 5
+0
+D4
+~
+~
+0 -1  0 69013
+S
+#69001
+A Turn in the Corridor~
+   Far removed from the darker section to the east, this area is a glittering 
+cacophony of azure and purple holographic panels and lights that shimmer along 
+nearly every surface. Small, dark blue hexagonal panels make up the floors, 
+walls, and ceilings, purple-tinged quartz shimmering between each of them in 
+sequence, as if the area itself was pulsing with energy. The corridor seems to 
+turn, continuing to the south. 
+~
+69 65544 0
+0
+D1
+~
+~
+0 -1  0 69103
+D2
+~
+~
+0 -1  0 69002
+S
+#69002
+A Turning Corridor~
+   Small, dark blue hexagonal panels make up nearly every surface, a pulsing 
+purple light streaking between each of the panels every few seconds. Small 
+bars of holographic light hover in the air just over the panels, no mechanism 
+visible that might produce them. Despite the lights and the pulsing panels, 
+the air here tastes stale in the extreme. The corridor continues to the west. 
+~
+69 65544 0
+0
+D0
+~
+~
+0 -1  0 69001
+D3
+~
+~
+0 -1  0 69003
+P
+test~
+(null)~
+force 69025 -1 stop
+force -1 -1 stop
+~
+S
+#69003
+Between a Shaft and an Alcove~
+   The air here is almost blue with light, the humidity continuing to rise 
+until there is almost a fog of moisture in the air. Small blue hexagonal 
+panels make up every surface, continuing what appears to be a constant curve 
+around a center to the north. Bright panels of blue and purple holograms stand 
+out in bars against the walls, lighting the area, the rolling clouds of 
+moisture seeming to dazzle the lights into glimmering patterns against the 
+walls. To the south, the small panels curve and flatten out, extending 
+themselves into an alcove.
+   To the north, a cave in has caused the entirety of that area to collapse into a massive heap of slag metal and debris.
+~
+69 65544 0
+0
+D1
+~
+~
+0 -1  0 69002
+D2
+~
+~
+0 -1  0 69004
+D3
+~
+~
+0 -1  0 69005
+K
+105 0 30 999 0S
+#69004
+A Light Filled Alcove~
+   Rolling clouds of humidity permeate this area, causing the holograms that 
+litter the walls to give the air an almost purple haze. In the midst of this 
+area, there is a large rise in the small hexagonal tiles that make up the 
+floor, rising into a table-like structure. Small ridges cover the top of the 
+large panel, nearly a meter in width and the same in height. Over the panel 
+floats an intricately detailed hologram of the lower portion of a #6Spire#0, 
+slowly rotating. 
+~
+69 65544 0
+0
+D0
+~
+~
+0 -1  0 69003
+E
+reformat~
+~
+E
+spire~
+   Like a long and slender inverted spire, the slender hologram stretches from 
+the small table in the midst of the room to the ceiling three meters above. 
+Thin at the bottom, and slowly rising in circumference through three different 
+extensions, the observant might spot a small red circle at the very bottom 
+point of the spire, and every half-dozen centimeters divisions within the 
+hologram, counting some fifteen in total. Over the hologram, the spire seems 
+to continue, but the hologram in that area is faded and indistinct. 
+~
+S
+#69005
+Rising Stairs Toward a Door~
+   Clouds of humidity roll slowly down a steep incline of small hexagonal 
+panels, forming what appears to be a set of stairs leading toward a massive 
+doorway. Small blue bars of holographic light glitter along the walls, giving 
+every meter of this section a shimmering blue hue, as if one were standing 
+under a shallow sea. A large doorway stands ahead, made up of a set of of six 
+triangular portions that together make up the hexagonal frame of the doorway. 
+A single holographic panel stands nearby, upraised from the doorway, a human 
+hand outlined in purple light against it. 
+~
+69 65544 0
+0
+D1
+~
+~
+0 -1  0 69003
+D4
+~
+hexagonal-door~
+1 5000  0 69007
+S
+#69007
+A Sharply-Sloped Tunnel~
+   The passageway divides into a three-way intersection from the sharply 
+sloping tunnel down below. At the bottom of the tunnel is a hexagonal door 
+with a single holographic panel upraised by the doorway, a human hand outlined 
+in purple light upon it. Hexagonal ramps spiral down towards the north, east, 
+and south, the faintest scent of rot emanating from those directions. The 
+sound of rushing water is heard echoing in the background, the sounds bouncing 
+off the walls and making it difficult to tell where they originate from. 
+~
+69 65544 0
+0
+D0
+~
+~
+0 -1  0 69008
+D1
+~
+~
+0 -1  0 69114
+D2
+~
+~
+0 -1  0 69119
+D5
+~
+hexagonal-door~
+1 5000  0 69005
+S
+#69008
+Fork Next To An Incline~
+   Here the hall curves out around a large center mass, two tunnels swerving 
+out toward a moisture-filled hallway that shortly leads to a hollow arch and a 
+room beyond. The hallway continues to darken as it leads northward, the lights 
+on the wall seeming to reach a subdued state further down the way, beams from 
+the moisture in the air barely visible. On the opposing side, the floor 
+quickly drops down into a jarring slope, humidity coursing down in waves. 
+~
+69 65544 0
+0
+D0
+~
+~
+0 -1  0 69010
+D2
+~
+~
+0 -1  0 69007
+D3
+~
+~
+0 -1  0 69009
+S
+#69009
+Quartz Filled Room~
+   Large pillars of quartz rise up from the blue hexagon panneled deck, small 
+veins coming together in thick spires that reach to the ceiling of this alcove. 
+Small blue holograms flicker and turn slowly around the pillars, an occasional 
+line of symbols twisting across them. Within the pillars of quartz are what 
+appears to be flowing water, pulsing slowly within the veins. A small control 
+panels stands near the midst of the room, the small hexagonal panels rising up 
+into a meter-high pedestal, a small purple lined hand standing out on the 
+surface. 
+~
+69 65544 0
+0
+D1
+~
+~
+0 -1  0 69008
+D3
+~
+~
+0 -1  0 69104
+S
+#69010
+Turn in a Corridor~
+   Humid clouds churn throughout this area, coating every surface in a thin 
+film of liquid water. The small hexagonal panels underfoot glow with a subdued 
+light, few of the blue holographic bars that have been a halmark of the halways 
+visible. Those that are visible glitter in the moisture, beams of light slowly 
+playing across the corridor. The corridor here curves toward the east around 
+the central mass. 
+~
+69 65544 0
+0
+D1
+~
+~
+0 -1  0 69011
+D2
+~
+~
+0 -1  0 69008
+S
+#69011
+A Fork in the Corridors~
+   Few lights fill this corridor, perhaps a half dozen blue bars floating 
+lazily along the walls of this corridor. Small, blue hexagonal tiles make up 
+every surface, glints of quartz visible in the walls. It meets a dead-end 
+here, just wall on every side besides the west. 
+~
+69 65544 0
+0
+D3
+~
+~
+0 -1  0 69010
+S
+#69012
+Quartz Filled Alcove~
+   Thick spires of quartz branch over this area, flowing water coursing through 
+each segment. Blue-tinged holograms circle the spires every few meters, the 
+occasional string of symbols cutting across the continues blue bars. The 
+hexagonal paneled deck seems to create an egg-shaped alcove around the pillars 
+of quartz, each piercing both the top and bottom of the area. Thick clouds of 
+humidity churn around the pillars, though it doesn't appear that they are 
+originating from within them, the floor and walls only carrying a thin sheen of 
+moisture. The area proper is raised above the tunnel that enters from the 
+east, a small stairwell that formerly only provided means to reach the upper 
+section now acting as a method of escaping the water and reaching a more dry 
+climate. Relatively. 
+~
+69 65544 0
+0
+D1
+~
+~
+0 -1  0 69164
+S
+#69013
+A Deep Shaft~
+   The floor here suddenly changes to a quartz material, extending for several 
+meters in all directions before ending against the small blue hexagonal panels 
+of the walls. The quartz seems to be thick, extending underfoot down toward 
+faint blue-tinged holograms that are just visible, glimmering through the 
+material. The air here is thick with humidity, a faint fog seeming to rise in 
+the air, every surface bearing a faint slick of moisture against it. Above, a 
+shaft continues almost endlessly, no end to the faint glimmering walls that 
+rise up from this point. 
+~
+69 67592 26
+0
+D5
+~
+~
+0 -1  0 69006
+S
+#69014
+Top of a Stairwell~
+   Moisture flows down the steps of this incline at a brisk pace, pooling in 
+small receptacles before dissapearing underneath the small blue hexagons that 
+make up the deck. Thin veins of quartz seperate each of the small hexagonal 
+tiles, while bright holographic bars shimmer along the walls, filling this area 
+with a brilliant blue hue. Clouds of humidity seem to flow toward the 
+hexagonal door, as if pushed from somewhere else. A small panel stands near 
+the door, a small purple hand outlined on the surface, glowing faintly. 
+~
+69 65544 26
+0
+D2
+~
+~
+0 -1  0 69015
+D5
+~
+hexagonal-door~
+1 5000  0 69123
+S
+#69015
+A Fork in the Corridor~
+   Splitting out into three directions, the hallway's light is somewhat 
+subdued, and the light shining from between the hexagonal panels along the 
+walls is quiet and pale, tendrils of steam rising from the floor in lazy wisps 
+and crawling up toward the ceiling before condensing there and then dripping 
+down the walls. To the east, the glint of quartz is visible, and to both north 
+and south, the hallway stretches onward. 
+~
+69 65544 26
+0
+D0
+~
+~
+0 -1  0 69014
+D1
+~
+~
+0 -1  0 69016
+D2
+~
+~
+0 -1  0 69017
+E
+petitions~
+~
+S
+#69016
+Flooded Quartz Filled Alcove~
+   Sleek quarz pillars rise through clouds of humidity and steaming water that 
+floods the floor. Metallic steps lead down into the alcove towards the 
+pillars. Around each of them are bands of blue and purple holograms, rotating 
+slowly and displaying a cryptic symbol. The air here is sense, clouds of moist 
+air slowly drifting in and out from the corridor beyond. A small meter-high 
+pedestal lies beneath the water in the center of the alcove, worn and broken in 
+sections. 
+~
+69 65544 0
+0
+D3
+~
+~
+0 -1  0 69015
+S
+#69017
+A Sharp Turn Clouded With Humidity~
+   A sharp turn is bade in the hallway's structure here, angular and 
+uncharacteristic in the common structure of the ship, the area's shape making 
+it difficult to see what is further down the way when standing at either side 
+of the corner. Small openings in the hexagonal panels are visible along the 
+wall, spaced rather close to each other and regular for a long way down, though 
+the purpose behind them is not immediately apparent, aside from hazy clouds of 
+humidity rising from each and dispersing into the air. 
+~
+69 65544 1
+0
+D0
+~
+~
+0 -1  0 69015
+D3
+~
+~
+0 -1  0 69018
+S
+#69018
+Mist-Shrouded Junction~
+   The halls converge here on a raised section of floor, steps composed of many 
+triangular panels reaching up to a central platform, where drops of water flow 
+down along them and pool on the floor at the edges of the stairs. From the 
+platform, a steady stream of mist is poured, the ceiling seeming to leak it 
+here from holes arranged in circular formation, the light that shines brightly 
+from behind the walls flickering and flaring against the flowing streams of 
+haze that pour through the room, giving the whole area a sense of being 
+underwater. 
+~
+69 65544 26
+0
+D1
+~
+~
+0 -1  0 69017
+D2
+~
+~
+0 -1  0 69019
+D3
+~
+~
+0 -1  0 69020
+S
+#69019
+A Large Alcove with a Glowing Pedestal~
+   This alcove presses into the blue-tinged hexagonal plated walls, forming a 
+several meter wide space. Sleek holographics slowly flicker along the walls, 
+complex looking symbols occasionally standing out for a moment before fading. 
+Along the upper reaches of the alcove, a band of quartz a meter wide borders 
+the room, purple and blue lights flickering within it, while the quartz itself 
+seems to have been divided into small sets of etched cystals. In the midst of 
+the floor the hexagonal plates rise up into a three meter high pedestal, 
+several large ports giving access to what appears to be a glowing interior. 
+Clouds of humidity swirl around the base of the machine, seeming to 
+occasionally be pulled in through the ports. 
+~
+69 65544 26
+0
+D0
+~
+~
+0 -1  0 69018
+P
+l lo loo look~
+p pe ped pede pedes pedest pedesta pedestal~
+vstr On the pedestal floats a hologram of a list of names that can be scrolled through with hand motions. At the bottom of the list reads the following text: #6Alpha Centauri Colony Six-Two-Two Survivors #1/#6 Centauri Colonization Vessel #3[CCV Omega]#6 Crew Manifest#0
+~
+S
+#69020
+Mist Shrouded Incline~
+   The small metallic hexagonal plates of the floor begin to raise here into a 
+steep incline, moisture and humidity half concealing them as water seems to 
+flow down small rivulets in the surface of the material. Blue holographic bars 
+line the incline, serving as a sort of guiding light for passers by. At the 
+top of the incline stands an inset doorway, made from six triangular panels to 
+make up a large hexagon. Near the doorway is a panel, a purple human hand 
+outlined on its surface. 
+~
+69 65544 26
+0
+D1
+~
+~
+0 -1  0 69018
+D4
+~
+hexagonal-door~
+1 -1  0 69021
+S
+#69021
+Top of an Incline~
+   An arc of blue holographic light seems to fill this section, a steep incline 
+that rises from a large hexagonal-shaped doorway. Over the doorway, the arc of 
+light seems to hold itself a few inches from the small blue metallic panels 
+that make up the walls. Humidity swirls around the holograms, scattering the 
+light and giving the impression of almost being under water. Near to the 
+doorway is a small inset panel, with a purple human hand imprinted on it. 
+~
+69 73736 1
+0
+D0
+~
+~
+0 -1  0 69022
+D5
+~
+hexagonal-door~
+1 -1  0 69020
+S
+#69022
+A Forking Passage~
+   Humidity swirls here, coming together in a thick fog that churns from the 
+west and north. Swirls rise up toward the ceiling and condense, before falling 
+back to the small blue hexagonal plates that make up the floor. Flickers of 
+light travel behind the panels, lighting the veins of quartz that serves as a 
+border for each. Holograms light the section, bars of blue light that seem to 
+travel along the walls at various intervals. To the south the floor begins to 
+dip, small rivulets of water seeming to follow the decline. 
+~
+69 73736 26
+0
+D0
+~
+~
+0 -1  0 69024
+D2
+~
+~
+0 -1  0 69021
+D3
+~
+~
+0 -1  0 69023
+S
+#69023
+Atmosphere Node I~
+   A colossal #6structure#0 fills the room here, towering overhead and reaching 
+all the way to the lofty ceiling, filling the room with a low, resounding hum 
+that cycles furiously, the ground vibrating underfoot with the uptake of each 
+new cycle from the great machine. A heavy layer of thick fog coats the area, 
+condensing against the skin and painting the wall with a layer of drops and 
+rivulets of water. The central machine seems to rhythmically breathe in and 
+out, sprays of mist flowing out from it in droves and moving out into the 
+corridor beyond, while ovular ducts on the sides of the construct act like a 
+vacuum, sucking in air at alarming rates, easily enough to pick up and consume 
+a stray human. 
+~
+69 73736 11
+0
+D1
+~
+~
+0 -1  0 69022
+E
+structure~
+This machine is a streamlined, vespine composition of blued, quartz-coated
+metal, towering easily twenty feet up and split into two separate towers,
+connected centrally by a very simple but elegant control panel, with a
+purple outline of a human hand to the right of the display. A diagram of
+the two towers is visible at the center of the panel, and they stand out in
+a striking, flashing red, small percentages just above each structure which
+flicker between very high numbers, astronomically beyond the calm 100% that
+stands above the control panel in the diagram.
+~
+P
+l lo loo look ex exa exam exami examin examine~
+structure str stru struc struct structu structur~
+info vnum room -1 vnum
+if oexist(69030,&(vnum))
+doitanyway -1
+vbr -
+vstr A small holograph floats over the panel running the machinery, reading the flashing words: #1Locked Via Ecodome Controls#0
+else do
+doitanyway -1
+fi done
+~
+S
+#69024
+A Turn in the Corridor~
+   The passage here curves around the central mass of the ship, continuing to 
+the east and to the south. The humidity has become a thick fog here, brilliant 
+blue holographic bars along the walls the only real guide. The lights beneath 
+the small blue hexagonal panels shift and move slowly, bathing the fog in a 
+slow pulsing blue. Underfoot, small rivulets of water travel along the deck, 
+every surface covered in a thin film of moisture. 
+~
+69 73736 1
+0
+D1
+~
+~
+0 -1  0 69025
+D2
+~
+~
+0 -1  0 69022
+S
+#69025
+A Fog Filled Passage~
+   A thick and stifling fog of moist air fills this area, visibility cut down 
+to just a few feet ahead. Small blue holographic bars pierce the fog, 
+traveling along the walls on some unknown circuit, the occasional symbol 
+traveling along with them. The small hexagonal panels that make up the deck 
+press into an alcove to the north, rolling clouds of moisture coming from that 
+direction. To the east, the deck begins to rise. 
+~
+69 73736 26
+0
+D0
+~
+~
+0 -1  0 69026
+D1
+~
+~
+0 -1  0 69027
+D3
+~
+~
+0 -1  0 69024
+S
+#69026
+Atmosphere Node II~
+   A colossal #6structure#0 fills the room here, towering overhead and reaching 
+all the way to the lofty ceiling, filling the room with a low, resounding hum 
+that cycles furiously, the ground vibrating underfoot with the uptake of each 
+new cycle from the great machine. A heavy layer of thick fog coats the area, 
+condensing against the skin and painting the wall with a layer of drops and 
+rivulets of water. The central machine seems to rhythmically breathe in and 
+out, sprays of mist flowing out from it in droves and moving out into the 
+corridor beyond, while ovular ducts on the sides of the construct act like a 
+vacuum, sucking in air at alarming rates, easily enough to pick up and consume 
+a stray human. 
+~
+69 73736 11
+0
+D2
+~
+~
+0 -1  0 69025
+E
+reformat~
+~
+E
+structure~
+This machine is a streamlined, vespine composition of blued, quartz-coated
+metal, towering easily twenty feet up and split into two separate towers,
+connected centrally by a very simple but elegant control panel, with a
+purple outline of a human hand to the right of the display. A diagram of
+the two towers is visible at the center of the panel, and they stand out in
+a striking, flashing red, small percentages just above each structure which
+flicker between very high numbers, astronomically beyond the calm 100% that
+stands above the control panel in the diagram.
+~
+P
+l lo loo look ex exa exam exami examin examine~
+structure st str stru struc struct structu structur~
+info vnum room -1 vnum
+if oexist(69030,&(vnum))
+doitanyway -1
+vbr -
+vstr A small holograph floats over the panel running the machinery, reading the flashing words: #1Locked Via Ecodome Controls#0
+else do
+doitanyway -1
+fi done
+~
+S
+#69027
+Red Lit Incline~
+   Clouds of humidity churn in this area, seeming to drift in from the west. 
+As the floor rises, however, the fog seems to thin, as if unable to climb the 
+incline. Blue holographic bars are contrasted with the occasional red ones, 
+bright warning symbols occasionally appearing and moving across the walls. As 
+the incline proceeds, a hexagonal door stands, six triangular sections making 
+up each portion of the door. A small panel stands inset into the wall, an 
+outlined purple hand inset into it. 
+~
+69 73736 26
+0
+D3
+~
+~
+0 -1  0 69025
+D4
+~
+Hexagonal-Door~
+1 -1  0 69034
+S
+#69028
+Rising Deck Before a Massive Door~
+   A massive hexagonal-shaped door stands ahead, looming over the rising deck. 
+Over the door stands an arc of red holographic light, casting sharp shadows 
+over the rest of the corridor. The air here is bone dry, several cracks 
+apparent in the small hexagonal tiles that make up the walls. Near the doorway 
+is a dark panel, a small purple hand set into the material, a faint red symbol 
+above it. 
+~
+69 65548 26
+0
+D1
+~
+~
+0 -1  0 69029
+D4
+~
+massive-hexagonal-door~
+1 -1  0 69035
+S
+#69029
+A Fork in the Corridor~
+   This area turns slowly around the central mass, curving slightly. An alcove 
+stands to the south, the small hexagonal tiles pressing out from the hallway 
+into it. Red light bathes the area, coming from the bars of holographics that 
+seem to move cautiously along the walls of the corridor. The air here is dry 
+and lacks any humidity, every surface seeming to be matte and flat. The deck 
+slowly begins to rise to the west. 
+~
+69 65544 1
+0
+D1
+~
+~
+0 -1  0 69031
+D2
+~
+~
+0 -1  0 69030
+D3
+~
+~
+0 -1  0 69028
+S
+#69030
+A Collapsed Structure~
+   What was once a colossal structure stands in a heap in this alcove, the two 
+towers of the machine having almost crumpled in on themselves. A small control 
+panel stands between them, with a purple outline of a human hand to the right 
+of the display, though the display itself is completely blank. The central 
+machine seems to be bloated, the surface littered with carbuncles and twisted 
+nodes that distort and crack the blued hexagonal panels that make it up. The 
+air here is completely dry, no hint of humidity or fog present, only the 
+occasional drifting red holographic bar along the wall. 
+~
+69 65544 1
+0
+D0
+~
+~
+0 -1  0 69029
+S
+#69031
+Turn in the Corridor~
+   Bars of red light slowly move along this corridor, standing just centimeters 
+off from the walls. Small blue hexagonal panels make up the walls, small lines 
+of quartz bordering each. The air here is clear and dry, lacking almost any 
+humidity. To both the north and the west the corridor continues onward, 
+turning around the central mass. 
+~
+69 65544 26
+0
+D0
+~
+~
+0 -1  0 69032
+D3
+~
+~
+0 -1  0 69029
+S
+#69032
+A Red Lit Corridor~
+   The air here is clear and dry, the holographic lighting subdued. Faint red 
+bars of light move across the corridor along the walls, interspersed with the 
+occasional blue one. The walls are made up of small, blue hexagonal panel, 
+quartz bordering each, faint blue light moving along behind the panels slowly. 
+To the north, the deck begins to dip, while to the east, the deck seems to 
+press into a large alcove. 
+~
+69 65544 1
+0
+D0
+~
+~
+0 -1  0 69034
+D1
+~
+~
+0 -1  0 69033
+D2
+~
+~
+0 -1  0 69031
+S
+#69033
+A Silent Structure~
+   A colossal #6structure#0 fills the room here, towering overhead and reaching 
+all the way to the lofty ceiling. The thing is almost completely silent, save 
+for the occasional flutter of movement from within the device. The air here is 
+dry and clear, no hint of fog or other humidity, the small hexagonal deck 
+panels appearing flat and matte. The central machine seems to be bloated, the 
+surface of the device littered with carbuncles and twisted nodes, ovular ducts 
+on the sides of the construct limp and sagging. 
+~
+69 65544 11
+0
+D3
+~
+~
+0 -1  0 69032
+E
+structure~
+   This machine is a streamlined, vespine composition of blued, quartz-coated 
+metal, towering easily twenty feet up and split into two separate towers, 
+connected centrally by a very simple but elegant control panel, with a purple 
+outline of a human hand to the right of the display. A diagram of the two 
+towers is visible at the center of the panel, and they seem to simply be blank, 
+no readings coming from either tower. 
+~
+S
+#69034
+Red-Lit Decline~
+   The floor here slopes sharply down toward a large hexagonal door, large 
+triangular panels clearly able to slide into the walls on either side. The 
+normally blue holographics of this section have been replaced by small red 
+bars, each of them moving slowly across the walls. The humidity here is almost 
+non-existent, the air clear and dry. Small blue hexagonal panels make up the 
+walls, but each is matte and flat, the lights behind them only slowly moving. 
+~
+69 65544 26
+0
+D2
+~
+~
+0 -1  0 69032
+D5
+~
+hexagonal-door~
+1 -1  0 69027
+S
+#69035
+Decline Before a Massive Door~
+   The deck here rises sharply before leveling off, a massive hexagonal-door in 
+the midst of the rise. Over the door is the faint wisps of what might be a 
+hologram, faint red points of light that seem to drift along the borders of the 
+door. The air here is dry, yet alongside that is a faint organic scent that 
+fills the corridor. The deck continues to the north, an occasional crack 
+visible in the hexagonal paneling of the deck. 
+~
+69 65544 26
+0
+D0
+~
+~
+0 -1  0 69036
+D5
+~
+massive-hexagonal-door~
+1 -1  0 69028
+S
+#69036
+A Flickering Corridor~
+   Dim red light flickers through this corridor, the bar-like holograms slowly 
+moving along the hexagonal-paneled walls. In several places, a fleshy organic 
+film has covered the walls, just a few centimeters thick. Light from beneath 
+seems to press through it occasionally, but the organic layer stifles and 
+darkens the corridor. Along the ceiling, several panels and hexagonal 
+protrusions are visible, a low hum of machinery coming from them. 
+~
+69 65544 1
+0
+D0
+~
+~
+0 -1  0 69041
+D2
+~
+~
+0 -1  0 69035
+D3
+~
+~
+0 -1  0 69037
+S
+#69037
+Junction Between Alcoves~
+   This junction stands beneath a great hub of machinery that extends down from 
+the ceiling, made up of the same hexagonal panels as the deck itself. Faint 
+red light seems to emanate from bar-like holograms that rotate around the 
+machine, filling the corridor. Small flashing symbols occasionally appear, 
+flashes of crimson against the dark blue metal of the deck. Alcoves branch out 
+to the north, west, and south, faint glints of something crystalline visible 
+from the junction. 
+~
+69 65544 26
+0
+D0
+~
+~
+0 -1  0 69040
+D1
+~
+~
+0 -1  0 69036
+D2
+~
+~
+0 -1  0 69038
+D3
+~
+~
+0 -1  0 69039
+S
+#69038
+Crystal Filled Chamber~
+   Thousands of small crystals glitter in the red light that fills this alcove, 
+each held within the confines of meter-wide quartz pillars. Each crystal is 
+only a few centimeters long, jutting out from the pillars just slightly, yet 
+held securely. Within each pillar stands a long slender blued-metal armature, 
+constantly moving and humming, distorted slightly through the quartz. Just 
+beyond each crystal stands an almost invisible #6hologram#0, flickering a few 
+millimeters from the surface. 
+~
+69 65544 11
+0
+D0
+~
+~
+0 -1  0 69037
+E
+hologram~
+   Each hologram carries a small line of text, shimmering in faint blue, 
+"Elodea nuttallii," "Asclepias syriaca," "Morone saxatilis," "Rhododendron 
+catawbiense." Thousands upon thousands of small lines of text cover the 
+pillars. 
+~
+S
+#69039
+Crystal Filled Chamber~
+   Thousands of small crystals glitter in the red light that fills this alcove, 
+each held within the confines of meter-wide quartz pillars. Each crystal is 
+only a few centimeters long, jutting out from the pillars just slightly, yet 
+held securely. Within each pillar stands a long slender blued-metal armature, 
+constantly moving and humming, distorted slightly through the quartz. Just 
+beyond each crystal stands an almost invisible #6hologram#0, flickering a few 
+millimeters from the surface. 
+~
+69 65544 11
+0
+D1
+~
+~
+0 -1  0 69037
+E
+hologram~
+   Each hologram carries a small line of text, shimmering in faint blue, 
+"Crassocephalum paludum," "Paraphymatoceros hallii," "Impatiens sarawakensis," 
+"Archipimima yanachagae." Thousands upon thousands of small lines of text cover 
+the pillars. 
+~
+S
+#69040
+Crystal Filled Chamber~
+   Thousands of small crystals glitter in the red light that fills this alcove, 
+each held within the confines of meter-wide quartz pillars. Each crystal is 
+only a few centimeters long, jutting out from the pillars just slightly, yet 
+held securely. Within each pillar stands a long slender blued-metal armature, 
+constantly moving and humming, distorted slightly through the quartz. Just 
+beyond each crystal stands an almost invisible #1hologram#0, flickering a few 
+millimeters from the surface. 
+~
+69 65544 11
+0
+D2
+~
+~
+0 -1  0 69037
+E
+hologram~
+   Each hologram carries a small line of text, shimmering in a muted red, 
+"#1Inferi redivivus#0," "#1Inferi redivivus#0," "#1Inferi redivivus#0," 
+"#1Inferi redivivus#0." Thousands upon thousands of identical small lines of 
+text cover the pillars. 
+~
+S
+#69041
+Turn in the Corridor~
+   Almost no light at all fills this corridor, a thin organic film covering 
+nearly every surface. Just a few centimeters thick, the top of the film is 
+covered in bulbous nodes and ropey veins, spreading throughout the corridor. 
+It grows thicker as the corridor turns to the north, small patches of chitin 
+visible on occasion. To the south, the film thins out and becomes patchy, thin 
+tendrils spreading in that direction. 
+~
+69 65544 26
+0
+D1
+~
+~
+0 -1  0 69042
+D2
+~
+~
+0 -1  0 69036
+S
+#69042
+Growth-Covered Hall~
+   The film thickens here, a number of inches from the floor and spongey, 
+overgrown nodes looking to be ready to burst, and veins snaking along through 
+the room, crawling up the hexagonally-panelled walls quite a way, always 
+trapped underneath the seemingly airtight growths all through the hallway, a 
+sheer layer of thick chitin growing in wild patches, that is stiff and 
+plate-like, the only surface that retains a sense of solidity in the area. 
+~
+69 65544 1
+0
+D0
+~
+~
+0 -1  0 69043
+D1
+~
+~
+0 -1  0 69047
+D3
+~
+~
+0 -1  0 69041
+S
+#69043
+A Growth-encrusted Platform~
+   Once a spacious spread of cobalt floors and decorative geometric inlaid 
+designs, now most of this platform is caught in claustrophobic grip of an 
+insidious growth spanning the length of it. What would have been chandeliers 
+now serve as points where ropy lengths of black, grey, and green masses drape 
+like tattered curtain pulls. Some bits of these growths along the floors have 
+hardened, becoming brittle and probably crunchy underfoot, while others remain 
+slick with somewhat fresh mucous-like fluid. Above all else, the tendrils are 
+alive, twitches and shivers of movement from the numerous twisty ribbon-thin 
+tendrils off-shooting from the growths visible wherever looked and wherever 
+stepped, continuing on in every direction. 
+~
+69 65548 26
+0
+D0
+~
+~
+0 -1  0 69045
+D1
+~
+~
+0 -1  0 69046
+D2
+~
+~
+0 -1  0 69042
+D3
+~
+~
+0 -1  0 69044
+S
+#69044
+Chitin-Consumed Interior~
+   Once an expansive room surrounding an elevator, some of the interlocking 
+geometric panels can still be seen. Their blue surfaces have been dulled, 
+smudged and covered with a layer of dust and organic goo. It clings to 
+virtually everything, sweeping up in great whorls while some areas have been 
+overlaid with portions that are almost like great chitinous boils, set into the 
+innards of the ship. In some ways it is reminiscient of a macabre version of a 
+theatrical establishment, with the loops and tiered set up high above. 
+Meanwhile, when time is taken to admire the expansive of corrupted 
+architecture, mucus-like tendrils drip down towards any observers. 
+~
+69 65544 11
+0
+D1
+~
+~
+0 -1  0 69043
+S
+#69045
+Lobby Draped with Alien Whorls~
+   In an elaborate trail, chitinous outgrowths sweep upwards towards the 
+ceiling in spiraling designs, looking stable enough to put weight on. The 
+black, grey, and green hardened sludge almost completely covers the blue 
+hexagons that make up the interior of the base ship. Given the state of the 
+gigantic room, the hardened masses almost drape from the ceiling, coating much 
+of the walls in their tendrils and hardening to pooled masses like enormous, 
+dark stalactites and stalagmites. Very little of the floor is still visible 
+underfoot, instead coated in a surprisingly resilient, slick black growth which 
+has been pocked with enormous, chitinous pustules.
+   To the north, a cave in has caused the entirety of that area to collapse into a massive heap of slag metal and debris.
+~
+69 67174408 11
+0
+D2
+~
+~
+0 -1  0 69043
+S
+#69046
+A Growth-buried Alcove~
+   Though the bone-structure and some of the underlying glory of this foyer 
+remains, the cobalt-colored floors have been overtaken by a thick and hardened 
+growth. The mottled black, green, and grey of the clumps on the floor dull 
+whatever shine might have remained and corrupt the inlaid floor, leaving little 
+cracks as infiltrating tendrils threaten to split the once-seamless designs. 
+Ropes of that same growth matter drape from the ceiling, from long-dead 
+fixtures, some bits and tendrils appearing alive as they writhe slightly in 
+mid-air. Ending in a curve here, this space settled near the elevator 
+continues westward back to a slightly elevated landing. 
+~
+69 65544 11
+0
+D3
+~
+~
+0 -1  0 69043
+E
+layer~
+This layer of growth is very thick and prevalent along the entire room, reaching out into
+the hallway beyond, with not a bit of the floor left untouched, and only a small circle
+left free on the ceiling. It looks to have crawled from within some pods, explosively
+growing outward from one here and there about the area, and creeping down to the ground,
+the surface spongey, but tightly stuck to the surfaces, huge organic bulbs residing in
+clusters, some so large as to render walkways in the area unuseable.
+
+~
+S
+#69047
+Red-Lit Area Before A Massive Door~
+   The deck rises here, up to a huge hexagonal door, a slowly pulsing arc of 
+red light radiating around the portal, bright enough at its peak to light the 
+area at least somewhat adequately, but quickly dissipating to the point of 
+darkness before long, and plunging the silent hallway into black. Along the 
+paneled floor crawls an organic film, fairly thin, and only an inch from the 
+metal at its thickest points. Near the door, it disappears entirely, and 
+leaves only tiny tendrils and the occasional small globule festering near the 
+triangular steps that lead up to the next deck. 
+~
+69 65544 26
+0
+D3
+~
+~
+0 -1  0 69042
+D4
+~
+massive-hexagonal-door~
+1 -1  0 69048
+P
+sn sne snea sneak~
+u up~
+vstr A number of writing, grey-skinned tentacles swat at you before you can get through the open doorway, barring your path. It looks like you have bigger fish to fry, first.
+~
+S
+#69048
+Circular, Stair-Filled Room~
+   Two semicircular sets of triangular-paneled stairs hug the walls of the room 
+here, ascending from the base of the area, where a huge hexagonally-shaped door 
+stands, its own parts made up of a number of triangles in a composite portal 
+that opens outward into the frame surrounding it. The walls pulse with a 
+bright red holographic light near the bottom of the circular room, but on the 
+ascent toward the hallway leading south, they phase into darkness, and near the 
+crest of the stairwells, faint blue light shines out from between the 
+wall-panels, quite weakly, but visible nonetheless. This space is free from 
+gravity, lending little bits of refuse and riff-raff to float endlessly. 
+~
+69 67174412 30
+0
+D1
+~
+~
+0 -1  0 69049
+D2
+~
+~
+0 -1  0 69050
+D5
+~
+massive-hexagonal-door~
+1 -1  0 69047
+S
+#69049
+A Vast, Spherical Hall~
+   This spherical, gargantuan hall dwarfs any other yet seen on this ship, the 
+walls lined by hundreds if not thousands of circles, each only three feet in 
+circumference. Each of the circles glow with a pale blue ghostly light, and 
+some are made crimson by rust-colored paint covering it, or something less 
+innocent. The entirety of the area has been suspended in a zero-gravity 
+environment, causing any unsecured objects to float. Countless debris clutters 
+the air, from metal junk to less savory objects - skeletal limbs - float in 
+place. Curiously, there are two crane-like platforms in the direct center of 
+the area, reachable by the walkway that extends from the entrance to a control 
+panel, sitting at the bottom of the central array and hooked to the platforms 
+themselves. 
+~
+69 65544 30
+0
+D2
+~
+~
+0 -1  0 69051
+D3
+~
+~
+0 -1  0 69048
+E
+control~
+This panel is a simple, flat screen accessible by touch control, with a purple
+outline of a hand on the right side. Visible along the screen are clusters of
+circles, marked with denominations like #9A - [ 234 ]#0, all a bright red, and
+sections of the display are totally blank, only the number still visible. On the
+side are a set of simple command squares, and with them, one might be able to
+CALL the LIFT, or ACCESS a cluster NUMBER.
+~
+S
+#69050
+Hallway Surrounding An Irridescent Pillar~
+   The hallway stretches around a central, cylindrical pillar that rises in the 
+center of the room, its surface composed of tiny hexagonal panels that mesh 
+together so closely as to resemble a fish's scales, tiny motes of twinkling 
+blue light dancing up between the edges of the hexagons and rising toward the 
+ceiling of the area. The lights are so numerous, infact, that it gives the 
+impression that there is a constant wave of blue rising in the room, the 
+holographic shine that emits from the walls mirroring the central pillar, if 
+only in hue. To the north, east, and south, the hallway continues, a healthy 
+blue color following the walls in each direction. 
+~
+69 67174408 30
+0
+D0
+~
+~
+0 -1  0 69048
+D1
+~
+~
+0 -1  0 69051
+D2
+~
+~
+0 -1  0 69054
+K
+105 0 20 999 0S
+#69051
+A Railed Junction~
+   The colors in this area are quite subdued when compared with most of the 
+deck; the pale, holographic blue light that adorns the walls faltering and 
+growing very muted and quiet here, as the area rises up on a bit of a slope 
+from the west to a platform at it's center. Encasing the platform are 
+transparent, paneled rails that separate the rest of the room, which is airy 
+and large, from the junction, and they allow exit through a path in each of the 
+cardinal directions. Chunks of metal and plastic hang in the air along with 
+less savory bits, preserved human parts and chunks of flesh, forever buoyed by 
+the lack of gravity. 
+~
+69 65544 30
+0
+D0
+~
+~
+0 -1  0 69049
+D1
+~
+~
+0 -1  0 69052
+D2
+~
+~
+0 -1  0 69053
+D3
+~
+~
+0 -1  0 69050
+S
+#69052
+A Huge, Cavernous Chamber Housing the Engine Core~
+   This spherical, gargantuan hall dwarfs any other yet seen on this ship, the 
+walls lined by hundreds if not thousands of circles, each only three feet in 
+circumference. Each of the circles glow with a pale blue ghostly light, 
+swathing the whole scene in brilliant blue. The light disrupts the flow from 
+ceiling to walls, crafting the illusion of seamlessness. The entirety of the 
+area has been suspended in a zero-gravity environment, causing any unsecured 
+objects to float. Countless debris clutters the air, from metal junk to less 
+savory objects - skeletal limbs - float in place. A simple square console that 
+stands centered in the ocean of blue, and the massive engine core, the cause of 
+the light, taking up nearly a fourth of the gargantuan room's space and 
+emitting a monotonous drone. 
+~
+69 67174408 30
+0
+D3
+~
+~
+0 -1  0 69051
+E
+control~
+This panel is a simple, flat screen accessible by touch control, with a purple
+outline of a hand on the right side. Visible along the screen are clusters of
+circles, marked with denominations like #9A - [ 234 ]#0, all a bright red, and
+sections of the display are totally blank, only the number still visible. On the
+side are a set of simple command squares, and with them, one might be able to
+CALL the LIFT, or ACCESS a cluster NUMBER.
+~
+S
+#69053
+A Large Three-way Hall~
+   This spherical, gargantuan hall dwarfs any other yet seen on this ship, the 
+walls lined by hundreds if not thousands of circles, each only three feet in 
+circumference. Each of the circles glow with a pale blue ghostly light, and 
+some are made crimson by rust-colored paint covering it, or something less 
+innocent. The entirety of the area has been suspended in a zero-gravity 
+environment, causing any unsecured objects to float. Countless debris clutters 
+the air, from metal junk to less savory objects - skeletal limbs - float in 
+place. Curiously, there are two crane-like platforms in the direct center of 
+the area, reachable by the walkway that extends from the entrance to a control 
+panel, sitting at the bottom of the central array and hooked to the platforms 
+themselves. 
+~
+69 65544 30
+0
+D0
+~
+~
+0 -1  0 69051
+D2
+~
+~
+0 -1  0 69057
+D3
+~
+~
+0 -1  0 69054
+E
+reformat~
+~
+E
+control~
+This panel is a simple, flat screen accessible by touch control, with a purple
+outline of a hand on the right side. Visible along the screen are clusters of
+circles, marked with denominations like #9A - [ 234 ]#0, all a bright red, and
+sections of the display are totally blank, only the number still visible. On the
+side are a set of simple command squares, and with them, one might be able to
+CALL the LIFT, or ACCESS a cluster NUMBER.
+~
+S
+#69054
+A Blue-lit Corridor~
+   The hall remains a straight north and south here, leading towards a 
+three-sided intersection southward, while to the north rests a stair-lined 
+room. A pale blue glow comes from the walls, with pale purple hexagonal panels 
+inset. A few suspicious smears of rust-colored crust cover some of the panels, 
+blocking their faint glow. The area is without gravity, causing floating bits 
+of debris to hang in the air. Shards of metal, glass, and something that looks 
+suspiciously like bone are suspended eternally, undisturbed. 
+~
+69 65544 30
+0
+D0
+~
+~
+0 -1  0 69050
+D1
+~
+~
+0 -1  0 69053
+D2
+~
+~
+0 -1  0 69055
+S
+#69055
+Along a Blue-lit Corridor~
+   Moving simple north and south, this space has mottled rust-splattered walls 
+that were once glowing, lit from within. Gravity has long-ago failed and 
+debris hangs in the air, comprised of metal, glass, and something that looks 
+suspiciously like bone. The floors are smooth, cut with a runner of some 
+now-splattered rug in the absolute center of the rectangular stretch. 
+~
+69 65544 30
+0
+D0
+~
+~
+0 -1  0 69054
+D1
+~
+~
+0 -1  0 69057
+D2
+~
+~
+0 -1  0 69056
+K
+105 0 10 999 0S
+#69056
+Junction Around A Central Platform~
+   In the three cardinal directions this junction reaches, the entire area 
+fairly squat and close together, with a simple upraised platform in the center, 
+a few feet above the corridors that stretch beyond. Stairs that are composed 
+of many triangular panels fused together lead up each side of the platform, and 
+a glasslike railing surrounds it, small rays of blue light flaring across it in 
+waves at seemingly unpredictable intervals, the entire room brightening at each 
+wave and the walls seeming to take on an almost reflective sheen as the 
+lighting reaches its peak. 
+~
+69 67174408 30
+0
+D0
+~
+~
+0 -1  0 69055
+D1
+~
+~
+0 -1  0 69059
+D2
+~
+~
+0 -1  0 69058
+K
+105 0 20 999 0S
+#69057
+A Compact, Panel-Filled Dome~
+   This room is a fairly compact deep-blue dome, a fork leading in three 
+directions to a wide array of dead panels and video-displays. If they ever 
+flickered with life, they are silent now. The lights appear to have also gone 
+out, or properly 'exploded', their cracked husks hanging and empty. Suspended 
+in zero-gravity, debris, glass, and bones hang in place, buoyed and forever 
+hanging. A few smears of rust-colored material dot the floor, though the 
+source has long-ago eroded. 
+~
+69 65544 30
+0
+D0
+~
+~
+0 -1  0 69053
+D2
+~
+~
+0 -1  0 69059
+K
+105 0 30 999 0S
+#69058
+A Small, Faintly-lit Alcove~
+   Conspicuously, all of the video display screens in this room are dormant and 
+nonworking, no text visible across the panels and no quiet hum coming from the 
+processing unit behind them. Were they functioning, there is a rather large 
+control panel near the center of the area, with many tiny switches and buttons 
+below tiny labels that indicate their function in shorthand. Contrary to the 
+rest of this part of the ship, this part is totally silent, despite the room's 
+walls emitting the pale blue holographic light that indicates functioning. 
+Bits of debris hang in the air, buoyed by zero-gravity. Some appear to be 
+flecks of metal or glass while others are less savory -- chunks of bone and 
+preserved, dehydrated flesh. 
+~
+69 65544 30
+0
+D0
+~
+~
+0 -1  0 69056
+S
+#69059
+A Machine-Filled Dome~
+   A dizzying array of screens lines every single inch of the walls here, no 
+typical deep-blue hexagonal panels to be seen, like a massive video-dome. 
+However, all the screens are black and dead. Triangular, paneled chairs float 
+haphazardly here, with no gravity to hold them down. On the perimeter of the 
+domes are rectangular, smooth black boxes, that emit a quiet hum in the 
+otherwise silent room. Many types of debris hangs in the air, lifted by the 
+lack of gravity. Some pieces are simple metal or plastic, while others look 
+suspiciously like bone. 
+~
+69 65544 30
+0
+D0
+~
+~
+0 -1  0 69057
+D3
+~
+~
+0 -1  0 69056
+K
+105 0 20 999 0S
+#69060
+A Deep-Blue Corridor~
+   Smooth, cobalt-hued plates, roughly the size of a human's hand, are shaped 
+into perfect hexagons that line the walls, floor and ceiling of the hallway. 
+Some of the plates closest to the eastern end of the corridor are bulging and 
+cracked. Faint purple light emits from behind the quartz-like mortar between 
+each plate, providing just enough illumination to see unaided. A similar, dim 
+glow comes from the west, while the eastern corridor leads to shadowy wreckage. 
+~
+69 65544 0
+0
+D1
+~
+~
+0 -1  0 69000
+D3
+~
+~
+0 -1  0 69061
+E
+plate~
+   Arranged in a honeycomb pattern, these dark blue plates appear to be part of 
+the bulkhead itself, rather than added atop the vessel's structure. They are 
+glass-like to the touch, but are strong enough to withstand most damage. 
+~
+S
+#69061
+A Deep-Blue Corridor~
+   Honeycombs of dark blue plating sheathe the corridor, with the gaps between 
+emitting a dim purple glow. There are only a few signs of structural damage 
+present, though some sections' quartz-limning lacks the muted illumination of 
+the majority. The corridor is wide enough for five humans to walk abreast, but 
+the homogenous surrounds make the space seem considerably smaller. The hallway 
+continues east, toward the Atlas, and west, further into the purple haze. 
+~
+69 65544 0
+0
+D1
+~
+~
+0 -1  0 69060
+D3
+~
+~
+0 -1  0 69062
+S
+#69062
+A Spiraling T-Junction~
+   Soft purple light emanating from quartz-like mortaring between the cobalt 
+blue plates suffuses the area. The hallway is silent, punctuated occasionally 
+by the sound of dripping water. Hard, unrelieved walls amplify each drip, and 
+any speech above a whisper is similarly echoed. The corridor curves downward 
+in a sharp bend to the south, while the western passageway continues on a 
+shallow, dimly lit decline. The junction is bare, lending an abandoned feel. 
+~
+69 67174408 0
+0
+D1
+~
+~
+0 -1  0 69061
+D2
+~
+~
+0 -1  0 69063
+D3
+~
+~
+0 -1  0 69067
+S
+#69063
+A Humid, Deep-Blue Passageway~
+   The sloping corridor extends upward to the north and downward to east, 
+bending in a gentle, spiraling curve. The air in this section of the corridor 
+is dank, clingy and stifling. The walls, ceiling and floor are sparsely lined 
+with rivulets of condensation that drip and slide down the blue hexagonal 
+plates and trickle down the passageway. The purple light emanating from the 
+panels seems slightly more subdued and occluded than it does to the north. 
+~
+69 65544 0
+0
+D0
+~
+~
+0 -1  0 69062
+D1
+~
+~
+0 -1  0 69064
+S
+#69064
+A Misty, Deep-Blue Passageway~
+   Mist ebbs and flows here as air languidly circulates in the area. The 
+temperature is quite chilly, save for an occasional lapse where faint warmth is 
+blown in from the south. Condensation has formed on the sleek, deep-blue walls 
+and ceiling, water occasionally rolling down the hexagonal patterns to the 
+floor. Every now and then the blue tiles shimmer in a purple light which 
+catches in the mist. A slight incline in the passageway leads west, while a 
+steeper, curving decline leads south into a thick, purple-tinged fog. 
+~
+69 65544 0
+0
+D2
+~
+~
+0 -1  0 69065
+D3
+~
+~
+0 -1  0 69063
+S
+#69065
+A Foggy, Deep-Blue Passageway~
+   The corridor here stretches upward to the north, and downward to the west in 
+a slow, spiraling slope. Blue and purple light fills the area, refracting in 
+the thick, shifting fog that permeates from below. The walls and floor, 
+difficult to see from even an arms-length away, consist of hexagonal panels of 
+a deep-blue material that is slippery to the touch due to the clinging 
+dampness. It is especially slick the further west one goes as the corridor 
+begins to become submerged in uncomfortably warm water. The temperature of 
+this passageway shifts between cool and warm as the tepid air circulates. 
+~
+69 65544 0
+0
+D0
+~
+~
+0 -1  0 69064
+D3
+~
+~
+0 -1  0 69066
+S
+#69066
+A Flooded, Rounded Chamber~
+   At the bottom of the sloping corridor, this area has been completely 
+submerged under uncomfortably hot water. The water does little to stop the 
+phosphorescent limning of the dark-blue hexagonal panels from filling the area 
+with an eerie, hazy purple glow. A large #3pillar#0 stands at attention in the 
+middle of the chamber, and has a narrow, jagged rupture splaying out of its 
+metal cladding. The flooded passageway curves upward to the east. 
+~
+69 65544 20
+0
+D1
+~
+~
+0 -1  0 69065
+E
+pillar~
+   The rupture in the floor-to-ceiling pillar appears to be the source of the 
+hot water filling the chamber. There is no sign of what caused the damage. 
+~
+S
+#69067
+A Deep-Blue Corridor~
+   The passageway slowly inclines to the east and declines further to the west 
+here and is lit by slowly pulsating, deep-blue and purple lights. The source 
+seems to be coming from the walls of crystalline, hexagonal panels, and from 
+the floor and ceiling made of the same. The sound of dripping water can be 
+heard echoing in the corridor, louder to the east than to the west.
+~
+69 65544 0
+0
+D1
+~
+~
+0 -1  0 69062
+D3
+~
+~
+0 -1  0 69068
+S
+#69068
+A Deep-Blue Corridor~
+   Faint echoing can be heard in the distance of the rising corridor to the 
+east, while evening out to the west as it seems the passage turns. Bluish 
+light glows in this corridor, radiating from the hexagonal tiles of a cobalt 
+colour that composes the ground, walls, and ceiling. The crystalline material 
+of the blue tiles causes the echoes to seem louder, every movement amplified. 
+~
+69 67174408 0
+0
+D1
+~
+~
+0 -1  0 69067
+D3
+~
+~
+0 -1  0 69070
+P
+test~
+(null)~
+if haso(-1,69032)
+vstr You have a parasite on your face.
+else do
+vstr You don't have a parasite.
+fi done
+~
+S
+#69069
+At a Four-Way Intersection~
+   This intersection features a large number of rounded intersections. Where 
+walls meet with ceiling and floor, corners have been left out, replaced by 
+smooth, curved blue, hexagonal tiles that otherwise match the rest of the 
+environment perfectly. While to the north and south the corridors can be seen 
+turning off to the east, the corridors to the east and west look to stretch 
+into infinity, no end in sight. A purple haze caused by light catching on the 
+dusty, stale air of the room, makes navigating directions as difficult as it 
+makes breathing.
+~
+69 65544 0
+0
+D0
+~
+~
+0 -1  0 69075
+D1
+~
+~
+0 -1  0 69081
+D2
+~
+~
+0 -1  0 69100
+D3
+~
+~
+0 -1  0 69090
+S
+#69070
+A Gentle Curve in a Deep-Blue Corridor~
+   Sound seems to echo especially well here as the walls do a sloping, gentle 
+curve to the east and to the south. The room is in nearly pristine condition 
+as well. The walls, ceiling, and floor all seem to be made from the same 
+material, a cobalt-blue set of hexagonal panels that slowly pulse blue and 
+purple light into the room. One of the ceiling panels, however, has a small 
+crack in it which doesn't seem to effect its light-bearing performance. 
+~
+69 65544 4
+0
+D1
+~
+~
+0 -1  0 69068
+D2
+~
+~
+0 -1  0 69071
+S
+#69071
+A Deep-Blue Corridor~
+   The rounded corridor continues to the north and to the south evenly, no 
+changes in elevation notable at all, though to the north the passage seems to 
+disappear somewhere to the east. The deep-blue color is starting to pulsate 
+more rapidly with the lighter purple color here, the effect completely silent. 
+The crystalline nature of the walls, along with the rounded, smooth shape, 
+causes sounds to echo incredibly well, making noises sound much closer and 
+louder than they likely are. 
+~
+69 65544 0
+0
+D0
+~
+~
+0 -1  0 69070
+D2
+~
+~
+0 -1  0 69072
+S
+#69072
+A Deep-Blue Corridor~
+   This wide passage continues to the north and the south, though one can't see 
+much further to the south as the path curves elsewhere, out of sight. The 
+sound of water can be heard somewhere nearby, but the sound is faint and the 
+source indeterminable, the corridors echoing even the faintest of sounds 
+wildly. The walls, ceiling, and floor are made up of flawlessly carved 
+cobalt-blue panels, hexagonal in shape, that emit a low level of purple light 
+in a pulsing pattern. 
+~
+69 65544 0
+0
+D0
+~
+~
+0 -1  0 69071
+D2
+~
+~
+0 -1  0 69073
+S
+#69073
+A Deep-Blue Corridor~
+   The corridor here bends to the north and to the west here, lined by smooth, 
+rounded, hexagonal tiles. The tiles appear perfectly sculpted and show now 
+signs of damage or marring, and are a deep, cobalt blue in color. They appear 
+to be slightly transparent, as they occasionally pulsate with a purple colour 
+beneath which escapes out through the tiles and the thin space between each. 
+The light they give off isn't much, but it does allow for decent enough vision 
+as the entire passage is bathed in a purple wash at all times.
+~
+69 65544 0
+0
+D0
+~
+~
+0 -1  0 69072
+D3
+~
+~
+0 -1  0 69074
+S
+#69074
+A Deep-Blue Corridor~
+   The corridor continues here to the east and west, though visibility in 
+either direction is reduced as the path curves somewhere beyond in both areas. 
+The entire span of the corridor seems awash in purple and blue colors, the blue 
+from the material of the hexagonal panels which form the corridor, and the 
+purple from the light that the panels give off. The air here seems thick and 
+stale, as if it hasn't been circulated in a long time. 
+~
+69 65544 4
+0
+D1
+~
+~
+0 -1  0 69073
+D3
+~
+~
+0 -1  0 69075
+S
+#69075
+Before an Inert Platform~
+   The corridor here branches off to the east and to the south, stretching fair 
+distance in either direction. Matching either passage, this area is alit by 
+deep blue hexagonal panels with low purple light being emitted somewhere 
+underneath. The air here is stale and oppressive, neither circulating down 
+either passageway, or from above where a rubble strewn platform can be seen, 
+reachable by a #3ladder#0 built into the walls. 
+~
+69 65544 0
+0
+D1
+~
+~
+0 -1  0 69074
+D2
+~
+~
+0 -1  0 69069
+D4
+~
+~
+0 -1  0 69076
+E
+ladder~
+   This ladder emerges from the blue tiles of the northern wall. It has been 
+masterfully designed into the crystalline looking tiles, as there doesn't seem 
+to be any damage done to the tiles at all where the thin metal bars jut out. 
+Each rung of the built in ladder only extends two inches out from the wall, and 
+with the thickness of the rungs, someone of large stature would have 
+difficulties climbing up. The metal is cold and of an unidentifiable material. 
+~
+S
+#69076
+A Rubble-Strewn Platform~
+   Above the corridor below, this area is made of the same deep-blue tiles and 
+glows the same dim purple color. Unlike the area below, however, this area 
+looks like it hasn't seen use in quite some time, the entire platform covered 
+in debris. Some of mess appears to be the same crystalline material that forms 
+the ceiling and floor, while there is a large amount of gathered dust and 
+various stones littering the rest of the area. The effect causes this area to 
+be much less well lit, as the primary source of light only comes from the 
+southern wall and the ceiling above. 
+~
+69 67174408 4
+0
+D0
+~
+~
+0 -1  0 69079
+D1
+~
+~
+0 -1  0 69077
+D3
+~
+~
+0 -1  0 69080
+D5
+~
+~
+0 -1  0 69075
+S
+#69077
+A Rubble-Strewn Platform~
+   This portion of the large platform features rounded corners where the walls 
+meet, giving it a semi-circular appearance. The walls and ceiling are formed 
+of hexagonal, deep-blue panels which fill the room with a hazy purple light 
+which catches on the dust. The floors are also covered in these, though the 
+various rocks, garbage, and a thick layer of dust obscure the floor completely 
+in most areas. 
+~
+69 67174408 4
+0
+D0
+~
+~
+0 -1  0 69078
+D3
+~
+~
+0 -1  0 69076
+S
+#69078
+A Rubble-Strewn Platform~
+   This area of the platform reaches a loosely defined corner, the walls 
+curving to give the room a more rounded shape. This area doesn't seem to have 
+seen much use, and is difficult to navigate due to the rough, uneven features 
+of the rubble that has been abandoned haphazardly on the floor. There is a 
+small vent on the ceiling, circulating cold air into the room which unsettles 
+dust and makes the air difficult to breathe. 
+~
+69 65544 4
+0
+D2
+~
+~
+0 -1  0 69077
+D3
+~
+~
+0 -1  0 69079
+S
+#69079
+A Rubble-Strewn Platform~
+   This area of the platform features a number of damages to its structure. 
+The value tiles on the floor are uneven and often chipped, but still too 
+attached to be lifted off. The northern wall shows the most damage where a 
+spider web of cracks, with an obvious focal point, has formed as if something 
+large had, at one point, been rammed into it. As a result, a lot of the light 
+potential in this rubble-strewn area is lost. 
+~
+69 67174408 4
+0
+D1
+~
+~
+0 -1  0 69078
+D2
+~
+~
+0 -1  0 69076
+S
+#69080
+Before a Narrow Vent, On a Rubble-Strewn Platform~
+   While this area is a dead-end as far as proceeding anywhere goes, the 
+passageway is actually quite large. Various pebbles, stones, and larger rocks 
+litter the area, though they don't seem to originate from anywhere nearby. The 
+floor beneath the rocks and a thick layer of dirt, as well as the walls and the 
+ceiling are made out of deep-blue hexagonal panels that emit a low level of 
+purple light over the area, making it difficult to even identify the colors of 
+the platform properly. To the north is a large #3vent#0, though only a small 
+part of it is accessible at all, otherwise blocked off completely by debris and 
+one enormous boulder. 
+~
+69 67174408 26
+0
+D1
+~
+~
+0 -1  0 69076
+E
+vent~
+   Nearly blocked off entirely, save small portions of its outer reaches, this 
+vent, as far as it can be seen, is quite large, and could probably fit two 
+people side by side behind it. It is nearly a solid gate of metal with only 
+small slits put into its expanse which makes peering into the darkness beyond 
+neigh-impossible. Whatever is beyond, it is certain that there aren't more 
+blue hexagons, at least not in a currently functioning form. 
+~
+S
+#69081
+A Corridor Just Off of a Four Way Intersection~
+   This corridor looks to be nearly endless, no certain end visible either to 
+the east nor the west. There does seem to be an intersection to the west, 
+which is the only easily discernable thing in sight, save the floors, walls, 
+and ceiling of this rounded passageway. The slowly emitted purple light given 
+off by cobalt, hexagonal tiles is definitely the source of the problem, giving 
+the corridor and everything else an eerie, disorienting haze. The passageway 
+here is echoes well, causing muffled, reflected copies of any noise made 
+within.
+~
+69 65544 0
+0
+D1
+~
+~
+0 -1  0 69082
+D3
+~
+~
+0 -1  0 69069
+S
+#69082
+Nearing the End of a Long Strech of Corridor~
+   Though a wall can be seen off to the east, the corridor stretches on out of 
+sight to the west, lost amidst pulsating purple lights and a thin veil of dust. 
+This portion of the long corridor echoes particularly loudly, making any 
+movement or noises rebound to be heard more than once with clarity. Hexagonal 
+tiles, smaller than an average person's hand, line the walls floor and ceiling 
+without stop and allow for a decent amount of light. The purple color of the 
+light, however, makes discerning other colors a laborious task. 
+~
+69 65544 0
+0
+D1
+~
+~
+0 -1  0 69083
+D3
+~
+~
+0 -1  0 69081
+S
+#69083
+In a Gently Sloping Corridor~
+   The corridor curves here, the rounded walls guiding the passage to the north 
+and the west. The air here is quite chilly, slightly humid, and incredibly 
+stale. Deep-blue hexagonal tiles create the corridor, while a soft purple glow 
+that comes from beneath them fills the corridor with pulsing light. Though the 
+area is mostly flat and easy to traverse, the path begins to descend to the 
+north where the air grows thicker and even colder. 
+~
+69 65544 0
+0
+D0
+~
+~
+0 -1  0 69084
+D3
+~
+~
+0 -1  0 69082
+S
+#69084
+A Sloping Fork in the Corridor~
+   The corridor branches off in three directions here, each gently sloping. To 
+the north and to the east, the floor slopes downward, and to the south the 
+floor faintly ascends. The air here is moist and chilly, and the sound of 
+dripping water echoes from somewhere nearby. The corridor is lined with 
+deep-blue panels that emit a soft, purple glow, though the light struggles to 
+shine through on the western wall where some kind of greenish #3mould#0 has 
+been taking over. 
+~
+69 65544 0
+0
+D0
+~
+~
+0 -1  0 69087
+D1
+~
+~
+0 -1  0 69085
+D2
+~
+~
+0 -1  0 69083
+E
+mould~
+   The mould here grows thickly in places and sparsely in others. It has a 
+putrid smell to it, somewhat like rancid milk, that threatens the nostrils. It 
+is fuzzy and flaky and doesn't seem to be attached to the crystalline tiles of 
+the wall very well. It also shares the color of vomit, somewhat greenish 
+faintly intermingled with other, lighter colors. Its source is also 
+undeterminable, seeming to have just shown up rather than sprouting out of any 
+damage the wall is lacking in. 
+~
+S
+#69085
+A Humid, Deep-Blue Passageway~
+   The sloping corridor extends upward to the west and downward to north, 
+bending in a gentle, spiraling curve. The air in this section of the corridor 
+is dank, clingy and stifling. The walls, ceiling and floor are sparsely lined 
+with rivulets of condensation that drip and slide down the blue hexagonal 
+plates and trickle down the passageway. The purple light emanating from the 
+panels seems slightly more subdued and occluded than it does to the west. 
+~
+69 65544 0
+0
+D0
+~
+~
+0 -1  0 69086
+D3
+~
+~
+0 -1  0 69084
+S
+#69086
+A Flooded, Rounded Chamber~
+   At the bottom of the sloping corridor, this area has been completely 
+submerged under uncomfortably hot water. The water does little to stop the 
+phosphorescent limning of the dark-blue hexagonal panels from filling the area 
+with an eerie, hazy purple glow. A large #3pillar#0 stands at attention in the 
+middle of the chamber, and has a narrow, jagged rupture splaying out of its 
+metal cladding. The flooded passageway curves upward to the south. 
+~
+69 67174408 20
+0
+D2
+~
+~
+0 -1  0 69085
+E
+pillar~
+   The rupture in the floor-to-ceiling pillar appears to be the source of the 
+hot water filling the chamber. There is no sign of what caused the damage. 
+~
+S
+#69087
+In a Gently Sloping Corridor~
+   This corridor follows a gradual slope, ascending to the south and descending 
+to the north. The air is thick with heat and a little misty, the source coming 
+from below, which makes the hexagonal, deep-blue tile's emitted purple light 
+give the room a dim haze. Moisture has collected on the tiles, occasionally 
+dripping and giving the corridor an ambient noise level. The liquid also makes 
+the ground somewhat slippery and dangerous. Once something were to be set into 
+motion, it would be difficult to stop as the ground seems to slip into a 
+steeper grade in the distance, where things look even more damp. 
+~
+69 65544 0
+0
+D0
+~
+~
+0 -1  0 69088
+D2
+~
+~
+0 -1  0 69084
+S
+#69088
+Before A Flooded Chamber~
+   The passageway suddenly starts a steep decline leading to the east and rises 
+to a much more gentle slope above to the south. Below, a triangular arch marks 
+a flooded chamber beyond. The air here is hot and misty, and seems to get 
+hotter the further one moves down the corridor. The floor, covered in 
+purple-glowing, smooth blue tiles are especially slick, offering very little 
+traction, and threatens to spill anything on its surface to the watery chamber 
+below. 
+~
+69 65544 0
+0
+D1
+~
+~
+0 -1  0 69089
+D2
+~
+~
+0 -1  0 69087
+S
+#69089
+A Flooded, Circular Chamber~
+   This area is completely submerged in hot water. The water does little to 
+stop the limning of the cobalt blue hexagonal panels from filling the area with 
+an eerie, hazy purple glow. The source of the flow appears to be a rupture in 
+the ceiling on the eastern side of the flooded room. Gentle currents of even 
+hotter water, catalysed by the leak, circulate in the space. The panelled 
+floor slopes, steep and curved, through a triangular arch to the west. 
+~
+69 67174408 20
+0
+D3
+~
+~
+0 -1  0 69088
+S
+#69090
+A Corridor Just Off of a Four Way Intersection~
+   This corridor continues some way to the west, while the length to the east 
+is indeterminable, the end lost beyond a hazy, purple glow. However, nearby, 
+there seems to be an intersection that branches off a new length of corridor to 
+the north and south. The air here is stuffy with dust and a stale flavor, and 
+is uncomfortably cool. Dust also covered the ground in a thick layer, though a 
+purple glow just barely penetrates it, while more purple light pours in from 
+the ceiling and walls that are covered in dark blue hexagonal tiles.
+~
+69 65544 0
+0
+D1
+~
+~
+0 -1  0 69069
+D3
+~
+~
+0 -1  0 69091
+S
+#69091
+Nearing the End of a Long Strech of Corridor~
+   This long stretch of corridor seems to be coming to an end nearby to the 
+west, while it looks like it might never end to the east, any finale lost hazy 
+purple glow a ways off. The air here is extremely stale and thick with dust, 
+as is the floor. The walls and ceiling are lined in cobalt colored, 
+quartz-like material, cut into perfect hexagonal shapes, and is the definite 
+source of the purple light it pulses sporadically beneath their surfaces. 
+~
+69 65544 0
+0
+D1
+~
+~
+0 -1  0 69090
+D3
+~
+~
+0 -1  0 69092
+S
+#69092
+In a Snaking Corridor~
+   Sight seems limited to the southwest here as the corridor begins to snake 
+along in gentle curves, though it seems vast and unending to the east, where 
+the corridor disappears in the distance within a purple haze. Hundreds of dark 
+blue tiles are the source of the purple light that glows in this area and in 
+the rest of the length of the corridor, each hexagonal in shape and polished to 
+a shine. The air here is thick and a bit dusty. 
+~
+69 65544 0
+0
+D1
+~
+~
+0 -1  0 69091
+D2
+~
+~
+0 -1  0 69093
+S
+#69093
+In a Snaking Corridor~
+   This corridor gently slopes in the general directions of northeast and 
+southwest. Like every other part of the corridor that can be seen, this part 
+is lined in hundreds of small, cobalt colored hexagonal panels that are smooth 
+and glossy. A purple-hued glow is softly emitted by each one at different 
+times, each panel diming and brightening in a random looking pattern. This 
+makes shadows nonexistent at times, while at times shadows dance wildly. A 
+small alcove appears to be built into the south eastern portion of the bend.
+~
+69 65544 4
+0
+D0
+~
+~
+0 -1  0 69092
+D2
+~
+~
+0 -1  0 69094
+D3
+~
+~
+0 -1  0 69095
+S
+#69094
+In a Small Alcove~
+   This alcove looks like it could have potentially been quite large, perhaps 
+an entire room, at one point. Now, however, there is only room for two people 
+within, and the space would be cramped. Most of the space is taken up by an 
+enormous pile of debris that offers the rank smell of rot and mould. No light 
+is given off in this room, though it is still lit in a purple glow from the 
+area outside. 
+~
+69 65544 4
+0
+D0
+~
+~
+0 -1  0 69093
+S
+#69095
+In a Snaking Corridor~
+   The corridor here continues to snake generally northeast and southwest here 
+at a gentle curve. The entire area is a lit with purple lights, making sight 
+possible, though the color makes distinguishing other colors accurately a 
+chore. The light sprouts from dark blue, hexagonal tiles which completely line 
+the floors, ceiling, and each of the walls. The air here is cool and a bit 
+stale smelling, making breathing unenjoyably.
+~
+69 65544 4
+0
+D1
+~
+~
+0 -1  0 69093
+D2
+~
+~
+0 -1  0 69096
+S
+#69096
+In a Snaking Corridor~
+   The corridor here snakes off to the west and to the north in a gentle curve 
+made up of hexagonal panels. The panels, dark-blue in color, are perfectly 
+carved without any notable flaws in workmanship in the hundreds that line the 
+passage. Smooth, like polished quartz, the panels oddly provide a decent 
+amount of traction. The air is this part of the passageway is cool and 
+odorless, with the faintest circulation coming from the west.
+~
+69 65544 0
+0
+D0
+~
+~
+0 -1  0 69095
+D3
+~
+~
+0 -1  0 69097
+S
+#69097
+In a Snaking Corridor~
+   The air here smells pretty bad, the scent of mould and rot being pushed in 
+with cool, faintly flowing breeze from the south where, unlike in this room, 
+the area seems to be predominately greenish. This corridor, on the other hand, 
+is lined with small, blue hexagonal panels that are smooth and glassy. A 
+faint, purple glow escapes from beneath the tiles in a pulsing, erratic pattern 
+that gives the room a completely unnatural feel. The color of the light also 
+makes discerning most colors a laborious task. 
+~
+69 65544 0
+0
+D1
+~
+~
+0 -1  0 69096
+D2
+~
+~
+0 -1  0 69098
+S
+#69098
+A Moss Covered Corridor~
+   This corridor has been taken over by various organic things. While it seems 
+to be predominately moss, various moulds and slimes cover the dark blue tiles 
+beneath, choking out most of the purple light they give off. While the organic 
+matter seems thick here, it doesn't seem to stretch much further north, and 
+only a little of it reaches the end of the passage to the west. The air here 
+seems fresh, a cool breeze working its way through the passageway from the 
+west, but the nature of the room prevents the air from smelling anything less 
+than foul. 
+~
+69 65544 0
+0
+D0
+~
+~
+0 -1  0 69097
+D3
+~
+~
+0 -1  0 69099
+S
+#69099
+Before a Large Vent~
+   The passage way ends here, the only readily accessable exit to the east. 
+The passage itself is mostly built up of small, hexagonal quartz-like tiles in 
+a cobalt blue color, though many of them have been destroyed, the surface of 
+them shattered in like glass, and are extremely sharp to the touch. Those that 
+remain unbroken emit a soft glow of purple light, allowing minimal vision here, 
+and are among the furthest tiles away from a large #3vent#0. Debris lines the 
+room in the form of sharp shards from the tiles, moulds, and other organic 
+matter. 
+~
+69 65544 4
+0
+D1
+~
+~
+0 -1  0 69098
+E
+vent~
+   This vent, stretching from floor to the ceiling and nearly covering the 
+entire western wall in width, looks like it once held a purpose. Now, however, 
+it lies dented and damaged in the wall. It looks more like a vent than a gate 
+of sorts, however, as it is riddled with tiny pinpoint holes in an orderly 
+manner, though what lay beyond it cannot be seen as a cloud of dust on the 
+other side prevents light from passing very far within. On the sides of the 
+vent are bent and crushed tracks that presumably once allowed the vent to be 
+raised and lowered, but now hold the large sheet of metal firmly in place. 
+Cold air escapes the vent, providing a source of fresh air. 
+~
+S
+#69100
+A Bend in the Deep-Blue Corridor~
+   The corridor here takes a gradual bend to the east and north, and is 
+somewhat narrow here as compared to the intersection to the north. With only 
+enough room for two or three people to stand side by side and a thick, stale 
+air, this room has a cramped feeling. More foreboding, however, is the path to 
+the east, which is dark and shadowy, the purple light that floods this area not 
+reaching much further where the pulsating, deep-cobalt blue tiles no longer 
+seem to be activated. 
+~
+69 65544 0
+0
+D0
+~
+~
+0 -1  0 69069
+D1
+~
+~
+0 -1  0 69101
+S
+#69101
+At the Bottom of a Spiraling Passage~
+   Though the ground flattens out to the west, this corridor slowly spirals up 
+and out of sight. The corridor is formed of dark blue hexagonal tiles of 
+quartz like nature. This area is dark, however, unlike the area to the west 
+which leaks a minimal amount of purple light into the corridor. When lit, this 
+corridor creates long shadows as light catches in thick, dusty air that makes 
+it difficult to breathe. There is also a metallic smell to the air, ruining 
+any chance that the air here is entirely natural. A low hum can be heard 
+coming from somewhere, the noise calmly echoing up the spiraling ramp. 
+~
+69 67174408 0
+0
+D2
+~
+~
+0 -1  0 69102
+D3
+~
+~
+0 -1  0 69100
+S
+#69102
+Midway in a Spiraling Passage~
+   In the midst of the spiraling ramp, this area receives no source of light, 
+all the blue, hexagonal tiles deactivated in this area. Dust clings to the 
+air, walls, and floor, like a thick blanket, and it is clear that air rarely 
+moves in this area as it is stagnant and somewhat metallic smelling. From the 
+west to the north the spiral moves at a downward slope, and the tiles offer a 
+decent amount of traction which helps traversing the area, due to the steepness 
+of the passage. Sound bounces about erratically in this curving area, making 
+the source of any noise hard to determine. 
+~
+69 67174408 0
+0
+D0
+~
+~
+0 -1  0 69101
+D3
+~
+~
+0 -1  0 69103
+S
+#69103
+At the Top of a Spiraling Passage~
+   Though the ground begins even near the west, this passage begins to spiral 
+southward, before continuing to the east in a steep, downward slope. The air 
+here feels a little dusty, and is certainly rarely circulated. A dim amount of 
+purple light flashes in the distance to the west in a rhythmic pattern, while 
+the rest of the passage is filled with inky darkness, obscuring the dark blue 
+color of the deactivated tiles that form the walls, ceiling, and floor.
+~
+69 67174408 0
+0
+D1
+~
+~
+0 -1  0 69102
+D3
+~
+~
+0 -1  0 69001
+S
+#69104
+A Spiraling Decline into Flooded Tunnels~
+   A wide deep-blue ramp comprising of hexagonal panels spirals down, down, and 
+down into the darkness, ending in murky waist-deep waters. To the east is a 
+wide hexagonal entrance that leads into violet-lit halls. The stench of 
+rotting flesh clings to the air here like a perfume, gradually growing worse as 
+one descends. The glow in the walls is absent here, leaving this area in 
+darkness. 
+~
+69 65536 0
+0
+D1
+~
+~
+0 -1  0 69009
+D2
+~
+~
+0 -1  0 69105
+S
+#69105
+A Section of Flooded Tunnel~
+   The waist-deep waters here are completely stagnant in this tunnel, and, as 
+such, smell particularly foul. The waters are completely dark and black, and 
+countless pieces of junk and organic debris float about, looking to have been 
+there for ages. The hexagonal deep-blue walls have no glow to them, leaving 
+this area in darkness. Dirt and nameless things cling to the skin as one wades 
+through. 
+~
+69 65536 0
+0
+D0
+~
+~
+0 -1  0 69104
+D2
+~
+~
+0 -1  0 69106
+S
+#69106
+A Gentle Bend in the Tunnel~
+   The waist-deep waters here are completely stagnant in this tunnel, and, as 
+such, smell particularly foul. The waters are completely dark and black, and 
+countless pieces of junk and organic debris float about, looking to have been 
+there for ages. The hexagonal deep-blue walls have no glow to them, leaving 
+this area in darkness. Dirt and nameless things cling to the skin as one wades 
+through. The tunnel begins to turn to the north at a gentle curve, stretching 
+on and on as far as the eye can see. 
+~
+69 65536 0
+0
+D0
+~
+~
+0 -1  0 69105
+D3
+~
+~
+0 -1  0 69107
+S
+#69107
+A Section of Flooded Tunnel~
+   The waist-deep waters here are completely stagnant in this tunnel, and, as 
+such, smell particularly foul. The waters are completely dark and black, and 
+countless pieces of junk and organic debris float about, looking to have been 
+there for ages. The hexagonal deep-blue walls have no glow to them, leaving 
+this area in darkness. Dirt and nameless things cling to the skin as one wades 
+through. 
+~
+69 65536 0
+0
+D1
+~
+~
+0 -1  0 69106
+D3
+~
+~
+0 -1  0 69108
+S
+#69108
+A Gentle Bend in the Tunnel~
+   The waist-deep waters here are completely stagnant in this tunnel, and, as 
+such, smell particularly foul. The waters are completely dark and black, and 
+countless pieces of junk and organic debris float about, looking to have been 
+there for ages. The hexagonal deep-blue walls have no glow to them, leaving 
+this area in darkness. Dirt and nameless things cling to the skin as one wades 
+through. The tunnel begins to turn to the east at a gentle curve, stretching 
+on and on as far as the eye can see. 
+~
+69 65536 0
+0
+D1
+~
+~
+0 -1  0 69107
+D2
+~
+~
+0 -1  0 69109
+S
+#69109
+A Partially Flooded Tunnel~
+   The waist-deep waters here are completely stagnant in this tunnel, and, as 
+such, smell particularly foul. The waters are completely dark and black, and 
+countless pieces of junk and organic debris float about, looking to have been 
+there for ages. The hexagonal deep-blue walls have no glow to them, leaving 
+this area in darkness. Dirt and nameless things cling to the skin as one wades 
+through. 
+~
+69 65536 0
+0
+D0
+~
+~
+0 -1  0 69108
+D2
+~
+~
+0 -1  0 69110
+S
+#69110
+A Collapsed Section of Tunnel~
+   The waist-deep waters here are completely stagnant in this tunnel, and, as 
+such, smell particularly foul. The waters are completely dark and black, and 
+countless pieces of junk and organic debris float about, looking to have been 
+there for ages. This area appears to particularly be filled with rubble, the 
+hexagonal ceiling having fully collapsed on itself. A considerable chunk of 
+the ceiling lies in the water, unmoving perhaps due to its great bulk, exposing 
+the thick metal skeleton of the ship underneath. The collapsed ceiling makes 
+passage difficult and narrow; there is only room for one man to squeeze abreast 
+here. The hexagonal deep-blue walls have no glow to them, leaving this area in 
+darkness. Dirt and nameless things cling to the skin as one wades through. 
+~
+69 65536 0
+0
+D0
+~
+~
+0 -1  0 69109
+D2
+~
+~
+0 -1  0 69111
+S
+#69111
+Debris-Filled Flooded Tunnel~
+   The waist-deep waters here are completely stagnant in this tunnel, and, as 
+such, smell particularly foul. The waters are completely dark and black, and 
+countless pieces of junk and organic debris float about, looking to have been 
+there for ages. This area appears to particularly be filled with rubble, the 
+hexagonal ceiling having half-collapsed on itself. A portion of the ceiling 
+hangs down to the waters, exposing the thick metal skeleton of the ship 
+underneath. The hexagonal deep-blue walls have no glow to them, leaving this 
+area in darkness. Dirt and nameless things cling to the skin as one wades 
+through. 
+~
+69 65536 0
+0
+D0
+~
+~
+0 -1  0 69110
+D2
+~
+~
+0 -1  0 69112
+S
+#69112
+A Partially Flooded Tunnel~
+   The waist-deep waters here are completely stagnant in this tunnel, and, as 
+such, smell particularly foul. The waters are completely dark and black, and 
+countless pieces of junk and organic debris float about, looking to have been 
+there for ages. The hexagonal deep-blue walls have no glow to them, leaving 
+this area in darkness. Dirt and nameless things cling to the skin as one wades 
+through. 
+~
+69 65536 0
+0
+D0
+~
+~
+0 -1  0 69111
+D3
+~
+~
+0 -1  0 69113
+S
+#69113
+Before a Collapsed Vent, In Murky Waters~
+   This area stops at a dead-end, although it opens into a fairly wide 
+passageway. The stagnant water here levels into a wider surface area, making 
+the murky black waters ankle-deep. Large amounts of debris are scattered in no 
+apparent pattern, rocks, pebbles, strips of cloth, and metal floating about. 
+Like the rest of the ship, the interior is comprised of deep-blue hexagonal 
+panels, though they give no light. Directly north is a large #3vent#0, but a 
+large section has been apparently destroyed by some forceful trauma from debris 
+or otherwise. A few #3skeletons#0 appear lodged inside the now narrow vent, 
+all remains of skin and flesh gone - just dirtied bone. 
+~
+69 65544 4
+0
+D1
+~
+~
+0 -1  0 69112
+E
+vent~
+   Nearly blocked off entirely, save small portions of its outer reaches, this 
+vent, as far as it can be seen, is quite large, and could probably fit two 
+people side by side behind it. It is nearly a solid gate of metal with only 
+small slits put into its expanse which makes peering into the darkness beyond 
+neigh-impossible. Whatever is beyond, it is certain that there aren't more 
+blue hexagons, at least not in a currently functioning form. 
+~
+E
+skeletons~
+   These three skeletons have been shoved into the vent in various positions 
+and quality. One of them looks to have been attempting to climb up, as its 
+legs are propped on the vent as to give it leverage, and one of its arms - the 
+other missing - is stretched outward, frozen in that position. The other two 
+look to be sitting, facing out of the vent, their jaws open. 
+~
+S
+#69114
+A Hexagonal Catwalk~
+      The spiraling ramp suddenly narrows into a straight catwalk comprised of 
+many glowing hexagonal platforms joined together by some type of welding. A 
+thin beam of purple light appears to surround the lining of the panels, 
+translucent but firm and rippling to the touch - a fence. Indeed, the 
+platforms appear to float on their own, suspended by invisible cables or some 
+other form of suspension. Down below is pitch-black darkness, the glow of the 
+panels unable to pierce it. The only exception is an opaque deep-blue pillar 
+to the direct south, with a hexagonal door reinforced into its structure, 
+directly connected to the catwalk. The catwalk stretches from east to west.
+    To the north, a cave in has caused the entirety of that area to collapse into a massive heap of slag metal and debris.
+~
+69 65544 0
+0
+D1
+~
+~
+0 -1  0 69115
+D3
+~
+~
+0 -1  0 69007
+S
+#69115
+A Hexagonal Catwalk~
+   This is a straight catwalk comprised of many glowing hexagonal platforms 
+joined together by some type of welding. A thin beam of purple light appears 
+to surround the lining of the panels, translucent but firm and rippling to the 
+touch - a fence. Indeed, the platforms appear to float on their own, suspended 
+by invisible cables or some other form of suspension. Down below is 
+pitch-black darkness, the glow of the panels unable to pierce it. The catwalk 
+stretches from west to north, sharply bending. 
+~
+69 65544 0
+0
+D0
+~
+~
+0 -1  0 69116
+D3
+~
+~
+0 -1  0 69114
+S
+#69116
+A Hexagonal Catwalk~
+   This is a straight catwalk comprised of many glowing hexagonal platforms 
+joined together by some type of welding. A thin beam of purple light appears 
+to surround the lining of the panels, translucent but firm and rippling to the 
+touch - a fence. Indeed, the platforms appear to float on their own, suspended 
+by invisible cables or some other form of suspension. Down below is 
+pitch-black darkness, the glow of the panels unable to pierce it. The catwalk 
+stretches from south to east, sharply bending. 
+~
+69 65544 0
+0
+D1
+~
+~
+0 -1  0 69117
+D2
+~
+~
+0 -1  0 69115
+S
+#69117
+A Hexagonal Catwalk~
+   This is a straight catwalk comprised of many glowing hexagonal platforms 
+joined together by some type of welding. A thin beam of purple light appears 
+to surround the lining of the panels, translucent but firm and rippling to the 
+touch - a fence. Indeed, the platforms appear to float on their own, suspended 
+by invisible cables or some other form of suspension. Down below is 
+pitch-black darkness, the glow of the panels unable to pierce it. The catwalk 
+stretches from east to west, the catwalk appearing to end in the distance. 
+~
+69 65544 0
+0
+D1
+~
+~
+0 -1  0 69118
+D3
+~
+~
+0 -1  0 69116
+S
+#69118
+Dilapidated Storage-Bay~
+   A dizzying array of containers fills this large room, the greater part of 
+them heavily damaged or destroyed entirely. One of the few rooms in the ship 
+that has stood the test of time, the contents are mostly intact, though rust 
+cakes the outside of the steel boxes, and the electrical locks are universally 
+blackened and useless, the insides of the great storage containers lost to 
+whatever knocked them out in the first place. The catwalk reaches out just a 
+bit into the room, before breaking into a series of multi-levelled platforms 
+that act as access to each palette of storage, stairwells composed of 
+interlocking triangles providing means to search through the heavy debris and 
+broken mechanisms of the wrecked sections. The lights along the catwalk are 
+inactive here, simple hexagonal constructs that line the edge of the walkways 
+here and there. 
+~
+69 65544 5
+0
+D3
+~
+~
+0 -1  0 69117
+S
+#69119
+A Flooding Tunnel~
+   As one makes the descent down the sloping floor, murky dark water laps at 
+the edges, and only by wading can one progress any further. Bits and pieces of 
+debris float up to the surface - rusted metal, remains of crates, and 
+unwholesome organic matter. The glow of the walls ceases abruptly here - 
+presumably by the water - and leaves the entire area in darkness. 
+~
+69 65544 0
+0
+D0
+~
+~
+0 -1  0 69007
+D2
+~
+~
+0 -1  0 69120
+P
+l lo loo look ex exa exam exami examin examine~
+ro rop rope~
+if oexist(8148,69119)
+doitanyway -1
+vbr -
+vstr You realize that you could use this rope to attempt to #6<CROSS WATERWAY>#0 without falling in.
+else do
+doitanyway -1
+fi done
+~
+P
+cross~
+waterway~
+set random (1d8)
+if (random=1)
+force -1 -1 emote when @ attempts to use *rope to help them cross through the dangerous, sunken section of the deck, their hand slips and they find themselves sinking!
+trans 69162
+else do
+force -1 -1 emote uses *rope to help them cross through the dangerous, sunken section of the deck
+info sdesc room -1 char -1 sdesc
+atecho 69122 Dripping wet, #5 climbs from the sunken section of the ship, using the ropes as their guide.
+trans 69122
+fi done
+~
+S
+#69120
+Within a Flooded Chamber~
+   With paths leading off in multiple directions, this chamber forms a sort of 
+intersection into multiple intersections. Water has completely flooded the 
+area from a source that cannot be seen and is pleasantly warm, though the water 
+is somewhat foul to taste with a light metallic flavor. Visibility is greatly 
+impared as purple light refracts in the water, hexaganal tiles on the floor, 
+walls, and domed ceiling pulsing with the hazy purple energy. 
+~
+69 67592 20
+0
+D0
+~
+~
+0 -1  0 69119
+D1
+~
+~
+0 -1  0 69136
+D3
+~
+~
+0 -1  0 69121
+D5
+~
+~
+0 -1  0 69162
+S
+#69121
+At the Bottom of a Flooded Incline~
+   This corridor has been completely flooded, from floor to ceiling, by 
+pleasantly warm water that exhibits a sharp, metallic taste. The source of the 
+water is not obvious, the area completely clear of debris and the walls, floor, 
+and ceiling in impeccable condition. Light slowly pulses through the room, 
+refracting in the water, and any motion in the water makes sight incredibly 
+strained. As the corridor bends to the north an incline can be seen, as well 
+as the surface of the water, where as to the east the corridor continues 
+underwater. 
+~
+69 67592 20
+0
+D0
+~
+~
+0 -1  0 69122
+D1
+~
+~
+0 -1  0 69120
+S
+#69122
+In a Damp, Angled Corridor~
+   Holographic tiles, formed in hexagonal shapes, forge this corridor 
+masterfully. There is only the tiniest of spaces in between each hexagon, and 
+above where the ceiling rests, water slowly seeps from these spaces. Water 
+noisily drips to the floor from here, and otherwise cascades down in a thin 
+sheet on the walls, keeping them constantly wet. The water is warm to the 
+touch and is the source of a fine mist in the air, which catches the purple 
+light radiated by the slowly pulsing hexagon tiles. The entire corridor is set 
+in a steep incline, rising to the north and descending to the south into a 
+completely flooded passageway. 
+~
+69 65536 0
+0
+D0
+~
+~
+0 -1  0 69123
+D2
+~
+~
+0 -1  0 69121
+P
+l lo loo look ex exa exam exami examin examine~
+rope ro rop~
+if oexist(8148,69122)
+doitanyway -1
+vbr -
+vstr You realize that you could use this rope to attempt to #6<CROSS WATERWAY>#0 without falling in.
+else do
+doitanyway -1
+fi done
+~
+P
+cross~
+waterway~
+set random (1d8)
+if (random=1)
+force -1 -1 emote when @ attempts to use *rope to help them cross through the dangerous, sunken section of the deck, their hand slips and they find themselves sinking!
+trans 69162
+else do
+force -1 -1 emote uses *rope to help them cross through the dangerous, sunken section of the deck
+info sdesc room -1 char -1 sdesc
+atecho 69119 Dripping wet, #5 climbs from the sunken section of the ship, using the ropes as their guide.
+trans 69119
+fi done
+~
+S
+#69123
+Before a Hexagonal Door~
+   This section is a steep incline toward a heavy, hexagonal door set into the 
+material of the walls, thin rivulets of water streaming down the sides of the 
+incline. The door appears to be made from six separate triangles, meeting in 
+the middle and able to retract into the walls themselves, integrated cleanly 
+with the rest of the section. The holographics of this section appear to grow 
+in strength, the small hexagonal panels underfoot pulsing every few seconds. 
+To the south, the corridor continues downward, clouds of moisture hanging in 
+the air.
+~
+69 65536 0
+0
+D2
+~
+~
+0 -1  0 69122
+D4
+~
+hexagonal-door~
+1 5000  0 69014
+S
+#69124
+Deepening Flooded Passage~
+   This chamber bears a sudden sharp incline, heading drastically down from the 
+northern intersection, and deeper still into dark water. The pulsing of the 
+refracted purple light is muted and murky amongst the faintly warm water that 
+floods the entire passage, and as one reaches the depths of the former 
+stairwell, small pieces of iron debris float about, the light refracting 
+against the faces of tiny burnished steel objects, though they are all in such 
+states of disrepair that nothing of worth might be salvaged from the wreck. 
+~
+69 67592 20
+0
+D0
+~
+~
+0 -1  0 69162
+D3
+~
+~
+0 -1  0 69125
+S
+#69125
+A Submerged Entryway~
+   A dark violet pulse perpetuates this area, the entirety of the deep tunnel 
+narrowing to center around a hexagonal doorway that seems to have formerly been 
+composed of triangular panels that make up the whole. Now, however, many of 
+the door's components have been dislodged or broken from the original frame, 
+and lay strewn at the foot of the incline, the floor leveling off and 
+straightening off to a flat corridor beyond the hexagonal entryway. The 
+outline of a hand that is just to the side of the doorway holds no color, 
+dormant and inactive, and just below it in spartan blue lettering is the title 
+" #6Storage Facility#0 " 
+~
+69 67592 20
+0
+D1
+~
+~
+0 -1  0 69124
+D3
+~
+~
+0 -1  0 69126
+S
+#69126
+Abrupt Turn In The Depths~
+   Turning abruptly here, the depths continue for as far as the eye can see in 
+either direction, tiny specks of dirt and scrap floating about and dislodging 
+at the slightest movement. The lights play across the particles, and excessive 
+movement is quickly met with a cloud of murky, sickly-looking water, that 
+obscures vision immediately and does not settle for some time after all is 
+still in the area. 
+~
+69 67592 20
+0
+D1
+~
+~
+0 -1  0 69125
+D4
+~
+~
+0 -1  0 69163
+S
+#69127
+Platform Above the Flooded Deck~
+   Extending far to the north, this area widens into a large, metal-ribbed 
+hallway. A raised section of platform holds vigil over the rest of the area, 
+positioned directly in the center of the intersection, and accessible via a 
+ladder that reaches down into the water for more than a few feet. From this 
+platform reach three blue-steel catwalks, a tight mesh of girders creating 
+footing by which the storage bays at the east and west edges of the room might 
+be accessed, as well as the next access hall, just to the south. In intervals 
+along each of these catwalks are polyhedral lights composed of many hexagons, 
+and these offer a pale violet glow for any crossing the walkways. 
+~
+69 65536 0
+0
+D0
+~
+~
+0 -1  0 69163
+D1
+~
+~
+0 -1  0 69135
+D2
+~
+~
+0 -1  0 69128
+D3
+~
+~
+0 -1  0 69130
+S
+#69128
+Precarious, Slippery Catwalk~
+   The catwalks stretch out and raise further above the water here, the entire 
+deck bearing a steady climb as it moves from north to south. A pale violet 
+glow follows each of the walkways, though it reaches only so far, and the water 
+far underfoot lies plunged in shadow, the sound of droplets plummeting from the 
+damp walks all the way down to the surface the only hint that a watery grave 
+awaits any who slip, given that there are no rails or means of protection from 
+the dark void that lies beyond the edge of each catwalk. Entire sections are 
+missing from the traverse, with the floor section torn away, and only the 
+skeletal steel frame lies between, making it ever more tricky to make it across 
+the slippery passage. 
+~
+69 65536 0
+0
+D0
+~
+~
+0 -1  0 69127
+D1
+~
+~
+0 -1  0 69134
+D2
+~
+~
+0 -1  0 69129
+D3
+~
+~
+0 -1  0 69131
+S
+#69129
+Broken Heights~
+   Total darkness shrouds the thin, broken walkways of the storage facilities' 
+heights, rivulets of water cascading down bent, broken girders that hang from 
+an uneven, heavily-damaged ceiling. The floor underfoot is damp and rusted, 
+and weight placed upon these catwalks yearns metallic creaks and groans, the 
+thinner sections bending outward and threatening to drop any standing on them a 
+fear-inspiring distance into pitch-black darkness. Dried blood cakes the sides 
+of the walkways, and bloody scratch-marks line the edge of one, just off where 
+a stray foot might lead to a sudden and brutal doom. 
+~
+69 65536 0
+0
+D0
+~
+~
+0 -1  0 69128
+D1
+~
+~
+0 -1  0 69133
+D3
+~
+~
+0 -1  0 69132
+S
+#69130
+Partially-Collapsed Storage Bay~
+   A dizzying array of containers fills this large room, the greater part of 
+them heavily damaged or destroyed entirely. One of the few rooms in the ship 
+that has stood the test of time, the contents are mostly intact, though rust 
+cakes the outside of the steel boxes, and the electrical locks are universally 
+blackened and useless, the insides of the great storage containers lost to 
+whatever knocked them out in the first place. The catwalk reaches out just a 
+bit into the room, before breaking into a series of multi-levelled platforms 
+that act as access to each palette of storage, stairwells composed of 
+interlocking triangles providing means to search through the heavy debris and 
+broken mechanisms of the wrecked sections. The upper levels are entirely 
+destroyed, with the supports for the boxing sagging unhealthily, and more than 
+one container has tumbled to the floor far below the catwalks, smashed into 
+massive pieces of iron scrap. 
+~
+69 65544 5
+0
+D1
+~
+~
+0 -1  0 69127
+S
+#69131
+Mangled, Former Storage Bay~
+   This storage zone is completely wrecked, the supports having given way at 
+the top row of palettes. Containers have crashed down on every side, the walls 
+and few pieces of machinery left up gruesomely gouged and ripped open by the 
+falling tons of steel. The catwalk reaches only barely inward, before abruptly 
+ending with a splintered section of broken blue iron. If one was to scale down 
+the side of the broken walkway, an irregular bed of sharp scrap coats the room, 
+and the floor is all but invisible beneath the dusty, damp wreckage. 
+
+~
+69 65536 0
+0
+D1
+~
+~
+0 -1  0 69128
+S
+#69132
+Creaking, Dark Storage Bay~
+   A dizzying array of containers fills this large room, the greater part of 
+them heavily damaged or destroyed entirely. One of the few rooms in the ship 
+that has stood the test of time, the contents are mostly intact, though rust 
+cakes the outside of the steel boxes, and the electrical locks are universally 
+blackened and useless, the insides of the great storage containers lost to 
+whatever knocked them out in the first place. The catwalk reaches out just a 
+bit into the room, before breaking into a series of multi-levelled platforms 
+that act as access to each palette of storage, stairwells composed of 
+interlocking triangles providing means to search through the heavy debris and 
+broken mechanisms of the wrecked sections. Every platform and walkway here is 
+showing signs of deterioration, and groans follow any weight, the lights that 
+line the walks on the lower bays conspicuously absent here. Against one of the 
+containers is a message drawn in blood, reading " #9WE CANNOT GET OUT#0 " - 
+This line repeats itself many, many times, dragging all the way down the face 
+of the container and trailing off in a smear. 
+~
+69 65544 5
+0
+D1
+~
+~
+0 -1  0 69129
+S
+#69133
+Walls of Wreckage~
+   There is no storage bay here. The entirety of the walls have collapsed 
+inward, creating a passage that exists only as two landslides of razor-sharp 
+steel, the skeleton behind the normally quartz-coated panels visible, and water 
+leaking out from the ceiling in many places, creating a constant drip-drip 
+beyond the range of sight. The walkway reaches all the way inward, and in some 
+places is still traversable, making it possible to access parts of the 
+wreckage, but the lights common to the lower sections of the storage facilities 
+are absent here, a musty, damp feeling pervading the ravaged hall. 
+~
+69 65544 0
+0
+D3
+~
+~
+0 -1  0 69129
+S
+#69134
+Control Bay~
+   A dizzying array of containers fills this large room, the greater part of 
+them heavily damaged or destroyed entirely. One of the few rooms in the ship 
+that has stood the test of time, the contents are mostly intact, though rust 
+cakes the outside of the steel boxes, and the electrical locks are universally 
+blackened and useless, the insides of the great storage containers lost to 
+whatever knocked them out in the first place. The catwalk reaches out just a 
+bit into the room, before breaking into a series of multi-levelled platforms 
+that act as access to each palette of storage, stairwells composed of 
+interlocking triangles providing means to search through the heavy debris and 
+broken mechanisms of the wrecked sections. A wounded control panel lies front 
+and center as one comes in, the display blackened and screen cracked in many 
+places, a single huge spot of blunt-force trauma visible at one edge. 
+Curiously, surrounding this one spot is a ring of dried, dark-red blood. 
+~
+69 65544 5
+0
+D3
+~
+~
+0 -1  0 69128
+S
+#69135
+Chaotic Storage Bay~
+   A dizzying array of containers fills this large room, the greater part of 
+them heavily damaged or destroyed entirely. One of the few rooms in the ship 
+that has stood the test of time, the contents are mostly intact, though rust 
+cakes the outside of the steel boxes, and the electrical locks are universally 
+blackened and useless, the insides of the great storage containers lost to 
+whatever knocked them out in the first place. The catwalk reaches out just a 
+bit into the room, before breaking into a series of multi-levelled platforms 
+that act as access to each palette of storage, stairwells composed of 
+interlocking triangles providing means to search through the heavy debris and 
+broken mechanisms of the wrecked sections. The lights along the catwalk are 
+inactive here, simple hexagonal constructs that line the edge of the walkways 
+here and there. 
+~
+69 65536 0
+0
+D3
+~
+~
+0 -1  0 69127
+S
+#69136
+Cramped Underwater Junction~
+   The walls seem to close in as the tunnel becomes more claustrophobic and 
+tight, very little room given on either side, and the junction in three 
+directions seems more like a sewer pipe than a passage meant for human travel. 
+The water is quite murky as well, and sight is mostly obscured for more than a 
+couple of feet, darkness pervading the area here, as the purple light hangs low 
+and barely visible. 
+~
+69 65536 0
+0
+D1
+~
+~
+0 -1  0 69137
+D2
+~
+~
+0 -1  0 69138
+D3
+~
+~
+0 -1  0 69120
+S
+#69137
+Suspended Control Platform~
+   This platform hangs just above the water's surface, miraculously dry and 
+free of damage, a thin but extremely sturdy layer of blue-quartz panels fixed 
+into the wall just beneath a large, flat electrical panel. An advanced and 
+mind-boggling array of switches, pulsing lights, and dormant holographic 
+display screens. The entire room stands mostly undamaged, and the purple light 
+from the ceiling glimmers aganist the surface of the water, giving it an 
+uncanny violet color from this angle. 
+~
+69 65536 0
+0
+D3
+~
+~
+0 -1  0 69136
+S
+#69138
+Sludge-Coated Passage~
+   Dusty, murky and narrow, the sludge that has gathered on the bottom of this 
+blue-panelled passage dislodges with the slightest movement and rises up to 
+coat the eyes and choke the lungs. A layer of clear muck clings to the walls 
+and holds back the light, making this passage dark and slimy, any grip against 
+the wall for stability lost to the slime. 
+~
+69 65536 0
+0
+D0
+~
+~
+0 -1  0 69136
+D1
+~
+~
+0 -1  0 69139
+S
+#69139
+Darkened Passage~
+   The depths of the tunnel continue in pitch darkness, the pale light offered 
+elsewhere completely absent in the dirt-coated grip of the continuing passage. 
+Vision beyond a few feet is impossible in the muck, and occasional collapses 
+cause an irregular path between hulking zones of sharp-looking scrap metal and 
+broken quartz crystal. 
+~
+69 65536 0
+0
+D1
+~
+~
+0 -1  0 69140
+D3
+~
+~
+0 -1  0 69138
+S
+#69140
+Rising Hall~
+   A rise in the footing drags the passage up from the water to the west, 
+dampness hanging on every surface, and droplets of water running down the 
+quartz panels all over, pooling on the floor and running off into the 
+flood-zone. The hallway continues then with some, tiny pieces of rubble 
+underfoot, turning sharply to lead off northward into more dry area. Purple 
+light glimmers over the corridor, pulsating rhythmically like a very, very slow 
+heartbeat. 
+~
+69 65536 0
+0
+D0
+~
+~
+0 -1  0 69141
+D3
+~
+~
+0 -1  0 69139
+S
+#69141
+Sparking Wreckage~
+   The ceiling has collapsed entirely here, raining down crushed metal onto the 
+walking area, and sparking circuits spray down from all sides of the damaged 
+area, dancing menacingly close to the pools of water that have run off from the 
+sections that produce floodwater. The light of the circuits dances across the 
+pools constantly, reflecting against the surface in a corona against the faded 
+purple light that radiates from just beyond the wreckage. 
+~
+69 65536 0
+0
+D0
+~
+~
+0 -1  0 69142
+D2
+~
+~
+0 -1  0 69140
+S
+#69142
+Turn in the Hallway~
+   The corridor bears a turn from east to south, pieces of rubble and scrap 
+iron hanging in the way of safe passage, but on the whole, the area is fairly 
+easy to navigate, and rather contrasts against the harsh terrain surrounding 
+it. Dampness hangs in the air, and it is possible to rub away a thin layer of 
+humidity condensed on the walls, but the floor is water-free and only slightly 
+dusty. 
+~
+69 65536 0
+0
+D1
+~
+~
+0 -1  0 69143
+D2
+~
+~
+0 -1  0 69141
+S
+#69143
+Floodwater Tunnel~
+   Two paths break off in half-circles around a central vent here, water 
+pouring down and leaking into the hull beneath the floor, running off eastward 
+and pouring out from holes on the floor in that direction. An artificial 
+waterfall of sorts, the source seems endless, and a constant mist of 
+metallic-tasting water coats the platforms around the periphery of the pool, 
+clinging to anything passing along, and the rails alongside the roiling depths. 
+~
+69 65536 0
+0
+D1
+~
+~
+0 -1  0 69144
+D3
+~
+~
+0 -1  0 69142
+S
+#69144
+Water-Filled Chasm~
+   A jagged hole makes up the greater part of this corridor, carved into the 
+floor by virtue of the wrecked walls, which sag outward from their now-broken 
+supports, ceiling fixings pouring out from behind the otherwise solid wall of 
+blue hexagonal panels. Water pours out from the crack and steadily fills a 
+growing pool to the east, the hallway dipping down below the surface and 
+preventing passage in that direction, except by swimming. 
+
+~
+69 65536 0
+0
+D1
+~
+~
+0 -1  0 69145
+D3
+~
+~
+0 -1  0 69143
+S
+#69145
+Underwater Junction~
+   Water floods this area entirely, jagged breaks in the wall abound and a slow 
+current bearing northward. Bubbles float up from the eastern corner, a tiny 
+vent allowing slow escape for the liquid trapped on the deck. A junction 
+breaks off in three directions, endless panels of blue quartz and a steady swim 
+bringing access to the hallways that lay beyond, low groans and clanks of metal 
+resounding far beneath the surface of the lukewarm water. 
+~
+69 67592 20
+0
+D3
+~
+~
+0 -1  0 69144
+D5
+~
+~
+0 -1  0 69161
+S
+#69146
+Tunnel In The Deep~
+   A steady turn, deep beneath one of the many flooded sections of the deck, 
+bears ever deeper and lower here, dipping down in a long tunnel from north to 
+west. Pulsating violet light casts its glow over the small bubbles and tiny 
+floating debris that drifts lazily through the passage, the entirety of the 
+panelling intact and functioning, a low humming noise sounding from the depths 
+of the area, and growing ever louder to the west. 
+~
+69 67592 20
+0
+D0
+~
+~
+0 -1  0 69161
+D4
+~
+~
+0 -1  0 69164
+S
+#69147
+Deep Junction~
+   A junction bears in three directions here, a collapsed section of wall 
+making passage westward very difficult. The great majority of the panels offer 
+their perpetual light of pale violet, but near the collapse and further 
+westward into the tunnel that way, darkness falls and hangs ominously beyond 
+the slowly-pulsing glow and tiny bubbles floating from floor to ceiling. 
+
+~
+69 67592 20
+0
+D1
+~
+~
+0 -1  0 69150
+D2
+~
+~
+0 -1  0 69161
+D3
+~
+~
+0 -1  0 69148
+S
+#69148
+Flooded Tunnels~
+   Darkness pervades the depths here, motes of dust and tiny balls of mangled 
+scrap floating amongst the torn-down walls and general wreckage. The tunnel 
+stretches onward as far as the eye can see, the glow of the walls completely 
+shut off and dormant. Muck on the floor of the area floats up when disturbed, 
+and settles into a dirty cloud of miasma that coats the body and clings to the 
+skin. 
+~
+69 67592 20
+0
+D1
+~
+~
+0 -1  0 69147
+D3
+~
+~
+0 -1  0 69149
+S
+#69149
+Dead End In The Deep~
+   A dead end stands at the end of the tunnel, walls and ceiling collapsed 
+inward onto the room, masking whatever use it might have held in the past. A 
+sea of blue-quartz panels coat the floor like fish scales, their glint lost in 
+the darkness that hangs over the dust and dirt-caked base of this part of the 
+flood-zone. Here the water is at its coldest. Frigid, murky, and stagnant. 
+~
+69 67592 20
+0
+D1
+~
+~
+0 -1  0 69148
+S
+#69150
+Flooded Tunnels~
+   Darkness pervades the depths here, motes of dust and tiny balls of mangled 
+scrap floating amongst the torn-down walls and general wreckage. The tunnel 
+stretches onward as far as the eye can see, the glow of the walls completely 
+shut off and dormant. Muck on the floor of the area floats up when disturbed, 
+and settles into a dirty cloud of miasma that coats the body and clings to the 
+skin. 
+~
+69 67592 20
+0
+D1
+~
+~
+0 -1  0 69151
+D3
+~
+~
+0 -1  0 69147
+S
+#69151
+Clanking Tunnel~
+   A low clanking sounds from outside the walls, repetitive and dull behind the 
+faintly-glowing walls of quartz. Bubbles fill the passageway from vents in the 
+floor, and strange markings line the south side of the wall, following the bend 
+along as it heads toward more of the darkness. One side of the room has a 
+number of dents in the wall in the approximate dimensions of a human head, a 
+rust-colored smear giving further credence to such an assumption. 
+~
+69 67592 20
+0
+D0
+~
+~
+0 -1  0 69152
+D3
+~
+~
+0 -1  0 69150
+S
+#69152
+Flooded Tunnels~
+   Darkness pervades the depths here, motes of dust and tiny balls of mangled 
+scrap floating amongst the torn-down walls and general wreckage. The tunnel 
+stretches onward as far as the eye can see, the glow of the walls completely 
+shut off and dormant. Muck on the floor of the area floats up when disturbed, 
+and settles into a dirty cloud of miasma that coats the body and clings to the 
+skin. 
+~
+69 67592 20
+0
+D2
+~
+~
+0 -1  0 69151
+D4
+~
+~
+0 -1  0 69165
+S
+#69153
+A Spiraling Incline~
+   Darkness pervades the depths here, motes of dust and tiny balls of mangled 
+scrap floating amongst the torn-down walls and general wreckage. The tunnel 
+stretches onward to a sudden stop as spiraling ramps branch off to the east and 
+west. The filthy water thankfully begins to abate as one makes the incline. 
+The glow of the walls flicker on and off occasionally here, providing no stable 
+source of light. 
+~
+69 65536 0
+0
+D1
+~
+~
+0 -1  0 69158
+D2
+~
+~
+0 -1  0 69165
+D3
+~
+~
+0 -1  0 69154
+S
+#69154
+A Flickering Catwalk~
+   This catwalk is not in the best of conditions. Comprised of many hexagonal 
+platforms joined together by some type of welding, the glowing emanating from 
+the platforms is erratic and flickering, and there appears to be absolutely no 
+form of railing here. Should someone fall off the catwalk, they would descend 
+into the deep darkness below. The platforms appear to float on their own, 
+suspended by invisible cables or some other form of suspension. Down below is 
+pitch-black darkness, the glow of the panels unable to pierce it. The catwalk 
+stretches from east to west and south. 
+~
+69 65536 0
+0
+D1
+~
+~
+0 -1  0 69153
+D2
+~
+~
+0 -1  0 69156
+D3
+~
+~
+0 -1  0 69155
+S
+#69155
+A Barren Storage Bay~
+   Most remarkably there are no containers at all in this large room. The 
+catwalk reaches out just a bit into the room, before breaking into a series of 
+multi-levelled platforms that act as access to each palette of storage, 
+stairwells composed of interlocking triangles providing means to search through 
+the heavy debris and broken mechanisms of the wrecked sections. However, 
+besides the damage, each platform is conspicuously empty. The lights along the 
+catwalk are inactive here, simple hexagonal constructs that line the edge of 
+the walkways here and there. 
+~
+69 65544 4
+0
+D1
+~
+~
+0 -1  0 69154
+S
+#69156
+A Flickering Catwalk~
+   This catwalk is not in the best of conditions. Comprised of many hexagonal 
+platforms joined together by some type of welding, the glowing emanating from 
+the platforms is erratic and flickering, and there appears to be absolutely no 
+form of railing here. Should someone fall off the catwalk, they would descend 
+into the deep darkness below. The platforms appear to float on their own, 
+suspended by invisible cables or some other form of suspension. Down below is 
+pitch-black darkness, the glow of the panels unable to pierce it. The catwalk 
+stretches from north to west. 
+~
+69 65536 0
+0
+D0
+~
+~
+0 -1  0 69154
+D3
+~
+~
+0 -1  0 69157
+S
+#69157
+A Skeleton-Ridden Storage Bay~
+   Most remarkably there are no containers at all in this large room. The 
+catwalk reaches out just a bit into the room, before breaking into a series of 
+multi-levelled platforms that act as access to each palette of storage, 
+stairwells composed of interlocking triangles providing means to search through 
+the heavy debris and broken mechanisms of the wrecked sections. However, 
+besides the damage, each platform is conspicuously empty. The lights along the 
+catwalk are inactive here, simple hexagonal constructs that line the edge of 
+the walkways here and there. However, lines and lines upon #3skeletons#0 have 
+been lined up on each platform as though ready to enter a massive grave here. 
+~
+69 65536 0
+0
+D1
+~
+~
+0 -1  0 69156
+E
+skeletons~
+   About twenty skeletons, some more intact than others - a few missing arms, 
+feet, their skull - are laid as though sleeping on the platforms, their hands 
+folded over their stomach. No flesh at all remains on these skeletons, just 
+bone. 
+~
+S
+#69158
+A Precarious, Tilted Catwalk~
+   Almost as if by magic, a catwalk is suspended above the ground here, 
+attached to a ramp to the west and to the east. The catwalk itself is barely 
+visible, formed of translucent hexagonal tiles which seem to react to pressure, 
+emitting a faint purple light when weight is added to them. The catwalk 
+appears to be suspended by wires of some sort, too thin to be seen by the naked 
+eye, but perceivable to the touch. If it weren't for a few collections of 
+dust, and a blood splatter that appears to be floating in the air, it would 
+almost be completely imperceptible. The entire area is naturally dark, 
+however, the tiles on the walls, ceiling, and the flooded floor below 
+apparently inert. 
+~
+69 65536 0
+0
+D1
+~
+~
+0 -1  0 69160
+D3
+~
+~
+0 -1  0 69153
+E
+trail~
+   The blood splatter here doesn't appear to be fresh, but it does look odd. 
+Due to the completely translusent floor beneath it, the blood seems to just be 
+floating there. There is a main body of it, stained a dark brownish color from 
+dust that has settled on it. On close inspection though, the noticeable 
+splatter isn't all there is, and there seems to be a trail leading off into the 
+air to the south. If so inclined, one could probably #6FOLLOW#0 the #6BLOOD#0 
+across the nearly invisible path. 
+~
+E
+splatter~
+   The blood splatter here doesn't appear to be fresh, but it does look odd. 
+Due to the completely translusent floor beneath it, the blood seems to just be 
+floating there. There is a main body of it, stained a dark brownish color from 
+dust that has settled on it. On close inspection though, the noticeable 
+splatter isn't all there is, and there seems to be a trail leading off into the 
+air to the south. If so inclined, one could probably #6FOLLOW#0 the #6BLOOD#0 
+across the nearly invisible path. 
+~
+E
+blood~
+   The blood splatter here doesn't appear to be fresh, but it does look odd. 
+Due to the completely translusent floor beneath it, the blood seems to just be 
+floating there. There is a main body of it, stained a dark brownish color from 
+dust that has settled on it. On close inspection though, the noticeable 
+splatter isn't all there is, and there seems to be a trail leading off into the 
+air to the south. If so inclined, one could probably #6FOLLOW#0 the #6BLOOD#0 
+across the nearly invisible path. 
+~
+P
+follow~
+blood~
+Vstr You notice that the blood splatter continues somewhere off to the south and carefully follow it, purple light flooding up from under your feet from an otherwise invisible source. The pathway is anything but straight, you discover, as the blood trail winds its way around.
+Ostr $n carefully makes their way southward, seemingly floating in thin air as they follow an odd path, their steps very briefly lit by purple light from underfoot.
+delay 10 xxxscavroom wait
+~
+P
+xxxtransfer~
+scavroom~
+trans 69159
+force -1 -1 look
+force -1 -1 emote ducks in through the hexagonal door.
+~
+P
+xxxscavroom~
+wait~
+vstr As you reach the end of the nearly invisible bloodtrail, you duck through a small hexagonal door.
+ostr As $n reaches the opposite side of the room, they disappear beyond a hexagonal door.
+delay 2 xxxtransfer scavroom
+~
+S
+#69159
+In a Cramped Storage Compartment~
+   Cramped and stuffy, there is little room in this compartment for more than 
+two people. A low ceiling would make standing a challenge, and stagnant, musky 
+air makes breathing a challenge, the smell of mildew and rot evident in every 
+breath. There is little room to navigate, as the area is laden with debris. A 
+lot of it has managed to break down in a wet, sticky mess due to contact with a 
+leaking ceiling, while other things have soaked the water up to create heavy, 
+mildew-laded obstacles. A hexagonal door marks the only exit from this area, 
+no visible ground available past it. Small blood spatterings, however, seem to 
+float in the air beyond while a decaying corpse lays far below.
+~
+69 65544 26
+0
+E
+splatter~
+   Faint and hard to see, the blood spatter forms a path in the air. It is 
+long since dried, its color having turned dark and sickly, and looks odd just 
+floating there. If one were to #6FOLLOW#0 the #6BLOOD#0, they would find safe 
+passage out of the storage compartment. 
+~
+E
+trail~
+   Faint and hard to see, the blood spatter forms a path in the air. It is 
+long since dried, its color having turned dark and sickly, and looks odd just 
+floating there. If one were to #6FOLLOW#0 the #6BLOOD#0, they would find safe 
+passage out of the storage compartment. 
+~
+E
+blood~
+   Faint and hard to see, the blood spatter forms a path in the air. It is 
+long since dried, its color having turned dark and sickly, and looks odd just 
+floating there. If one were to #6FOLLOW#0 the #6BLOOD#0, they would find safe 
+passage out of the storage compartment. 
+~
+P
+follow~
+blood~
+vstr You duck through the hexagonal door and, using the dried blood below your feet as your guide, start to make your way above a nearly invisible, snake-like catwalk. A hazy, purple glow surrounds each of your steps, offering distrcting light.
+ostr #5$n#0 ducks through the hexagonal door, following a winding path. Purple light is visible beneath their feet.
+delay 10 xxxmainroom transfer
+~
+P
+xxxmainroom~
+transfer~
+vstr You continue down the short, winding path, mindful of your step over the niegh-invisible platform below you, marked by a bloodtrail.
+ostr #5$n#0 continues along a nearly invisible path, almost defying logic as they walk across the air until they are out of sight.
+delay 2 xxxtransfer mainroom
+~
+P
+xxxtransfer~
+mainroom~
+trans 69158
+force -1 -1 emote steps onto the dusty, translucent platform.
+force -1 -1 look
+~
+S
+#69160
+Light-Filled Cylindrical Hall~
+   The water has not reached this section of the deck, the stairwells leading 
+up to the greater part of the hall out from the murky liquid to lead up in 
+opposing scaffolding that hugs the outer edge of circular walls. A huge 
+cylinder composes the shape of the passage, looming far upward with 
+incandescent purple light radiating in waves from the deep-blue panels that 
+coat the wall. At the peak of the rising stairwell, a smaller circular 
+platform connects the two sides, and from them a large vent on the south side 
+of the area. Two functioning electrical panels protect most of the entry, but 
+a miniature slot remains open, allowing travel by something very small. 
+~
+69 65544 5
+0
+D3
+~
+~
+0 -1  0 69158
+S
+#69161
+Flooded Tunnels~
+   Darkness pervades the depths here, motes of dust and tiny balls of mangled 
+scrap floating amongst the torn-down walls and general wreckage. The tunnel 
+stretches onward as far as the eye can see, the glow of the walls completely 
+shut off and dormant. Muck on the floor of the area floats up when disturbed, 
+and settles into a dirty cloud of miasma that coats the body and clings to the 
+skin. 
+~
+69 67592 20
+0
+D0
+~
+~
+0 -1  0 69147
+D2
+~
+~
+0 -1  0 69146
+D4
+~
+~
+0 -1  0 69145
+S
+#69162
+Flooded Tunnels~
+   Darkness pervades the depths here, motes of dust and tiny balls of mangled 
+scrap floating amongst the torn-down walls and general wreckage. The tunnel 
+stretches onward as far as the eye can see, the glow of the walls completely 
+shut off and dormant. Muck on the floor of the area floats up when disturbed, 
+and settles into a dirty cloud of miasma that coats the body and clings to the 
+skin. 
+~
+69 67592 20
+0
+D2
+~
+~
+0 -1  0 69124
+D4
+~
+~
+0 -1  0 69120
+S
+#69163
+Up a Flooded Tunnel~
+   Darkness pervades the depths here, motes of dust and tiny balls of mangled 
+scrap floating amongst the torn-down walls and general wreckage. The tunnel 
+stretches onward as far as the eye can see, the glow of the walls completely 
+shut off and dormant. Muck on the floor of the area floats up when disturbed, 
+and settles into a dirty cloud of miasma that coats the body and clings to the 
+skin. 
+~
+69 67592 20
+0
+D2
+~
+~
+0 -1  0 69127
+D5
+~
+~
+0 -1  0 69126
+S
+#69164
+Up a Flooded Tunnel~
+   Darkness pervades the depths here, motes of dust and tiny balls of mangled 
+scrap floating amongst the torn-down walls and general wreckage. The tunnel 
+stretches onward as far as the eye can see, the glow of the walls completely 
+shut off and dormant. Muck on the floor of the area floats up when disturbed, 
+and settles into a dirty cloud of miasma that coats the body and clings to the 
+skin. 
+~
+69 67592 20
+0
+D3
+~
+~
+0 -1  0 69012
+D5
+~
+~
+0 -1  0 69146
+S
+#69165
+Up A Flooded Tunnel~
+   Darkness pervades the depths here, motes of dust and tiny balls of mangled 
+scrap floating amongst the torn-down walls and general wreckage. The tunnel 
+stretches onward as far as the eye can see, the glow of the walls completely 
+shut off and dormant. Muck on the floor of the area floats up when disturbed, 
+and settles into a dirty cloud of miasma that coats the body and clings to the 
+skin. 
+~
+69 67592 20
+0
+D0
+~
+~
+0 -1  0 69153
+D5
+~
+~
+0 -1  0 69152
+S
+#69999
+Parasite Equiping Room.~
+This is the room where people get their parasites. Lucky them!
+~
+69 65537 0
+0
+S
 $~

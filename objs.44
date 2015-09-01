@@ -1,1 +1,83 @@
+#44004
+wrap $polymesh0 $camocolor1 $color2 $design3 mesh TEXTILE~
+a wrap of thick, $design3-emblazoned, $camocolor1 mesh~
+A wrap of thick, $design3-emblazoned, $camocolor1 mesh been dropped here.~
+   Polymer-strengthened $polymesh has been cut in a thick band measuring 
+roughly two feet in length. This item is designed to be wrapped about one's 
+head, providing good, if somewhat claustrophobia-inducing, protection to the 
+eyes, face, and head. The polymesh has been marked with $camocolor camouflage 
+pattern, emblazoned with a $color $design. 
+~
+9 34082816 69206017
+5 2 128 8
+157 0.000000
+0 0 
+$design1-mesh-wrapped~
+0 202 131072 0 1
+75.000000 0 0 0 0 0 0
+God~
+God~
+#44005
+card plastic poly-prop labeled $baserole0 PLASTIC~
+a poly-prop card labeled $baserole0~
+A poly-prop card labeled $baserole0 has been abandoned here.~
+   This wide, white polyprop card is meant to be clipped to a 
+belt, with the word "$baserole" written in big, blocky letters. 
+~
+11 33558528 262145
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#44007
+severed-hand severed hand ORGANIC~
+a severed hand~
+A severed hand has been left here, bereft of its owner.~
+   This hand has been neatly removed from its owner, and likely 
+not too long ago by the condition of the flesh. The blood has 
+stopped flowing, the jagged remains of bone jutting out from the 
+point of separation, and all five fingers remain more or less 
+intact. 
+
+You could likely still #6SCAN#0 this #6HAND#0 on a bioscanner. 
+~
+12 4096 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#44001
+object generic~
+a generic object~
+Some careless admin has left a generic object here.~
+~
+28 0 1
+1 0 6 13
+900 0.000000
+0 0 -2 0 1200 262144 0 1
+1600.000000 0 0 0 0 0 0
+A
+10000 10
+A
+10013 5
+God~
+God~
+#44015
+ration certificate OTHER~
+a ration certificate~
+A small ration certificate has been abandoned here.~
+   A small plastic card has been stamped with a barcode and imprinted with the 
+insignia of the SBS Atlas. 
+~
+12 4198400 1
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+1.000000 0 0 0 0 0 0
+God~
+God~
 $~

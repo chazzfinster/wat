@@ -1,1 +1,415 @@
+#64001
+Station1 radio board automated tapes recording stack OTHER~
+a stack of recording tapes~
+A stack of recording tapes stands by the console.~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64002
+Station2 radio board automated tapes recording stack OTHER~
+a stack of recording tapes~
+A stack of recording tapes stands by the console.~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64003
+Station3 radio board automated tapes recording stack OTHER~
+a stack of recording tapes~
+A stack of recording tapes stands by the console.~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64004
+Station4 radio board automated tapes recording stack OTHER~
+a stack of recording tapes~
+A stack of recording tapes stands by the console.~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64000
+token vine spawner overgrown room OTHER~
+an overgrown room vine spawner~
+An overgrown room vine spawner works here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64005
+token breadloaf perpetual OTHER~
+a perpetual breadloaf token~
+A perpetual breadloaf token works here.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64006
+token roach nest OTHER~
+a roach nest token~
+A roach nest token lies here, working.~
+~
+12 4 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64007
+flame-station radio board automated tapes recording stack OTHER~
+a stack of recording tapes~
+A stack of recording tapes stands by the console.~
+~
+22 0 0
+0 0 1 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64008
+bed medical patient ELECTRONIC~
+a medical patient bed~
+A medical patient bed sits in the center of the floor.~
+~
+86 0 0
+0 0 0 0
+40000 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64009
+token brown-out OTHER~
+A brown-out token~
+A brown-out token is here, turning lights on and off.~
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64010
+desk curved polished $finecolor faux-wood OTHER~
+a curved desk of polished $finecolor faux-wood~
+A curved desk of $finecolor faux-wood is here, polished to a sheen.~
+This office desk curves into a semi-circular shape, able to fit one person behind or two for a tight squeeze. The polyplastic material is without mar, dyed $finecolor and fashioned into the appearance of polished faux-wood. A series of drawers of varying sizes are embedded within, providing plenty of space for objects.
+~
+15 35651584 0
+10000 0 -1 0
+300 0.000000
+0 0 3 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64200
+lights lighting strip rows bluish-white white xkithcopy GLASS~
+the bluish-white ceiling lights~
+The strip lighting across the ceiling casts a bluish-white hue.~
+   Running across the length of the ceiling in several parallel rows, and 
+branching out to follow whatever corridors or passages may stretch down the 
+spaceship, are rows of thin LED strip lights. Presently, that emit a 
+bluish-white hue over the area. 
+~
+1 0 0
+-1 -1 20 1
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64201
+lights lighting strip flickering xkithcopy GLASS~
+the malfunctioning ceiling lights~
+The strip lighting across the ceiling flickers on and off.~
+   Running across the length of the ceiling in several parallel rows, and 
+branching out to follow whatever corridors or passages may stretch down the 
+spaceship, are rows of thin LED strip lights. Presently, they flicker on and 
+off sporadically. 
+~
+1 0 0
+-1 -1 20 0
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 1440 64202 0 0 0 0
+God~
+God~
+#64202
+lights strip lighting off xxxBROKEN GLASS~
+the dormant ceiling lights~
+The strip lighting across the ceiling is dormant.~
+   Running across the length of the ceiling in several parallel rows, and 
+branching out to follow whatever corridors or passages may stretch down the 
+spaceship, are rows of thin LED strip lights. Presently, they are dormant. 
+~
+12 0 0
+0 0 0 0
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64203
+lights lighting strip rows bluish-white white xneverbad xkithcopy GLASS~
+the bluish-white ceiling lights~
+The strip lighting across the ceiling casts a bluish-white hue.~
+   Running across the length of the ceiling in several parallel rows, and 
+branching out to follow whatever corridors or passages may stretch down the 
+spaceship, are rows of thin LED strip lights. Presently, that emit a 
+bluish-white hue over the area. 
+~
+1 8192 0
+-1 -1 20 1
+1 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64500
+key Atlas deck Zero matrix OTHER~
+an Atlas key for deck Zero the matrix~
+An Atlas key for deck Zero matrix has been left here. Contact admin.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64501
+key Atlas deck one cyro OTHER~
+an Atlas key for deck one cyro~
+An Atlas key for deck one cyro has been left here. Contact Admin.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64502
+key Atlas deck two habitation OTHER~
+an Atlas key for deck two habitation~
+An Atlas key for deck two habitation has been left here. Contact admin.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64503
+key Atlas deck three crafting OTHER~
+an Atlas key for deck three crafting~
+An Atlas key for deck three crafting has been left here. Contact Admin.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64504
+key Atlas deck B Bridge OTHER~
+an Atlas key for deck B Bridge~
+An Atlas key for deck B bridge has been left here. Contact Admin.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64505
+panel control complicated xxgaimancontrol OTHER~
+a complicated control panel~
+A complicated control panel is embedded within a sleek electronic console.~
+   No larger than the size of a laptop, this complicated control panel has been 
+installed flush with the electronic console it sits within. A highly advanced 
+piece of technology, the whole of the instrument itself has been manufactured 
+out of high-grade polyplastic, creating a sleek and flawless exterior of an 
+ebon black hue. A faint blue iridescence is emitted from the touch-screen 
+panel. With the authorized codes, you could #6ACCESS#0 the #6SHELL#0. 
+~
+12 0 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64506
+key Atlas airlock OTHER~
+an Atlas key for the airlock~
+An Atlas key for the airlock has been left here. Contact Admin.~
+~
+18 0 1
+0 0 0 0
+10 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64507
+token bridge-controlled controlled OTHER~
+a bridge-controlled doorlock token~
+a bridge-controlled doorlock token signifies the door is locked~
+~
+12 4100 1
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64204
+light globular small red dim OTHER~
+a small, globular red light~
+A dim, globular light is fixed to the wall, emitting a red glow.~
+   This small light consists of a clear, protective piece of polyplastic over a 
+vibrant red bulb. It has been installed into the wall, set within a simple 
+chrion frame and casts only a dim glow to the area. 
+~
+1 12288 0
+-1 -1 20 1
+500 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64205
+light globular dark broken OTHER~
+a dark, globular light~
+A dark, globular light is fixed to the wall, wires straying from it.~
+   This small light consists of a clear, protective piece of polyplastic over a 
+vibrant red bulb. It has been installed into the wall, set within a simple 
+chrion frame. Wires dangle from the back of the setting, leaving a dusty and 
+disconnected electronic piece. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64011
+pill tiny pastel-orange orange ORGANIC~
+a tiny, pastel-orange pill~
+A tiny, pastel-orange pill has been left here, easily overlooked.~
+   This tiny pill is no larger than about four millimeters in diameter. A 
+small 'G' has been imprinted on the surface. It is otherwise non-descript, the 
+smooth pastel-orange color solid throughout. 
+~
+19 0 1
+1 0 0 0
+1 0.000000
+0 0 
+tasteless and goes down easily.~
+0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64012
+bottle unmarked small cylindrical PLASTIC~
+a translucent, unmarked pill bottle~
+A translucent pill bottle has been left here, unmarked without a label.~
+An ordinary pill bottle, the translucent plastic is a generic umber hue. It bares no labels or markings, with a simple white screw-top cap in place.
+~
+15 0 1
+500 0 -1 0
+50 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64013
+shopkeeper token ORGANIC~
+a shopkeeper token~
+A shopkeeper token is here to be soothed or threatened.~
+   This frightened-looking human is minding their own business, and their own 
+shop. A kindly soul could help them out, while a more vicious one could 
+probably threaten them into giving up the goods. 
+~
+12 4100 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 6 64015 0 0 0 0
+God~
+God~
+#64014
+shopfront front sacked hoodlums OTHER~
+a sacked shopfront~
+This shopfront appears to have been recently sacked by hoodlums.~
+   Wares smashed and thrown around the room, this shopfront seems to be in a 
+bad state. The shopkeeper looks nervous and uncertain, eyeing you warily. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64015
+shopfront well kept OTHER~
+a well-kept shopfront~
+A well-kept shopfront is ripe for the picking.~
+   This store has been nicely organized, with a shopkeeper that's keeping a 
+wary eye on everything. 
+~
+12 4096 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
+#64016
+test model OTHER $color~
+a test $color model~
+A test $color model is here.~
+~
+12 33554432 0
+0 0 0 0
+100 0.000000
+0 0 0 0 0 0 0 1
+0.000000 0 0 0 0 0 0
+God~
+God~
 $~

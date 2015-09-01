@@ -1,1 +1,5775 @@
+#90000
+A Red-Rocked Bluff, Hosting the SBS Atlas~
+   This bluff is surrounded by a craggy red-rocked cliff-face. Several dozen 
+feet high, white sand powders the surface, bits of debris sprawled across the 
+area. These jagged rocks are large, and form a perilous path downhill to a 
+vast desert, which seems to have no end from here. The sky high above is 
+daunting and just as endless as the desert below, giving the area a sense of 
+majestic wonder. Dominating the view to the west and north is the massive 
+structure of the SBS Atlas, a beacon of hope for humankind and a great 
+accomplishment of centuries past. A landing stair leads up into a translucent 
+tunnel connecting to the vessel from here. Atop the overlooking cliff, far off 
+in the distance to the northeast, is a white, cylindrical tower, stained and 
+aged with dust and sand. 
+~
+90 65544 25
+0
+D5
+~
+~
+0 -1  0 90001
+S
+#90001
+A Wide, Duney Desert~
+   Rolling dunes and white sand greets anybody who treks across this desert. 
+This desert seems to stretch on for miles and miles as far as the eye can see. 
+Jagged rocks are scattered across the sands here, rendering travel difficult 
+and precarious. The sky is brilliantly blue against the white backdrop in the 
+daylight, without any clouds. To the northeast is a distant cylindrical 
+object, shimmering and distorted beyond the dunes. To the south and west, a 
+flickering purple wall feels rock solid to the touch, preventing any progress. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90011
+D1
+~
+~
+0 -1  0 90002
+D4
+~
+~
+0 -1  0 90000
+S
+#90002
+A Sandy, Duney Desert~
+   Rolling dunes and white sand greets anybody who treks across this desert. 
+This desert seems to stretch on for miles and miles as far as the eye can see. 
+The sky is brilliantly blue against the white backdrop in the daylight, without 
+any clouds. A small outcropping of rocks has been arranged by nature - or 
+something else - into a staggered line along a flat strip of desert. To the 
+northeast is a cylindrical object, shimmering and distant beyond the dunes. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90012
+D1
+~
+~
+0 -1  0 90003
+D2
+~
+~
+0 -1  0 90051
+D3
+~
+~
+0 -1  0 90001
+S
+#90003
+A Huge, Rocky and Sandy Desert~
+   This desert is strangely picturesque in its harsh beauty; its white rolling 
+dunes appear to be like perfect symmetrical peaks; and the sand is immaculately 
+white. Patches of dull green shrubbery dot the landscape where the ground is 
+firm, marking a nearly featureless landscape. The sky is brilliantly blue 
+against the white backdrop in the daylight, without any clouds. To the 
+northeast is a cylindrical object, shimmering and distant beyond the dunes. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90013
+D1
+~
+~
+0 -1  0 90004
+D2
+~
+~
+0 -1  0 90052
+D3
+~
+~
+0 -1  0 90002
+S
+#90004
+An All-encompassing, Duney Desert~
+   This desert is strangely picturesque in its harsh beauty; its white rolling 
+dunes appear to be like perfect symmetrical peaks; and the sand is immaculately 
+white. Patches of dull green shrubbery dot the landscape where the ground is 
+firm, marking a nearly featureless landscape. The sky is brilliantly blue 
+against the white backdrop in the daylight, without any clouds. To the 
+northeast is a cylindrical object, shimmering and distant beyond the dunes. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90014
+D1
+~
+~
+0 -1  0 90005
+D2
+~
+~
+0 -1  0 90053
+D3
+~
+~
+0 -1  0 90003
+S
+#90005
+A Wide, White-Sanded Desert~
+   The white sand appears to ripple in this expansive desert from the 
+sweltering heat, making it difficult to gauge distance. And at night, the 
+sharp drop in temperature is enough to cause frost to cling to the sands. The 
+sky is brilliantly blue against the white backdrop in the daylight, without any 
+clouds. The dunes level out here in brief respite, the sands retreating in a 
+curious stetch of hard-packed dirt. To the northeast is a cylindrical object, 
+its contour smooth in shape, shimmering and distant beyond the dunes. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90015
+D1
+~
+~
+0 -1  0 90006
+D2
+~
+~
+0 -1  0 90054
+D3
+~
+~
+0 -1  0 90004
+S
+#90006
+A Wide, Sandy Desert~
+   The white sand appears to ripple in this expansive desert from the 
+sweltering heat, making it difficult to gauge distance. And at night, the 
+sharp drop in temperature is enough to cause frost to cling to the sands. 
+Jagged rocks are scattered across the sands here, rendering travel difficult 
+and precarious. The sky is brilliantly blue against the white backdrop in the 
+daylight, without any clouds. To the north is a cylindrical tower that looms 
+in the distance, a dark spear up into the sky. The sun gleams off of it in the 
+daylight. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90016
+D1
+~
+~
+0 -1  0 90007
+D2
+~
+~
+0 -1  0 90055
+D3
+~
+~
+0 -1  0 90005
+S
+#90007
+A Wide-open Sprawling Desert~
+   The white sand appears to ripple in this expansive desert from the 
+sweltering heat, making it difficult to gauge distance. And at night, the 
+sharp drop in temperature is enough to cause frost to cling to the sands. 
+Jagged rocks are scattered across the sands here, rendering travel difficult 
+and precarious. The sky is brilliantly blue against the white backdrop in the 
+daylight, without any clouds. In the northwest is a cylindrical tower that 
+looms large against the horizon, a great monolith thrusting upward into the 
+sky. The sun gleams off of it in the daylight. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90017
+D1
+~
+~
+0 -1  0 90008
+D2
+~
+~
+0 -1  0 90056
+D3
+~
+~
+0 -1  0 90006
+S
+#90008
+A Wide, Stretching Desert~
+   This desert is strangely picturesque in its harsh beauty; its white rolling 
+dunes appear to be like perfect symmetrical peaks; and the sand is immaculately 
+white, dotted with the occasional red-hued rock here and there that make 
+traversing slightly more difficult. The dunes level out here in brief respite, 
+the sands retreating in a curious stretch of hard-packed dirt. The sky is 
+brilliantly blue against the white backdrop in the daylight, without any 
+clouds. In the northwest is a cylindrical tower that looms large against the 
+horizon, a great monolith thrusting upward into the sky. It glints dully, 
+looking long worn from the harsh elements and caked with dust. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90018
+D1
+~
+~
+0 -1  0 90009
+D2
+~
+~
+0 -1  0 90057
+D3
+~
+~
+0 -1  0 90007
+S
+#90009
+A Rolling, Duney Desert~
+   This desert is strangely picturesque in its harsh beauty; its white rolling 
+dunes appear to be like perfect symmetrical peaks; and the sand is immaculately 
+white, dotted with the occasional red-hued rock here. The dunes level out here 
+in brief respite, the sands retreating in a curious stretch of hard-packed 
+dirt. The sky is brilliantly blue against the white backdrop in the daylight, 
+without any clouds. In the northwest is a cylindrical tower that looms large 
+against the horizon, a great monolith thrusting upward into the sky. It glints 
+dully, looking long worn from the harsh elements and caked with dust. To the 
+south, you can almost swear you catch a glimpse of green. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90019
+D1
+~
+~
+0 -1  0 90010
+D2
+~
+~
+0 -1  0 90058
+D3
+~
+~
+0 -1  0 90008
+S
+#90010
+A Rolling, Sandy Desert~
+   The white sand appears to ripple in this expansive desert from the 
+sweltering heat, making it difficult to gauge distance. And at night, the 
+sharp drop in temperature is enough to cause frost to cling to the sands. The 
+sky is brilliantly blue against the white backdrop in the daylight, without any 
+clouds. The dunes level out here in brief respite, the sands retreating in a 
+curious stetch of hard-packed dirt. In the northwest is a cylindrical tower 
+that looms large against the horizon, a great monolith thrusting upward into 
+the sky. The sun gleams off of it in the daylight. Curving around the south 
+and east is this tranluscent purple wall, rock solid to the touch. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90020
+D3
+~
+~
+0 -1  0 90009
+S
+#90011
+A Large, Duney Desert~
+   The sun beats down mercilessly on this patch of desert, the sweltering heat 
+causing heat waves to rise up from sandy dunes. At night, the desert is 
+illuminated in ghostly blue light, reflected from the stars. The sky is 
+brilliantly blue against the white backdrop in the daylight, without any 
+clouds. The dunes level out here in brief respite, the sands retreating in a 
+curious stetch of hard-packed dirt. To the northeast is a distant cylindrical 
+object, shimmering and distant beyond the dunes. To the west is a tranluscent 
+purple wall, rock solid to the touch. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90021
+D1
+~
+~
+0 -1  0 90012
+D2
+~
+~
+0 -1  0 90001
+S
+#90012
+A Grand, Duney Desert~
+   This desert is strangely picturesque in its harsh beauty; its white rolling 
+dunes appear to be like perfect symmetrical peaks; and the sand is immaculately 
+white. Patches of dull green shrubbery dot the landscape where the ground is 
+firm, marking a nearly featureless landscape. The sky is brilliantly blue 
+against the white backdrop in the daylight, without any clouds. To the 
+northeast is a cylindrical object, shimmering and distant beyond the dunes. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90022
+D1
+~
+~
+0 -1  0 90013
+D2
+~
+~
+0 -1  0 90002
+D3
+~
+~
+0 -1  0 90011
+S
+#90013
+A Vast, Sandy Desert~
+   This desert is strangely picturesque in its harsh beauty; its white rolling 
+dunes appear to be like perfect symmetrical peaks; and the sand is immaculately 
+white. The sky is brilliantly blue against the white backdrop in the daylight, 
+without any clouds. What appears to be a gray obelisk has been half-submerged 
+by sand here, its stone surface etched with long-faded runes. To the northeast 
+is a distant cylindrical object, shimmering and distant beyond the dunes. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90023
+D1
+~
+~
+0 -1  0 90014
+D2
+~
+~
+0 -1  0 90003
+D3
+~
+~
+0 -1  0 90012
+S
+#90014
+An Open, Duney Desert~
+   This desert is strangely picturesque in its harsh beauty; its white rolling 
+dunes appear to be like perfect symmetrical peaks; and the sand is immaculately 
+white. The dunes level out here in brief respite, the sands retreating in a 
+curious stetch of hard-packed dirt. The sky is brilliantly blue against the 
+white backdrop in the daylight, without any clouds. To the northeast is a 
+cylindrical object, shimmering and distant beyond the dunes. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90024
+D1
+~
+~
+0 -1  0 90015
+D2
+~
+~
+0 -1  0 90004
+D3
+~
+~
+0 -1  0 90013
+S
+#90015
+A Huge, Red-Rocked Desert~
+   The white sand appears to ripple in this expansive desert from the 
+sweltering heat, making it difficult to gauge distance. And at night, the 
+sharp drop in temperature is enough to cause frost to cling to the sands. The 
+sky is brilliantly blue against the white backdrop in the daylight, without any 
+clouds. The dunes level out here in brief respite, the sands retreating in a 
+curious stetch of hard-packed dirt. To the northeast is a cylindrical object, 
+its contour smooth in shape, shimmering and distant beyond the dunes. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90025
+D1
+~
+~
+0 -1  0 90016
+D2
+~
+~
+0 -1  0 90005
+D3
+~
+~
+0 -1  0 90014
+P
+enter go~
+hatch slab~
+info vnum room -1 vnum
+if oexist(90082,&(vnum))
+atecho 90221 From the surface above, $n descends along a rusty, rickety ladder.
+force -1 -1 emote begins to descend into *hatch, along a ancient ladder
+trans 90221
+delay 2 look
+else do
+vstr You will need to open it first.
+fi done
+~
+P
+open~
+hatch slab~
+info vnum room -1 vnum
+if oexist(90082,&(vnum))
+vstr It is already open.
+else do
+force -1 -1 emote digging down along the bottom of *crater, @ reveals a metal hatch in the ground, and then swings it upward and open
+atecho 90221 The hatch door swings open from above.
+put 90082 &(vnum)
+fi done
+~
+P
+close~
+hatch slab~
+info vnum room -1 vnum
+if oexist(90082,&(vnum))
+atecho 90221 The hatch door closes from above.
+force -1 -1 emote swings *hatch close at the bottom of *crater, before kicking some sand back on top of it to partially conceal it
+get 90082 &(vnum)
+else do
+vstr It is already closed.
+fi done
+~
+P
+d do dow down~
+(null)~
+delay 2 enter hatch
+~
+S
+#90016
+A Vast, Sandy Desert~
+   This desert is strangely picturesque in its harsh beauty; its white rolling 
+dunes appear to be like perfect symmetrical peaks; and the sand is immaculately 
+white. The dunes level out here in brief respite, the sands retreating in a 
+curious stetch of hard-packed dirt. The sky is brilliantly blue against the 
+white backdrop in the daylight, without any clouds. To the north is a 
+cylindrical tower that looms in the distance, a dark spear up into the sky. 
+The sun gleams off of it in the daylight. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90026
+D1
+~
+~
+0 -1  0 90017
+D2
+~
+~
+0 -1  0 90006
+D3
+~
+~
+0 -1  0 90015
+S
+#90017
+A Sandy, Wide-open Desert~
+   With the heat from the sun beating down, the white sand ripples and shifts 
+in optical illusion, making it difficult to gauge distance. The night is a 
+marked difference, cold where heat was oppressive before, enough that the sand 
+crunches with ice.. Patches of dull green shrubbery dot the landscape where 
+the ground is firm, marking a nearly featureless landscape. The sky is 
+brilliantly blue against the white backdrop in the daylight, without any 
+clouds. In the northwest is a cylindrical tower that looms large against the 
+horizon, a great monolith thrusting upward into the sky. It glints dully, 
+looking long worn from the harsh elements and caked with dust. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90027
+D1
+~
+~
+0 -1  0 90018
+D2
+~
+~
+0 -1  0 90007
+D3
+~
+~
+0 -1  0 90016
+S
+#90018
+A Vast, Empty Desert~
+   This desert is strangely picturesque in its harsh beauty; its white rolling 
+dunes appear to be like perfect symmetrical peaks; and the sand is immaculately 
+white. The dunes level out here in brief respite, the sands retreating in a 
+curious stetch of hard-packed dirt. The sky is brilliantly blue against the 
+white backdrop in the daylight, without any clouds. In the northwest is a 
+cylindrical tower that looms large against the horizon, a great monolith 
+thrusting upward into the sky. It glints dully, looking long worn from the 
+harsh elements and caked with dust. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90028
+D1
+~
+~
+0 -1  0 90019
+D2
+~
+~
+0 -1  0 90008
+D3
+~
+~
+0 -1  0 90017
+S
+#90019
+A Wide, Duney Desert~
+   Patches of dull green shrubbery dot the landscape where the ground is firm, 
+marking a nearly featureless landscape. The landscape is also littered with 
+red craggy rocks that peek through the sands, giving feature as easily as the 
+shrubbery. With the heat from the sun beating down, the white sand ripples and 
+shifts in optical illusion, making it difficult to gauge distance. The night 
+is a marked difference, cold where heat was oppressive before, enough that the 
+sand crunches with ice. The sky is brilliantly blue against the white backdrop 
+in the daylight, without any clouds. In the northwest is a cylindrical tower 
+that looms large against the horizon, a great monolith thrusting upward into 
+the sky. It glints dully, looking long worn from the harsh elements and caked 
+with dust. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90029
+D1
+~
+~
+0 -1  0 90020
+D2
+~
+~
+0 -1  0 90009
+D3
+~
+~
+0 -1  0 90018
+S
+#90020
+A Rocky, Sandy Desert~
+   This desert is strangely picturesque in its harsh beauty; its white rolling 
+dunes appear to be like perfect symmetrical peaks; and the sand is immaculately 
+white, dotted with the occasional red-hued rock here. The dunes level out here 
+in brief respite, the sands retreating in a curious stretch of hard-packed 
+dirt. The sky is brilliantly blue against the white backdrop in the daylight, 
+without any clouds. In the northwest is a cylindrical tower that looms large 
+against the horizon, a great monolith thrusting upward into the sky. It glints 
+dully, looking long worn from the harsh elements and caked with dust. To the 
+east is a tranluscent purple wall, rock solid to the touch. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90030
+D2
+~
+~
+0 -1  0 90010
+D3
+~
+~
+0 -1  0 90019
+S
+#90021
+An Expansive, Duney Desert~
+   This desert is strangely picturesque in its harsh beauty; its white rolling 
+dunes appear to be like perfect symmetrical peaks; and the sand is immaculately 
+white. The sky is brilliantly blue against the white backdrop in the daylight, 
+without any clouds. What appears to be a gray obelisk has been half-submerged 
+by sand here, its stone surface etched with long-faded runes. To the northeast 
+is a distant cylindrical object, shimmering and distant beyond the dunes. A 
+great canyon cuts right across this desert abruptly, barring any passage north 
+by a deep, dark chasm. 
+~
+90 65544 25
+0
+D1
+~
+~
+0 -1  0 90022
+D2
+~
+~
+0 -1  0 90011
+S
+#90022
+An Expansive, Duney Desert~
+   The white sand appears to ripple in this expansive desert from the 
+sweltering heat, making it difficult to gauge distance. And at night, the 
+sharp drop in temperature is enough to cause frost to cling to the sands. The 
+sky is brilliantly blue against the white backdrop in the daylight, without any 
+clouds. Jagged rocks are scattered across the sands here, rendering travel 
+difficult and precarious. To the northeast is a distant cylindrical object, 
+shimmering and distant beyond the dunes. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90031
+D1
+~
+~
+0 -1  0 90023
+D2
+~
+~
+0 -1  0 90012
+D3
+~
+~
+0 -1  0 90021
+S
+#90023
+A Wide, Sandy Desert~
+   The sun beats down mercilessly on this patch of desert, the sweltering heat 
+causing heat waves to rise up from sandy dunes. At night, the desert is 
+illuminated in ghostly blue light, reflected from the stars. The sky is 
+brilliantly blue against the white backdrop in the daylight, without any 
+clouds. The dunes level out here in brief respite, the sands retreating in a 
+curious stetch of hard-packed dirt. To the northeast is a distant cylindrical 
+object, shimmering and distant beyond the dunes. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90032
+D1
+~
+~
+0 -1  0 90024
+D2
+~
+~
+0 -1  0 90013
+D3
+~
+~
+0 -1  0 90022
+S
+#90024
+A Vast, White-sanded Desert~
+   The white sand appears to ripple in this expansive desert from the 
+sweltering heat, making it difficult to gauge distance. And at night, the 
+sharp drop in temperature is enough to cause frost to cling to the sands. The 
+sky is brilliantly blue against the white backdrop in the daylight, without any 
+clouds. The dunes level out here in brief respite, the sands retreating in a 
+curious stetch of hard-packed dirt. To the northeast is a cylindrical object, 
+its contour smooth in shape, shimmering and distant beyond the dunes. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90033
+D1
+~
+~
+0 -1  0 90025
+D2
+~
+~
+0 -1  0 90014
+D3
+~
+~
+0 -1  0 90023
+S
+#90025
+A Sandy, Dune-filled Desert~
+   The sun beats down mercilessly on this patch of desert, the sweltering heat 
+causing heat waves to rise up from sandy dunes. At night, the desert is 
+illuminated in ghostly blue light, reflected from the stars. The sky is 
+brilliantly blue against the white backdrop in the daylight, without any 
+clouds. The dunes level out here in brief respite, the sands retreating in a 
+curious stetch of hard-packed dirt. To the northeast is a distant cylindrical 
+object, its contours smooth in shape, shimmering and distant beyond the dunes. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90034
+D1
+~
+~
+0 -1  0 90026
+D2
+~
+~
+0 -1  0 90015
+D3
+~
+~
+0 -1  0 90024
+S
+#90026
+Wide, Expansive Dunes~
+   The white sand appears to ripple in this expansive desert from the 
+sweltering heat, making it difficult to gauge distance. And at night, the 
+sharp drop in temperature is enough to cause frost to cling to the sands. The 
+sky is brilliantly blue against the white backdrop in the daylight, without any 
+clouds. The dunes level out here in brief respite, the sands retreating in a 
+curious stetch of hard-packed dirt. To the north is a cylindrical tower that 
+looms in the distance, a dark spear up into the sky. The sun gleams off of it 
+in the daylight. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90035
+D1
+~
+~
+0 -1  0 90027
+D2
+~
+~
+0 -1  0 90016
+D3
+~
+~
+0 -1  0 90025
+S
+#90027
+A White, Sandy Desert~
+   With the heat from the sun beating down, the white sand ripples and shifts 
+in optical illusion, making it difficult to gauge distance. And at night, the 
+sharp drop in temperature is enough to cause frost to cling to the sands. 
+Patches of dull green shrubbery dot the landscape where the ground is firm, 
+marking a nearly featureless landscape. The sky is brilliantly blue against 
+the white backdrop in the daylight, without any clouds. In the northwest is a 
+cylindrical tower that looms large against the horizon, a great monolith 
+thrusting upward into the sky. It glints dully, looking long worn from the 
+harsh elements and caked with dust. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90036
+D1
+~
+~
+0 -1  0 90028
+D2
+~
+~
+0 -1  0 90017
+D3
+~
+~
+0 -1  0 90026
+S
+#90028
+An Expansive, Sand-covered Desert~
+   The white sand appears to ripple in this expansive desert from the 
+sweltering heat, making it difficult to gauge distance. And at night, the 
+sharp drop in temperature is enough to cause frost to cling to the sands, 
+making it crunch underfoot. The sky is brilliantly blue against the white 
+backdrop in the daylight, without any clouds. The dunes level out here in 
+brief respite, the sands retreating in a curious stretch of hard-packed dirt. 
+To the northwest is a cylindrical object, its contour smooth in shape, 
+shimmering and distant beyond the dunes. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90037
+D1
+~
+~
+0 -1  0 90029
+D2
+~
+~
+0 -1  0 90018
+D3
+~
+~
+0 -1  0 90027
+S
+#90029
+An Expansive, Dune-Covered Desert~
+   The white sand appears to ripple in this expansive desert from the 
+sweltering heat, making it difficult to gauge distance. And at night, the 
+sharp drop in temperature is enough to cause frost to cling to the sands, 
+making it crunch underfoot. The sky is brilliantly blue against the white 
+backdrop in the daylight, without any clouds. The dunes level out here in 
+brief respite, the sands retreating in a curious stretch of hard-packed dirt. 
+To the west is a cylindrical monolith, its contour smooth in shape, shimmering 
+and distant beyond the dunes. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90038
+D1
+~
+~
+0 -1  0 90030
+D2
+~
+~
+0 -1  0 90019
+D3
+~
+~
+0 -1  0 90028
+S
+#90030
+A Rocky, Sand-covered Desert~
+   This desert is strangely picturesque in its harsh beauty; its white rolling 
+dunes appear to be like perfect symmetrical peaks; and the sand is immaculately 
+white, dotted with the occasional red-hued rock here and there that make 
+traversing slightly more difficult. The dunes level out here in brief respite, 
+the sands retreating in a curious stretch of hard-packed dirt. Just eastward 
+as a faintly shimmering wall, seeming solid to the touch. The sky is 
+brilliantly blue against the white backdrop in the daylight, without any 
+clouds. In the west is a cylindrical tower that looms large against the 
+horizon, a great monolith thrusting upward into the sky. It glints dully, 
+looking long worn from the harsh elements and caked with dust. Curving from 
+the east to the north is a tranluscent purple wall, rock solid to the touch. 
+~
+90 65544 25
+0
+D2
+~
+~
+0 -1  0 90020
+D3
+~
+~
+0 -1  0 90029
+S
+#90031
+An Expansive, Duney Desert~
+   This desert is strangely picturesque in its harsh beauty; its white rolling 
+dunes appear to be like perfect symmetrical peaks; and the sand is immaculately 
+white. The sky is brilliantly blue against the white backdrop in the daylight, 
+without any clouds. What appears to be a gray obelisk has been half-submerged 
+by sand here, its stone surface etched with long-faded runes. To the northeast 
+is a distant cylindrical object, shimmering and distant beyond the dunes. A 
+great canyon cuts right across this desert abruptly, barring any passage north 
+and west by a deep, dark chasm. 
+~
+90 65544 25
+0
+D1
+~
+~
+0 -1  0 90032
+D2
+~
+~
+0 -1  0 90022
+S
+#90032
+A Great, Duney Desert~
+   Rolling dunes and white sand greets anybody who treks across this desert. 
+This desert seems to stretch on for miles and miles as far as the eye can see. 
+The sky is brilliantly blue against the white backdrop in the daylight, without 
+any clouds. A small outcropping of rocks has been arranged by nature - or 
+something else - into a staggered line along a flat strip of desert. To the 
+northeast is a cylindrical object, its contour smooth in shape, shimmering and 
+distant beyond the dunes. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90039
+D1
+~
+~
+0 -1  0 90033
+D2
+~
+~
+0 -1  0 90023
+D3
+~
+~
+0 -1  0 90031
+S
+#90033
+A White-sanded Desert~
+   The white sand appears to ripple in this expansive desert from the 
+sweltering heat, making it difficult to gauge distance. And at night, the 
+sharp drop in temperature is enough to cause frost to cling to the sands. 
+Patches of dull green shrubbery dot the landscape where the ground is firm, 
+marking a nearly featureless landscape. The sky is brilliantly blue against 
+the white backdrop in the daylight, without any clouds. To the northeast is a 
+cylindrical object, its contour smooth in shape, shimmering and distant beyond 
+the dunes. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90040
+D1
+~
+~
+0 -1  0 90034
+D2
+~
+~
+0 -1  0 90024
+D3
+~
+~
+0 -1  0 90032
+S
+#90034
+A Rock-studded, Sandy Desert~
+   The white sand appears to ripple in this expansive desert from the 
+sweltering heat, making it difficult to gauge distance. And at night, the 
+sharp drop in temperature is enough to cause frost to cling to the sands. The 
+sky is brilliantly blue against the white backdrop in the daylight, without any 
+clouds. The dunes level out here in brief respite, the sands retreating in a 
+curious stetch of hard-packed dirt. To the northeast is a cylindrical object, 
+its contour smooth in shape, shimmering and distant beyond the dunes. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90041
+D1
+~
+~
+0 -1  0 90035
+D2
+~
+~
+0 -1  0 90025
+D3
+~
+~
+0 -1  0 90033
+S
+#90035
+Open, White-sanded Desert~
+   The white sand appears to ripple in this expansive desert from the 
+sweltering heat, making it difficult to gauge distance. And at night, the 
+sharp drop in temperature is enough to cause frost to cling to the sands. 
+Patches of dull green shrubbery dot the landscape where the ground is firm, 
+marking a nearly featureless landscape. The sky is brilliantly blue against 
+the white backdrop in the daylight, without any clouds. In the north is a 
+cylindrical tower that looms large against the horizon, a dark spear thrusting 
+upward into the sky. It glints dully, looking long worn from the harsh 
+elements. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90042
+D1
+~
+~
+0 -1  0 90036
+D2
+~
+~
+0 -1  0 90026
+D3
+~
+~
+0 -1  0 90034
+S
+#90036
+A Red-rocked, Sandy Desert~
+   This desert is strangely picturesque in its harsh beauty; its white rolling 
+dunes appear to be like perfect symmetrical peaks; and the sand is immaculately 
+white. The sky is brilliantly blue against the white backdrop in the daylight, 
+without any clouds. The dunes level out here in brief respite, the sands 
+retreating in a curious stetch of hard-packed dirt. Not far to the north is a 
+looming tower that overshadows anything else in the distance, glinting dully in 
+the sunlight. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90043
+D1
+~
+~
+0 -1  0 90037
+D2
+~
+~
+0 -1  0 90027
+D3
+~
+~
+0 -1  0 90035
+S
+#90037
+A Wide, Sandy Desert~
+   Patches of dull green shrubbery dot the landscape where the ground is firm, 
+marking a nearly featureless landscape. The landscape is also littered with 
+red craggy rocks that peek through the sands, giving feature as easily as the 
+shrubbery. With the heat from the sun beating down, the white sand ripples and 
+shifts in optical illusion, making it difficult to gauge distance. The night 
+is a marked difference, cold where heat was oppressive before, enough that the 
+sand crunches with ice. The sky is brilliantly blue against the white backdrop 
+in the daylight, without any clouds. In the northwest is a cylindrical tower 
+that looms large against the horizon, a great monolith thrusting upward into 
+the sky. It glints dully, looking long worn from the harsh elements and caked 
+with dust. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90044
+D1
+~
+~
+0 -1  0 90038
+D2
+~
+~
+0 -1  0 90028
+D3
+~
+~
+0 -1  0 90036
+S
+#90038
+A Large, Sandy Desert~
+   The white sand appears to ripple in this expansive desert from the 
+sweltering heat, making it difficult to gauge distance. And at night, the 
+sharp drop in temperature is enough to cause frost to cling to the sands, 
+making it crunch underfoot. The sky is brilliantly blue against the white 
+backdrop in the daylight, without any clouds. The dunes level out here in 
+brief respite, the sands retreating in a curious stretch of hard-packed dirt. 
+To the west is a cylindrical monolith, its contour smooth in shape, shimmering 
+and distant beyond the dunes. Curving from the east to the north is a 
+tranluscent purple wall, rock solid to the touch. 
+~
+90 65544 25
+0
+D2
+~
+~
+0 -1  0 90029
+D3
+~
+~
+0 -1  0 90037
+S
+#90039
+An Expansive, Duney Desert~
+   This desert is strangely picturesque in its harsh beauty; its white rolling 
+dunes appear to be like perfect symmetrical peaks; and the sand is immaculately 
+white. The sky is brilliantly blue against the white backdrop in the daylight, 
+without any clouds. What appears to be a gray obelisk has been half-submerged 
+by sand here, its stone surface etched with long-faded runes. To the northeast 
+is a distant cylindrical object, shimmering and distant beyond the dunes. A 
+great canyon cuts right across this desert abruptly, barring any passage north 
+and west by a deep, dark chasm. 
+~
+90 65544 25
+0
+D1
+~
+~
+0 -1  0 90040
+D2
+~
+~
+0 -1  0 90032
+S
+#90040
+A Vast, Dune-topped Desert~
+   This desert is strangely picturesque in its harsh beauty; its white rolling 
+dunes appear to be like perfect symmetrical peaks; and the sand is immaculately 
+white. The sky is brilliantly blue against the white backdrop in the daylight, 
+without any clouds. The dunes level out here in brief respite, the sands 
+retreating in a curious stetch of hard-packed dirt. To the northeast is a 
+cylindrical tower that looms in the distance, a dark spear up into the sky. 
+The sun gleams off of it in the daylight. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90045
+D1
+~
+~
+0 -1  0 90041
+D2
+~
+~
+0 -1  0 90033
+D3
+~
+~
+0 -1  0 90039
+S
+#90041
+Nearing a White Metal Tower~
+   The white sand appears to ripple in this expansive desert from the 
+sweltering heat, making it difficult to gauge distance. And at night, the 
+sharp drop in temperature is enough to cause frost to cling to the sands. 
+Patches of dull green shrubbery dot the landscape where the ground is firm, 
+marking a nearly featureless landscape. The sky is brilliantly blue against 
+the white backdrop in the daylight, without any clouds. In the northeast is a 
+cylindrical tower that looms large against the horizon, a dark spear thrusting 
+upward into the sky. It glints dully, looking long worn from the harsh 
+elements. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90046
+D1
+~
+~
+0 -1  0 90042
+D2
+~
+~
+0 -1  0 90034
+D3
+~
+~
+0 -1  0 90040
+S
+#90042
+South of a Metal Tower~
+   This desert is strangely picturesque in its harsh beauty; its white rolling 
+dunes appear to be like perfect symmetrical peaks; and the sand is immaculately 
+white. The sky is brilliantly blue against the white backdrop in the daylight, 
+without any clouds. The dunes level out here in brief respite, the sands 
+retreating in a curious stetch of hard-packed dirt. To the north is a looming 
+tower that overshadows anything else in the distance, glinting dully in the 
+sunlight. The smooth, plated white surface appears to be scratched and crusted 
+with dust and sand. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90047
+D1
+~
+~
+0 -1  0 90043
+D2
+~
+~
+0 -1  0 90035
+D3
+~
+~
+0 -1  0 90041
+S
+#90043
+Nearing a White Tower~
+   At night, cold chases away all the gleaned sunny warmth, leaving this sandy 
+expanse a chilled wasteland. The sweltering heat during the day causes waves 
+to rise up from the dunes. Shrubbery dots the landscape, giving feature to an 
+otherwise featureless expanse. Just west and north of here, a cylindrical 
+tower rises into the distance. Though white metallic, it is caked with ages of 
+dust and dirt, collecting in the crevices. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90048
+D1
+~
+~
+0 -1  0 90044
+D2
+~
+~
+0 -1  0 90036
+D3
+~
+~
+0 -1  0 90042
+S
+#90044
+A Large, Rocky Desert~
+   At night, cold chases away all the gleaned sunny warmth, leaving this sandy 
+expanse a chilled wasteland. Amid the sand are red-hued rocks, making 
+traversing difficult and arduous. The sweltering heat during the day causes 
+waves to rise up from the dunes. Shrubbery dots the landscape, giving feature 
+to an otherwise featureless expanse. Just west and north of here, a 
+cylindrical tower rises into the distance. Though white metallic, it is caked 
+with ages of dust and dirt, collecting in the crevices. Curving from the east 
+to the north is a tranluscent purple wall, rock solid to the touch. 
+~
+90 65544 25
+0
+D2
+~
+~
+0 -1  0 90037
+D3
+~
+~
+0 -1  0 90043
+S
+#90045
+A Wide, Rolling Desert~
+   The sun beats down mercilessly on this patch of desert, the sweltering heat 
+causing heat waves to rise up from sandy dunes. At night, the desert is 
+illuminated in ghostly blue light, reflected from the stars. Patches of dull 
+green shrubbery dot the landscape where the ground is firm, marking a nearly 
+featureless landscape. The sky is brilliantly blue against the white backdrop 
+in the daylight, without any clouds. To the northeast is a cylindrical tower 
+that looms in the distance, a dark spear up into the sky. The sun gleams off 
+of it in the daylight. To the north and west is a deep chasm created by a 
+sudden canyon, barring access. From here, one might spot the ruins of a mile 
+long spaceship deep within the canyon, where part of the bluff has collapsed, 
+crushing the remains of the vessel. Time and the fierce elements have 
+destroyed the structural integrity of the ship, noticeably so from even this 
+distance. The inwardly jutting rocks make climbing down into the chasm a 
+wreckless - and most likely, deadly endeavour. 
+~
+90 65544 25
+0
+D1
+~
+~
+0 -1  0 90046
+D2
+~
+~
+0 -1  0 90040
+S
+#90046
+Nearby to a Dust-covered Tower~
+   The white sand appears to ripple in this expansive desert from the 
+sweltering heat, making it difficult to gauge distance. And at night, the 
+sharp drop in temperature is enough to cause frost to cling to the sands. The 
+sky is brilliantly blue against the white backdrop in the daylight, without any 
+clouds. The dunes level out here in brief respite, the sands retreating in a 
+curious stetch of hard-packed dirt. To the east is a looming tower that 
+overshadows anything else in the distance, glinting dully in the sunlight. The 
+smooth, plated white surface appears to be scratched and crusted with dust and 
+sand. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90049
+D1
+~
+~
+0 -1  0 90047
+D2
+~
+~
+0 -1  0 90041
+D3
+~
+~
+0 -1  0 90045
+S
+#90047
+Desert Surrounding a Metal Tower~
+   The harsh desert has not yet overcome this towering structure that rises 
+high above in the white sands. Sky high, its white plated surface has long 
+since faded into a dull grey, battered by winds, and sand. The plates are so 
+small as to be appear seamless, separated by needle-thin lines. The only 
+indication of a gate is a slightly discolored oval plate at the base of the 
+tower, thrown slightly ajar by some unknown force. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90050
+D1
+~
+~
+0 -1  0 90048
+D2
+~
+~
+0 -1  0 90042
+D3
+~
+~
+0 -1  0 90046
+P
+l lo loo look ex exa exam exami examin examine~
+gate tower blastdoor~
+vstr The 'gate' appears to actually be some sort of operational blastdoor. You realize that you could #6ENTER#0 the #6TOWER#0 through this.
+~
+P
+enter~
+tower~
+atecho 90070 Suddenly, #5$n#0 steps through the blastdoor and leaves the harsh Mars desert behind them.
+force -1 -1 emote presses a hand against the plated blastdoor, which slides open just long enough for them to step into the great tower
+trans 90070
+delay 3 look
+~
+S
+#90048
+Off to the Side of a White Tower~
+   At night, cold chases away all the gleaned sunny warmth, leaving this sandy 
+expanse a chilled wasteland. The sweltering heat during the day causes waves 
+to rise up from the dunes. Patches of shrubbery have sprouted here and there, 
+marking the otherwise featureless landscape. The sky is clear and endless 
+blue, taking on dark or light depending on the time of day. Just west of here, 
+a cylindrical tower rises into the distance. Though white metallic, it is 
+caked with ages of dust and dirt, collecting in the crevices. To the north and 
+west is a deep chasm created by a sudden canyon, barring access. To the east 
+is a tranluscent purple wall, rock solid to the touch. 
+~
+90 65544 25
+0
+D2
+~
+~
+0 -1  0 90043
+D3
+~
+~
+0 -1  0 90047
+S
+#90049
+Just Distanced to a Metal Tower~
+   The sun beats down mercilessly on this patch of desert, the sweltering heat 
+causing heat waves to rise up from sandy dunes. At night, the desert is 
+illuminated in ghostly blue light, reflected from the stars. Patches of dull 
+green shrubbery dot the landscape where the ground is firm, marking a nearly 
+featureless landscape. The sky is brilliantly blue against the white backdrop 
+in the daylight, without any clouds. To the southeast is a cylindrical tower 
+that looms in the distance, a dark spear up into the sky. The sun gleams off 
+of it in the daylight. To the north and west is a deep chasm created by a 
+sudden canyon, barring access. 
+~
+90 65544 25
+0
+D1
+~
+~
+0 -1  0 90050
+D2
+~
+~
+0 -1  0 90046
+S
+#90050
+Just Before a Metal Tower~
+   The sweltering heat during the day causes waves to rise up from the dunes. 
+At night, however, cold chases away all of that, leaving this sandy expanse a 
+chilled wasteland. Patches of shrubbery have sprouted here and there, marking 
+the otherwise featureless landscape. The sky is clear and endless blue, taking 
+on dark or light depending on the time of day. Just south of here, a 
+cylindrical tower rises into the distance. Though white metallic, it is caked 
+with ages of dust and dirt, collecting in the crevices. To the north and west 
+is a deep chasm created by a sudden canyon, barring access. To the east is a 
+tranluscent purple wall, rock solid to the touch. 
+~
+90 65544 25
+0
+D2
+~
+~
+0 -1  0 90047
+D3
+~
+~
+0 -1  0 90049
+S
+#90051
+A Vast, Duney Desert~
+   The sun beats down mercilessly on this patch of desert, the sweltering heat 
+causing heat waves to rise up from sandy dunes. At night, the desert is 
+illuminated in ghostly blue light, reflected from the stars. Jagged rocks are 
+scattered across the sands here, rendering travel difficult and precarious. 
+The sky is brilliantly blue against the white backdrop in the daylight, without 
+any clouds. To the northeast is a cylindrical object, shimmering and distant 
+beyond the dunes. To the south and west, a flickering purple wall feels rock 
+solid to the touch, preventing any progress. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90002
+D1
+~
+~
+0 -1  0 90052
+S
+#90052
+A Great, Sandy Desert~
+   Rolling dunes and white sand greets anybody who treks across this desert. 
+This desert seems to stretch on for miles and miles as far as the eye can see. 
+Jagged rocks are scattered across the sands here, rendering travel difficult 
+and precarious. The sky is brilliantly blue against the white backdrop in the 
+daylight, without any clouds. To the northeast is a distant cylindrical 
+object, shimmering and distorted beyond the dunes. To the south, a flickering 
+purple wall feels rock solid to the touch, preventing any progress. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90003
+D1
+~
+~
+0 -1  0 90053
+D3
+~
+~
+0 -1  0 90051
+S
+#90053
+An Expansive, Duney Desert~
+   The sun beats down mercilessly on this patch of desert, the sweltering heat 
+causing heat waves to rise up from sandy dunes. At night, the desert is 
+illuminated in ghostly blue light, reflected from the stars. Jagged rocks are 
+scattered across the sands here, rendering travel difficult and precarious. 
+The sky is brilliantly blue against the white backdrop in the daylight, without 
+any clouds. To the northeast is a cylindrical object, shimmering and distant 
+beyond the dunes. To the south, a flickering purple wall feels rock solid to 
+the touch, preventing any progress. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90004
+D1
+~
+~
+0 -1  0 90054
+D3
+~
+~
+0 -1  0 90052
+S
+#90054
+An Expansive, Duney Desert~
+   Rolling dunes and white sand greets anybody who treks across this desert. 
+This desert seems to stretch on for miles and miles as far as the eye can see. 
+Jagged rocks are scattered across the sands here, rendering travel difficult 
+and precarious. The sky is brilliantly blue against the white backdrop in the 
+daylight, without any clouds. To the northeast is a distant cylindrical 
+object, shimmering and distorted beyond the dunes. To the south, a flickering 
+purple wall feels rock solid to the touch, preventing any progress. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90005
+D1
+~
+~
+0 -1  0 90055
+D3
+~
+~
+0 -1  0 90053
+S
+#90055
+Amid Rolling Hills of Desert~
+   The white sand appears to ripple in this expansive desert from the 
+sweltering heat, making it difficult to gauge distance. And at night, the 
+sharp drop in temperature is enough to cause frost to cling to the sands. The 
+sky is brilliantly blue against the white backdrop in the daylight, without any 
+clouds. The dunes level out here in brief respite, the sands retreating in a 
+curious stetch of hard-packed dirt. To the north is a cylindrical tower that 
+looms in the distance, a dark spear up into the sky. The sun gleams off of it 
+in the daylight. To the south is a tranluscent purple wall, rock solid to the 
+touch. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90006
+D1
+~
+~
+0 -1  0 90056
+D3
+~
+~
+0 -1  0 90054
+S
+#90056
+Among White-Sanded Dunes~
+   The white sand appears to ripple in this expansive desert from the 
+sweltering heat, making it difficult to gauge distance. And at night, the 
+sharp drop in temperature is enough to cause frost to cling to the sands. The 
+sky is brilliantly blue against the white backdrop in the daylight, without any 
+clouds. The dunes level out here in brief respite, the sands retreating in a 
+curious stetch of hard-packed dirt. In the northwest is a cylindrical tower 
+that looms large against the horizon, a great monolith thrusting upward into 
+the sky. The sun gleams off of it in the daylight. To the south is a 
+tranluscent purple wall, rock solid to the touch. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90007
+D1
+~
+~
+0 -1  0 90057
+D3
+~
+~
+0 -1  0 90055
+S
+#90057
+A Wide, Rolling Desert~
+   Patches of dull green shrubbery dot the landscape where the ground is firm, 
+marking a nearly featureless landscape. With the heat from the sun beating 
+down, the white sand ripples and shifts in optical illusion, making it 
+difficult to gauge distance. The night is a marked difference, cold where heat 
+was oppressive before, enough that the sand crunches with ice. The sky is 
+brilliantly blue against the white backdrop in the daylight, without any 
+clouds. In the northwest is a cylindrical tower that looms large against the 
+horizon, a great monolith thrusting upward into the sky. It glints dully, 
+looking long worn from the harsh elements and caked with dust. Still, some 
+green can be seen, but it's hard to pinpoint from where, south or west. 
+~
+90 65544 25
+0
+D0
+~
+~
+0 -1  0 90008
+D1
+~
+~
+0 -1  0 90058
+D2
+~
+~
+0 -1  0 90059
+D3
+~
+~
+0 -1  0 90056
+S
+#90058
+A Lightly Wooded Area~
+   The sand eventually gives way to rocky terrain. Some of the stones are 
+still bleached white, but the deeper one presses into this area, the darker the 
+shade of the rocks seem to become - until they are an unscarred grey. The 
+little patches of shrubbery become radiantly green and healthy blades of long 
+grass burst out of little clusters of pebbles. Not far off, the sound of 
+running water can be heard. Day or night, this place is a stunning sight. 
+~
+90 65544 1
+0
+D0
+~
+~
+0 -1  0 90009
+D2
+~
+~
+0 -1  0 90060
+D3
+~
+~
+0 -1  0 90057
+S
+#90059
+An Area Dotted With Grass~
+   A sharp contrast to the rest of the desert, this place is beautiful, 
+regardless of the time of day. Not far off, to the east the sound of running 
+water can be heard, as little clusters of rocks fountain out brilliantly green 
+blades of grass. Rocks give way to darker, healthier and more smoother rocks, 
+and red and white stop being the dominant colors in this area as greens grow 
+over here. 
+~
+90 65544 1
+0
+D0
+~
+~
+0 -1  0 90057
+D1
+~
+~
+0 -1  0 90060
+S
+#90060
+A Wooded Area Cut By a Stream~
+   Shrubbery, grass, and bushes become trees, albeit small ones, that sway when 
+the wind blows, the leaves moist and cold to the touch. The stones darken 
+further here as they create a slope, which is filled with the bluest of water. 
+The desert can be seen far to the north or west of here, but the endless sands 
+are all but forgotten due to the beauty of this place, with a high cliff face 
+to the east that opens up and releases water, which falls into a stream that 
+cuts through this area and heads for the south into a bigger pool of water. 
+The stream itself is large enough to go thigh deep, and is pleasantly cool when 
+you step into it. 
+~
+90 65544 1
+0
+D0
+~
+~
+0 -1  0 90058
+D2
+~
+~
+0 -1  0 90061
+D3
+~
+~
+0 -1  0 90059
+S
+#90061
+A Rich, Overgrown Oasis~
+   The smaller foliage gives way to large, majestic trees that form an uneven 
+circle around this place. While it is not exactly a forest, the trees do form 
+a natural barrier; it is not enough to protect from the elements, but does make 
+travel beyond impossible. There is a #6large pool of sparkling water#0 here, 
+filled by the stream to the north as it lazily washes down a rock face in a 
+trickling waterfall. Grass has overtaken this place, its health a testament to 
+the water running beneath this section of the biosphere; it covers most of the 
+red rock and clay around it. An outcropping of large, wind-worn boulders 
+stands defiantly near the eastern end of the pool. The trees nearby that have 
+some scarring on the bark, though it does not take away from their natural awe 
+and beauty. 
+~
+90 65800 1
+0
+D0
+~
+~
+0 -1  0 90060
+E
+reformat~
+l
+~
+E
+pool~
+   The pool of water is waist deep, enough to swim in, and is pristine and 
+clear enough that you can see the soft surface of the sands underneath, the 
+occasional rock the only thing that would obstruct any frolicking in the water. 
+It's cold and refreshing, and most certainly cleaner then one might expect. 
+You realize that you could #6drink#0 or #6fill#0 a container this #6pool#0. 
+~
+P
+climb~
+tree cave~
+atecho 90226 From below, #5$n#0 scrambles up onto the rock ledge.
+force -1 -1 emote scrambles up a thick tree on the eastern edge of the pool. Climbing along a sturdy branch, they drop off and disappear over the nearby rock wall
+delay 2 look
+trans 90226
+~
+P
+l lo loo look ex exa exam exami examin examine~
+tree trees~
+vstr These trees stretch upward, their canopy blocking out a section of the nearby rock wall.
+~
+S
+#90062
+The Entrance of a Quaint Adobe Home~
+   Dust and sand have spilled in through cracks in this ancient adobe home. 
+Once, it is evident that someone - or someones - lived here. Time and age have 
+broken down most signs of such now. Old computers and machinery line the 
+southern clay wall here, ruined by the elements. Pieces of gnarled wood still 
+rest in the fireplace, with ashes born from a time unknown. The ceiling here 
+is short, perhaps nine feet at most, and made from the same red clay as the 
+rest of this place. A hallway leads deeper into the home to the east, out of 
+the spherical main room. 
+~
+90 65800 3
+0
+D1
+~
+~
+0 -1  0 90063
+D2
+~
+thick wooden-door~
+1 -1  0 90045
+S
+#90063
+Before a Sealed Door in a Quaint Adobe Home~
+   Dust and sand have spilled in through cracks in this ancient adobe home. 
+Once, it is evident that someone - or someones - lived here. Time and age have 
+broken down most signs of such now. An adobe countertop lies cracked down its 
+center on the east side of this room. Sand and dust have ruined what appears 
+to have once been a working stove and sink. This area appears to have been a 
+functional, but not spectacular kitchen, in some unknown age, a testament to 
+the simple nature of whomever lived here. On the north end of the room, a 
+thick steel blastdoor is wired to a small electronic lockbox that is somehow 
+still operational. Red spraypaint has been used to convey a message upon the 
+outside of the blastdoor, #1"forgive us, Johnny - we love you"#0. Likewise, 
+something smaller has been carved into the adobe wall just to the left of the 
+electronic lockbox. 
+~
+90 65544 2
+0
+D0
+~
+sealed blastdoor~
+0 5000  0 90064
+D3
+~
+~
+0 -1  0 90062
+P
+l lo loo look~
+adobe wall carving~
+vstr "#3his name is Legion. he is the king of nowhere#0"
+~
+S
+#90064
+A Hateful Ruin of Steel Walls~
+   Steel walls have protected this room from the elements outside, but not from 
+whatever remained within the cold confines of this prison. Splinters of wood 
+and bone, fecal matter and bloodstains remain, a reminder of whatever horrors 
+may have once occured here. Large, monstrously sharp objects have scratched 
+every visible surface of the steel confines, leaving no inch unscathed; yet, 
+the walls and blastdoor remain solid, proof that whatever force may have been 
+shut up in here was unsuccessful in what appears to be many, many attempts to 
+escape. 
+~
+90 65544 0
+0
+D2
+~
+sealed blastdoor~
+0 5000  0 90063
+S
+#90065
+Just within a Small Adobe Bunker~
+   A small room formed within the red adobe bunker remains largely untouched by 
+the outside elements. However, everything that was once here has been stripped 
+down and is now gone. There are no desks or furniture to speak of. On the 
+western wall, a thick steel blastdoor lingers; attached to it is a simple 
+keycard reader. 
+~
+90 65800 0
+0
+D0
+~
+broken blastdoor~
+1 -1  0 90014
+D3
+~
+thick blastdoor~
+1 90033  0 90066
+S
+#90066
+A Small, Ruined Armory~
+   Part of the adobe bunker has caved in here, leaving a good portion of this 
+once armory in ruins and spilling clay and sand and stone haphazardly onto the 
+floor. Still, some empty racks are not broken, and there is some evidence that 
+this room was designed with some care and organization. 
+~
+90 65544 7
+0
+D1
+~
+thick blastdoor~
+1 90033  0 90065
+S
+#90067
+An Airy, Plastic-housed Greenhouse~
+   The plastic polyprop walls here are set up as shutters, that can be opened 
+so that air can be let into the rest of the greenhouse, and closed to protect 
+it from the harsh sand-storms that occasionally rage outside. More rows are 
+here, each seperated by plastic little fences that keep the crops from growing 
+over each other. The ground is soft sand, though firm enough to walk on 
+without sinking or leaving obstructive foot prints. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90068
+S
+#90068
+A Spacious, Plastic-walled Greenhouse~
+   The entrance of the greenhouse is a rather large area, perhaps the biggest 
+room coming in. The ground is covered in deep sand that is walkable on. 
+Strewn about are rows upon rows that are seperated by tiny plastic little 
+fences. The walls themselves are made of some sort of plastic polyprop, and 
+the rest of the desert stretches out on the other side of the wall. Little 
+metallic beams are sparse and hold up the ceiling, which is also made of the 
+material the walls are. 
+~
+90 67174408 0
+0
+D0
+~
+transparent blastdoor~
+1 -1  0 90052
+D2
+~
+~
+0 -1  0 90069
+D3
+~
+~
+0 -1  0 90067
+S
+#90069
+An Expansive, Plastic Greenhouse~
+   The walls here are transparent, showing the harsh beauty of the desert 
+beyond, little metallic beams sparsely set apart so that they can hold up the 
+transparent ceiling, where one can get a rather nice view of the sky, when a 
+sandstorm isn't overtaking the area. Plastic little fences form rows upon rows 
+of where crop can be grown, set far enough apart that no plant would obstruct 
+another. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90068
+S
+#90070
+A Smoothly Curving Staircase~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the east in their 
+stretch. A single railing runs to the side of the stairs, following the curved 
+line of the wall. Dust hangs and falls in motes onto the stairs, softening the 
+line of them. The nearby blastdoor leads back out into the desert here, if one 
+wished to #6LEAVE#0 the #6TOWER#0. You could also #6PEEK#0 through a tinted 
+#6WINDOW#0 on the blastdoor to look outside. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90071
+D5
+~
+~
+0 -1  0 90084
+P
+exit leave go~
+door tower blastdoor~
+atecho 90047 Suddenly, #5$n#0 steps through the blastdoor and leaves the ancient white tower behind for the harsh Mars desert.
+force -1 -1 emote steps through the blastdoor and leaves the tower behind for the harsh Mars desert
+trans 90047
+delay 3 look
+~
+P
+peek~
+window~
+force -1 -1 emote peeks through the tinted window at the blastdoor, looking outside
+atlook 90047
+~
+S
+#90071
+A Spiralled Tower~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the west and north in 
+their stretch. A single railing runs to the side of the stairs, following the 
+curved line of the wall. Dust hangs and falls in motes onto the stairs, 
+softening the line of them. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90072
+D3
+~
+~
+0 -1  0 90070
+S
+#90072
+A Continuing Staircase~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the south in their 
+stretch. A single railing runs to the side of the stairs, following the curved 
+line of the wall. Dust hangs and falls in motes onto the stairs, softening the 
+line of them. 
+~
+90 67174408 0
+0
+D2
+~
+~
+0 -1  0 90071
+D4
+~
+~
+0 -1  0 90073
+S
+#90073
+Continuing Along a Staircase~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the west in their 
+stretch. A single railing runs to the side of the stairs, following the curved 
+line of the wall. Dust hangs and falls in motes onto the stairs, softening the 
+line of them. 
+~
+90 67174408 0
+0
+D3
+~
+~
+0 -1  0 90074
+D5
+~
+~
+0 -1  0 90072
+S
+#90074
+A Winding Staircase~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the south and east in 
+their stretch. A single railing runs to the side of the stairs, following the 
+curved line of the wall. Dust hangs and falls in motes onto the stairs, 
+softening the line of them. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90073
+D2
+~
+~
+0 -1  0 90075
+S
+#90075
+A Winding Tower~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the north in their 
+stretch. A single railing runs to the side of the stairs, following the curved 
+line of the wall. Dust hangs and falls in motes onto the stairs, softening the 
+line of them. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90074
+D4
+~
+~
+0 -1  0 90076
+S
+#90076
+A Lengthy Staircase~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the east in their 
+stretch. A single railing runs to the side of the stairs, following the curved 
+line of the wall. Dust hangs and falls in motes onto the stairs, softening the 
+line of them. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90077
+D5
+~
+~
+0 -1  0 90075
+S
+#90077
+A Long, Winding Staircase~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the north and west in 
+their stretch. A single railing runs to the side of the stairs, following the 
+curved line of the wall. Dust hangs and falls in motes onto the stairs, 
+softening the line of them. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90078
+D3
+~
+~
+0 -1  0 90076
+S
+#90078
+A Smooth Winding Staircase~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the south in their 
+stretch. A single railing runs to the side of the stairs, following the curved 
+line of the wall. Dust hangs and falls in motes onto the stairs, softening the 
+line of them. 
+~
+90 67174408 0
+0
+D2
+~
+~
+0 -1  0 90077
+D4
+~
+~
+0 -1  0 90079
+S
+#90079
+A Tower Staircase~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the west in their 
+stretch. A single railing runs to the side of the stairs, following the curved 
+line of the wall. Dust hangs and falls in motes onto the stairs, softening the 
+line of them. 
+~
+90 67174408 0
+0
+D3
+~
+~
+0 -1  0 90080
+D5
+~
+~
+0 -1  0 90078
+S
+#90080
+A Curving, Lengthy Staircase~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the south and east in 
+their stretch. A single railing runs to the side of the stairs, following the 
+curved line of the wall. Dust hangs and falls in motes onto the stairs, 
+softening the line of them. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90079
+D2
+~
+~
+0 -1  0 90081
+S
+#90081
+A Spiralled Tower Staircase~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the north in their 
+stretch. A single railing runs to the side of the stairs, following the curved 
+line of the wall. Dust hangs and falls in motes onto the stairs, softening the 
+line of them. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90080
+D4
+~
+~
+0 -1  0 90082
+S
+#90082
+A Landing at the Top of a Spiraled Stairwell~
+   A large and imposing blast door rests just north, only a few paces from the 
+intricate lights that glow faint bluish purple; a small, high-tech keycard slot 
+is the only noticeable feature of the door, set into the frame itself. The 
+stairs seem to stretch on in spiral downwards. They curve off, blocking the 
+view in their next upper line of the wall. twist. A single railing runs to 
+the side of the stairs, following the curved stairs. Everything is seamless, 
+fluid, crafted of red-hued stone inset with strange blue gems. 
+~
+90 67174664 0
+0
+D0
+~
+~
+0 -1  0 90083
+D5
+~
+~
+0 -1  0 90081
+S
+#90083
+A Circular Room Atop a Tower~
+   The soft blinking of thousands of lights adorning numerous panels rest inset 
+into the carved red stone. They appear mostly blues and purples although a few 
+red lights flash here and there, blinking in warning. The walls are 
+re-enforced with metal at the seams, crafting an almost impenetrable space. 
+With dark floors rubberized lightly underfoot, tread serves to keep feet from 
+slipping as they walk in the largely dome-like room. 
+~
+90 67174408 0
+0
+D2
+~
+~
+0 -1  0 90082
+S
+#90084
+A Curving Staircase~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the south in their 
+stretch. A single railing runs to the side of the stairs, following the curved 
+line of the wall. Dust hangs and falls in motes onto the stairs, softening the 
+line of them. 
+~
+90 67174408 0
+0
+D2
+~
+~
+0 -1  0 90085
+D4
+~
+~
+0 -1  0 90070
+S
+#90085
+A Spiralled Staircase~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the north and west in 
+their stretch. A single railing runs to the side of the stairs, following the 
+curved line of the wall. Dust hangs and falls in motes onto the stairs, 
+softening the line of them. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90084
+D3
+~
+~
+0 -1  0 90086
+S
+#90086
+A Continuing Staircase~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the east in their 
+stretch. A single railing runs to the side of the stairs, following the curved 
+line of the wall. Dust hangs and falls in motes onto the stairs, softening the 
+line of them. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90085
+D5
+~
+~
+0 -1  0 90087
+S
+#90087
+A Smoothly Curving Staircase~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the north in their 
+stretch. A single railing runs to the side of the stairs, following the curved 
+line of the wall. Dust hangs and falls in motes onto the stairs, softening the 
+line of them. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90088
+D4
+~
+~
+0 -1  0 90086
+S
+#90088
+A Seamless Staircase~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the east and south in 
+their stretch. A single railing runs to the side of the stairs, following the 
+curved line of the wall. Dust hangs and falls in motes onto the stairs, 
+softening the line of them. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90089
+D2
+~
+~
+0 -1  0 90087
+S
+#90089
+A Spiralling Stair Inside a Tower~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the west in their 
+stretch. A single railing runs to the side of the stairs, following the curved 
+line of the wall. Dust hangs and falls in motes onto the stairs, softening the 
+line of them. 
+~
+90 67174408 0
+0
+D3
+~
+~
+0 -1  0 90088
+D5
+~
+~
+0 -1  0 90090
+S
+#90090
+A Stretching Spiraled Staircase~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the south in their 
+stretch. A single railing runs to the side of the stairs, following the curved 
+line of the wall. Dust hangs and falls in motes onto the stairs, softening the 
+line of them. 
+~
+90 67174408 0
+0
+D2
+~
+~
+0 -1  0 90091
+D4
+~
+~
+0 -1  0 90089
+S
+#90091
+A Spiralling Red Stone Staircase~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the north and west in 
+their stretch. A single railing runs to the side of the stairs, following the 
+curved line of the wall. Dust hangs and falls in motes onto the stairs, 
+softening the line of them. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90090
+D3
+~
+~
+0 -1  0 90092
+S
+#90092
+Along a Spiraled Staircase~
+   The construction of this stairwell is seamless, fluid, crafted of red-hued 
+stone inset with intricate lights that glow faint bluish purple. The stairs 
+seem to stretch on in spiral upwards. They curve off, blocking the view in 
+their next upper twist though some is visible just to the east in their 
+stretch. A single railing runs to the side of the stairs, following the curved 
+line of the wall. Dust hangs and falls in motes onto the stairs, softening the 
+line of them. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90091
+D5
+~
+~
+0 -1  0 90093
+S
+#90093
+A Landing at the Bottom of a Spiraled Stairwell~
+   A large and imposing blast door rests just north, only a few paces from the 
+stairs; a small, high-tech keycard slot is the only noticeable feature of the 
+door, set into the stone itself. Everything else is seamless, fluid, crafted 
+of red-hued stone inset with intricate lights that glow faint bluish purple. 
+The stairs seem to stretch on in spiral upwards. They curve off, blocking the 
+view in their next upper twist. A single railing runs to the side of the 
+stairs, following the curved line of the wall. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90094
+D4
+~
+~
+0 -1  0 90092
+S
+#90094
+The Entrance to Ancient Stone Catacombs~
+   A thick steel blastdoor to the south gives way to an old tunnel carved from 
+smooth red stone. The tunnel is covered in dust, but looks otherwise unmoved 
+by the passage of time. Along the wall sit steel wall-sconces, the 
+computerized torches in them still burning brightly. The dim firelight does 
+some work to chase away the ancient shadows of this place, though the hall 
+remains, largely, a dark place. The ceilings disappear above, eaten by the 
+shadows there untouched by torchlight. The smooth stone of the floor matches 
+that of the walls. A small golden plaque is set into the western wall here, a 
+herald of another peoples and another time. 
+~
+90 67174408 29
+0
+D0
+~
+~
+0 -1  0 90095
+D2
+~
+~
+0 -1  0 90093
+P
+look l loo lo~
+plaque western wall~
+vstr Carved neatly into the golden plaque is a greeting - and a requiem: "#3May the souls of our dead find peace here, finally.#0"
+~
+S
+#90095
+An Old, Stone Hall~
+   The stone hall continues here in two directions, north and south. It 
+remains consistent in size, the ceilings higher than the light of the constant 
+wall-sconces can reach and its width spacious. Shadows dance across the floor, 
+moving with the rhythm of the always burning torchlight. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90096
+D2
+~
+~
+0 -1  0 90094
+S
+#90096
+An Old, Stone Hall~
+   The stone hall continues here in two directions, north and south. It 
+remains consistent in size, the ceilings higher than the light of the constant 
+wall-sconces can reach and its width spacious. Shadows dance across the floor, 
+moving with the rhythm of the always burning torchlight. On the eastern wall, 
+someone has carved something into the red stone. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90097
+D2
+~
+~
+0 -1  0 90095
+P
+l lo loo look~
+east eastern wall carving~
+vstr "#1Alpha Centauri - RIP
+vstr #1we failed you#0"
+~
+P
+(null)~
+(null)~
+(null)~
+S
+#90097
+A Long, Dusty Stone Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90098
+D2
+~
+~
+0 -1  0 90096
+S
+#90098
+A Long, Dusty Stone Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. The hall opens up 
+westward, twisting that way deeper into the catacombs. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90099
+D2
+~
+~
+0 -1  0 90097
+D3
+~
+~
+0 -1  0 90104
+S
+#90099
+A Long, Dusty Stone Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. The hall opens up 
+eastward, twisting that way deeper into the catacombs. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90100
+D1
+~
+~
+0 -1  0 90116
+D2
+~
+~
+0 -1  0 90098
+S
+#90100
+A Long, Dusty Stone Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90101
+D2
+~
+~
+0 -1  0 90099
+S
+#90102
+A Long, Dusty Stone Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90103
+D2
+~
+~
+0 -1  0 90101
+S
+#90101
+A Long, Dusty Stone Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. The hall opens up 
+westward, twisting that way deeper into the catacombs. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90102
+D2
+~
+~
+0 -1  0 90100
+D3
+~
+~
+0 -1  0 90115
+S
+#90103
+A Long, Dusty Stone Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. Something has been 
+carved, sloppily, onto the western stone wall here. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90152
+D2
+~
+~
+0 -1  0 90102
+P
+n no nor nort north~
+(null)~
+if oexist (90011,90134)
+doitanyway -1
+vstr Your body feels strange, tingly, as you move deeper into the catacombs.
+else do
+emote as @ attempts to move northwards, they find themselves suddenly stopped by some invisible presence
+vbr -
+vstr It feels as though an invisible wall is keeping you from moving deeper into the catacombs.
+fi done
+~
+P
+sn sne snea sneak~
+n no nor nort north~
+if oexist(90011,90134)
+doitanyway -1
+vstr Your body feels strange, tingly, as you move deeper into the catacombs.
+else do
+emote as @ attempts to move northwards, they find themselves suddenly stopped by some invisible presence
+vbr -
+vstr It feels as though an invisible wall is keeping you from moving deeper into the catacombs.
+fi done
+~
+P
+l lo loo look~
+west western carving wall~
+vstr "#6who was martin?#0"
+~
+S
+#90104
+An Ancient Hallway~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches east and west. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90098
+D3
+~
+~
+0 -1  0 90105
+S
+#90105
+A 'T' Intersection within the Catacombs~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south, joining a corridor 
+to the east that dead ends into the western wall. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90112
+D1
+~
+~
+0 -1  0 90104
+D2
+~
+~
+0 -1  0 90106
+S
+#90106
+An Ancient Stone Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90105
+D2
+~
+~
+0 -1  0 90107
+S
+#90107
+A Bend in the Ancient Catacombs~
+   Here, the ancient stone corridor bends northward and westward, lit by 
+wall-sconces that seem to always burn. The ceiling is lost in the darkness far 
+above, where the shadows defeat the dim flame-light. Something has been carved 
+into the southern stone wall here. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90106
+D3
+~
+~
+0 -1  0 90108
+P
+lo loo look l~
+south southern wall carving~
+vstr "#6we stand in the fat kindling of past sins#0"
+~
+S
+#90108
+A Claustrophobic Stone Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches east and west. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90107
+D3
+~
+~
+0 -1  0 90109
+S
+#90109
+A 'T' Intersection within the Catacombs~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south, joining a corridor 
+to the east that dead ends into the western wall. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90111
+D1
+~
+~
+0 -1  0 90108
+D2
+~
+~
+0 -1  0 90110
+S
+#90110
+A Long Forgotten Dead-End~
+   The moldy stone walls and floor lead to a dead end here, the path southward 
+ending in a wall of ancient rock. Ever-burning wall-sconces light the way, 
+casting an ever-shifting spell of shadows across the room. To the north, the 
+corridor continues in the only other noticeable direction one might travel in. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90109
+S
+#90111
+A Long Forgotten Dead-End~
+   The moldy stone walls and floor lead to a dead end here, the path northward 
+ending in a wall of ancient rock. Ever-burning wall-sconces light the way, 
+casting an ever-shifting spell of shadows across the room. To the south, the 
+corridor continues in the only other noticeable direction one might travel in. 
+~
+90 67174408 0
+0
+D2
+~
+~
+0 -1  0 90109
+S
+#90112
+An Ancient Stone Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90113
+D2
+~
+~
+0 -1  0 90105
+S
+#90113
+A Curve in the Old, Stone Catacombs~
+   Here, the ancient stone corridor bends southward and eastward, lit by 
+wall-sconces that seem to always burn. The ceiling is lost in the darkness far 
+above, where the shadows defeat the dim flame-light. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90114
+D2
+~
+~
+0 -1  0 90112
+S
+#90114
+A Twisting Curve in the Old, Stone Catacombs~
+   Here, the ancient stone corridor bends northward and westward, lit by 
+wall-sconces that seem to always burn. The ceiling is lost in the darkness far 
+above, where the shadows defeat the dim flame-light. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90115
+D3
+~
+~
+0 -1  0 90113
+S
+#90115
+A Bend in the Stone Corridor~
+   Here, the ancient stone corridor bends southward and eastward, lit by 
+wall-sconces that seem to always burn. The ceiling is lost in the darkness far 
+above, where the shadows defeat the dim flame-light. To the east, the curving 
+corridor opens to a larger hall. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90101
+D2
+~
+~
+0 -1  0 90114
+S
+#90116
+A Long, Ancient Hallway~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches east and west.
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90117
+D3
+~
+~
+0 -1  0 90099
+S
+#90117
+A Long, Ancient Hallway~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches east and west. The hall also 
+branches southward, delving deeper into the catacombs. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90118
+D2
+~
+~
+0 -1  0 90123
+D3
+~
+~
+0 -1  0 90116
+S
+#90118
+A Long, Ancient Hallway~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches east and west. The hall also twists 
+northwards, branching off in a seperate direction that way. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90135
+D1
+~
+~
+0 -1  0 90119
+D3
+~
+~
+0 -1  0 90117
+S
+#90119
+A Long, Ancient Hallway~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches east and west. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90120
+D3
+~
+~
+0 -1  0 90118
+S
+#90120
+A Long, Ancient Hallway~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches east and west. The hall also twists 
+southwards, curving back deeper into the catacombs that way. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90121
+D2
+~
+~
+0 -1  0 90130
+D3
+~
+~
+0 -1  0 90119
+S
+#90121
+A Long, Ancient Hallway~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches east and west. The hall also 
+branches off northwards, into a patch of complete darkness. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90147
+D1
+~
+~
+0 -1  0 90122
+D3
+~
+~
+0 -1  0 90120
+S
+#90122
+A Dead-End Before a Great Statue~
+   The moldy stone walls and floor lead to a dead end here, the path eastward 
+ending in a wall of ancient rock. Ever-burning wall-sconces light the way, 
+casting an ever-shifting spell of shadows across the room. To the west, the 
+corridor continues in the only other noticeable direction one might travel in. 
+Looming at the end of the hall is a great stone statue, its features eerily 
+alive in the dance of the surrounding torchlight. 
+~
+90 67174408 0
+0
+D3
+~
+~
+0 -1  0 90121
+S
+#90123
+A Short Stone Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90117
+D2
+~
+~
+0 -1  0 90124
+S
+#90124
+A Short Stone Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. Something has been 
+carved into the eastern stone wall here. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90123
+D2
+~
+~
+0 -1  0 90125
+P
+l lo loo look~
+eastern east wall carving~
+vstr "#1a little while, their hunger unfulfilled, the mothlike worlds flit 'round the guttering sun#0"
+~
+S
+#90125
+A Sharp Twist in the Ancient Catacombs~
+   Here, the ancient stone corridor bends northward and eastward, lit by 
+wall-sconces that seem to always burn. The ceiling is lost in the darkness far 
+above, where the shadows defeat the dim flame-light. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90124
+D1
+~
+~
+0 -1  0 90126
+S
+#90126
+A Dusty, Lost Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches east and west. A narrow, curving 
+path also branches off to the north, following another path through the ancient 
+catacombs. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90131
+D1
+~
+~
+0 -1  0 90127
+D3
+~
+~
+0 -1  0 90125
+S
+#90127
+A Dusty, Lost Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches east and west. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90128
+D3
+~
+~
+0 -1  0 90126
+S
+#90128
+A Turn in the Old Stone Tunnel~
+   Here, the ancient stone corridor bends northward and westward, lit by 
+wall-sconces that seem to always burn. The ceiling is lost in the darkness far 
+above, where the shadows defeat the dim flame-light. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90129
+D3
+~
+~
+0 -1  0 90127
+S
+#90129
+A Short Stone Hallway~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90130
+D2
+~
+~
+0 -1  0 90128
+S
+#90130
+A Short Stone Hallway~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. Something has been 
+carved into the red stone floor here, on the far northern end of the corridor. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90120
+D2
+~
+~
+0 -1  0 90129
+P
+l lo loo look~
+floor stone carving~
+vstr "#6apocalypse has come and gone. we're just grubbing in the ashes#0"
+~
+S
+#90131
+A Sharp, Bending Stone Tunnel~
+   Here, the ancient stone corridor bends southward and eastward, lit by 
+wall-sconces that seem to always burn. The ceiling is lost in the darkness far 
+above, where the shadows defeat the dim flame-light. Something has been 
+roughly carved into the northern wall, just as it begins to curve eastward. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90132
+D2
+~
+~
+0 -1  0 90126
+P
+l lo loo look~
+north wall carving northern~
+vstr "#6sometimes goodbye is a second chance#0"
+~
+S
+#90132
+A Sharp, Bending Tunnel~
+   Here, the ancient stone corridor bends northward and westward, lit by 
+wall-sconces that seem to always burn. The ceiling is lost in the darkness far 
+above, where the shadows defeat the dim flame-light. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90133
+D3
+~
+~
+0 -1  0 90131
+S
+#90133
+A Sharp, Bending Tunnel~
+   Here, the ancient stone corridor bends southward and westward, lit by 
+wall-sconces that seem to always burn. The ceiling is lost in the darkness far 
+above, where the shadows defeat the dim flame-light. Something has been carved 
+into the stone floor here, near the room west of here. 
+~
+90 67174408 0
+0
+D2
+~
+~
+0 -1  0 90132
+D3
+~
+~
+0 -1  0 90134
+P
+l lo loo look~
+floor stone west carving~
+vstr "#1... one thing left to give#0"
+~
+S
+#90134
+A Dark Room Dominated by a Great Statue~
+   The moldy stone walls and floor lead to a dead end here, the path westward 
+ending in a wall of ancient rock. Dead wall-sconces are unable to fight back 
+the old, hungry shadows that swarm around this place. To the east, the 
+corridor continues in the only other noticeable direction one might travel in. 
+To the west, where the path ends, a large statue sits forlorn in the black, a 
+testament to some long forgotten past. 
+~
+90 65544 0
+0
+D1
+~
+~
+0 -1  0 90133
+S
+#90135
+A Short Stone Hallway~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90151
+D2
+~
+~
+0 -1  0 90118
+S
+#90136
+A 'T' Intersection within Ancient Catacombs~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches east and west. It also turns 
+southward, into another stretch of stone corridor that way. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90149
+D2
+~
+~
+0 -1  0 90151
+D3
+~
+~
+0 -1  0 90137
+S
+#90137
+A Soft Bend in the Ancient Corridor~
+   Here, the ancient stone corridor bends northward and eastward, lit by 
+wall-sconces that seem to always burn. The ceiling is lost in the darkness far 
+above, where the shadows defeat the dim flame-light. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90138
+D1
+~
+~
+0 -1  0 90136
+S
+#90138
+A Dusty Stone Hallway~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90139
+D2
+~
+~
+0 -1  0 90137
+S
+#90139
+A Soft Turn in the Ancient Tunnels~
+   Here, the ancient stone corridor bends southward and eastward, lit by 
+wall-sconces that seem to always burn. The ceiling is lost in the darkness far 
+above, where the shadows defeat the dim flame-light. On the western wall, 
+something has been carved into the red stone there. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90140
+D2
+~
+~
+0 -1  0 90138
+P
+l lo loo look~
+west western wall carving~
+vstr "#6remember... Everything tHat riSes mUst Converge#0"
+~
+S
+#90140
+A Long, Dimly Lit Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches east and west. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90141
+D3
+~
+~
+0 -1  0 90139
+S
+#90141
+A Long, Dimly Lit Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches east and west. Something has been 
+carved into the southern stone wall here. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90142
+D3
+~
+~
+0 -1  0 90140
+P
+l lo loo look~
+south southern wall carving~
+vstr "#1... so when the last and dreadful hour
+vstr #1this crumbling pageant shall devour,
+vstr #1the trumpet shall be heard on high,
+vstr #1the dead shall live, the living die,
+vstr #1and Music shall untune the sky.#0"
+~
+S
+#90142
+A Long, Dimly Lit Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches east and west. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90143
+D3
+~
+~
+0 -1  0 90141
+S
+#90143
+A Sharp Turn in the Catacombs~
+   Here, the ancient stone corridor bends southward and westward, lit by 
+wall-sconces that seem to always burn. The ceiling is lost in the darkness far 
+above, where the shadows defeat the dim flame-light. 
+~
+90 67174408 0
+0
+D2
+~
+~
+0 -1  0 90144
+D3
+~
+~
+0 -1  0 90142
+S
+#90144
+A Stretch of Ancient Stone Hallway~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90143
+D2
+~
+~
+0 -1  0 90145
+S
+#90145
+A 'T' Intersection within the Old Catacombs~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. The hall also 
+opens up westward, joining another dimly lit corridor that way. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90144
+D2
+~
+~
+0 -1  0 90146
+D3
+~
+~
+0 -1  0 90148
+S
+#90146
+A Stretch of Ancient Stone Hallway~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90145
+D2
+~
+~
+0 -1  0 90147
+S
+#90147
+A Dark, Forgotten Corridor~
+   Dusty wall-sconces decorate the ancient, red stone walls here; unlike the 
+sconces in the surrounding area, they remain unlit, casting this section of the 
+hall in complete darkness. The corridor stretches north and south here, where 
+torchlight flickers dimly, not encroaching on this shadowy place. 
+~
+90 65544 0
+0
+D0
+~
+~
+0 -1  0 90146
+D2
+~
+~
+0 -1  0 90121
+S
+#90148
+A Stretch of Old Stone Hallway~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches east and west. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90145
+D3
+~
+~
+0 -1  0 90149
+S
+#90149
+A 'T' Intersection within Ancient Catacombs~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches east and west. It also turns 
+southward, opening up that way into a well-lit room. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90148
+D2
+~
+~
+0 -1  0 90150
+D3
+~
+~
+0 -1  0 90136
+S
+#90150
+A Large, Well-Lit Room Before a Statue~
+   The moldy stone walls and floor lead to a dead end here, the path southward 
+ending in a wall of ancient rock. Ever-burning wall-sconces light the way, 
+casting an ever-shifting spell of shadows across the room. To the north, the 
+corridor opens up in the only other noticeable direction one might travel in. 
+The many sconces here bring to life the masterfully sculpted features of a 
+great statue dominating the southern end of this room. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90149
+S
+#90151
+A Short Stone Hallway~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. Something has been 
+carved into the eastern wall here. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90136
+D2
+~
+~
+0 -1  0 90135
+P
+l loo lo look~
+wall east eastern carving~
+vstr "#1the last to fall were the buildings, distant and solemn, the gravestones for an entire world#0"
+~
+S
+#90152
+A Mural Painted Ancient Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. A poorly painted 
+mural spreads across the western stone wall here. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90153
+D2
+~
+~
+0 -1  0 90103
+P
+l lo loo look ex exa exam exami examin examine~
+mural murals painting~
+vstr A poorly painted mural spreads across the western wall here. The quality of it could be compared to a child's drawing, lacking the detail and realism of a master's hand, but so also lacking the subtly that true skill brings. Four shakily-drawn SBS vessels fly away from a blue and green planet that is being consumed in cartoonish flames. Beneath the mural is a quotation, its scrawl done by a shaky hand: #6"I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones."#0
+~
+S
+#90153
+A Mural Painted Ancient Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. A small, carefully 
+painted mural has been painted onto the eastern wall. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90154
+D2
+~
+~
+0 -1  0 90152
+P
+l lo loo look ex exa exam exami examin examine~
+mural murals painting~
+vstr A small, carefully painted mural sets apart a section of the eastern wall here, depicting a young man sitting atop a thatch roof. He looks into the distance, a green-covered book tucked between his arm and his side. There, beyond him, a snake of dark smoke rises - gray and green and black. From within the smoke, tiny and desperate arms reach out, ghostly white in their hue. The young man watches on, a silent observer, neither remorse nor keen interest recognizable in his eyes. Around the mural, words are wrapped in a spiral quotation:
+vbr -
+vstr #6"Summer came.
+vstr #6For the book thief, everything was going nicely.
+vstr #6For me, the sky was the color of Jews."#0
+~
+S
+#90154
+A Mural Painted Ancient Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. Along the eastern 
+stone wall, an expansive mural has been painted. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90155
+D2
+~
+~
+0 -1  0 90153
+P
+l lo loo look ex exa exam exami examin examine~
+mural murals painting~
+vstr On the eastern wall, an expansive mural is painted, depicting a mostly blue planet. A large, squid-like creature of many tendrils and unsettling, alien features wraps its black appendages around the sphere. Another creature of the same design flies apart from the first and the planet, somehow both appearing to be some sort of monster - and, simultaneously - a vessel with many smaller alien figures spilling out of it. Above the mural a quote is scrawled, neatly: #1"Battle not with monsters lest ye become a monster; and if you gaze into the abyss, the abyss gazes into you."#0
+~
+S
+#90155
+A Mural Painted Ancient Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. Along the western 
+stone wall, a rushed mural has been painted in broad strokes. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90156
+D2
+~
+~
+0 -1  0 90154
+P
+look loo lo l ex exa exam exami examin examine~
+mural murals painting~
+vstr Painted with rushed, broad strokes onto the western wall here is a strange scene; a strange vessel with a flaming tail seems to fly over a blue and green planet. Falling haphazardly from the vessel towards the planet seem to be a number of poorly sketched children, their images growing smaller as they get closer to the sphere. Carved into the stone wall beneath the mural is a quotation: #6"Comets giveth and comets taketh away..."#0
+~
+S
+#90156
+A Mural Painted Ancient Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. Along the western 
+stone wall, a rushed mural has been painted in broad strokes. A great set of 
+wheels have been built into the eastern wall, inexplicably. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90157
+D2
+~
+~
+0 -1  0 90155
+P
+l lo loo look ex exa exam exami examin examine~
+mural murals painting~
+vstr A simple, artfully drawn mural has been left on the western wall. It depicts a frightened-looking woman with long, brown hair wearing a white dress. She reaches, timidly to touch a long mirror; the reflection showing in the mirror is a twisted version of the same woman, wearing a shorter, black dress and pounding furiously against the invisible plane of another world. Wrapped around this painting is a quotation, posing a question: #6"Through words and deeds, the superior man moves heaven and earth. Must one, then, not be cautious?"#0
+~
+P
+n no nor nort north~
+(null)~
+if oexist(90006,90156)
+doitanyway -1
+vstr Your body feels strange, tingly, as you move deeper into the catacombs.
+else do
+emote as @ attempts to move northwards, they find themselves suddenly stopped by some invisible presence
+vbr -
+vstr It feels as though an invisible wall is keeping you from moving deeper into the catacombs.
+fi done
+~
+P
+sn sne snea sneak~
+n no nor nort north~
+if oexist(90006,90156)
+doitanyway -1
+vstr Your body feels strange, tingly, as you move deeper into the catacombs.
+else do
+emote as @ attempts to move northwards, they find themselves suddenly stopped by some invisible presence
+vbr -
+vstr It feels as though an invisible wall is keeping you from moving deeper into the catacombs.
+fi done
+~
+S
+#90157
+A Dark, Ancient Intersection~
+   Dust covers the old stone walls as they all bend away from one another, 
+creating a four-way intersection here within the catacombs. Light avoids this 
+place without any wall-sconces to illuminate it, casting a cold shadow in the 
+center of these two intersecting corridors. In each direction, dim flame 
+illuminates the way once again. 
+~
+90 65544 0
+0
+D0
+~
+~
+0 -1  0 90172
+D1
+~
+~
+0 -1  0 90160
+D2
+~
+~
+0 -1  0 90156
+D3
+~
+~
+0 -1  0 90158
+S
+#90158
+At the Bottom of a Sloping Hall~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches east and west. To the north, 
+another corridor begins, this one on a gradual upwards slope. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90175
+D1
+~
+~
+0 -1  0 90157
+D3
+~
+~
+0 -1  0 90159
+S
+#90159
+A Turn in the Old Stone Hall~
+   Here, the ancient stone corridor bends northwards and eastward, lit by 
+wall-sconces that seem to always burn. The ceiling is lost in the darkness far 
+above, where the shadows defeat the dim flame-light. To the north, the 
+corridor begins to slope gradually upwards. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90178
+D1
+~
+~
+0 -1  0 90158
+S
+#90160
+At the Bottom of a Sloping Hall~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches east and west. To the north, 
+another corridor begins, this one on a gradual upwards slope. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90169
+D1
+~
+~
+0 -1  0 90161
+D3
+~
+~
+0 -1  0 90157
+S
+#90161
+A the Bottom of a Sloping Hall~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches east and west. To the north, 
+another corridor begins, this one on a gradual upwards slope. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90166
+D1
+~
+~
+0 -1  0 90162
+D3
+~
+~
+0 -1  0 90160
+S
+#90162
+A Turn in the Old Stone Hall~
+   Here, the ancient stone corridor bends northwards and westward, lit by 
+wall-sconces that seem to always burn. The ceiling is lost in the darkness far 
+above, where the shadows defeat the dim flame-light. To the north, the 
+corridor begins to slope gradually upwards. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90163
+D3
+~
+~
+0 -1  0 90161
+S
+#90163
+A Gradually Sloping Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south, followed by a metal 
+and wooden track that seems to end at the southern end of this corridor. The 
+path north slopes up, gradually, with the track. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90164
+D2
+~
+~
+0 -1  0 90162
+S
+#90164
+A Gradually Sloping Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south, followed by a metal 
+and wooden track that seems to stretch in both directions. The path north 
+slopes up, gradually, with the track, while the southern way slopes downward. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90165
+D2
+~
+~
+0 -1  0 90163
+S
+#90165
+At the Top of an Inclining Hallway~
+   The moldy stone walls and floor lead to a dead end here, the path northward 
+ending in a wall of ancient rock. Ever-burning wall-sconces light the way, 
+casting an ever-shifting spell of shadows across the room. To the south, the 
+corridor continues in the only other noticeable direction one might travel in, 
+followed by a wooden and metal track that slopes downward with the path that 
+way. 
+~
+90 67174408 0
+0
+D2
+~
+~
+0 -1  0 90164
+S
+#90166
+A Gradually Sloping Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south, followed by a metal 
+and wooden track that seems to end at the southern end of this corridor. The 
+path north slopes up, gradually, with the track. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90167
+D2
+~
+~
+0 -1  0 90161
+S
+#90167
+A Gradually Sloping Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south, followed by a metal 
+and wooden track that seems to stretch in both directions. The path north 
+slopes up, gradually, with the track, while the southern way slopes downward. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90168
+D2
+~
+~
+0 -1  0 90166
+S
+#90168
+At the Top of an Inclining Hallway~
+   The moldy stone walls and floor lead to a dead end here, the path northward 
+ending in a wall of ancient rock. Ever-burning wall-sconces light the way, 
+casting an ever-shifting spell of shadows across the room. To the south, the 
+corridor continues in the only other noticeable direction one might travel in, 
+followed by a wooden and metal track that slopes downward with the path that 
+way. 
+~
+90 67174408 0
+0
+D2
+~
+~
+0 -1  0 90167
+S
+#90169
+A Gradually Sloping Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south, followed by a metal 
+and wooden track that seems to end at the southern end of this corridor. The 
+path north slopes up, gradually, with the track. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90170
+D2
+~
+~
+0 -1  0 90160
+S
+#90170
+A Gradually Sloping Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south, followed by a metal 
+and wooden track that seems to stretch in both directions. The path north 
+slopes up, gradually, with the track, while the southern way slopes downward. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90171
+D2
+~
+~
+0 -1  0 90169
+S
+#90171
+At the Top of an Inclining Hallway~
+   The moldy stone walls and floor lead to a dead end here, the path northward 
+ending in a wall of ancient rock. Ever-burning wall-sconces light the way, 
+casting an ever-shifting spell of shadows across the room. To the south, the 
+corridor continues in the only other noticeable direction one might travel in, 
+followed by a wooden and metal track that slopes downward with the path that 
+way. 
+~
+90 67174408 0
+0
+D2
+~
+~
+0 -1  0 90170
+S
+#90172
+A Long Stone Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90173
+D2
+~
+~
+0 -1  0 90157
+S
+#90173
+A Long Stone Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90174
+D2
+~
+~
+0 -1  0 90172
+S
+#90174
+A Long Stone Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south. Along the eastern 
+wall, someone has carved something into the old, smooth rock. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90198
+D2
+~
+~
+0 -1  0 90173
+P
+lo loo l look~
+wall walls carving eastern east~
+vstr "#6mirror#0"
+~
+S
+#90175
+A Gradually Sloping Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south, followed by a metal 
+and wooden track that seems to end at the southern end of this corridor. The 
+path north slopes up, gradually, with the track. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90176
+D2
+~
+~
+0 -1  0 90158
+S
+#90176
+A Gradually Sloping Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south, followed by a metal 
+and wooden track that seems to stretch in both directions. The path north 
+slopes up, gradually, with the track, while the southern way slopes downward. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90177
+D2
+~
+~
+0 -1  0 90175
+S
+#90177
+At the Top of an Inclining Hallway~
+   The moldy stone walls and floor lead to a dead end here, the path northward 
+ending in a wall of ancient rock. Ever-burning wall-sconces light the way, 
+casting an ever-shifting spell of shadows across the room. To the south, the 
+corridor continues in the only other noticeable direction one might travel in, 
+followed by a wooden and metal track that slopes downward with the path that 
+way. 
+~
+90 67174408 0
+0
+D2
+~
+~
+0 -1  0 90176
+S
+#90178
+A Gradually Sloping Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south, followed by a metal 
+and wooden track that seems to end at the southern end of this corridor. The 
+path north slopes up, gradually, with the track. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90179
+D2
+~
+~
+0 -1  0 90159
+S
+#90179
+A Gradually Sloping Corridor~
+   Dusty wall-sconces burn dimly here, seeming to never die. The light cast 
+from them barely illuminates this ancient stone hallway. The ceiling vanishes 
+above in shadows as the corridor stretches north and south, followed by a metal 
+and wooden track that seems to stretch in both directions. The path north 
+slopes up, gradually, with the track, while the southern way slopes downward. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90180
+D2
+~
+~
+0 -1  0 90178
+S
+#90180
+At the Top of an Inclining Hallway~
+   The moldy stone walls and floor lead to a dead end here, the path northward 
+ending in a wall of ancient rock. Ever-burning wall-sconces light the way, 
+casting an ever-shifting spell of shadows across the room. To the south, the 
+corridor continues in the only other noticeable direction one might travel in, 
+followed by a wooden and metal track that slopes downward with the path that 
+way. 
+~
+90 67174408 0
+0
+D2
+~
+~
+0 -1  0 90179
+S
+#90181
+A Turn in the Stone Hallway~
+   Here, the ancient stone corridor bends southward and eastward, lit by 
+wall-sconces that seem to always burn. The ceiling is lost in the darkness far 
+above, where the shadows defeat the dim flame-light. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90189
+D2
+~
+~
+0 -1  0 90220
+S
+#90182
+A Metallic Safe Room~
+   This room is unlike the rest of the catacombs. Thick, steel walls create a 
+black box, with grimy overhead lights casting an ugly yellow glow over the 
+entirety of the area. The room has been stripped of any furniture or equipment 
+otherwise, leaving it eerily bare. To the south and north, two blastdoors seal 
+this room off from other areas of the catacombs. 
+~
+90 67174408 0
+0
+D0
+~
+blastdoor~
+1 -1  0 90183
+D2
+~
+blastdoor~
+1 -1  0 90189
+S
+#90183
+A Metallic Safe Room~
+   This room is unlike the rest of the catacombs. Thick, steel walls create a 
+black box, with grimy overhead lights casting an ugly yellow glow over the 
+entirety of the area. The room has been stripped of any furniture or equipment 
+otherwise, leaving it eerily bare. To the south, a blastdoor seals this room 
+off from other areas of the catacombs. On the north wall, yellow spraypaint 
+has been used to leave an ancient message: #3"THE CHOICE IS YOURS NOW..."#0 
+~
+90 67174408 0
+0
+D2
+~
+blastdoor~
+1 -1  0 90182
+S
+#90184
+Within a Huge Blue Sphere~
+   This room looks very much like the one outside of the sphere, with slight 
+discoloration present. 
+~
+90 65536 0
+0
+D2
+~
+~
+0 -1  0 90185
+S
+#90185
+Backup Room~
+Mob Storage.
+~
+90 65536 0
+0
+D0
+~
+~
+0 -1  0 90184
+S
+#90186
+Within the Huge Blue Sphere~
+   This room appears to be the nightmarish brother of the one beyond the 
+sphere, filled with monstrosities and horrors. 
+~
+90 67174408 0
+0
+D2
+~
+~
+0 -1  0 90187
+S
+#90187
+In a Nightmare World~
+   This room appears to be a part of a nightmarish world, filled with 
+monstrosities and horrors. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90186
+D2
+~
+~
+0 -1  0 90188
+S
+#90188
+In a Nightmare World~
+   This room appears to be a part of a nightmarish world, filled with 
+monstrosities and horrors. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90187
+S
+#90189
+Before a Blastdoor~
+   The moldy stone walls and floor lead to a dead end here, before a thick 
+steel blastdoor set into the northern section of ancient rock. Ever-burning 
+wall-sconces light the way, casting an ever-shifting spell of shadows across 
+the room. To the west, the corridor continues in the only other noticeable 
+direction one might travel in. 
+~
+90 67174408 0
+0
+D0
+~
+blastdoor~
+1 -1  0 90182
+D3
+~
+~
+0 -1  0 90181
+S
+#90190
+An Intact, Extravagant Antechamber~
+   Surprisingly so, this antechamber looks well-preserved, as though time was 
+unable to touch it. Upon closer inspection, obvious effort went into 
+preserving the condition as so. All the gilded, white walls are glossy and 
+slick to the touch, some sort of transparent filming applied. Master craftsmen 
+spent great liberty to decorate this circular antechamber, for the marble 
+ceiling is chiseled with various sculptures. Of particular interest, all 
+around the circular ceiling is the depiction of a hearty banquet, 
+finely-dressed women and men holding up cups in a toast, smiling. Words spiral 
+around the ceiling, reading: #6"Life is the finest party of all, and we're only 
+at the entrees!"#0 
+
+
+   A grand marble arch allows passage further into the north. 
+~
+90 65800 3
+0
+D0
+~
+~
+0 -1  0 90191
+D2
+~
+double blastdoor~
+1 -1  0 90005
+S
+#90191
+A Gaudy, Globular Ballroom~
+   Gaudy doesn't even begin to capture the extravagance and finery that went 
+into this ballroom. The entire perimeter of the circular room has been covered 
+in some kind of finery, from crimson-red, golden-lined embroidery to tastefully 
+nude statues in majestic poses. The ballroom floor itself looks to be made out 
+of some transparent glass, polished to a shine. What's more beautiful is that 
+beyond the glass floor, below a gigantic stone sculpture lies just behind it, 
+like some kind of museum exhibit. The gigantic stone sculpture depicts a 
+banquet table filled with all kinds of food, but only one man stands in the 
+centre of the table, holding up a glass. His garb appears to be Victorian, 
+wearing a long, embellished coat. He holds up a glass in solemn reverence. 
+~
+90 65544 0
+0
+D2
+~
+~
+0 -1  0 90190
+S
+#90192
+An Ancient Security Bunker~
+   The outside adobe walls of this bunker are re-enforced within by solid 
+steel, which has done well to keep much of the sand and dust out. The room 
+within is a mess, with various piles of broken machinery, computers and other 
+scrap heaped in piles. Along the eastern steel wall, a not-so-subtle message 
+has been left in blue spraypaint, warning, "#4what you do not know, cannot 
+destroy everything that you do know#0." 
+~
+90 65800 7
+0
+D0
+~
+heavy clay-door~
+1 -1  0 90038
+S
+#90193
+A Half-Collapsed, Rack-Filled Den~
+   This den is a mess of shattered glass, gray duracrete, and toppled racks. 
+Any kind of embroidery or decoration has all but decayed with the passage of 
+time, leaving it a husk. However, in its heyday, this den was clearly used as 
+some kind of winery, as wine racks upon racks line the walls. Miraculously, 
+some bottles are still intact, but their labels have long faded. Manuvering 
+around here is a precarious task, as half the ceiling appears to have collapsed 
+in on itself. Jagged ruggle and broken glass studs the duracrete floor. 
+~
+90 65544 3
+0
+D1
+~
+blastdoor~
+1 -1  0 90011
+S
+#90194
+Within a Humid, Entrenched Adobe Home~
+   This home has been stripped of all old belongings. Still, the computerized 
+temperature systems are working, though not properly. It is extremely humid 
+within, and fungus grows from the red stone walls of the adobe structure's 
+innards. A hallway leads deeper into the home, while a seperate walk-in closet 
+stands on the northern wall. 
+~
+90 65800 29
+0
+D0
+~
+rickety wooden-slider~
+3 -1  0 90196
+D1
+~
+~
+0 -1  0 90195
+D3
+~
+blastdoor~
+1 -1  0 90020
+S
+#90195
+A Humid, Fungus-Covered Back Room~
+   This may have once been a bedroom. Any belongings from its ancient owner 
+have been removed, however, leaving this place barren except for the fungus 
+that grows in the humid environment. A few scratches mark the walls on the far 
+end, suggesting that something large either attempted to claw its way out of 
+here, or that perhaps furniture was once hastily moved up against the clay 
+surface there. 
+~
+90 65544 29
+0
+D3
+~
+~
+0 -1  0 90194
+S
+#90196
+A Hot, Moist Closet~
+   This closet is small, just large enough to walk into. The clay shelves have 
+awful smelling molds growing from them. The angle of those shelves makes it 
+impossible to see the wall behind them, if it still stands. One would have to 
+take a harder look to discern as much. 
+~
+90 65544 29
+0
+D2
+~
+rickety wooden-slider~
+3 -1  0 90194
+P
+l lo loo look ex exam exami examin examine~
+wall~
+vstr The black mold here is so overwhelming that you risk passing out if you try to get close enough to look at the wall behind it.
+vbr -
+vstr Perhaps you could #6PLUG#0 your #6NOSE#0.
+~
+P
+plug~
+nose~
+force -1 -1 emote bravely plugs their nose and pushes their head towards the clay shelves covered in ancient mold. They squint to look at something there, beyond
+vbr -
+vstr You see some writing scratched onto the wall, visible when directly lit. It reads, #6"In the desert is a great rock that looks like a Phoenix. If you are prepared to do what I could not, move that rock and ENTER the HIDDEN-CAVE beyond it. You will find the key there.  -Captain Elijah"#0
+vbr -
+vstr Below that a series of letters are also scratched, in the same scribble as above: #6EHSUC#0
+~
+S
+#90197
+A Hidden Cave within the Martian Mountains~
+   This grotto has a thin stream of dirty water washing into it, feeding the 
+sparse and unhealthy plantlife that lives here. No more than fifteen feet 
+deep, it has remained hidden from the outside world for an untold age. It is 
+empty, no sign of anyone having inhabited the place, except for some carvings 
+along the back wall of the cave. 
+~
+90 65800 29
+0
+D2
+~
+~
+0 -1  0 90021
+P
+l lo loo look~
+wall back~
+vstr "#6search the catacombs beneath the tower and find the truth#0"
+~
+S
+#90198
+A Turn in the Ancient Corridor~
+   Here, the ancient stone corridor bends southward and eastward, lit by 
+wall-sconces that seem to always burn. The ceiling is lost in the darkness far 
+above, where the shadows defeat the dim flame-light. 
+~
+90 67174408 0
+0
+D2
+~
+~
+0 -1  0 90174
+D3
+~
+~
+0 -1  0 90199
+S
+#90199
+Before An Ancient, Stone Lake~
+   The moldy stone walls and floor lead to a dead end here, the path to the 
+north ending as an underground lake begins. Ever-burning wall-sconces light 
+the way northward, casting an ever-shifting spell of shadows across the room; 
+they continue down a slope that descends into the murky waters, casting an 
+eerie blue light from the depths below. To the east, the corridor continues in 
+the only other noticeable direction one might travel in. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90200
+D1
+~
+~
+0 -1  0 90198
+S
+#90200
+Below Ancient Waters~
+   An underground lake fills these old corridors, having flooded them entirely. 
+Still, the old red stone remains intact, if slightly eroded over time. 
+Ever-burning computerized wall-sconces cast their light, even here, casting an 
+eerie blue spell that sifts through the dark waters here. Shadows come and go 
+like swimming ghosts, as the submerged paths stretch steeply downward and 
+southward. 
+~
+90 67174408 20
+0
+D2
+~
+~
+0 -1  0 90199
+D5
+~
+~
+0 -1  0 90201
+S
+#90201
+Beneath Ancient Waters~
+   An underground lake fills these old corridors, having flooded them entirely. 
+Still, the old red stone remains intact, if slightly eroded over time. 
+Ever-burning computerized wall-sconces cast their light, even here, casting an 
+eerie blue spell that sifts through the dark waters here. Shadows come and go 
+like swimming ghosts, as the submerged paths stretch steeply upward to the 
+south and then split off in an level intersection in the other three 
+directions. 
+~
+90 67174408 20
+0
+D0
+~
+~
+0 -1  0 90207
+D1
+~
+~
+0 -1  0 90208
+D3
+~
+~
+0 -1  0 90202
+D4
+~
+~
+0 -1  0 90200
+S
+#90202
+Beneath Ancient Waters~
+   An underground lake fills these old corridors, having flooded them entirely. 
+Still, the old red stone remains intact, if slightly eroded over time. 
+Ever-burning computerized wall-sconces cast their light, even here, casting an 
+eerie blue spell that sifts through the dark waters here. Shadows come and go 
+like swimming ghosts, as the submerged paths stretch northward and eastward 
+around a bend in the rock. 
+~
+90 67174408 20
+0
+D0
+~
+~
+0 -1  0 90203
+D1
+~
+~
+0 -1  0 90201
+S
+#90203
+Beneath Ancient Waters~
+   An underground lake fills these old corridors, having flooded them entirely. 
+Still, the old red stone remains intact, if slightly eroded over time. 
+Ever-burning computerized wall-sconces cast their light, even here, casting an 
+eerie blue spell that sifts through the dark waters here. Shadows come and go 
+like swimming ghosts, as the submerged paths stretch northward and southward 
+along the hallway. 
+~
+90 67174408 20
+0
+D0
+~
+~
+0 -1  0 90204
+D2
+~
+~
+0 -1  0 90202
+S
+#90204
+Beneath Ancient Waters~
+   An underground lake fills these old corridors, having flooded them entirely. 
+Still, the old red stone remains intact, if slightly eroded over time. 
+Ever-burning computerized wall-sconces cast their light, even here, casting an 
+eerie blue spell that sifts through the dark waters here. Shadows come and go 
+like swimming ghosts, as the submerged paths stretch northward and southward 
+along the hallway, with another hall opening up to the east. 
+~
+90 67174408 20
+0
+D0
+~
+~
+0 -1  0 90205
+D1
+~
+~
+0 -1  0 90206
+D2
+~
+~
+0 -1  0 90203
+S
+#90205
+Beneath Ancient Waters~
+   An underground lake fills these old corridors, having flooded them entirely. 
+Still, the old red stone remains intact, if slightly eroded over time. 
+Ever-burning computerized wall-sconces cast their light, even here, casting an 
+eerie blue spell that sifts through the dark waters here. Shadows come and go 
+like swimming ghosts, as the submerged paths stretch northward and southward 
+along the hallway. 
+~
+90 67174408 20
+0
+D0
+~
+~
+0 -1  0 90212
+D2
+~
+~
+0 -1  0 90204
+S
+#90206
+Beneath Ancient Waters~
+   An underground lake fills these old corridors, having flooded them entirely. 
+Still, the old red stone remains intact, if slightly eroded over time. 
+Ever-burning computerized wall-sconces cast their light, even here, casting an 
+eerie blue spell that sifts through the dark waters here. Shadows come and go 
+like swimming ghosts, as the submerged paths stretch eastward and westward, as 
+this hall conjoins with another that breaks off southward. On the northern 
+wall, something has been carved just above a wall sconce. 
+~
+90 67174408 20
+0
+D1
+~
+~
+0 -1  0 90210
+D2
+~
+~
+0 -1  0 90207
+D3
+~
+~
+0 -1  0 90204
+P
+l lo loo look ex exa exam exami examin examine~
+wall northern north carving~
+vstr "#6a3z8b2y7#0"
+~
+S
+#90207
+Beneath Ancient Waters~
+   An underground lake fills these old corridors, having flooded them entirely. 
+Still, the old red stone remains intact, if slightly eroded over time. 
+Ever-burning computerized wall-sconces cast their light, even here, casting an 
+eerie blue spell that sifts through the dark waters here. Shadows come and go 
+like swimming ghosts, as the submerged paths stretch northward and southward 
+along the hallway.
+~
+90 67174408 20
+0
+D0
+~
+~
+0 -1  0 90206
+D2
+~
+~
+0 -1  0 90201
+S
+#90208
+Beneath Ancient Waters~
+   An underground lake fills these old corridors, having flooded them entirely. 
+Still, the old red stone remains intact, if slightly eroded over time. 
+Ever-burning computerized wall-sconces cast their light, even here, casting an 
+eerie blue spell that sifts through the dark waters here. Shadows come and go 
+like swimming ghosts, as the submerged paths stretch northward and westward 
+along a bend in the hallway.
+~
+90 67174408 20
+0
+D0
+~
+~
+0 -1  0 90209
+D3
+~
+~
+0 -1  0 90201
+S
+#90209
+Beneath Ancient Waters~
+   An underground lake fills these old corridors, having flooded them entirely. 
+Still, the old red stone remains intact, if slightly eroded over time. 
+Ever-burning computerized wall-sconces cast their light, even here, casting an 
+eerie blue spell that sifts through the dark waters here. Shadows come and go 
+like swimming ghosts, as the submerged paths stretch northward and southward 
+along the hallway.
+~
+90 67174408 20
+0
+D0
+~
+~
+0 -1  0 90210
+D2
+~
+~
+0 -1  0 90208
+S
+#90210
+Beneath Ancient Waters~
+   An underground lake fills these old corridors, having flooded them entirely. 
+Still, the old red stone remains intact, if slightly eroded over time. 
+Ever-burning computerized wall-sconces cast their light, even here, casting an 
+eerie blue spell that sifts through the dark waters here. Shadows come and go 
+like swimming ghosts, as the submerged paths stretch northward and southward 
+along the hallway. Another path branches westward, conjoining another corridor to this intersection.
+~
+90 67174408 20
+0
+D0
+~
+~
+0 -1  0 90211
+D2
+~
+~
+0 -1  0 90209
+D3
+~
+~
+0 -1  0 90206
+S
+#90211
+Beneath Ancient Waters~
+   An underground lake fills these old corridors, having flooded them entirely. 
+Still, the old red stone remains intact, if slightly eroded over time. 
+Ever-burning computerized wall-sconces cast their light, even here, casting an 
+eerie blue spell that sifts through the dark waters here. Shadows come and go 
+like swimming ghosts, as the submerged paths stretch eastward and westward. 
+along the hallway. Another path leads southward, in the other direction of this intersection.
+~
+90 67174408 20
+0
+D1
+~
+~
+0 -1  0 90217
+D2
+~
+~
+0 -1  0 90210
+D3
+~
+~
+0 -1  0 90214
+S
+#90212
+Beneath Ancient Waters~
+   An underground lake fills these old corridors, having flooded them entirely. 
+Still, the old red stone remains intact, if slightly eroded over time. 
+Ever-burning computerized wall-sconces cast their light, even here, casting an 
+eerie blue spell that sifts through the dark waters here. Shadows come and go 
+like swimming ghosts, as the submerged paths stretch southward and steeply 
+upward along a northern incline that seems to break the surface of the water 
+and lead to air above. 
+~
+90 67174408 20
+0
+D2
+~
+~
+0 -1  0 90205
+D4
+~
+~
+0 -1  0 90213
+S
+#90213
+A Small, Ventilated Cave~
+   Breaking away from an underground lake, a steep southern decline leads to 
+this circular cave carved from old red rock. The surface of the walls are 
+smooth, like elsewhere in the catacombs, and several wall-sconces illuminate 
+this area. There are fewer shadows here than in other places due to the 
+isolation of the place and offered light. Small vintilation ducts in the walls 
+bring in air circulation, making it possible to breathe here. On the northern 
+section of the stone wall, something has been carved into the rock. 
+~
+90 67174408 0
+0
+D5
+~
+~
+0 -1  0 90212
+P
+l lo loo look ex exam exa exami examin examine~
+wall stone carving~
+vstr "#3find a way into Eli's home --- he's hiding something#0"
+~
+S
+#90214
+Beneath Ancient Waters~
+   An underground lake fills these old corridors, having flooded them entirely. 
+Still, the old red stone remains intact, if slightly eroded over time. 
+Ever-burning computerized wall-sconces cast their light, even here, casting an 
+eerie blue spell that sifts through the dark waters here. Shadows come and go 
+like swimming ghosts, as the submerged paths stretch northward and eastward 
+along a turn in the hallway.
+~
+90 67174408 20
+0
+D0
+~
+~
+0 -1  0 90215
+D1
+~
+~
+0 -1  0 90211
+S
+#90215
+Beneath Ancient Waters~
+   An underground lake fills these old corridors, having flooded them entirely. 
+Still, the old red stone remains intact, if slightly eroded over time. 
+Ever-burning computerized wall-sconces cast their light, even here, casting an 
+eerie blue spell that sifts through the dark waters here. Shadows come and go 
+like swimming ghosts, as the submerged paths stretch southward and steeply 
+upward along a northern incline that seems to break the surface of the water 
+and lead to air above. 
+~
+90 67174408 20
+0
+D2
+~
+~
+0 -1  0 90214
+D4
+~
+~
+0 -1  0 90216
+S
+#90216
+A Small, Ventilated Cave~
+   Breaking away from an underground lake, a steep southern decline leads to 
+this circular cave carved from old red rock. The surface of the walls are 
+smooth, like elsewhere in the catacombs, and several wall-sconces illuminate 
+this area. There are fewer shadows here than in other places due to the 
+isolation of the place and offered light. Small vintilation ducts in the walls 
+bring in air circulation, making it possible to breathe here. On the northern 
+section of the stone wall, something has been carved into the rock. 
+~
+90 67174408 0
+0
+D5
+~
+~
+0 -1  0 90215
+P
+l lo loo look ex exa exami exam examin examine~
+wall north carving~
+vstr "#3agree. Eli is hiding something. he has to know the reason why every child born on this planet has died during birth. this is tearing our people apart. going to make my move soon --- God save Alpha Centauri's last#0"
+~
+S
+#90217
+Beneath Ancient Waters~
+   An underground lake fills these old corridors, having flooded them entirely. 
+Still, the old red stone remains intact, if slightly eroded over time. 
+Ever-burning computerized wall-sconces cast their light, even here, casting an 
+eerie blue spell that sifts through the dark waters here. Shadows come and go 
+like swimming ghosts, as the submerged paths stretch northward and westward 
+along a turn in the hallway. 
+~
+90 67174408 20
+0
+D0
+~
+~
+0 -1  0 90218
+D3
+~
+~
+0 -1  0 90211
+S
+#90218
+Beneath Ancient Waters~
+   An underground lake fills these old corridors, having flooded them entirely. 
+Still, the old red stone remains intact, if slightly eroded over time. 
+Ever-burning computerized wall-sconces cast their light, even here, casting an 
+eerie blue spell that sifts through the dark waters here. Shadows come and go 
+like swimming ghosts, as the submerged paths stretch northward and southward 
+along a turn in the hallway. 
+~
+90 67174408 20
+0
+D0
+~
+~
+0 -1  0 90219
+D2
+~
+~
+0 -1  0 90217
+P
+n no nor nort north~
+(null)~
+info check room -1 obj 90078 oval0
+if (&(check)=1)
+doitanyway -1
+vstr Your body feels strange, tingly, as you move deeper into the catacombs.
+else do
+emote as @ attempts to move northwards, they find themselves suddenly stopped by some invisible presence
+vbr -
+vstr It feels as though an invisible wall is keeping you from moving deeper into the catacombs.
+fi done
+~
+P
+sw swi swim sn sne snea sneak~
+n no nor north~
+info check room -1 obj 90078 oval0
+if (&(check)=1)
+doitanyway -1
+vstr Your body feels strange, tingly, as you move deeper into the catacombs.
+else do
+emote as @ attempts to move northwards, they find themselves suddenly stopped by some invisible presence
+vbr -
+vstr It feels as though an invisible wall is keeping you from moving deeper into the catacombs.
+fi done
+~
+S
+#90219
+Beneath Ancient Waters~
+   An underground lake fills these old corridors, having flooded them entirely. 
+Still, the old red stone remains intact, if slightly eroded over time. 
+Ever-burning computerized wall-sconces cast their light, even here, casting an 
+eerie blue spell that sifts through the dark waters here. Shadows come and go 
+like swimming ghosts, as the submerged paths stretch southward and steeply 
+upward along a northern incline that seems to break the surface of the water 
+and lead to air above. 
+~
+90 67174408 20
+0
+D2
+~
+~
+0 -1  0 90218
+D4
+~
+~
+0 -1  0 90220
+S
+#90220
+Before An Ancient, Stone Lake~
+   The moldy stone walls and floor lead to a dead end here, the path to the 
+south ending as an underground lake begins. Ever-burning wall-sconces light 
+the way southward, casting an ever-shifting spell of shadows across the room; 
+they continue down a slope that descends into the murky waters, casting an 
+eerie blue light from the depths below. To the north, the corridor continues 
+in the only other noticeable direction one might travel in. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90181
+D5
+~
+~
+0 -1  0 90219
+S
+#90221
+Within a Tight Tunnel,  Along a Ladder~
+   This ancient stone tunnel burrows downward without an angle. An old, rusty 
+ladder is the only means of ascending or descending here. Despite its age and 
+poor hue, the ladder is bolted into the stone and appears secure. Above is the 
+hatch that leads back up to the surface of Mars. Below is only darkness. 
+~
+90 65544 0
+0
+D4
+~
+~
+0 -1  0 90015
+D5
+~
+~
+0 -1  0 90222
+X
+1
+S
+#90222
+Descending a Ladder Within a Claustrophobic Tunnel~
+   This ancient stone tunnel burrows downward without an angle. An old, rusty 
+ladder is the only means of ascending or descending here. Despite its age and 
+poor hue, the ladder is bolted into the stone and appears secure. Only 
+darkness lies immediately in either direction. 
+~
+90 65544 0
+0
+D4
+~
+~
+0 -1  0 90221
+D5
+~
+~
+0 -1  0 90223
+X
+1
+S
+#90223
+Deep Within a Dark Tunnel~
+This ancient stone tunnel burrows downward without an angle. An old, rusty ladder is the only means of ascending or descending here. Despite its age and poor hue, the ladder is bolted into the stone and appears secure. Only darkness lies immediately in either direction.
+~
+90 65544 0
+0
+D4
+~
+~
+0 -1  0 90222
+D5
+~
+~
+0 -1  0 90224
+X
+1
+S
+#90224
+Far Below the Surface of Mars, Before a Ladder and a Door~
+   This ancient stone tunnel burrows downward without an angle until it reaches 
+this point: stony, dusty floor that stands wide enough for three people to fit 
+here. An old, rusty ladder is the only means of ascending here and a simple 
+blastdoor lies westward. Despite its age and poor hue, the ladder is bolted 
+into the stone and appears secure. Only darkness lies immediately above. 
+~
+90 65544 0
+0
+D3
+~
+blastdoor~
+1 -1  0 90225
+D4
+~
+~
+0 -1  0 90223
+X
+3
+S
+#90225
+A Nightmarish Laboratory~
+   This room is filled with equipment, but none of it is currently working. It 
+appears as though, at some point, someone violently trashed this room, 
+destroying machinery and equipment. Any tables, cabinets or filing systems 
+have been removed from this place. All of this would not be overly strange, 
+perhaps, but for the line of unlit cryo-tubes upon the northern wall, each 
+cryo-tube holding a form within. 
+~
+90 65544 8
+0
+D1
+~
+blastdoor~
+1 -1  0 90224
+P
+l lo loo look ex exa exam exami examin examine~
+cryo-tube cryo tube form~
+vstr Each cryo-tube appears to be identical, beyond the tube closest to the door, which has had something carved into the surface of its thick glass. With a flashlight and some effort, one might be able to better #6EXAMINE#0 the #6CARVING#0. Within the strange, unsettling tubes, cryo-fluid bubbles steadily and almost inaudibly, suggesting that this machinery still functions. The tubes themselves stand on a mechanical platform that seems to be releasing chemicals into a thick, glass-like container, making the their contents viewable despite the movement of the cryo-fluid. With a flashlight, one could probably #6REVEAL#0 the #6FORM#0 inside one of the tubes.
+~
+P
+examine~
+carving~
+if haso(-1,3025)
+force -1 -1 emote shines *flash along the surface of the cryo-tube nearest to the blastdoor
+vbr -
+vstr The words are small, impressively carved in legible fashion and take up most of the surface of the front of the tube. They read: "#4I refuse to lose more children to this unknown plague. I refuse to lose their mothers in child-birth. I refuse to lose more of our people to their growing madness. I refuse to give up hope like they have. We are dying, Samuel, and we have suffered so much. We have done so much wrong. You and I must make this right. I intend to know what Captain Elijah has been doing in the catacombs. Let us meet inside of the Tower later this evening.#0"
+else do
+vstr You cannot make it out without a flashlight.
+fi done
+~
+P
+reveal~
+form~
+set random 1d2
+if (random=1)
+set var gender boy
+else do
+set var gender girl
+fi done
+if haso(-1,3025)
+force -1 -1 emote shines *flash through one of the cryo-tubes, revealing the form floating within
+vbr -
+obr -
+atecho 90225 #5A newborn baby &(gender)#0 floats within the partially functioning cryo-tube. As the flashlight beam illuminates the child, the beginnings of decay show upon its features. #2The dead, newborn baby &(gender)#0 is rotting, assuredly, though the cryo-stasis that it remains in seems to have slowed this process considering the likelihood that this child has been frozen here for hundreds of years. It floats there, eyes closed, tubes sticking out of its discolored flesh. There are several dozen more cryo-tubes in the room; each of them hide the same old, ghoulish secret.
+else do
+vstr You would need a flashlight to reveal the form within the cryo-tube.
+fi done
+~
+S
+#90226
+Atop a Ledge, at the Entrance to a Cave~
+   This ledge, hidden to the world below through thick tree-top canopy, 
+overlooks the majestic oasis and the edge of the desert beyond. Far to the 
+north stands a great white tower, rising above an endless sea of sand dunes. 
+Here, red rock leads from the ledge to the wide open maw of a cave leading into 
+the rockwall to the east. 
+~
+90 65544 0
+0
+D1
+~
+~
+0 -1  0 90227
+D5
+~
+~
+0 -1  0 90061
+S
+#90227
+Just Within a Cave~
+   There are no immediate signs that this cave was inhabited hundreds of years 
+ago by those who came before. Red, untamed rock break naturally into three 
+seperate directions here. To the west, the cave opening leads back out to a 
+ledge overlooking the oasis. The cave extends deeper in both the northern and 
+eastern directions. 
+~
+90 65800 0
+0
+D0
+~
+~
+0 -1  0 90229
+D1
+~
+~
+0 -1  0 90228
+D3
+~
+~
+0 -1  0 90226
+S
+#90228
+Before a Cave-in~
+   The tunnel here likely continued eastward, leading away from the cave 
+opening to the west. However, a wall of red debris and dust has collapsed 
+inward after thirty feet or so, making travel in that direction an 
+impossibility. 
+~
+90 65544 0
+0
+D3
+~
+~
+0 -1  0 90227
+S
+#90229
+A Junction Within the Mountain Cave~
+   The cave slopes gently downward here to the north and west. It ascends to 
+the south, towards the entrance to the cave. The natural halls here are wide 
+and the tunnel splits unceremoniously northward and westward at this junction. 
+Above, sharp stalactites hang, dust occasionally falling from them in red 
+motes. 
+~
+90 65544 0
+0
+D0
+~
+~
+0 -1  0 90231
+D2
+~
+~
+0 -1  0 90227
+D3
+~
+~
+0 -1  0 90230
+S
+#90230
+A Dead-End Within the Mountain Cave~
+   Water runs over stone through a portion of this dead-end in the cave. The 
+moisture from the heat and underground stream causes this area to be humid, 
+giving birth to fungus and such plantlife. To the east, the path slopes gently 
+upward towards a junction in the mountain cave. This pocket of the cave is 
+large, but there seem to be no other paths besides the one which led here. 
+~
+90 65544 29
+0
+D1
+~
+~
+0 -1  0 90229
+S
+#90231
+A Dead-End Within the Mountain Cave~
+   Water runs over stone through a portion of this dead-end in the cave. The 
+moisture from the heat and underground stream causes this area to be humid, 
+giving birth to fungus and such plantlife. To the south, the path slopes 
+gently upward towards a junction in the mountain cave. This pocket of the cave 
+is large, but there seem to be no other paths besides the one which led here. 
+~
+90 65544 29
+0
+D2
+~
+~
+0 -1  0 90229
+S
+#90232
+The Void~
+   There is an overwhelming, black emptiness here. You cannot see, hear, 
+taste, feel, or taste anything. 
+~
+90 67174408 0
+0
+S
+#90233
+An Emptied Corridor~
+   Though once serving as both hallway and electrical hub, now it serves only 
+as the former. Though the cut-outs of panels remain, the inner workings have 
+been removed, wires left behind are severed and useless. The floors are 
+metallic grate, dulled with time and rust, maybe a little dusty here and there. 
+Dull blinking red lights illuminate the space from overtop, casting shadows 
+easily with the pattern of their light, spidery looking figures of shadow from 
+the numerous hanging wires. There's a faint staleness in the air, just a taste 
+of it. 
+~
+90 67174408 0
+0
+D2
+~
+~
+0 -1  0 90234
+S
+#90234
+Through an Abandoned Corridor~
+   The floors are metallic grate, dulled with time and rust, maybe a little 
+dusty here and there. Though once serving as both hallway and electrical hub, 
+now it serves only as the former. Though the cut-outs of panels remain, the 
+inner workings have been removed, wires left behind are severed and useless. 
+Shadows are cast on the walls, born of the tangling wire coming from the vacant 
+holes, spidery figures illuminated by constant pulsing dull red warning lights. 
+There's a faint staleness in the air, just a taste of it. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90233
+D2
+~
+~
+0 -1  0 90235
+S
+#90235
+A Curve in a Corridor~
+   Metallic grate floors bear dust in the seams where they meet the wall but 
+otherwise only appear dulled by age and rust. The walls are dark grey, cut 
+with windows that were once computer panels, now just hanging empty with some 
+severed wires there, useless. The lights are emergency red and blink in 
+constant on and off, when on casting shadows on the walls and floors from the 
+spidery stretch of wires. The air is slightly stale, like that of a cave. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90234
+D3
+~
+~
+0 -1  0 90236
+S
+#90236
+Curving Southward, A Stale Corridor~
+   The entirety of this corridor is covered in metallic grating, a liberal 
+amount of dust covering the surface. Where the dust isn't thick, one can tell 
+that rust has settled into the metal. Computer panels lie useless, hanging by 
+wires on the dark gray walls. All the while, emergency red lights blink 
+incessantly, illuminating the area in a dark red hue. The air is faintly 
+stale. 
+~
+90 67174408 0
+0
+D1
+~
+~
+0 -1  0 90235
+D2
+~
+~
+0 -1  0 90237
+S
+#90237
+A Long Cannibalized Corridor~
+   Dark grey walls are a muted backdrop, bearing the empty frames of removed 
+machinery and spidery severed fingers of wire. The floor below is metal grate, 
+dulled with age and rust, showing dust only at the caked corners where it meets 
+the walls. There's a staleness to the air, like an old cave or a rarely opened 
+room. Perhaps disorienting, the only lights appear to be emergency lights 
+mounted on the ceiling that blink a dull red constantly and create twisty 
+shadows on the walls from the dangling wires. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90236
+D2
+~
+~
+0 -1  0 90238
+S
+#90238
+A Dusty Antechamber~
+   The dusty corridor opens up into a low antechamber. As usual, the metallic 
+grating persists - all business and no ornamentation. It is conspicuously 
+empty here, as if anything of worth was stripped. This place is indeed 
+abandoned; loose wiring hangs from ajar panels on the ceiling; the walls are 
+bare metal, the skeleton of the building; a film of dust clings to every 
+surface. The staleness of the air grows in intensity here. Emergency lights 
+blink rapidly here, giving the area a red hue. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90237
+D1
+~
+~
+0 -1  0 90239
+D2
+~
+~
+0 -1  0 90240
+S
+#90239
+A Low Antechamber~
+   This low antechamber has no ornamentation whatsoever, if it ever did; it 
+looks conspicuously stripped and abandoned; the walls are bare metal, the 
+skeleton of the building; a film of dust clings to every surface. The 
+staleness of the air grows in intensity here. Emergency lights blink rapidly 
+here, giving the area a red hue. 
+~
+90 67174408 0
+0
+D2
+~
+~
+0 -1  0 90241
+D3
+~
+~
+0 -1  0 90238
+S
+#90240
+A Low Antechamber~
+   This low antechamber has no ornamentation whatsoever, if it ever did; it 
+looks conspicuously stripped and abandoned; the walls are bare metal, the 
+skeleton of the building; a film of dust clings to every surface. The 
+staleness of the air grows in intensity here. Emergency lights blink rapidly 
+here, giving the area a red hue. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90238
+D1
+~
+~
+0 -1  0 90241
+D2
+~
+~
+0 -1  0 90243
+S
+#90241
+A Low Antechamber~
+   This low antechamber has no ornamentation whatsoever, if it ever did; it 
+looks conspicuously stripped and abandoned; the walls are bare metal, the 
+skeleton of the building; a film of dust clings to every surface. The 
+staleness of the air grows in intensity here. Emergency lights blink rapidly 
+here, giving the area a red hue. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90239
+D2
+~
+~
+0 -1  0 90242
+D3
+~
+~
+0 -1  0 90240
+S
+#90242
+A Corner of a Dusty Antechamber~
+   Grey walls are briefly illuminated by the flashing red emergency lights 
+inset into the ceiling. The floor is a metallic grate, dulled with age and 
+rust and dusty only at the corners where it meets the walls. A few electrical 
+panels have been yanked out of inserts into the walls, leaving behind dangling 
+wires that are severed and useless, powerless. A small vent is set just in the 
+corner of the ceiling, where the two walls meet. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90241
+D3
+~
+~
+0 -1  0 90243
+P
+enter climb scale~
+vent duct~
+delay 3 look
+atecho 90244 Climbing up from below, #5$n#0 scrambles through the vent and into the air duct.
+force -1 -1 emote scrambles up the wall and crawls into the ventilation duct
+trans 90244
+~
+S
+#90243
+Before a Sealed Blast-Door~
+   A large door rests westward, the main feature of this space and crafted of 
+what appears to be a solid and immovable iron alloy. While many dead and empty 
+panels rest along the walls like hollowed eye sockets, there is no panel beside 
+the door, no visible way to lock or unlock the heavy obstruction. The metal 
+grate floor is dulled with age and rust, bearing a line of dust where it meets 
+the wall. Inset blinking red emergency lights offer luminescence to the room, 
+perhaps in disorienting constant on and off. 
+
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90240
+D1
+~
+~
+0 -1  0 90242
+S
+#90244
+A Narrow, Rickety Vent~
+   This ventilation shaft was intended to allow air to pass and filter through 
+the building. As such, it is narrow and cramped - anybody crawling through 
+here would have difficulty squeezing through. Moving through this thin metal 
+vent is exceptionally noisy and seems fairly dangerous - the risk of falling 
+through the bottom into whatever lies below is ever present. The faint 
+illumination from the openings of the vents renders this place not completely 
+dark. 
+~
+90 67174408 0
+0
+D2
+~
+~
+0 -1  0 90245
+D5
+~
+vent~
+3 -1  0 90242
+P
+s so sou sout south~
+(null)~
+doitanyway -1
+vbr -
+vstr You make your way noisily through the vent.
+vbr -
+~
+S
+#90245
+A Narrow, Rickety Vent~
+   This ventilation shaft was intended to allow air to pass and filter through 
+the building. As such, it is narrow and cramped - anybody crawling through 
+here would have difficulty squeezing through. Moving through this thin metal 
+vent is exceptionally noisy and seems fairly dangerous - the risk of falling 
+through the bottom into whatever lies below is ever present. The faint 
+illumination from the openings of the vents renders this place not completely 
+dark. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90244
+D5
+~
+vent~
+3 -1  0 90246
+P
+n no nor nort north~
+(null)~
+doitanyway -1
+vbr -
+vstr You make your way noisily through the vent.
+vbr -
+~
+S
+#90246
+An Armored Military Bunker~
+   The air here is overwhelmingly stale, and it's not hard to see why - thick 
+walls surround this bunker. Computer stations line the walls here, wires 
+snaking from them to slots along the floor. They appear untouched, but 
+offline. A transparent, secured gun rack takes up the north wall, filled with 
+high-tech, gleaming weaponry. The guns have been effectively secured behind a 
+bullet-proof transparent glass-like material, making unauthorized access 
+impossible. Everything about this area is utilitarian, from the gun-black 
+walls to the gray metal flooring. Emergency strobe lights flash incessantly 
+here, casting the place in red light. 
+~
+90 67174408 0
+0
+D2
+~
+gate~
+3 -1  0 90247
+D4
+~
+vent~
+3 -1  0 90245
+S
+#90247
+The Back of an Armored Military Bunker~
+   The gun-black walls of this bunker are unrelentingly bare, briefly cast in 
+the red glow of emergency lights on and off in constant blink. This appears to 
+have been converted into a small sleeping area as well as serving as a 
+stationary room room for most activities, set up from basic utilitarian use 
+rather than anything approaching comfort. Along the western wall, two pairs of 
+'bunk beds' are inset into the wall, totalling four for sleeping purposes. 
+Notched in an inset to one side of them is a small toilet, sink, and shower 
+head, crafting a tiny and unprotected bathroom though a folded partition can be 
+pulled aside to shield sight when this space is in use. There is no apparent 
+kitchen, though a counter is inset into the eastern wall, running the length of 
+it. The floors are the familiar metal grate. 
+~
+90 67174408 0
+0
+D0
+~
+~
+0 -1  0 90246
+S
+#90248
+Hanging Precariously off the Canyon Edge~
+   Your life literally hangs in the balance as you maintain an already slipping 
+grasp on the canyon ledge. Down below is deep, deep blackness. You realize if 
+you want to try and live, you had better try and #6CLIMB UP#0. 
+~
+90 67174408 0
+0
+P
+test~
+(null)~
+info moves room -1 char -1 moves
+vstr &(moves)
+~
+S
+#90249
+Falling into Darkness, A Deep Canyon~
+   You plummet down like a rock into the deep, dark canyon. Everything is a 
+blur around you, and you can only imagine you have moments before you meet your 
+painful end down at the bottom. 
+~
+90 67175432 0
+0
+D5
+~
+~
+0 -1  0 90250
+S
+#90250
+Falling into Darkness, A Deep Canyon~
+   You plummet down like a rock into the deep, dark canyon. Everything is a 
+blur around you, and you can only imagine you have moments before you meet your 
+painful end down at the bottom. 
+~
+90 67175424 0
+0
+D4
+~
+~
+0 -1  0 90249
+D5
+~
+~
+0 -1  0 90251
+S
+#90251
+Falling Down into Darkness, A Deep Canyon~
+   You plummet down like a rock into the deep, dark canyon. Everything is a 
+blur around you, and you can only imagine you have moments before you meet your 
+painful end down at the bottom. 
+~
+90 67175432 0
+0
+D4
+~
+~
+0 -1  0 90250
+D5
+~
+~
+0 -1  0 90252
+S
+#90252
+Falling Down into Darkness, A Deep Canyon~
+   You plummet down like a rock into the deep, dark canyon. Everything is a 
+blur around you, and you can only imagine you have moments before you meet your 
+painful end down at the bottom. 
+~
+90 67175432 0
+0
+D4
+~
+~
+0 -1  0 90251
+D5
+~
+~
+0 -1  0 90253
+S
+#90253
+Falling Down into Darkness, A Deep Canyon~
+   You plummet down like a rock into the deep, dark canyon. Everything is a 
+blur around you, and you can only imagine you have moments before you meet your 
+painful end down at the bottom. 
+~
+90 67175432 0
+0
+D4
+~
+~
+0 -1  0 90252
+D5
+~
+~
+0 -1  0 90255
+S
+#90254
+The Bottom of a Dark Canyon~
+   You've hit the absolute bottom of the canyon, meeting your untimely demise 
+to sharp rocks and unforgiving gravity. 
+~
+90 65544 0
+0
+D4
+~
+~
+0 -1  0 90257
+S
+#90255
+Falling Down into Darkness, A Deep Canyon~
+   You plummet down like a rock into the deep, dark canyon. Everything is a 
+blur around you, and you can only imagine you have moments before you meet your 
+painful end down at the bottom. 
+~
+90 67175432 0
+0
+D4
+~
+~
+0 -1  0 90253
+D5
+~
+~
+0 -1  0 90256
+S
+#90256
+Falling Down into Darkness, A Deep Canyon~
+   You plummet down like a rock into the deep, dark canyon. Everything is a 
+blur around you, and you can only imagine you have moments before you meet your 
+painful end down at the bottom. 
+~
+90 66560 0
+0
+D4
+~
+~
+0 -1  0 90255
+D5
+~
+~
+0 -1  0 90257
+S
+#90257
+Falling Down into Darkness, A Deep Canyon~
+   You plummet down like a rock into the deep, dark canyon. Everything is a 
+blur around you, and you can only imagine you have moments before you meet your 
+painful end down at the bottom. 
+~
+90 67175432 0
+0
+D4
+~
+~
+0 -1  0 90256
+D5
+~
+~
+0 -1  0 90254
+S
 $~

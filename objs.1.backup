@@ -14,9 +14,6 @@ for bludgeoning.
 17.500000 0 0 0 0 0 0
 A
 10005 -8
-V
-sharp metal pipe~
-$poletrap~
 God~
 God~
 #1056
@@ -45,10 +42,11 @@ God~
 wrench solid steel METAL~
 a solid steel wrench~
 A solid steel wrench lies here, glinting in the light.~
-   This pipe wrench is solidly constructed of titanium steel and painted glossy 
-red. A serial number is stamped into the metal on the handle, mid-way up. 
-Altogether, the item is about two foot long and is best used as a tool, though 
-could also be used as an improvised bludgeon. 
+   This wrench is solidly constructed of steel and painted glossy 
+red. A serial number is stamped into the metal on the handle, 
+mid-way up. Altogether, the item is about a foot long and is 
+best used as a tool, though could also be used as an improvised 
+bludgeoning tool. 
 ~
 5 70144 270337
 1 3 3 5
@@ -57,9 +55,6 @@ could also be used as an improvised bludgeon.
 35.000000 0 0 0 0 0 0
 A
 10005 -4
-V
-titon~
-$ironalloy~
 God~
 God~
 #1058
@@ -92,14 +87,9 @@ as an improvised weapon.
 ~
 5 69632 270337
 1 3 3 5
-500 0.000000
-3 0 -1 0 120 2097152 0 1
-17.500000 0 0 0 0 0 0
-A
-10005 -8
-V
-titon~
-$ironalloy~
+450 0.000000
+3 0 1 0 1000 131072 0 1
+100.000000 0 0 0 0 0 0
 God~
 God~
 #1060
@@ -215,11 +205,9 @@ in the axe head, and very little in the handle.
 ~
 5 70144 270337
 1 3 3 5
-425 0.000000
-2 0 2 0 1100 262144 0 1
-400.000000 0 0 0 0 0 0
-A
-10005 4
+450 0.000000
+2 0 1 0 1000 131072 0 1
+100.000000 0 0 0 0 0 0
 God~
 God~
 #1066
@@ -393,9 +381,6 @@ rubber coated, knobbish.
 21.875000 0 0 0 0 0 0
 A
 10004 -8
-V
-broken cue-stick~
-$poletrap~
 God~
 God~
 #1005
@@ -416,9 +401,6 @@ rubber coated, knobbish.
 43.750000 0 0 0 0 0 0
 A
 10005 -4
-V
-broken cue-stick~
-$poletrap~
 God~
 God~
 #1006
@@ -436,9 +418,6 @@ while rough, would work suitably as a stabbing device.
 43.750000 0 0 0 0 0 0
 A
 10004 -4
-V
-sharp metal pipe~
-$poletrap~
 God~
 God~
 #1007
@@ -831,9 +810,6 @@ and make successful hits less jarring to the wielder.
 65.000000 0 0 0 0 0 0
 A
 10003 -4
-V
-sharp metal pipe~
-$poletrap~
 God~
 God~
 #1022
@@ -872,27 +848,6 @@ A
 10005 8
 God~
 God~
-#1100
-sword blade $pQuality3 $genBlade0 $color1 $pHandle2 METAL~
-a $pQuality3, $genBlade0 sword with a $pHandle2 grip~
-A $pQuality3, $genBlade0 sword with a $pHandle2 grip lies in the dust.~
-   This weapon consists of a piece of scrap metal sharpened to 
-cut and stab, the blade $genBlade0. Aside from the sharpened 
-scrap metal, the only other thing on this weapon is the grip, 
-nothing more than a $color1 $pHandle2, which allows one to grip 
-and wield this $pQuality3 weapon. Measuring about two and a half 
-feet in length, it has been fashioned from $ironAlloy4-alloy 
-metal. 
-~
-5 33624064 8193
-1 2 5 3
-375 0.000000
-0 0 1 0 800 16777344 0 1
-65.000000 0 0 0 0 0 0
-A
-10003 -4
-God~
-God~
 #1101
 knife blade $pQuality $smallBlade $pHandle METAL~
 a $pQuality2 $smallBlade0~
@@ -919,15 +874,16 @@ God~
 sword $genblade $hiltstyle hilted blade METAL~
 a $hiltstyle1-hilted sword with a $genblade0 blade~
 A $hiltstyle1-hilted sword with a $genblade0 blade lies in the dust.~
-   This weapon is sturdily-crafted, the blade being $genblade. It is 
-well-balanced, with $hiltstyle. The hilt is evenly $color-colored, and made of 
-$polyprop. Measuring about three and a half feet in length from pommel to tip, 
-it has been fashioned from $ironalloy-alloy metal. 
+   This weapon is sturdily-crafted, the blade being $genBlade. 
+It is well-balanced, with $hiltstyle. The hilt is evenly 
+$color-colored, and made of $polyprop. Measuring about three and 
+a half feet in length from pommel to tip, it has been fashioned 
+from $ironAlloy-alloy metal. 
 ~
 5 33624064 8193
 1 2 5 3
 350 0.000000
-4 0 2 0 1000 16908288 0 1
+0 0 2 0 1000 16908288 0 1
 200.000000 0 0 0 0 0 0
 God~
 God~
@@ -960,7 +916,7 @@ honed from $ironAlloy-alloy metal.
 5 33624064 8193
 1 2 5 3
 325 0.000000
-4 0 3 0 1100 17039360 0 1
+0 0 3 0 1100 17039360 0 1
 800.000000 0 0 0 0 0 0
 A
 10003 4
@@ -975,11 +931,11 @@ well-balanced, with $hiltstyle. The hilt is evenly
 $color-colored, and made of $polyprop. The blade has been 
 sharpened and honed from $ironAlloy-alloy metal. 
 ~
-5 302059520 270337
+5 33624064 270337
 2 2 3 2
 125 0.000000
-0 0 2 0 1100 17301504 0 1
-247.500000 0 0 0 0 0 0
+0 0 2 0 1100 17039360 0 1
+225.000000 0 0 0 0 0 0
 A
 10007 4
 A
@@ -1155,10 +1111,10 @@ made of $plasticcolor $polyprop. It is plain and servicable,
 without other components or ornamentation. 
 ~
 5 33619968 8193
-1 2 3 4
-800 0.000000
+3 2 4 4
+1200 0.000000
 3 0 2 0 500 18874368 0 1
-17.500000 0 0 0 0 0 0
+21.875000 0 0 0 0 0 0
 A
 10004 -8
 God~
@@ -1171,11 +1127,15 @@ A sturdy $spearhead0 lies in the dust.~
 $spearhead. The shaft is made of $plasticcolor $polyprop. The 
 head is sturdy and servicable, forged from $ironalloy-alloy. 
 ~
-5 33624064 8193
-1 2 3 4
-700 0.000000
-0 0 4 0 1000 16908288 0 1
-100.000000 0 0 0 0 0 0
+5 302055424 8193
+2 2 2 4
+471 0.000000
+0 0 3 0 800 16908288 0 1
+28.875000 0 0 0 0 0 0
+A
+10007 -4
+A
+10004 -4
 God~
 God~
 #1038
@@ -1187,13 +1147,11 @@ $spearhead. The shaft is made of $plasticcolor $polyprop. The
 head is finely-crafted and razor-sharp, forged from 
 $ironalloy-alloy. 
 ~
-5 33624064 8193
-1 2 3 4
-675 0.000000
-0 0 5 0 1100 17039360 0 1
-400.000000 0 0 0 0 0 0
-A
-10004 4
+5 302055424 8193
+2 2 2 4
+455 0.000000
+0 0 4 0 1000 17039360 0 1
+82.500000 0 0 0 0 0 0
 God~
 God~
 #1020
@@ -1230,7 +1188,7 @@ brought to bear against one's foes. $metalcolor
 5 33619968 8193
 3 2 6 3
 525 0.000000
-4 0 2 0 1000 131072 0 1
+0 0 2 0 1000 131072 0 1
 250.000000 0 0 0 0 0 0
 God~
 God~
@@ -1387,10 +1345,10 @@ An iron-alloy ball bearing lies here.~
 ammunition, just the right way to crack open the skull of a small 
 creature, or particularly unlucky person. 
 ~
-31 4198400 1
-1 3 9 0
+31 4194304 1
+0 0 9 0
 10 0.000000
-0 0 3 0 0 131072 0 1
+0 0 3 0 0 0 0 1
 0.250000 0 0 0 0 0 0
 God~
 God~
@@ -1405,10 +1363,10 @@ able to be used as a rudimentary trap trigger across a path.
 3 33554432 1
 0 0 0 0
 1 0.000000
-0 0 0 0 0 131072 0 1
+0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 T
-1669 1 0 0 0 0 0 0 0 0 1 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1669 2 0 0 0 0 0 0 0 0 1 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 catch your foot on $p, hearing a sickening 'click'~
 catches $s foot on $p, hearing a sickening 'click'~
 (null)~
@@ -1429,10 +1387,10 @@ easy to set up mechanism.
 3 33554432 1
 0 0 0 0
 11 0.000000
-0 0 0 0 0 131072 0 1
+0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 T
-773 1 0 0 0 0 0 0 0 0 5 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+773 1 0 0 0 0 0 0 0 0 5 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 catch your foot on $p, hearing a sickening 'click'~
 catches $s foot on $p, hearing a sickening 'click'~
 (null)~
@@ -1452,10 +1410,10 @@ to be strung taut across a path as a rudimentary trap trigger.
 3 33554432 1
 0 0 0 0
 10 0.000000
-0 0 0 0 0 131072 0 1
+0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 T
-1669 1 0 0 0 0 0 0 0 0 1 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1669 2 0 0 0 0 0 0 0 0 1 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 catch your foot on $p, hearing a sickening 'click'~
 catches $s foot on $p, hearing a sickening 'click'~
 (null)~
@@ -1476,10 +1434,10 @@ reliable and easy to set up mechanism.
 3 33554432 1
 0 0 0 0
 20 0.000000
-0 0 0 0 0 131072 0 1
+0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 T
-773 1 0 0 0 0 0 0 0 0 5 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+773 1 0 0 0 0 0 0 0 0 5 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 catch your foot on $p, hearing a sickening 'click'~
 catches $s foot on $p, hearing a sickening 'click'~
 (null)~
@@ -1499,10 +1457,10 @@ across a path as a rudimentary trap trigger.
 3 33554432 1
 0 0 0 0
 10 0.000000
-0 0 0 0 0 131072 0 1
+0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 T
-645 1 0 0 0 0 0 0 0 0 1 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+645 2 0 0 0 0 0 0 0 0 1 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 catch your foot on $p, hearing a sickening 'click'~
 catches $s foot on $p, hearing a sickening 'click'~
 (null)~
@@ -1523,494 +1481,16 @@ reliable and easy to set up mechanism.
 3 33554432 1
 0 0 0 0
 20 0.000000
-0 0 0 0 0 131072 0 1
+0 0 0 0 0 0 0 1
 0.000000 0 0 0 0 0 0
 T
-773 1 0 0 0 0 0 0 0 0 5 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+773 1 0 0 0 0 0 0 0 0 5 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 catch your foot on $p, hearing a sickening 'click'~
 catches $s foot on $p, hearing a sickening 'click'~
 (null)~
 (null)~
 (null)~
 (null)~
-God~
-God~
-#1050
-javelin $spearhead ordinary light spear METAL~
-a light $spearhead0~
-A light $spearhead0 lies in the dust.~
-   About four feet in length and well balanced, this throwing 
-javelin is $spearhead. The shaft is slim and made of 
-$plasticcolor $polyprop. The head is sturdy and servicable, 
-forged from $ironalloy-alloy. 
-~
-5 302059520 8193
-1 2 3 4
-725 0.000000
-0 0 3 0 800 131072 0 1
-38.500000 0 0 0 0 0 0
-A
-10004 -4
-God~
-God~
-#1051
-javelin $spearhead good finely-balanced light spear METAL~
-a finely-balanced $spearhead0~
-A finely-balanced $spearhead0 lies in the dust.~
-   About four feet in length and finely-balanced by an adroit 
-craftsman, this throwing javelin is $spearhead. The shaft is 
-slim and made of $plasticcolor $polyprop. The head is 
-finely-crafted and razor-sharp, forged from $ironalloy-alloy. 
-~
-5 302059520 8193
-1 2 3 4
-700 0.000000
-0 0 4 0 1000 17039360 0 1
-110.000000 0 0 0 0 0 0
-God~
-God~
-#1052
-spear $pquality0 $spearhead1 METAL~
-a $pquality0 $spearhead1~
-A $pquality0 $spearhead1 has been left here.~
- Constructed with some manner of haste, and rather $pquality in make, this 
-slender plastic pole is $spearhead. The crude point is forged of 
-poorly-sharpened $ironalloy. The pole itself is made of $plasticcolor $polyprop.
-~
-5 33624064 8193
-1 2 3 4
-725 0.000000
-0 0 3 0 800 16777344 0 1
-35.000000 0 0 0 0 0 0
-A
-10004 -4
-God~
-God~
-#1053
-blade trap poor  $genblade $pquality $ironalloy METAL~
-a mechanized, $genblade0 blade~
-A mechanized, $genblade0 blade lies in the dust.~
-   This blade is $genblade. It is configured with spring-loaded mechanisms, 
-allowing it to deliver a mechanized blow of sufficient force when triggered. 
-The manufacture is rudimentary, pounded from $ironalloy-alloy. 
-~
-3 33558528 1
-0 0 0 0
-400 0.000000
-0 0 0 0 0 131072 0 1
-0.000000 0 0 0 0 0 0
-T
-2060 1 0 0 0 0 0 0 0 0 0 0 0 0 0 2 6 4 1 3 0 0 0 0 0 1 0 0 0 
-(null)~
-(null)~
-are caught on the leg by a swishing blade~
-is caught in the leg by a swishing blade~
-(null)~
-(null)~
-God~
-God~
-#1054
-blade trap ordinary $genblade $ironalloy METAL~
-a mechanized, $genblade0 blade~
-A mechanized, $genblade0 blade lies in the dust.~
-   This blade is $genblade. It is configured with spring-loaded mechanisms, 
-allowing it to deliver a mechanized blow of sufficient force when triggered. 
-The manufacture is sturdy and servicable, crafted from $ironalloy-alloy. 
-~
-3 33558528 1
-0 0 0 0
-600 0.000000
-0 0 0 0 0 131072 0 1
-0.000000 0 0 0 0 0 0
-T
-2060 1 0 0 0 0 0 0 0 0 0 0 0 0 0 2 6 4 1 3 0 0 0 0 0 1 0 0 0 
-(null)~
-(null)~
-are caught on the leg by a swishing blade~
-is caught in the leg by a swishing blade~
-(null)~
-(null)~
-God~
-God~
-#1055
-blade trap good $genblade $ironalloy METAL~
-a mechanized, $genblade0 blade~
-A mechanized, $genblade0 blade lies in the dust.~
-   This blade is $genblade. It is configured with spring-loaded mechanisms, 
-allowing it to deliver a mechanized blow of sufficient force when triggered. 
-The blade is masterfully-honed and razor-sharp, crafted from $ironalloy-alloy. 
-~
-3 33558528 1
-0 0 0 0
-600 0.000000
-0 0 0 0 0 131072 0 1
-0.000000 0 0 0 0 0 0
-T
-2060 1 0 0 0 0 0 0 0 0 0 0 0 0 0 2 6 4 1 3 0 0 0 0 0 1 0 0 0 
-(null)~
-(null)~
-are caught on the leg by a swishing blade~
-is caught in the leg by a swishing blade~
-(null)~
-(null)~
-God~
-God~
-#1070
-spear trap poor $spearhead $ironalloy $plasticcolor $polyprop METAL~
-a spring-loaded $spearhead0~
-A spring-loaded $spearhead0 lies in the dust.~
-   This slender plastic pole is topped by $spearhead. The crude point is 
-forged of poorly-sharpened $ironalloy-alloy. The pole itself is made of 
-$plasticcolor $polyprop. It is configured with spring-loaded mechanisms for 
-use in traps and defenses. 
-~
-3 33558528 1
-0 0 0 0
-900 0.000000
-0 0 0 0 0 131072 0 1
-0.000000 0 0 0 0 0 0
-T
-2060 1 0 0 0 0 0 0 0 0 0 0 0 0 0 2 6 1 0 3 0 0 0 0 0 0 0 0 0 
-(null)~
-(null)~
-are skewered by a thrusting spear~
-is skewered by a thrusting spear~
-(null)~
-(null)~
-God~
-God~
-#1071
-spear trap ordinary $spearhead $ironalloy $plasticcolor $polyprop METAL~
-a spring-loaded $spearhead0~
-A spring-loaded $spearhead0 lies in the dust.~
-   This slender plastic pole is topped by $spearhead. The sturdy point is 
-forged of sharpened and serviceable $ironalloy-alloy. The pole itself is made 
-of $plasticcolor $polyprop. It is configured with spring-loaded mechanisms for 
-use in traps and defenses. 
-~
-3 33558528 1
-0 0 0 0
-900 0.000000
-0 0 0 0 0 131072 0 1
-0.000000 0 0 0 0 0 0
-T
-2060 1 0 0 0 0 0 0 0 0 0 0 0 0 0 2 6 1 0 3 0 0 0 0 0 0 0 0 0 
-(null)~
-(null)~
-are skewered by a thrusting spear~
-is skewered by a thrusting spear~
-(null)~
-(null)~
-God~
-God~
-#1072
-spear trap good $spearhead $ironalloy $plasticcolor $polyprop METAL~
-a spring-loaded $spearhead0~
-A spring-loaded $spearhead0 lies in the dust.~
-   This slender plastic pole is topped by $spearhead. The honed point is 
-forged of razor-sharpened $ironalloy-alloy. The pole itself is made of 
-$plasticcolor $polyprop. It is configured with spring-loaded mechanisms for 
-use in traps and defenses. 
-~
-3 33558528 1
-0 0 0 0
-900 0.000000
-0 0 0 0 0 131072 0 1
-0.000000 0 0 0 0 0 0
-T
-2060 1 0 0 0 0 0 0 0 0 0 0 0 0 0 2 6 1 0 3 0 0 0 0 0 0 0 0 0 
-(null)~
-(null)~
-are skewered by a thrusting spear~
-is skewered by a thrusting spear~
-(null)~
-(null)~
-God~
-God~
-#1073
-javelin trap ordinary $spearhead $ironalloy $plasticcolor $polyprop spear METAL~
-a light spring-loaded $spearhead0~
-A light spring-loaded $spearhead0 lies in the dust.~
-   This slender plastic javelin is $spearhead. The sturdy point is forged of 
-sharpened and serviceable $ironalloy-alloy. The pole itself is made of 
-$plasticcolor $polyprop. It is configured with spring-loaded mechanisms for 
-use in traps and defenses. 
-~
-3 33558528 1
-0 0 0 0
-600 0.000000
-0 0 0 0 0 131072 0 1
-0.000000 0 0 0 0 0 0
-T
-2060 1 0 0 0 0 0 0 0 0 0 0 0 0 0 2 6 1 0 3 0 0 0 0 0 0 0 0 0 
-(null)~
-(null)~
-are skewered by a thrusting javelin~
-is skewered by a thrusting javelin~
-(null)~
-(null)~
-God~
-God~
-#1074
-javelin trap good $spearhead $ironalloy $plasticcolor $polyprop spear METAL~
-a light spring-loaded $spearhead0~
-A light spring-loaded $spearhead0 lies in the dust.~
-   This slender plastic javelin is topped by $spearhead. The honed point is 
-forged of razor-sharpened $ironalloy-alloy. The pole itself is made of 
-$plasticcolor $polyprop. It is configured with spring-loaded mechanisms for 
-use in traps and defenses. 
-~
-3 33558528 1
-0 0 0 0
-600 0.000000
-0 0 0 0 0 131072 0 1
-0.000000 0 0 0 0 0 0
-T
-2060 1 0 0 0 0 0 0 0 0 0 0 0 0 0 2 6 1 0 3 0 0 0 0 0 0 0 0 0 
-(null)~
-(null)~
-are skewered by a thrusting javelin~
-is skewered by a thrusting javelin~
-(null)~
-(null)~
-God~
-God~
-#1075
-firebomb propellant makeshift rigged-up barrel chemical OTHER~
-a barrel of rigged propellant~
-A barrel of chemical propellant, rigged with an ignition trigger, rests here.~
-   This is a squat barrel with a resealable lid, filled with a murky, viscous 
-chemical liquid. A mechanical trigger has been attached by a technician 
-knowledgeable in weaponization and vaporifics, converting this barrel to a 
-large and effective firebomb. 
-~
-3 4096 1
-0 0 0 0
-5000 0.000000
-0 0 0 0 0 131072 0 1
-100.000000 0 0 0 0 0 0
-T
-152 1 0 -2 0 0 0 0 0 0 1 0 0 0 0 2 5 6 8 0 0 0 0 0 0 3 0 4 0 
-(null)~
-(null)~
-are caught in a gout of flame that fills the room~
-is caught in a gout of flame that fills the room~
-(null)~
-(null)~
-God~
-God~
-#1076
-firebomb high-octane fuel makeshift rigged-up barrel chemical OTHER~
-a barrel of rigged high-octane fuel~
-A barrel of high-octane fuel, rigged with an ignition trigger, rests here.~
-   This is a squat barrel with a resealable lid, made of plastic and painted 
-over with labels indicating the flammable nature of its high-octane fuel 
-contents. A mechanical trigger has been attached by a technician knowledgeable 
-in weaponization and vaporifics, converting this barrel to a large and 
-effective firebomb. 
-~
-3 4096 1
-0 0 0 0
-5000 0.000000
-0 0 0 0 0 131072 0 1
-0.000000 0 0 0 0 0 0
-T
-152 1 0 -2 0 0 0 0 0 0 1 0 0 0 0 2 5 6 8 0 0 0 0 0 0 5 0 6 0 
-(null)~
-(null)~
-are caught in a gout of flame that fills the room~
-is caught in a gout of flame that fills the room~
-(null)~
-(null)~
-God~
-God~
-#1077
-trap $poletrap rigged-up makeshift OTHER~
-a rigged-up $poletrap~
-A rigged-up $poletrap lies in the dust.~
-   $poletrap. It is rigged-up unprofessionally into a rudimentary trap 
-mechanism able to be set to waylay the unwary. 
-~
-3 33558528 1
-0 0 0 0
-500 0.000000
-0 0 0 0 75 131072 0 1
-0.000000 0 0 0 0 0 0
-T
-2061 1 0 0 0 0 0 0 0 0 1 0 0 0 0 2 6 1 0 3 0 0 0 0 0 0 0 1 1 
-(null)~
-(null)~
-are skewered by a makeshift stick~
-is skewered by a makeshift stick~
-(null)~
-(null)~
-God~
-God~
-#1078
-trap $foottrap sharpened makeshift OTHER~
-some sharpened $foottrap~
-Some sharpened $foottrap lie in a pile.~
-   $foottrap. It is rigged-up unprofessionally into a rudimentary trap 
-mechanism able to be set to waylay the unwary. 
-~
-3 33558528 1
-0 0 0 0
-500 0.000000
-0 0 0 0 0 131072 0 1
-0.000000 0 0 0 0 0 0
-T
-8 1 0 2 4 0 0 0 0 0 0 0 0 0 0 2 6 0 5 3 0 0 0 0 0 0 0 2 0 
-(null)~
-(null)~
-are lacerated by sharpened scraps~
-is lacerated by sharpened scraps~
-(null)~
-(null)~
-God~
-God~
-#1109
-weapon bludgeon $color0 $ironalloy1 $lightbludgeon2 good finely-crafted METAL~
-a finely-crafted $lightbludgeon2~
-A finely-crafted $lightbludgeon2 lies here.~
-   This $color0 weapon has been clearly well-made. The head of the weapon is 
-formed of $ironalloy1-alloy metal, wrought in a fashion to form 
-$lightbludgeon2. The hilt is $polyprop3, affixed firmly to the weapon's head. 
-The entire weapon is finely-crafted, looking to be balanced well and shaped by 
-a skilled hand. 
-~
-5 33624064 270337
-2 3 3 5
-276 0.000000
-3 0 1 0 1100 17039360 0 1
-300.000000 0 0 0 0 0 0
-A
-10007 4
-A
-10005 4
-God~
-God~
-#1110
-weapon bludgeon $lightbludgeon0 $color1 sturdy ordinary METAL~
-a short, sturdy, $color1 $lightbludgeon0~
-A short, sturdy, $color1 $lightbludgeon0 lies here in the dust.~
-   This short, sturdy weapon is $lightbludgeon0. It appears to have been 
-constructed sturdily and its haft is colored an even $color1. The handle has 
-been made rather well, and is $polyprop2. The rest of the weapon is made of 
-$ironalloy3-alloy metal. 
-~
-5 33624064 270337
-2 3 3 5
-292 0.000000
-3 0 0 0 1000 16908288 0 1
-75.000000 0 0 0 0 0 0
-God~
-God~
-#1111
-weapon bludgeon $lightbludgeon0 $color1 poor short METAL~
-a short $lightbludgeon0~
-A short $lightbludgeon0 lies here in the dust.~
-   This small, practical weapon is $lightbludgeon0. It is constructed simply 
-and has been evenly colored $color1. The handle has been made pragmatically, 
-and is $polyprop2. The rest of this weapon has been constructed of 
-$ironalloy3-alloy metal. 
-~
-5 33624064 270337
-2 3 3 5
-292 0.000000
-3 0 -1 0 800 16777344 0 1
-26.250000 0 0 0 0 0 0
-A
-10007 -4
-A
-10005 -4
-God~
-God~
-#1112
-weapon bludgeon $ironalloy0 $trashbludgeon1 beaten METAL~
-a beaten $trashbludgeon1~
-A beaten $trashbludgeon1 lies upon the ground.~
-   This weapon, appearing rather dirty and corroded, is hardly a desirable 
-option. Its battered length of $ironalloy0-alloy metal forms $trashbludgeon1. 
-Although not a reliable weapon, it appears to be serviceable to some degree. 
-~
-5 33558528 270337
-2 3 3 5
-325 0.000000
-3 0 -2 0 120 2097152 0 1
-13.125000 0 0 0 0 0 0
-A
-10007 -8
-A
-10005 -8
-God~
-God~
-#1113
-weapon $ironalloy0 $trashsmallblade1 beaten METAL~
-a beaten $trashsmallblade1~
-A beaten $trashsmallblade1 lies here.~
-   This weapon, appearing very dirty, is hardly a reliable tool in a fight. 
-Its battered length of $ironalloy0-alloy metal forms $trashsmallblade1. It 
-might be serviceable in a truly desperate situation. 
-~
-5 33558528 270337
-2 2 3 2
-200 0.000000
-0 0 -1 0 500 2097152 0 1
-12.500000 0 0 0 0 0 0
-A
-10007 -8
-A
-10002 -8
-God~
-God~
-#1079
-toilet malfunctioning steel METAL~
-a malfunctioning steel toilet~
-A malfunctioning steel toilet is here, pipes leaking onto the floor.~
-   This filthy stainless steel toilet is slate grey with a chrome-covered 
-flusher. The pipes leading to the waste system behind the wall are busted, 
-foul smelling liquid having drizzled out to pool upon the floor. 
-~
-15 2101248 0
-500 0 -1 0
-300 0.000000
-0 0 1 0 0 0 0 1
-0.000000 0 0 0 0 0 0
-God~
-God~
-#1080
-sword long longsword masterfully glimmering ice METAL~
-a masterfully-crafted, glimmering longsword~
-A longsword lies here, its blade glimmering.~
-   Of incredibly simple design, this long sword would, at a passing glance, 
-barely be worth a second look. Its black-leather wrapped hilt lacks a pommel 
-altogether, and its crossguard is simply coloured gold in the shape of a sliver 
-of the moon. The blade itself is straight, and looks decently sharp, but 
-doesn't have the appearance of anything extraordinarily deadly. At a closer 
-look, however, one can see that the blade holds a shine that seems almost 
-unreal, reflecting more light than there appears to even be in the room. 
-~
-5 4616 8193
-2 2 4 3
-195 0.000000
-2 0 4 0 1300 524288 0 1
-2400.000000 0 0 0 0 0 0
-A
-10007 8
-A
-10003 8
-S
-2 0 0 0 0
-S
-3 0 0 0 0
-S
-3 0 0 0 0
-S
-4 0 0 0 0
-S
-100 1000 200 50 0
-S
-100 1 1000 200 50
 God~
 God~
 $~
